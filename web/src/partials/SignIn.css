@@ -1,0 +1,70 @@
+.signin-left-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-content: center;
+    align-items: center;
+    height: 100%;
+    border-right: 1px solid #e0e0e0;
+    color: #323232;
+}
+
+.signin-left-container p {
+    font-size: 15px;
+    letter-spacing: 1px;
+    margin: 15px 0px;
+}
+
+.signin-right-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-content: center;
+    color: #323232;
+}
+
+.signin-right-container h5 {
+    text-align: center;
+    margin-bottom: 18px;
+}
+
+.signin-img {
+    height: 65px;
+    margin-top: 25px;
+}
+
+.signin-btn {
+    font-size: 16px;
+}
+
+.signin-modal .modal-header  {
+    padding: 0 !important;
+    margin: 0 !important; 
+    border: none !important;
+    justify-content: flex-end !important;
+}
+
+.signin-modal .modal-header > button {
+    padding: 0px 5px !important;
+    margin: 0 !important; 
+    border: none !important;
+}
+
+.signin-modal .modal-header > button:focus {
+    outline: none !important;
+}
+
+.signin-modal .modal-body {
+    padding: 0px 20px 20px 20px !important;
+}
+
+@media(max-width: 576px) {
+    .signin-left-container {
+        border-right: none; 
+        border-bottom: 1px solid #e0e0e0;
+        padding-bottom: 20px;
+    }
+    .signin-right-container {
+        padding-top: 15px;
+    }
+}

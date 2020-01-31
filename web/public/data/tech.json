@@ -1,0 +1,730 @@
+[
+	{
+		"feedId": "feed/http://www.engadget.com/rss-full.xml",
+		"title": "Engadget",
+		"website": "http://www.engadget.com",
+		"iconUrl": "http://storage.googleapis.com/site-assets/4i-1vhCwmRRLfmB7ypTnMh-ZKSvsz6Rgf0lfR0WWb0w_icon-1541543fe44",
+		"visualUrl": "http://storage.googleapis.com/site-assets/4i-1vhCwmRRLfmB7ypTnMh-ZKSvsz6Rgf0lfR0WWb0w_visual-1541543fe44",
+		"description": "Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics."
+	},
+	{
+		"feedId": "feed/http://www.theverge.com/rss/full.xml",
+		"title": "The Verge",
+		"website": "https://www.theverge.com/",
+		"iconUrl": "https://storage.googleapis.com/site-assets/PSNTZO8gXFUe-cpCZyApw0vEKWPT4b14D6teBEocIAE_icon-15cd6b8692d",
+		"visualUrl": "https://storage.googleapis.com/site-assets/PSNTZO8gXFUe-cpCZyApw0vEKWPT4b14D6teBEocIAE_visual-15cd6b8692d",
+		"description": "Covering the intersection of technology, science, art, and culture."
+	},
+	{
+		"feedId": "feed/http://feeds.feedburner.com/Techcrunch",
+		"title": "TechCrunch",
+		"website": "https://techcrunch.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/Xne8uW_IUiZhV1EuO2ZMzIrc2Ak6NlhGjboZ-Yk0rJ8_sicon-16a7b3df2e3",
+		"visualUrl": "https://storage.googleapis.com/site-assets/Xne8uW_IUiZhV1EuO2ZMzIrc2Ak6NlhGjboZ-Yk0rJ8_svisual-16a7b3df2e3",
+		"description": "TechCrunch is a group-edited blog that profiles the companies, products and events defining and transforming the new web."
+	},
+	{
+		"feedId": "feed/http://feeds.wired.com/wired/index",
+		"title": "Wired",
+		"website": "https://www.wired.com/latest",
+		"iconUrl": "https://storage.googleapis.com/site-assets/tLs-1vBwN-VbKdXz72E49J0xQKpgQOM84Ue-E_GZh84_sicon-1635329b5af",
+		"visualUrl": "https://storage.googleapis.com/site-assets/tLs-1vBwN-VbKdXz72E49J0xQKpgQOM84Ue-E_GZh84_svisual-1635329b5af",
+		"description": "Channel Description"
+	},
+	{
+		"feedId": "feed/http://feeds.arstechnica.com/arstechnica/index/",
+		"title": "Ars Technica",
+		"website": "https://arstechnica.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/oWwSZ9Xu4Zg49bpJDa0MWTMCyM67pScdNU-gxmUAZuo_icon-15b926af3a4",
+		"visualUrl": "https://storage.googleapis.com/site-assets/oWwSZ9Xu4Zg49bpJDa0MWTMCyM67pScdNU-gxmUAZuo_visual-15b926af3a4",
+		"description": "Serving the Technologist for more than a decade. IT news, reviews, and analysis."
+	},
+	{
+		"feedId": "feed/http://feeds.mashable.com/Mashable",
+		"title": "Mashable",
+		"website": "https://mashable.com/?utm_campaign=Mash-Prod-RSS-Feedburner-All-Partial&tm_cid=Mash-Prod-RSS-Feedburner-All-Partial",
+		"iconUrl": "https://storage.googleapis.com/site-assets/MMCA_259PVQgzewWTRJNcvw_8XXvgI6S68GWeJF7z_0_icon-16d90796ba0",
+		"visualUrl": "https://storage.googleapis.com/site-assets/MMCA_259PVQgzewWTRJNcvw_8XXvgI6S68GWeJF7z_0_visual-16d90796ba0",
+		"description": "Leading source for news, information & resources for the Connected Generation. "
+	},
+	{
+		"feedId": "feed/http://rss.slashdot.org/Slashdot/slashdot",
+		"title": "Slashdot",
+		"website": "https://slashdot.org/",
+		"iconUrl": "https://storage.googleapis.com/site-assets/7kZ9jBYy0jNWfThTWbMvXoOEh6EzrtgZCDjMlaPKIXQ_icon-15b910f7f82",
+		"visualUrl": "https://storage.googleapis.com/site-assets/7kZ9jBYy0jNWfThTWbMvXoOEh6EzrtgZCDjMlaPKIXQ_visual-15b910f7f82",
+		"description": "Slashdot: News for nerds, stuff that matters. Timely news source for technology related news with a heavy slant towards Linux and Open Source issues."
+	},
+	{
+		"feedId": "feed/http://www.digitaltrends.com/feed/?key=f00edf6a58d2a8740e624dda919cab37",
+		"title": "Digital Trends",
+		"website": "https://www.digitaltrends.com",
+		"iconUrl": "https://www.digitaltrends.com/wp-content/plugins/dt-feeds/assets/webfeeds/cover-logo.png",
+		"visualUrl": "https://www.digitaltrends.com/wp-content/plugins/dt-feeds/assets/webfeeds/cover-logo.png",
+		"description": "Digital Trends is your home for technology news, CE product reviews, mobile app reviews and daily videos."
+	},
+	{
+		"feedId": "feed/http://feeds2.feedburner.com/thenextweb",
+		"title": "The Next Web",
+		"website": "https://thenextweb.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/0VTnUfX894TcY5TA_oMFDbEY1bDrlajzsn67Jr80r8M_icon-1645d1d60af",
+		"visualUrl": "https://storage.googleapis.com/site-assets/0VTnUfX894TcY5TA_oMFDbEY1bDrlajzsn67Jr80r8M_visual-1645d1d60af",
+		"description": "Original and proudly opinionated perspectives for Generation T."
+	},
+	{
+		"feedId": "feed/http://www.androidcentral.com/feed",
+		"title": "Android Central - Android Forums, News, Reviews, Help and Android Wallpapers",
+		"website": "https://www.androidcentral.com/",
+		"iconUrl": "https://storage.googleapis.com/site-assets/xTqwHYk7BMdsUeAdykR6jXFYqFXRoEWRd6QBCWqc3AE_icon-15dd6811bf9",
+		"visualUrl": "https://storage.googleapis.com/site-assets/xTqwHYk7BMdsUeAdykR6jXFYqFXRoEWRd6QBCWqc3AE_visual-15dd6811bf9",
+		"description": "Your buyer’s guide for the best Android phones, deals, news, and reviews! Android Central covers smartphones, watches, tablets, ChromeOS devices, Google Home, and all compatible peripherals in this smart world we're living in. Read all this and more on Android Central."
+	},
+	{
+		"feedId": "feed/http://www.macrumors.com/macrumors.xml",
+		"title": "MacRumors",
+		"website": "https://www.macrumors.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/SusR11hdg5ydv7o-xGl-0XlI0AhBL77Oxid8QOO3j5k_icon-16d1f2978de",
+		"visualUrl": "https://storage.googleapis.com/site-assets/SusR11hdg5ydv7o-xGl-0XlI0AhBL77Oxid8QOO3j5k_visual-16d1f2978de",
+		"description": "Apple, iPhone, iPad, Mac News and Rumors."
+	},
+	{
+		"feedId": "feed/http://www.anandtech.com/rss/",
+		"title": "AnandTech",
+		"website": "http://www.anandtech.com",
+		"iconUrl": "http://storage.googleapis.com/site-assets/QJg8HoKsrQYvFIv_kvYSG5Mls-byIrBEPcmwY5wzNdQ_icon-154124e8b9a",
+		"visualUrl": "http://storage.googleapis.com/site-assets/QJg8HoKsrQYvFIv_kvYSG5Mls-byIrBEPcmwY5wzNdQ_visual-154124e8b9a",
+		"description": "This channel features the latest computer hardware related articles."
+	},
+	{
+		"feedId": "feed/http://googleblog.blogspot.com/atom.xml",
+		"title": "The Official Google Blog",
+		"website": "https://www.blog.google/",
+		"iconUrl": "https://storage.googleapis.com/test-site-assets/SzCknK5yCfKi0NrRCLzY3clkPWypMPSgdsVAzzPiIEk_oicon-1658bb7a3ae",
+		"visualUrl": "https://storage.googleapis.com/test-site-assets/SzCknK5yCfKi0NrRCLzY3clkPWypMPSgdsVAzzPiIEk_ovisual-1658bb7a3ae",
+		"description": "Insights from Googlers into our products, technology, and the Google culture."
+	},
+	{
+		"feedId": "feed/http://news.ycombinator.com/rss",
+		"title": "Hacker News",
+		"website": "https://news.ycombinator.com/",
+		"iconUrl": "http://storage.googleapis.com/site-assets/2tM1DedEr6eqgdqJ8X4sP-CS3BVG_bkK4hS45ZnKnRQ_sicon-15411a5af28",
+		"visualUrl": "http://storage.googleapis.com/site-assets/2tM1DedEr6eqgdqJ8X4sP-CS3BVG_bkK4hS45ZnKnRQ_svisual-15411a5af28",
+		"description": "Links for the intellectually curious, ranked by readers."
+	},
+	{
+		"feedId": "feed/http://www.readwriteweb.com/rss.xml",
+		"title": "ReadWrite",
+		"website": "https://readwrite.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/YwTjCnEeIqxj44sdnT7JFQW42L9DNW4VSirj5QJk0qw_icon-15c48d65ffb",
+		"visualUrl": "https://storage.googleapis.com/site-assets/YwTjCnEeIqxj44sdnT7JFQW42L9DNW4VSirj5QJk0qw_visual-15c48d65ffb",
+		"description": "The latest #news, analysis, and conversation on the #InternetOfThings."
+	},
+	{
+		"feedId": "feed/http://news.cnet.com/2547-1_3-0-20.xml",
+		"title": "CNET News",
+		"website": "https://www.cnet.com/#ftag=CAD590a51e",
+		"iconUrl": "https://storage.googleapis.com/site-assets/ffYEFGZvBSIjn3O_C5BP3rylf6RzvJv28_nzBV_5618_sicon-16c2c764db1",
+		"visualUrl": "https://storage.googleapis.com/site-assets/ffYEFGZvBSIjn3O_C5BP3rylf6RzvJv28_nzBV_5618_svisual-16c2c764db1",
+		"description": "CNET news editors and reporters provide top technology news, with investigative reporting and in-depth coverage of tech issues and events."
+	},
+	{
+		"feedId": "feed/http://www.theregister.co.uk/excerpts.rss",
+		"title": "The Register",
+		"website": "http://www.theregister.co.uk/",
+		"iconUrl": "http://storage.googleapis.com/site-assets/biKmn71BHCkJFvJMe2xTxdpa2y5sy1UnTyjFY2er0NQ_icon-154124dcfae",
+		"visualUrl": "http://storage.googleapis.com/site-assets/biKmn71BHCkJFvJMe2xTxdpa2y5sy1UnTyjFY2er0NQ_visual-154124dcfae",
+		"description": "Biting the hand that feeds IT"
+	},
+	{
+		"feedId": "feed/http://www.techradar.com/rss",
+		"title": "TechRadar - All the latest technology news",
+		"website": "http://www.techradar.com/rss/",
+		"iconUrl": "https://storage.googleapis.com/site-assets/Xgynxb5h2BWECKwDW9xGaMsn2DPpfhgbmZA0dnA4wgw_icon-15caf9089c3",
+		"visualUrl": "https://storage.googleapis.com/site-assets/Xgynxb5h2BWECKwDW9xGaMsn2DPpfhgbmZA0dnA4wgw_visual-15caf9089c3",
+		"description": "The latest technology news and reviews, covering computing, home entertainment systems, gadgets and more"
+	},
+	{
+		"feedId": "feed/http://feeds.howtogeek.com/HowToGeek",
+		"title": "How-To Geek",
+		"website": "https://www.howtogeek.com",
+		"iconUrl": "http://storage.googleapis.com/test-site-assets/3Jm8rFGismaJIhg4wNMVCQYUHJJn655PIE-V4n8axQs_oicon-14f43e61db1",
+		"visualUrl": "http://storage.googleapis.com/test-site-assets/3Jm8rFGismaJIhg4wNMVCQYUHJJn655PIE-V4n8axQs_ovisual-14f43e61db1",
+		"description": "We Explain Technology"
+	},
+	{
+		"feedId": "feed/http://www.techmeme.com/index.xml",
+		"title": "Techmeme",
+		"website": "http://www.techmeme.com/",
+		"iconUrl": "https://storage.googleapis.com/site-assets/2M28YlE6ga87nQ_iGGPV4RS8_EMotvkbp32D5U3OGIw_icon-15b63909a8c",
+		"visualUrl": "https://storage.googleapis.com/site-assets/2M28YlE6ga87nQ_iGGPV4RS8_EMotvkbp32D5U3OGIw_visual-15b63909a8c",
+		"description": "The essential tech news of the moment. Technology's news site of record. Not for dummies."
+	},
+	{
+		"feedId": "feed/http://www.boygeniusreport.com/feed/",
+		"title": "BGR",
+		"website": "https://bgr.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/CxTT9-KR4baoks-gY43OkxV44i8wVXgYVrQnqGpHhYA_icon-1642b826644",
+		"visualUrl": "https://storage.googleapis.com/site-assets/CxTT9-KR4baoks-gY43OkxV44i8wVXgYVrQnqGpHhYA_visual-1642b826644",
+		"description": "Tech and entertainment news, reviews, opinions and insights"
+	},
+	{
+		"feedId": "feed/http://feeds.pcworld.com/pcworld/latestnews",
+		"title": "PCWorld",
+		"website": "https://www.pcworld.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/_plEG4QUkkzjyjSgkA4P2y7Du5BbciY7B64xJV_znNU_icon-15e62935db2",
+		"visualUrl": "https://storage.googleapis.com/site-assets/_plEG4QUkkzjyjSgkA4P2y7Du5BbciY7B64xJV_znNU_visual-15e62935db2",
+		"description": "Covering everything from laptops to smartphones, from Windows 10 to productivity software, PCWorld delivers the information and expert advice you need to get the job done.   "
+	},
+	{
+		"feedId": "feed/http://feeds.feedburner.com/TheWirecutter",
+		"title": "Wirecutter: Reviews for the Real World",
+		"website": "https://thewirecutter.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/waOTuOY_-fCfsODB3q-KM5mBtgf3dbssDAF7wTBYSgY_icon-15eeb5d69e7",
+		"visualUrl": "https://storage.googleapis.com/site-assets/waOTuOY_-fCfsODB3q-KM5mBtgf3dbssDAF7wTBYSgY_visual-15eeb5d69e7",
+		"description": "Wirecutter is a list of the best appliances, tech, and gear for the home. Reviews are based on research and hands-on testing by veteran journalists, scientists, and researchers."
+	},
+	{
+		"feedId": "feed/http://9to5mac.com/feed/",
+		"title": "9to5Mac",
+		"website": "https://9to5mac.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/BmoAzSEWHFzR01wyxBZAhNEo11Vy8oDR1qKDe-tKVEQ_icon-164ac69929b",
+		"visualUrl": "https://storage.googleapis.com/site-assets/BmoAzSEWHFzR01wyxBZAhNEo11Vy8oDR1qKDe-tKVEQ_visual-164ac69929b",
+		"description": "News and reviews for Apple products, apps, and rumors. We provide breaking coverage for the iPhone, iPad, and all things Mac!"
+	},
+	{
+		"feedId": "feed/http://www.hackaday.com/rss.xml",
+		"title": "Blog – Hackaday",
+		"website": "https://hackaday.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/6v3bsRSs_0QViBXqoAJH7nV9d_YspxCmEG-0c0JTti4_icon-164a7359462",
+		"visualUrl": "https://storage.googleapis.com/site-assets/6v3bsRSs_0QViBXqoAJH7nV9d_YspxCmEG-0c0JTti4_visual-164a7359462",
+		"description": "Fresh hacks every day"
+	},
+	{
+		"feedId": "feed/http://feeds.feedburner.com/typepad/alleyinsider/silicon_alley_insider",
+		"title": "Tech Insider",
+		"website": "https://www.businessinsider.com/sai",
+		"iconUrl": "https://storage.googleapis.com/site-assets/_F2-f_TPard4dsL9zBEZdR1ZN3csG7UoGoylVDck-kQ_icon-165add4afca",
+		"visualUrl": "https://storage.googleapis.com/site-assets/_F2-f_TPard4dsL9zBEZdR1ZN3csG7UoGoylVDck-kQ_visual-165add4afca",
+		"description": "The latest news from Tech Insider"
+	},
+	{
+		"feedId": "feed/http://feeds.boingboing.net/boingboing/iBag",
+		"title": "Boing Boing",
+		"website": "https://boingboing.net",
+		"iconUrl": "https://storage.googleapis.com/site-assets/dU5peSp0V6f8LsDMUzzgZGqiuFWv2htICdJf6zfcBfc_icon-15e22a4398f",
+		"visualUrl": "https://storage.googleapis.com/site-assets/dU5peSp0V6f8LsDMUzzgZGqiuFWv2htICdJf6zfcBfc_visual-15e22a4398f",
+		"description": "Brain candy for Happy Mutants."
+	},
+	{
+		"feedId": "feed/http://www.androidpolice.com/feed/",
+		"title": "Android Police – Android news, reviews, apps, games, phones, tablets",
+		"website": "https://www.androidpolice.com",
+		"iconUrl": "https://www.androidpolice.com/wp-content/themes/ap2/images/apple-touch-icon.png",
+		"visualUrl": "https://www.androidpolice.com/wp-content/themes/ap2/images/apple-touch-icon.png",
+		"description": "Looking after everything Android"
+	},
+	{
+		"feedId": "feed/http://www.techdirt.com/techdirt_rss.xml",
+		"title": "Techdirt.",
+		"website": "https://www.techdirt.com/",
+		"iconUrl": "https://storage.googleapis.com/site-assets/DLYquBgY9Y3RjX_heFsQMcLPsSTMrpNpANvB6bO49xk_icon-167c2ed241e",
+		"visualUrl": "https://storage.googleapis.com/site-assets/DLYquBgY9Y3RjX_heFsQMcLPsSTMrpNpANvB6bO49xk_visual-167c2ed241e",
+		"description": "Easily digestible tech news..."
+	},
+	{
+		"feedId": "feed/http://www.nytimes.com/services/xml/rss/nyt/Technology.xml",
+		"title": "NYT > Technology",
+		"website": "https://www.nytimes.com/section/technology?emc=rss&partner=rss",
+		"iconUrl": "https://storage.googleapis.com/site-assets/3wA6rcnoxqCLEas6dlQji0lf4BMSCZElo5-isELU97Q_icon-16aedf11e65",
+		"visualUrl": "https://storage.googleapis.com/site-assets/3wA6rcnoxqCLEas6dlQji0lf4BMSCZElo5-isELU97Q_visual-16aedf11e65",
+		"description": "Exploring the business, culture and impact of the technology industry with reporting on the biggest internet companies to the newest startups."
+	},
+	{
+		"feedId": "feed/http://www.tomshardware.com/feeds/rss2/tom-s-hardware-us,18-1.xml",
+		"title": "News Tom's Hardware",
+		"website": "https://www.tomshardware.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/ARKmp7ZPZWP0tdrIybEEQZ6Ek5N40Sl-EckoWcv0CY0_icon-1630b2ddf69",
+		"visualUrl": "https://storage.googleapis.com/site-assets/ARKmp7ZPZWP0tdrIybEEQZ6Ek5N40Sl-EckoWcv0CY0_visual-1630b2ddf69",
+		"description": "Tom’s Hardware helps you buy the best hardware and build the best PC to play, create and work."
+	},
+	{
+		"feedId": "feed/http://daringfireball.net/index.xml",
+		"title": "Daring Fireball",
+		"website": "https://daringfireball.net/",
+		"iconUrl": "https://storage.googleapis.com/site-assets/ZTHt7g74IlVC5A2IgEvcn_aop5teo99gzFaGU2TCGxs_icon-1676ad4bf41",
+		"visualUrl": "https://storage.googleapis.com/site-assets/ZTHt7g74IlVC5A2IgEvcn_aop5teo99gzFaGU2TCGxs_visual-1676ad4bf41",
+		"description": "Entries from Daring Fireball. Sort of like RSS but via Twitter."
+	},
+	{
+		"feedId": "feed/http://www.gsmarena.com/rss-news-reviews.php3",
+		"title": "GSMArena.com - Latest articles",
+		"website": "https://www.gsmarena.com/",
+		"iconUrl": "https://storage.googleapis.com/site-assets/asOKdzZJH-jkGINSNHqfOeRaTCfTvp-wTBorACVbFFg_icon-1620fce3a78",
+		"visualUrl": "https://storage.googleapis.com/site-assets/asOKdzZJH-jkGINSNHqfOeRaTCfTvp-wTBorACVbFFg_visual-1620fce3a78",
+		"description": "GSMArena.com is the ultimate resource for GSM handset information. This feed contains the latest articles (news and reviews) in chronological order."
+	},
+	{
+		"feedId": "feed/http://9to5google.com/feed/",
+		"title": "9to5Google",
+		"website": "https://9to5google.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/xdIUrEbP12sOnXRcQduBabXEDP4CMQoUSpEAdLo7P-w_icon-160bb226e5f",
+		"visualUrl": "https://storage.googleapis.com/site-assets/xdIUrEbP12sOnXRcQduBabXEDP4CMQoUSpEAdLo7P-w_visual-160bb226e5f",
+		"description": "Breaking news on all things Google and Android. We provide breaking Google Pixel news, everything Android, Google Home, Google apps, Chromebooks, and more!"
+	},
+	{
+		"feedId": "feed/http://feeds.feedburner.com/Makeuseof",
+		"title": "MakeUseOf",
+		"website": "https://www.makeuseof.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/jMekjip3Ghllh8F4KHnMLhQXZxuefoU5q97qggITdgs_icon-168e3c1ccf2",
+		"visualUrl": "https://storage.googleapis.com/site-assets/jMekjip3Ghllh8F4KHnMLhQXZxuefoU5q97qggITdgs_visual-168e3c1ccf2",
+		"description": "MakeUseOf is your guide in modern tech. Learn how to make use of tech and gadgets around you and discover cool stuff on the Internet."
+	},
+	{
+		"feedId": "feed/http://feeds.feedburner.com/Torrentfreak",
+		"title": "TorrentFreak",
+		"website": "https://torrentfreak.com",
+		"iconUrl": "http://storage.googleapis.com/site-assets/EZXJpQIki4w-I1Se9c1fhZBH9nDCwb-p40wQMbJRYCQ_icon-154150f8d81",
+		"visualUrl": "http://storage.googleapis.com/site-assets/EZXJpQIki4w-I1Se9c1fhZBH9nDCwb-p40wQMbJRYCQ_visual-154150f8d81",
+		"description": "Breaking File-sharing, Copyright and Privacy News"
+	},
+	{
+		"feedId": "feed/http://feeds.slashgear.com/slashgear",
+		"title": "SlashGear",
+		"website": "https://www.slashgear.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/G4q_UPXlATt0WwtUK1bWM01CcR6JBV0NZcGZZKCDcxA_icon-15b926ffaaa",
+		"visualUrl": "https://storage.googleapis.com/site-assets/G4q_UPXlATt0WwtUK1bWM01CcR6JBV0NZcGZZKCDcxA_visual-15b926ffaaa",
+		"description": "The Definitive Guide to Tech and Cars"
+	},
+	{
+		"feedId": "feed/http://feeds.feedburner.com/wmexperts",
+		"title": "Windows Central - News, Forums, Reviews, Help for Windows 10 and all things Microsoft.",
+		"website": "https://www.windowscentral.com/",
+		"iconUrl": "https://storage.googleapis.com/site-assets/wKPi3VrPefHsb7ZtEPJNLaxRAYigOELrYPkJr0PXGb4_icon-16880e7dd64",
+		"visualUrl": "https://storage.googleapis.com/site-assets/wKPi3VrPefHsb7ZtEPJNLaxRAYigOELrYPkJr0PXGb4_visual-16880e7dd64",
+		"description": "The center of the Windows Universe - featuring news, reviews, help & tips, buyer guides, forums & accessories. Buyer's guides to help you find the best accessories for you. Jump in for a review of upcoming Xbox games or consoles. Troubleshooting issues you may run into with Windows 10, no matter how small or difficult."
+	},
+	{
+		"feedId": "feed/http://motherboard.vice.com/rss",
+		"title": "VICE US - tech US",
+		"website": "https://www.vice.com/en_us/topic/tech",
+		"iconUrl": "https://storage.googleapis.com/site-assets/_ToScf5Dw9FsFWvzmidln2tiZJ4C2OpD8hCgWCLlmMk_icon-16a969a0d0b",
+		"visualUrl": "https://storage.googleapis.com/site-assets/_ToScf5Dw9FsFWvzmidln2tiZJ4C2OpD8hCgWCLlmMk_visual-16a969a0d0b",
+		"description": "RSS feed for https://www.vice.com/en_us/topic/tech"
+	},
+	{
+		"feedId": "feed/http://feeds.feedburner.com/androidauthority",
+		"title": "Android Authority",
+		"website": "https://www.androidauthority.com",
+		"iconUrl": "https://www.androidauthority.com/wp-content/uploads/feed/aa-mascot-192x192.png?v=1.0.2",
+		"visualUrl": "https://www.androidauthority.com/wp-content/uploads/feed/aa-mascot-192x192.png?v=1.0.2",
+		"description": "Android News blog dedicated to providing expert tips, news, reviews, Android Phones, Android Apps, Android Tablet, Rooting & Howtos."
+	},
+	{
+		"feedId": "feed/http://stratechery.com/feed/",
+		"title": "Stratechery by Ben Thompson",
+		"website": "https://stratechery.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/cix-o6cOEwiduuGLpCH1x7Cdi2NtS_Cz0nVCIG4UWsE_icon-16294d41776",
+		"visualUrl": "https://storage.googleapis.com/site-assets/cix-o6cOEwiduuGLpCH1x7Cdi2NtS_Cz0nVCIG4UWsE_visual-16294d41776",
+		"description": "On the business, strategy, and impact of technology."
+	},
+	{
+		"feedId": "feed/http://newsrss.bbc.co.uk/rss/newsonline_world_edition/technology/rss.xml",
+		"title": "BBC News - Technology",
+		"website": "https://www.bbc.co.uk/news/",
+		"iconUrl": "https://storage.googleapis.com/site-assets/uUNuTMRa_Z_aiCEAhV1mUFgRO07RXvZu8wPqgPpkAew_icon-16bf7b9f532",
+		"visualUrl": "https://storage.googleapis.com/site-assets/uUNuTMRa_Z_aiCEAhV1mUFgRO07RXvZu8wPqgPpkAew_visual-16bf7b9f532",
+		"description": "Visit BBC News for up-to-the-minute news, breaking news, video, audio and feature stories. BBC News provides trusted World and UK news as well as local and regional perspectives. Also entertainment, business, science, technology and health news."
+	},
+	{
+		"feedId": "feed/http://www.appleinsider.com/appleinsider.rss",
+		"title": "AppleInsider - Frontpage News",
+		"website": "https://appleinsider.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/zwcxO2m3WPwy-F1Ww0OlYrKljG3hr7IvSPSXGYvZNv0_icon-169766fc4ba",
+		"visualUrl": "https://storage.googleapis.com/site-assets/zwcxO2m3WPwy-F1Ww0OlYrKljG3hr7IvSPSXGYvZNv0_visual-169766fc4ba",
+		"description": "appleinsider.com rumors and news on everything apple since 1997"
+	},
+	{
+		"feedId": "feed/http://venturebeat.com/feed/",
+		"title": "VentureBeat",
+		"website": "https://venturebeat.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/rvLYYJQ_KhJEJr-Wuxoh8HGIa5s40lYL9uUIDFAckJ8_icon-16bec2fc5a5",
+		"visualUrl": "https://storage.googleapis.com/site-assets/rvLYYJQ_KhJEJr-Wuxoh8HGIa5s40lYL9uUIDFAckJ8_visual-16bec2fc5a5",
+		"description": "News About Tech, Money and Innovation."
+	},
+	{
+		"feedId": "feed/http://www.theguardian.com/technology/rss",
+		"title": "Technology | The Guardian",
+		"website": "https://www.theguardian.com/us/technology",
+		"iconUrl": "https://storage.googleapis.com/site-assets/8ZsDXpv5oEv34qyzbKm_KVHeTm3xCkUMYpmw8bOoe70_icon-16d53587060",
+		"visualUrl": "https://storage.googleapis.com/site-assets/8ZsDXpv5oEv34qyzbKm_KVHeTm3xCkUMYpmw8bOoe70_visual-16d53587060",
+		"description": "Latest Technology news, comment and analysis from the Guardian, the world's leading liberal voice"
+	},
+	{
+		"feedId": "feed/http://www.geek.com/feed/",
+		"title": "Geek.com",
+		"website": "https://www.geek.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/BD7OS1EMrOizZWdTf1LXnm8_0nwkAts0KTC5Hxf5YSE_icon-15c00bfaa09",
+		"visualUrl": "https://storage.googleapis.com/site-assets/BD7OS1EMrOizZWdTf1LXnm8_0nwkAts0KTC5Hxf5YSE_visual-15c00bfaa09",
+		"description": "Tech News, Reviews & Tips"
+	},
+	{
+		"feedId": "feed/http://www.ghacks.net/feed/",
+		"title": "gHacks Technology News",
+		"website": "https://www.ghacks.net",
+		"iconUrl": "https://storage.googleapis.com/site-assets/i17O6PBS_HvYegmZPDOCoI_9XNh4L6qQwwrsfyGXq8Y_icon-15b9d3d6a7f",
+		"visualUrl": "https://storage.googleapis.com/site-assets/i17O6PBS_HvYegmZPDOCoI_9XNh4L6qQwwrsfyGXq8Y_visual-15b9d3d6a7f",
+		"description": "Ghacks Technology News is a tech blog that reviews software, apps, Internet services, and offers tips and tricks about Windows, Android, and other systems."
+	},
+	{
+		"feedId": "feed/http://www.geekologie.com/index.xml",
+		"title": "Geekologie - Gadgets, Gizmos, and Awesome",
+		"website": "https://geekologie.com/",
+		"iconUrl": "https://storage.googleapis.com/site-assets/gglY_mQP1ljE9kV7BIMxB_pIm4IedAzbGcJaAkOGETE_icon-165375c994e",
+		"visualUrl": "https://storage.googleapis.com/site-assets/gglY_mQP1ljE9kV7BIMxB_pIm4IedAzbGcJaAkOGETE_visual-165375c994e",
+		"description": "Geekologie is a geek blog dedicated to the scientific study of gadgets, gizmos, and awesome."
+	},
+	{
+		"feedId": "feed/http://www.the-gadgeteer.com/feed",
+		"title": "The Gadgeteer",
+		"website": "https://the-gadgeteer.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/zsYFsTQ7du-Ajp3D2F2GY4MbWSDVP2j96P5eAnpAGEQ_icon-160cac9ad4a",
+		"visualUrl": "https://storage.googleapis.com/site-assets/zsYFsTQ7du-Ajp3D2F2GY4MbWSDVP2j96P5eAnpAGEQ_visual-160cac9ad4a",
+		"description": "Gadget news and reviews since 1997!"
+	},
+	{
+		"feedId": "feed/http://www.ubergizmo.com/index.xml",
+		"title": "Ubergizmo",
+		"website": "http://ubergizmo.com/rss-ubergizmo/",
+		"iconUrl": "https://storage.googleapis.com/site-assets/d5jY58vrD2rex_XPLm-Yna13cVgvG24nZ3RIl0FpkOE_sicon-167b187dfcc",
+		"visualUrl": "https://storage.googleapis.com/site-assets/d5jY58vrD2rex_XPLm-Yna13cVgvG24nZ3RIl0FpkOE_svisual-167b187dfcc",
+		"description": "Opinionated news and reviews of consumer electronics"
+	},
+	{
+		"feedId": "feed/http://www.techspot.com/backend.xml",
+		"title": "TechSpot",
+		"website": "https://www.techspot.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/zTtGCF8NOji6ZLuHbPxWhK8Q-NrR2VV_FpPHLn21K6M_icon-15ce35615f4",
+		"visualUrl": "https://storage.googleapis.com/site-assets/zTtGCF8NOji6ZLuHbPxWhK8Q-NrR2VV_FpPHLn21K6M_visual-15ce35615f4",
+		"description": "Breaking tech news, reviews, and analysis for enthusiasts, power users, IT professionals and PC gamers."
+	},
+	{
+		"feedId": "feed/http://www.xda-developers.com/feed/",
+		"title": "xda-developers",
+		"website": "https://www.xda-developers.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/A_5HAooZiM5UTccpJ8AxA5D1we4xhNXsZy3FwbQRT1g_sicon-16abaf1c4dd",
+		"visualUrl": "https://storage.googleapis.com/site-assets/A_5HAooZiM5UTccpJ8AxA5D1we4xhNXsZy3FwbQRT1g_svisual-16abaf1c4dd",
+		"description": "Android and Windows Phone Development Community"
+	},
+	{
+		"feedId": "feed/http://www.coolest-gadgets.com/feed/",
+		"title": "Coolest Gadgets",
+		"website": "https://www.coolest-gadgets.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/24XpYlvyknNlL3mQDh-2UGMP4qhEOwo5MHu5XKFUjMQ_icon-169ef099d6a",
+		"visualUrl": "https://storage.googleapis.com/site-assets/24XpYlvyknNlL3mQDh-2UGMP4qhEOwo5MHu5XKFUjMQ_visual-169ef099d6a",
+		"description": "reporting on the latest cool gadgets"
+	},
+	{
+		"feedId": "feed/http://techblog.netflix.com/feeds/posts/default",
+		"title": "Netflix TechBlog - Medium",
+		"website": "https://medium.com/netflix-techblog?source=rss----2615bd06b42e---4",
+		"iconUrl": "https://storage.googleapis.com/site-assets/tIS4bIH0pLsrRvUnYVUgidjG6d8AUMGJ9KQl5OtMdqU_icon-15e0e003f97",
+		"visualUrl": "https://storage.googleapis.com/site-assets/tIS4bIH0pLsrRvUnYVUgidjG6d8AUMGJ9KQl5OtMdqU_visual-15e0e003f97",
+		"description": "Learn about Netflix’s world class engineering efforts, company culture, product developments and more. "
+	},
+	{
+		"feedId": "feed/http://feeds.feedburner.com/codinghorror/",
+		"title": "Coding Horror",
+		"website": "https://blog.codinghorror.com/",
+		"iconUrl": "https://storage.googleapis.com/site-assets/qiJUnj53SeRCoyGwVRJe1_1c2WWZdIcRvMuhFVwVflY_icon-16b5635c8bb",
+		"visualUrl": "https://storage.googleapis.com/site-assets/qiJUnj53SeRCoyGwVRJe1_1c2WWZdIcRvMuhFVwVflY_visual-16b5635c8bb",
+		"description": "programming and human factors"
+	},
+	{
+		"feedId": "feed/http://feeds.feedburner.com/neowin-main",
+		"title": "Neowin",
+		"website": "https://www.neowin.net/news/rss/",
+		"iconUrl": "https://storage.googleapis.com/site-assets/3wU6yKrY9MlwxFNxLYmitCvcYw_Cg-pMomOjYjEfB20_icon-15b92702052",
+		"visualUrl": "https://storage.googleapis.com/site-assets/3wU6yKrY9MlwxFNxLYmitCvcYw_Cg-pMomOjYjEfB20_visual-15b92702052",
+		"description": "Neowin News Feed for: All"
+	},
+	{
+		"feedId": "feed/http://feeds.feedburner.com/tedtalks_video",
+		"title": "TED Talks Daily (SD video)",
+		"website": "https://www.ted.com/talks",
+		"iconUrl": "https://storage.googleapis.com/site-assets/aANiHgsmGDykAZE5mDpF1X6vSBbJgJaU6lIEEstKh6w_icon-15ccd799771",
+		"visualUrl": "https://storage.googleapis.com/site-assets/aANiHgsmGDykAZE5mDpF1X6vSBbJgJaU6lIEEstKh6w_visual-15ccd799771",
+		"description": "TED is a nonprofit devoted to ideas worth spreading. On this video feed, you'll find TED Talks to inspire, intrigue and stir the imagination from some of the world's leading thinkers and doers, speaking from the stage at TED conferences, TEDx events and partner events around the world. This podcast is also available in high-def video and audio-only formats."
+	},
+	{
+		"feedId": "feed/http://www.zdnet.com/news/rss.xml",
+		"title": "Latest news",
+		"website": "https://www.zdnet.com/",
+		"iconUrl": "https://storage.googleapis.com/site-assets/Dlhuk3Wkp6CgVDxDpT6WqZ-DxmscBPIso4nHzZppFdg_icon-163cecefebd",
+		"visualUrl": "https://storage.googleapis.com/site-assets/Dlhuk3Wkp6CgVDxDpT6WqZ-DxmscBPIso4nHzZppFdg_visual-163cecefebd",
+		"description": "ZDNet's breaking news, analysis, and research keeps business technology professionals in touch with the latest IT trends, issues and events."
+	},
+	{
+		"feedId": "feed/http://rss.macworld.com/macworld/feeds/main",
+		"title": "Macworld",
+		"website": "https://www.macworld.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/6oN5QeCdMSEHIE2_9liIvUoIVJyRnKIxzHFa1qTiqkc_icon-15e2cd78593",
+		"visualUrl": "https://storage.googleapis.com/site-assets/6oN5QeCdMSEHIE2_9liIvUoIVJyRnKIxzHFa1qTiqkc_visual-15e2cd78593",
+		"description": "Whether you're a Mac die-hard or an iPad newbie we give you the scoop on what's new, what's best and how to make the most out of the products you love."
+	},
+	{
+		"feedId": "feed/http://feeds.feedburner.com/geeksAreSexyTechnologyNews",
+		"title": "Geeks are Sexy Technology News",
+		"website": "https://www.geeksaresexy.net",
+		"iconUrl": "https://storage.googleapis.com/site-assets/8IxEn2uDqpvJlHHUarCK65H0m2Rs1ponKhx21xGiS2g_icon-15c102ddb51",
+		"visualUrl": "https://storage.googleapis.com/site-assets/8IxEn2uDqpvJlHHUarCK65H0m2Rs1ponKhx21xGiS2g_visual-15c102ddb51",
+		"description": "Tech, science, cosplay and news by geeks, for geeks! We make technology sexy!"
+	},
+	{
+		"feedId": "feed/https://www.yahoo.com/tech/rss",
+		"title": "Yahoo Tech",
+		"website": "https://finance.yahoo.com/tech",
+		"iconUrl": "https://storage.googleapis.com/site-assets/E9QCy5ej75jKo6kNLOu7Fwv_Iw1kduEL7fBm1rZLYJ8_icon-16d636bf189",
+		"visualUrl": "https://storage.googleapis.com/site-assets/E9QCy5ej75jKo6kNLOu7Fwv_Iw1kduEL7fBm1rZLYJ8_visual-16d636bf189",
+		"description": "Follow the biggest tech news with the experts at Yahoo Tech. Read the latest product reviews by David Pogue and other top tech writers to stay on top of the latest developments and innovations in the technology business."
+	},
+	{
+		"feedId": "feed/http://feeds.feedburner.com/fastcompany/headlines",
+		"title": "Fast Company",
+		"website": "https://www.fastcompany.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/FXo4hbYMcVMG4DMa6lzD_36M21OEGgDUjmAuOzeuMs0_icon-16677f47e4e",
+		"visualUrl": "https://storage.googleapis.com/site-assets/FXo4hbYMcVMG4DMa6lzD_36M21OEGgDUjmAuOzeuMs0_visual-16677f47e4e",
+		"description": "Fast Company inspires a new breed of innovative and creative thought leaders who are actively inventing the future of business."
+	},
+	{
+		"feedId": "feed/http://www.phonearena.com/feed/news",
+		"title": "PhoneArena - News",
+		"website": "https://www.phonearena.com/",
+		"iconUrl": "https://storage.googleapis.com/site-assets/vKBzujqhchLchjEIYDElCcY_Pqx9x8vS-DTy7DBHwVE_icon-16942a5616a",
+		"visualUrl": "https://storage.googleapis.com/site-assets/vKBzujqhchLchjEIYDElCcY_Pqx9x8vS-DTy7DBHwVE_visual-16942a5616a",
+		"description": "PhoneArena is the premium website for new phone information such as full specifications, in-depth reviews, latest news, carrier available and upcoming phones. It features advanced phone filter, visual size comparison and 360 degree views of all hot phones."
+	},
+	{
+		"feedId": "feed/http://www.raspberrypi.org/feed",
+		"title": "Raspberry Pi",
+		"website": "https://www.raspberrypi.org",
+		"iconUrl": "https://storage.googleapis.com/site-assets/T9hmeuKYnjwPSNv2tr76qcqwJeF2grg8RhmI0qOrzhg_icon-16b20add05e",
+		"visualUrl": "https://storage.googleapis.com/site-assets/T9hmeuKYnjwPSNv2tr76qcqwJeF2grg8RhmI0qOrzhg_visual-16b20add05e",
+		"description": "Teach, learn and make with Raspberry Pi"
+	},
+	{
+		"feedId": "feed/http://feeds2.feedburner.com/IeeeSpectrum",
+		"title": "IEEE Spectrum Recent Content full text",
+		"website": "https://spectrum.ieee.org",
+		"iconUrl": "https://storage.googleapis.com/site-assets/nvhEOG2sOgKkqnCZ6xYbLJfhSeylqbsb24X4swUOmto_icon-16d315a783c",
+		"visualUrl": "https://storage.googleapis.com/site-assets/nvhEOG2sOgKkqnCZ6xYbLJfhSeylqbsb24X4swUOmto_visual-16d315a783c",
+		"description": "IEEE Spectrum Recent Content headlines"
+	},
+	{
+		"feedId": "feed/http://feeds.feedburner.com/TestedAll",
+		"title": "Tested",
+		"website": "https://www.tested.com/",
+		"iconUrl": "https://storage.googleapis.com/site-assets/DebHGpFVXf6PCP7GR7ia_wqFqhrOit98tV5MWipjY3I_icon-16b582c0f46",
+		"visualUrl": "https://storage.googleapis.com/site-assets/DebHGpFVXf6PCP7GR7ia_wqFqhrOit98tV5MWipjY3I_visual-16b582c0f46",
+		"description": "The official Twitter page for #AdamSavage’s Tested. We love technology, cosplay, and making!"
+	},
+	{
+		"feedId": "feed/http://feeds.feedburner.com/theiphoneblog",
+		"title": "iMore - The #1 iPhone, iPad, and iPod touch blog",
+		"website": "https://www.imore.com/",
+		"iconUrl": "https://storage.googleapis.com/site-assets/Xvl65hBVszGsovfsZyXby90ZOkHokcVtNCiWJf1w2Ms_icon-15d313606a7",
+		"visualUrl": "https://storage.googleapis.com/site-assets/Xvl65hBVszGsovfsZyXby90ZOkHokcVtNCiWJf1w2Ms_visual-15d313606a7",
+		"description": "More news and rumors, more help and how-tos, more app and accessory reviews, more iPhone and iPad and iPod touch. More of everything you love. iMore."
+	},
+	{
+		"feedId": "feed/http://feeds.feedburner.com/Liliputing",
+		"title": "Liliputing",
+		"website": "https://liliputing.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/V86neTqxmAy_z0Ot2rKg5XfiR8IzrjtSFfOm4XRpIEo_icon-15b92744c93",
+		"visualUrl": "https://storage.googleapis.com/site-assets/V86neTqxmAy_z0Ot2rKg5XfiR8IzrjtSFfOm4XRpIEo_visual-15b92744c93",
+		"description": "Compact Computing (News, reviews, and info about tablets, notebooks, smartphones, and more)"
+	},
+	{
+		"feedId": "feed/http://feeds.feedburner.com/geekwire",
+		"title": "GeekWire",
+		"website": "https://www.geekwire.com",
+		"iconUrl": "https://www.geekwire.com/wp-content/themes/geekwire/dist/images/geekwire-logo-rss.png",
+		"visualUrl": "https://www.geekwire.com/wp-content/themes/geekwire/dist/images/geekwire-logo-rss.png",
+		"description": "Tech news, commentary and other nerdiness from Seattle, covering Microsoft, Amazon, Google, Internet, startups, mobile, PCs, geek culture, more."
+	},
+	{
+		"feedId": "feed/http://feeds.feedburner.com/d0od",
+		"title": "OMG! Ubuntu!",
+		"website": "https://www.omgubuntu.co.uk",
+		"iconUrl": "https://storage.googleapis.com/site-assets/j20luFHBaQaHkkFIOZxcrSVTk2eF-ILiHMBUNdIiwHU_icon-16c4ff09c93",
+		"visualUrl": "https://storage.googleapis.com/site-assets/j20luFHBaQaHkkFIOZxcrSVTk2eF-ILiHMBUNdIiwHU_visual-16c4ff09c93",
+		"description": "An online Ubuntu magazine bringing you the latest Ubuntu news, apps, interview and reviews. Daily."
+	},
+	{
+		"feedId": "feed/http://mobilesyrup.com/feed/",
+		"title": "MobileSyrup",
+		"website": "https://mobilesyrup.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/C7Co1nqneaUZpyifue1DQHjzF_rhw8mnxW-2RI35Xmw_icon-15d82fa2f6f",
+		"visualUrl": "https://storage.googleapis.com/site-assets/C7Co1nqneaUZpyifue1DQHjzF_rhw8mnxW-2RI35Xmw_visual-15d82fa2f6f",
+		"description": "Canada's source for mobile technology and innovation (smartphones, tablets, wearables, IoT and automotive)."
+	},
+	{
+		"feedId": "feed/http://feeds.feedburner.com/pocketnow",
+		"title": "Pocketnow",
+		"website": "https://pocketnow.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/-ZulpsecnmRR5MZJLGZcXEACC1a1tyM2qVuZ_d1ugLg_icon-164fe646987",
+		"visualUrl": "https://storage.googleapis.com/site-assets/-ZulpsecnmRR5MZJLGZcXEACC1a1tyM2qVuZ_d1ugLg_visual-164fe646987",
+		"description": "Smartphone, Tablet, and Wearable Reviews, Videos, Editorials and News"
+	},
+	{
+		"feedId": "feed/http://feeds.labnol.org/labnol",
+		"title": "Digital Inspiration Technology Blog",
+		"website": "https://www.labnol.org",
+		"iconUrl": "https://storage.googleapis.com/site-assets/dnEMVkyWJEVxObDZq66I3JEvc97WQcoD4AQHybdLrr4_icon-15bd2ce5fdc",
+		"visualUrl": "https://storage.googleapis.com/site-assets/dnEMVkyWJEVxObDZq66I3JEvc97WQcoD4AQHybdLrr4_visual-15bd2ce5fdc",
+		"description": "Digital Inspiration is an award-winning how-to tech blog around all things related to computer software, web applications, mobile and personal productivity."
+	},
+	{
+		"feedId": "feed/http://feeds.feedburner.com/HighScalability",
+		"title": "High Scalability",
+		"website": "http://highscalability.com/blog/",
+		"iconUrl": "https://storage.googleapis.com/site-assets/Jtpz4YQB_0g08UVXUI8n5cBOUISWPammeaG-IVQAC84_icon-1612d6175e1",
+		"visualUrl": "https://storage.googleapis.com/site-assets/Jtpz4YQB_0g08UVXUI8n5cBOUISWPammeaG-IVQAC84_visual-1612d6175e1",
+		"description": "To help you build successful scalable websites."
+	},
+	{
+		"feedId": "feed/http://www.osnews.com/files/recent.xml",
+		"title": "OSnews",
+		"website": "https://www.osnews.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/yJuCsheUl0K0RpfRLIcHVZhV_5zh5M-hTuTVbttNEG4_icon-1681d2043dc",
+		"visualUrl": "https://storage.googleapis.com/site-assets/yJuCsheUl0K0RpfRLIcHVZhV_5zh5M-hTuTVbttNEG4_visual-1681d2043dc",
+		"description": "Exploring the Future of Computing"
+	},
+	{
+		"feedId": "feed/http://www.betanews.com/rss2",
+		"title": "BetaNews",
+		"website": "https://betanews.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/mEUJAgYqvjmUkQWBUepEFOsIq_F7vpOOo2SNfcudH14_icon-16bf859945b",
+		"visualUrl": "https://storage.googleapis.com/site-assets/mEUJAgYqvjmUkQWBUepEFOsIq_F7vpOOo2SNfcudH14_visual-16bf859945b",
+		"description": "Technology News and Analysis"
+	},
+	{
+		"feedId": "feed/https://www.thurrott.com/feed",
+		"title": "Thurrott.com",
+		"website": "https://www.thurrott.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/gpEosFlpRjFjwZK1WB3KHGSamz2gxslygFbxoaB6Sfo_icon-1668946c623",
+		"visualUrl": "https://storage.googleapis.com/site-assets/gpEosFlpRjFjwZK1WB3KHGSamz2gxslygFbxoaB6Sfo_visual-1668946c623",
+		"description": "Só mais um site WordPress"
+	},
+	{
+		"feedId": "feed/http://krebsonsecurity.com/feed/",
+		"title": "Krebs on Security",
+		"website": "https://krebsonsecurity.com",
+		"iconUrl": "http://storage.googleapis.com/test-site-assets/RhPrZIPIQhgdy1v5R5fQNkKTH3rGXcrAYsWFzsIPo4k_oicon-14e03bfadb5",
+		"visualUrl": "http://storage.googleapis.com/test-site-assets/RhPrZIPIQhgdy1v5R5fQNkKTH3rGXcrAYsWFzsIPo4k_ovisual-14e03bfadb5",
+		"description": "Independent investigative journalist. Writes about cybercrime. Author of 'Spam Nation', a NYT bestseller. Wrote for The Washington Post '95-'09"
+	},
+	{
+		"feedId": "feed/https://blog.feedly.com/feed/?cat=-6",
+		"title": "Feedly Blog",
+		"website": "https://blog.feedly.com",
+		"iconUrl": "",
+		"visualUrl": "",
+		"description": null
+	},
+	{
+		"feedId": "feed/http://thehackernews.com/feeds/posts/default",
+		"title": "The Hacker News",
+		"website": "https://thehackernews.com/",
+		"iconUrl": "https://storage.googleapis.com/site-assets/zwUJFVdnktlsCRyWGJ_if2dTo03NYy-gE_Px51ybzi4_icon-16179b8c724",
+		"visualUrl": "https://storage.googleapis.com/site-assets/zwUJFVdnktlsCRyWGJ_if2dTo03NYy-gE_Px51ybzi4_visual-16179b8c724",
+		"description": "The Hacker News has been internationally recognized as a leading news source dedicated to promoting awareness for security experts and hackers."
+	},
+	{
+		"feedId": "feed/http://www.addictivetips.com/feed/",
+		"title": "AddictiveTips",
+		"website": "https://www.addictivetips.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/SJ_op6bNC4xH5vE0QaiuPRhgyxTKdu9oQC-96cCB1go_icon-15df9c379bf",
+		"visualUrl": "https://storage.googleapis.com/site-assets/SJ_op6bNC4xH5vE0QaiuPRhgyxTKdu9oQC-96cCB1go_visual-15df9c379bf",
+		"description": "We cover the best desktop, web and mobile apps, guides and how-to tips for Windows, Mac, Linux, Android, iOS, and Windows Phone."
+	},
+	{
+		"feedId": "feed/http://feeds.reuters.com/reuters/technologyNews",
+		"title": "Reuters: Technology News",
+		"website": "https://www.reuters.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/jx8pTF762IOLE1nUg8oXh0GtCAqS3TFVAN_550g60kY_icon-164e7437843",
+		"visualUrl": "https://storage.googleapis.com/site-assets/jx8pTF762IOLE1nUg8oXh0GtCAqS3TFVAN_550g60kY_visual-164e7437843",
+		"description": "Reuters.com is your source for breaking news, business, financial and investing news, including personal finance and stocks.  Reuters is the leading global provider of news, financial information and technology solutions to the world's media, financial institutions, businesses and individuals."
+	},
+	{
+		"feedId": "feed/http://www.schneier.com/blog/index.rdf",
+		"title": "Schneier on Security",
+		"website": "https://www.schneier.com/blog/",
+		"iconUrl": "http://storage.googleapis.com/site-assets/IRNSBgIJ__I8p51M0ioGB4GI471Crv38pKve_iCJmbQ_icon-15411efdf3a",
+		"visualUrl": "http://storage.googleapis.com/site-assets/IRNSBgIJ__I8p51M0ioGB4GI471Crv38pKve_iCJmbQ_visual-15411efdf3a",
+		"description": "A blog covering security and security technology."
+	},
+	{
+		"feedId": "feed/http://feeds.feedburner.com/CoolTools",
+		"title": "Cool Tools",
+		"website": "https://kk.org/cooltools",
+		"iconUrl": "https://storage.googleapis.com/site-assets/pvo33JCBHKOqum-M6woHp5qHBRanf_APxyb1fpNaUhQ_sicon-16d21111dd2",
+		"visualUrl": "https://storage.googleapis.com/site-assets/pvo33JCBHKOqum-M6woHp5qHBRanf_APxyb1fpNaUhQ_svisual-16d21111dd2",
+		"description": "Cool tools really work. A cool tool can be any book, gadget, software, video, map, hardware, material, or website that is tried and true. All reviews on this site are written by readers who have actually used the tool and others like it. Items can be either old or new as long as they are wonderful. We only post things we like and ignore the rest. Suggestions for tools much better than what is recommended here are always wanted. Tell me what you love."
+	},
+	{
+		"feedId": "feed/http://feeds.feedburner.com/crunchgear",
+		"title": "Gadgets – TechCrunch",
+		"website": "https://techcrunch.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/9NnmlJjHFKSuXEv7T6Zr3PtaT_CbbjXDPDeUuIXhbYg_sicon-16a7b3e1292",
+		"visualUrl": "https://storage.googleapis.com/site-assets/9NnmlJjHFKSuXEv7T6Zr3PtaT_CbbjXDPDeUuIXhbYg_svisual-16a7b3e1292",
+		"description": "TechCrunch - Reporting on the business of technology, startups, venture capital funding, and Silicon Valley"
+	},
+	{
+		"feedId": "feed/http://www.tomshardware.com/articles.xml",
+		"title": "Articles Tom's Hardware",
+		"website": "https://www.tomshardware.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/jkt60vQHG5YG1W1nFurHMzfYbNXRj5IfmTkTKj0nlak_icon-1630b2dea76",
+		"visualUrl": "https://storage.googleapis.com/site-assets/jkt60vQHG5YG1W1nFurHMzfYbNXRj5IfmTkTKj0nlak_visual-1630b2dea76",
+		"description": "Tom’s Hardware helps you buy the best hardware and build the best PC to play, create and work."
+	},
+	{
+		"feedId": "feed/http://feeds.macrumors.com/MacRumors-All",
+		"title": "MacRumors: Mac News and Rumors - All Stories",
+		"website": "https://www.macrumors.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/i5dK0N4LYkCdW27N2hxMjfOjdU7G-cHFwqWTCuim9HU_icon-16d1f297aec",
+		"visualUrl": "https://storage.googleapis.com/site-assets/i5dK0N4LYkCdW27N2hxMjfOjdU7G-cHFwqWTCuim9HU_visual-16d1f297aec",
+		"description": "Apple, iPhone, iPad, Mac News and Rumors"
+	},
+	{
+		"feedId": "feed/http://feeds.technologyreview.com/technology_review_top_stories",
+		"title": "Top News - MIT Technology Review",
+		"website": "https://www.technologyreview.com/",
+		"iconUrl": "https://storage.googleapis.com/site-assets/NdNR7873uv4LAt1l5mOO-9-0rBeCrZHrB2N1Ls11tX4_icon-167a4c9bf52",
+		"visualUrl": "https://storage.googleapis.com/site-assets/NdNR7873uv4LAt1l5mOO-9-0rBeCrZHrB2N1Ls11tX4_visual-167a4c9bf52",
+		"description": "The mission of MIT Technology Review is to bring about better-informed and more conscious decisions about technology through authoritative, influential, and trustworthy journalism."
+	},
+	{
+		"feedId": "feed/http://www.theverge.com/tech/rss/index.xml",
+		"title": "The Verge -  Tech Posts",
+		"website": "https://www.theverge.com/tech",
+		"iconUrl": "https://storage.googleapis.com/site-assets/qrFG6K3PuSVA02_rXXLAAu1Q8py1Gy8m5XhMUMTHLpM_icon-15cd6b8fb23",
+		"visualUrl": "https://storage.googleapis.com/site-assets/qrFG6K3PuSVA02_rXXLAAu1Q8py1Gy8m5XhMUMTHLpM_visual-15cd6b8fb23",
+		"description": "The latest tech news about the world's best (and sometimes worst) hardware, apps, and much more. From top companies like Google and Apple to tiny startups vying for your attention, Verge Tech has the latest in what matters in technology daily."
+	},
+	{
+		"feedId": "feed/http://gmailblog.blogspot.com/atom.xml",
+		"title": "Gmail Blog",
+		"website": "https://www.blog.google/products/gmail/",
+		"iconUrl": "https://storage.googleapis.com/site-assets/EcCzVCorYfeYnD4qotciNJpsWrg4ncTFm7qe2aPqavo_sicon-16b57640aba",
+		"visualUrl": "https://storage.googleapis.com/site-assets/EcCzVCorYfeYnD4qotciNJpsWrg4ncTFm7qe2aPqavo_svisual-16b57640aba",
+		"description": "News, tips and tricks from Google's Gmail team and friends."
+	},
+	{
+		"feedId": "feed/http://feeds.mashable.com/mashable/tech",
+		"title": "Tech",
+		"website": "https://mashable.com/category/tech/?utm_campaign=Mash-Prod-RSS-Feedburner-Tech-Partial&tm_cid=Mash-Prod-RSS-Feedburner-Tech-Partial",
+		"iconUrl": "https://storage.googleapis.com/site-assets/8TvlgJvAi3jG3eqH-07kSupuiY_AitvCDOMLY_1gRQU_icon-16d90796ff5",
+		"visualUrl": "https://storage.googleapis.com/site-assets/8TvlgJvAi3jG3eqH-07kSupuiY_AitvCDOMLY_1gRQU_visual-16d90796ff5",
+		"description": "The latest articles about Tech from Mashable, the media and tech company"
+	}
+]

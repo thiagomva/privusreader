@@ -1,0 +1,730 @@
+[
+	{
+		"feedId": "feed/http://www.instructables.com/tag/type:instructable/rss.xml",
+		"title": "Instructables: exploring",
+		"website": "https://www.instructables.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/tc-O2GsS5eelq_oE2CIpD1s_V_eAkrCi8OyZwqVy1V4_icon-16546d7e005",
+		"visualUrl": "https://storage.googleapis.com/site-assets/tc-O2GsS5eelq_oE2CIpD1s_V_eAkrCi8OyZwqVy1V4_visual-16546d7e005",
+		"description": "Instructables is a community for people who like to make things. Come explore, share, and make your next project with us!"
+	},
+	{
+		"feedId": "feed/http://feeds.feedburner.com/Ikeahacker",
+		"title": "IKEA Hackers",
+		"website": "https://www.ikeahackers.net",
+		"iconUrl": "https://storage.googleapis.com/site-assets/E8Ogab74qVBRU3wI35l4SetrZ_mSOoWjXGg-FSyTJQM_icon-16b5643e8a9",
+		"visualUrl": "https://storage.googleapis.com/site-assets/E8Ogab74qVBRU3wI35l4SetrZ_mSOoWjXGg-FSyTJQM_visual-16b5643e8a9",
+		"description": "IKEA hackers is the site for hacks and mods on all things IKEA. Browse thousands of ideas to transform your IKEA furniture to fit your home and life."
+	},
+	{
+		"feedId": "feed/http://www.hackaday.com/rss.xml",
+		"title": "Blog – Hackaday",
+		"website": "https://hackaday.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/6v3bsRSs_0QViBXqoAJH7nV9d_YspxCmEG-0c0JTti4_icon-164a7359462",
+		"visualUrl": "https://storage.googleapis.com/site-assets/6v3bsRSs_0QViBXqoAJH7nV9d_YspxCmEG-0c0JTti4_visual-164a7359462",
+		"description": "Fresh hacks every day"
+	},
+	{
+		"feedId": "feed/http://www.wikihow.com/feed.rss",
+		"title": "How to of the Day",
+		"website": "https://www.wikihow.com/Main-Page",
+		"iconUrl": "https://storage.googleapis.com/site-assets/G6QRFV1tXR8jS3w0vBV4dMHUF9kh4-L7Bl3U13_JG1k_icon-1690d423530",
+		"visualUrl": "https://storage.googleapis.com/site-assets/G6QRFV1tXR8jS3w0vBV4dMHUF9kh4-L7Bl3U13_JG1k_visual-1690d423530",
+		"description": "Learn (and occasionally laugh) with wikiHow's, \"How-to of the Day\". Try a new skill every day after reading these articles with step by step images and videos. Learn new skills, solve everyday problems. From wikiHow, the wiki how-to manual."
+	},
+	{
+		"feedId": "feed/http://www.doityourself.com/rss",
+		"title": "DoItYourself.com | Latest Articles",
+		"website": "https://www.doityourself.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/9im_N_SlfIY_Kcy_qZwdB8tjaBrNlc2lY_ftOo6DyY4_icon-1651daa207d",
+		"visualUrl": "https://storage.googleapis.com/site-assets/9im_N_SlfIY_Kcy_qZwdB8tjaBrNlc2lY_ftOo6DyY4_visual-1651daa207d",
+		"description": "Helpful articles on do it yourself projects and home improvement topics."
+	},
+	{
+		"feedId": "feed/http://www.adafruit.com/blog/feed/",
+		"title": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
+		"website": "https://blog.adafruit.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/GupMZrGo5C47VoNCekpErbTRrDfmaYDfuIVZMXGzBfQ_icon-16d86cc3e11",
+		"visualUrl": "https://storage.googleapis.com/site-assets/GupMZrGo5C47VoNCekpErbTRrDfmaYDfuIVZMXGzBfQ_visual-16d86cc3e11",
+		"description": "electronics, open source hardware, hacking and more..."
+	},
+	{
+		"feedId": "feed/http://feeds.feedburner.com/CoolTools",
+		"title": "Cool Tools",
+		"website": "https://kk.org/cooltools",
+		"iconUrl": "https://storage.googleapis.com/site-assets/pvo33JCBHKOqum-M6woHp5qHBRanf_APxyb1fpNaUhQ_sicon-16d21111dd2",
+		"visualUrl": "https://storage.googleapis.com/site-assets/pvo33JCBHKOqum-M6woHp5qHBRanf_APxyb1fpNaUhQ_svisual-16d21111dd2",
+		"description": "Cool tools really work. A cool tool can be any book, gadget, software, video, map, hardware, material, or website that is tried and true. All reviews on this site are written by readers who have actually used the tool and others like it. Items can be either old or new as long as they are wonderful. We only post things we like and ignore the rest. Suggestions for tools much better than what is recommended here are always wanted. Tell me what you love."
+	},
+	{
+		"feedId": "feed/http://www.wonderhowto.com/rss.xml",
+		"title": "WonderHowTo",
+		"website": "https://www.wonderhowto.com/",
+		"iconUrl": "https://storage.googleapis.com/site-assets/dAGhZNNwHO4TccPctc_0lwTTFCcm7LLu7QtCwNAYWbg_sicon-1612cfe3b00",
+		"visualUrl": "https://storage.googleapis.com/site-assets/dAGhZNNwHO4TccPctc_0lwTTFCcm7LLu7QtCwNAYWbg_svisual-1612cfe3b00",
+		"description": "Wonder How To is your guide to free how to videos on the Web. Search, Browse and Discover the best how to videos across the web using the largest how to video index on the web. Watch the best online video instructions, tutorials, &amp; How-Tos for free. Have your own how to videos? Submit them to share with the world."
+	},
+	{
+		"feedId": "feed/http://abeautifulmess.typepad.com/my_weblog/atom.xml",
+		"title": "A Beautiful Mess",
+		"website": "https://abeautifulmess.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/NMTx4bP6qQiJ3XyGoUHw5IbnFss0eZe5cYW6_ze0fvw_icon-164af8ae21e",
+		"visualUrl": "https://storage.googleapis.com/site-assets/NMTx4bP6qQiJ3XyGoUHw5IbnFss0eZe5cYW6_ze0fvw_visual-164af8ae21e",
+		"description": "At A Beautiful Mess we share daily inspirations, D.I.Y. projects and recipes. We believe the best things in life are homemade."
+	},
+	{
+		"feedId": "feed/http://feeds.howtogeek.com/HowToGeek",
+		"title": "How-To Geek",
+		"website": "https://www.howtogeek.com",
+		"iconUrl": "http://storage.googleapis.com/test-site-assets/3Jm8rFGismaJIhg4wNMVCQYUHJJn655PIE-V4n8axQs_oicon-14f43e61db1",
+		"visualUrl": "http://storage.googleapis.com/test-site-assets/3Jm8rFGismaJIhg4wNMVCQYUHJJn655PIE-V4n8axQs_ovisual-14f43e61db1",
+		"description": "We Explain Technology"
+	},
+	{
+		"feedId": "feed/http://www.apartmenttherapy.com/main/atom.xml",
+		"title": "Apartment Therapy| Saving the world, one room at a time",
+		"website": "https://www.apartmenttherapy.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/AQVNni7q7k7jvAhEJ7BOmoDCTpNvn-JQKHiVoDpsE4U_icon-1696e5c4821",
+		"visualUrl": "https://storage.googleapis.com/site-assets/AQVNni7q7k7jvAhEJ7BOmoDCTpNvn-JQKHiVoDpsE4U_visual-1696e5c4821",
+		"description": "Saving the world, one room at a time"
+	},
+	{
+		"feedId": "feed/http://feeds.feedburner.com/Makeuseof",
+		"title": "MakeUseOf",
+		"website": "https://www.makeuseof.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/jMekjip3Ghllh8F4KHnMLhQXZxuefoU5q97qggITdgs_icon-168e3c1ccf2",
+		"visualUrl": "https://storage.googleapis.com/site-assets/jMekjip3Ghllh8F4KHnMLhQXZxuefoU5q97qggITdgs_visual-168e3c1ccf2",
+		"description": "MakeUseOf is your guide in modern tech. Learn how to make use of tech and gadgets around you and discover cool stuff on the Internet."
+	},
+	{
+		"feedId": "feed/http://feeds.feedburner.com/ana-white",
+		"title": "Ana-White.com",
+		"website": "http://ana-white.com/feed",
+		"iconUrl": "https://storage.googleapis.com/site-assets/NPwCzEGBxllaZSePfmbMY-qYsTBc9O-mXesfUoaTkeY_sicon-16cdc315895",
+		"visualUrl": "https://storage.googleapis.com/site-assets/NPwCzEGBxllaZSePfmbMY-qYsTBc9O-mXesfUoaTkeY_svisual-16cdc315895",
+		"description": "Welcome to the website of Ana White, your source for great DIY furniture and woodworking projects. Choose from a variety of great free woodworking plans!"
+	},
+	{
+		"feedId": "feed/http://www.curbly.com/rss",
+		"title": "Curbly Recent Posts",
+		"website": "https://www.curbly.com/recent",
+		"iconUrl": "https://storage.googleapis.com/site-assets/ifeUHsZD7x_e6hI60Y3Id-xTc9q7I9PjfC1Fs7EbxMA_icon-16bd5a669de",
+		"visualUrl": "https://storage.googleapis.com/site-assets/ifeUHsZD7x_e6hI60Y3Id-xTc9q7I9PjfC1Fs7EbxMA_visual-16bd5a669de",
+		"description": "Curbly - Love Where You Live"
+	},
+	{
+		"feedId": "feed/http://apair-andaspare.blogspot.com/feeds/posts/default",
+		"title": "Collective Gen",
+		"website": "https://collectivegen.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/YZhkmuQK_eMIyKwsy8T4l5j9P7pOZlqe3esB22I166c_sicon-16d7bd621b4",
+		"visualUrl": "https://storage.googleapis.com/site-assets/YZhkmuQK_eMIyKwsy8T4l5j9P7pOZlqe3esB22I166c_svisual-16d7bd621b4",
+		"description": "Making, travelling and creativity"
+	},
+	{
+		"feedId": "feed/http://www.younghouselove.com/feed/",
+		"title": "Young House Love",
+		"website": "https://www.younghouselove.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/ScjPpcAKwVwEt4kzxOEz-f19KzVe0jBBbQv81Q1vxak_icon-16b57b37ae4",
+		"visualUrl": "https://storage.googleapis.com/site-assets/ScjPpcAKwVwEt4kzxOEz-f19KzVe0jBBbQv81Q1vxak_visual-16b57b37ae4",
+		"description": "Hi, we're John & Sherry! Here you'll find nearly 3,000 free DIY & decorating projects and updates, from painting & home improvement to crafting, organizing, furniture makeovers, & more."
+	},
+	{
+		"feedId": "feed/http://ohhappyday.com/feed/",
+		"title": "Oh Happy Day!",
+		"website": "http://ohhappyday.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/3dPPSisoXNEs0zcTJAEjbYJFJJYFArLz4NtYyMqQFBQ_icon-15b63906dc3",
+		"visualUrl": "https://storage.googleapis.com/site-assets/3dPPSisoXNEs0zcTJAEjbYJFJJYFArLz4NtYyMqQFBQ_visual-15b63906dc3",
+		"description": "Oh Happy Day is a party and lifestyle blog based in San Francisco. We love to throw parties and make things!"
+	},
+	{
+		"feedId": "feed/http://www.designspongeonline.com/feed",
+		"title": "Design*Sponge",
+		"website": "https://www.designsponge.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/h17DFTRkO-CeLFpyOqsqwnnt-HtnTvv3LT0Y4yjYefw_sicon-16435c559ea",
+		"visualUrl": "https://storage.googleapis.com/site-assets/h17DFTRkO-CeLFpyOqsqwnnt-HtnTvv3LT0Y4yjYefw_svisual-16435c559ea",
+		"description": "Your home for all things Design. Home Tours, DIY Project, City Guides, Shopping Guides, Before & Afters and much more"
+	},
+	{
+		"feedId": "feed/http://manmadediy.com/site_index.rss",
+		"title": "Man Made DIY Recent Posts",
+		"website": "http://www.manmadediy.com/recent",
+		"iconUrl": "http://storage.googleapis.com/site-assets/qO9kprdWC4ARhxG0hmfjipYgIZBiAOVnari4vwwJbV0_icon-1541271cb9a",
+		"visualUrl": "http://storage.googleapis.com/site-assets/qO9kprdWC4ARhxG0hmfjipYgIZBiAOVnari4vwwJbV0_visual-1541271cb9a",
+		"description": "A handmade and DIY design site for modern guys who like to make stuff.\n\nTweets by Chris, founder of ManMade and editor-in-chief of @Curbly"
+	},
+	{
+		"feedId": "feed/http://iheartorganizing.blogspot.com/feeds/posts/default",
+		"title": "IHeart Organizing",
+		"website": "http://www.iheartorganizing.com/",
+		"iconUrl": "https://storage.googleapis.com/site-assets/YhBEyY4Q2sWCDDqpRbXjFVhzYKPZ5n-WR8IRiLD5m9U_sicon-15ef502da75",
+		"visualUrl": "https://storage.googleapis.com/site-assets/YhBEyY4Q2sWCDDqpRbXjFVhzYKPZ5n-WR8IRiLD5m9U_svisual-15ef502da75",
+		"description": "Welcome to IHeart Organizing, where you can find all sorts of tips on home and lifestyle organization!  Here at IHeart Organizing, I also believe that when organization and style combine, we are more motivated to maintain our systems, so this blog also focuses a lot of attention on DIY projects and home improvement projects as well!"
+	},
+	{
+		"feedId": "feed/http://www.arduino.cc/blog/?feed=rss2",
+		"title": "Arduino Blog",
+		"website": "https://blog.arduino.cc",
+		"iconUrl": "https://storage.googleapis.com/site-assets/RCku4KpyO4SvdvkddaRSoCO37kiyvbyRkEfG6It4tQw_icon-16da51b44f6",
+		"visualUrl": "https://storage.googleapis.com/site-assets/RCku4KpyO4SvdvkddaRSoCO37kiyvbyRkEfG6It4tQw_visual-16da51b44f6",
+		"description": "Arduino Blog"
+	},
+	{
+		"feedId": "feed/http://feeds.feedburner.com/Recyclart",
+		"title": "Recyclart",
+		"website": "https://www.recyclart.org",
+		"iconUrl": "https://storage.googleapis.com/site-assets/ME-eRvOgZD5Hsd_jSxoIozYlse2Y6ggoMUN4bxGkYXc_icon-15bc2f0b76e",
+		"visualUrl": "https://storage.googleapis.com/site-assets/ME-eRvOgZD5Hsd_jSxoIozYlse2Y6ggoMUN4bxGkYXc_visual-15bc2f0b76e",
+		"description": "Welcome to Recyclart, your online source for recycled & Upcycled ideas! Discover thousands of creative Ideas based on Repurposed, Recycled, Reused, Reclaimed, Upcycled and Restored Things!"
+	},
+	{
+		"feedId": "feed/http://homemade-modern.com/feed/",
+		"title": "HomeMade Modern",
+		"website": "http://www.homemade-modern.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/IAOLrStK_MxG-wZdU94qV3LMCWqsrhAs06CDrauI8xQ_icon-15b928293a7",
+		"visualUrl": "https://storage.googleapis.com/site-assets/IAOLrStK_MxG-wZdU94qV3LMCWqsrhAs06CDrauI8xQ_visual-15b928293a7",
+		"description": "Smart, affordable DIY design ideas for cool people who like modern home furnishings."
+	},
+	{
+		"feedId": "feed/http://rogueengineer.com/feed/",
+		"title": "Rogue Engineer",
+		"website": "https://rogueengineer.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/cDb1ZEfJpxM_L-NEWHBDI5F7pfJ4D9bOe8Bn-AyBCrQ_icon-16b6ac93a3e",
+		"visualUrl": "https://storage.googleapis.com/site-assets/cDb1ZEfJpxM_L-NEWHBDI5F7pfJ4D9bOe8Bn-AyBCrQ_visual-16b6ac93a3e",
+		"description": "Loads of DIY furniture project plans for the typical weekend warrior with common power tools and little to no woodworking experience."
+	},
+	{
+		"feedId": "feed/http://www.remodelaholic.com/feeds/posts/default",
+		"title": "Remodelaholic",
+		"website": "https://www.remodelaholic.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/D5OnLq7Tv6EGYMJvUtNZPyZjrwD950rUX9IBGsiHGUM_icon-15e62aad233",
+		"visualUrl": "https://storage.googleapis.com/site-assets/D5OnLq7Tv6EGYMJvUtNZPyZjrwD950rUX9IBGsiHGUM_visual-15e62aad233",
+		"description": "Let us help you remodel your house from builder grade to BEAUTIFUL!  DIY projects that reduce, reuse, recycle, repurpose, and remodel on a budget!"
+	},
+	{
+		"feedId": "feed/http://www.centsationalgirl.com/feed/",
+		"title": "Centsational Style",
+		"website": "https://centsationalstyle.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/LOC2fe9fWvTtXI186mVuxUAWPELiNYSBYT8L9uxQqLA_icon-15e43a28bbe",
+		"visualUrl": "https://storage.googleapis.com/site-assets/LOC2fe9fWvTtXI186mVuxUAWPELiNYSBYT8L9uxQqLA_visual-15e43a28bbe",
+		"description": "Design, Decorating & DIY"
+	},
+	{
+		"feedId": "feed/http://shanty2chic.blogspot.com/feeds/posts/default",
+		"title": "Shanty 2 Chic",
+		"website": "https://www.shanty-2-chic.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/8s3lLvOWe_Te5IYuk3KH2ONSbbPjnlS6Qp7Zie8cTaI_icon-160df374933",
+		"visualUrl": "https://storage.googleapis.com/site-assets/8s3lLvOWe_Te5IYuk3KH2ONSbbPjnlS6Qp7Zie8cTaI_visual-160df374933",
+		"description": "Two power tool wielding DIY queens on a mission to create beautiful and affordable furniture, turning houses into homes. Transform your home with free furniture plans & DIY woodworking projects for beds, benches, chairs, tables, barn doors, shelves, and more for inside rooms and outdoor areas."
+	},
+	{
+		"feedId": "feed/http://www.studiodiy.com/feed/",
+		"title": "Studio DIY",
+		"website": "https://studiodiy.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/o0ENFu4xJzXm9DNkSWl1uTbfmZNnnBY15FWcWEB42yc_icon-166245216a0",
+		"visualUrl": "https://storage.googleapis.com/site-assets/o0ENFu4xJzXm9DNkSWl1uTbfmZNnnBY15FWcWEB42yc_visual-166245216a0",
+		"description": "Founder + Creative Director of Studio DIY, making life a party! https://t.co/KqXnASj1qg"
+	},
+	{
+		"feedId": "feed/http://www.iliketomakestuff.com/feed/",
+		"title": "I Like To Make Stuff",
+		"website": "https://iliketomakestuff.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/3dED7sr0RPm_ZARW7mQh0HysBN7wVzr9hJEdbWbaqUs_icon-16893d2ed23",
+		"visualUrl": "https://storage.googleapis.com/site-assets/3dED7sr0RPm_ZARW7mQh0HysBN7wVzr9hJEdbWbaqUs_visual-16893d2ed23",
+		"description": "MAKE / FIX / EXPLORE"
+	},
+	{
+		"feedId": "feed/http://feeds.feedburner.com/PrettyHandyGirl",
+		"title": "Pretty Handy Girl",
+		"website": "https://www.prettyhandygirl.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/5-94escpzYIbaVzj4oD6XVLKfANl6BoMOgstAGYz1ls_icon-16ac4d91307",
+		"visualUrl": "https://storage.googleapis.com/site-assets/5-94escpzYIbaVzj4oD6XVLKfANl6BoMOgstAGYz1ls_visual-16ac4d91307",
+		"description": "A DIY Blog Empowering You to Complete Your Own Project. Build it, Fix it and Do it yourself. Home project tutorials."
+	},
+	{
+		"feedId": "feed/http://www.sparkfun.com/commerce/rss.php",
+		"title": "SparkFun: Commerce Blog",
+		"website": "https://www.sparkfun.com/news",
+		"iconUrl": "https://storage.googleapis.com/site-assets/IRkwfWu352LgsQWe535ifj9EL8A6QMRI-ErGsO7fL5g_sicon-16abf72cb72",
+		"visualUrl": "https://storage.googleapis.com/site-assets/IRkwfWu352LgsQWe535ifj9EL8A6QMRI-ErGsO7fL5g_svisual-16abf72cb72",
+		"description": null
+	},
+	{
+		"feedId": "feed/http://sawdustgirl.com/feed/",
+		"title": "Sawdust Girl®",
+		"website": "https://sawdustgirl.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/_0__Br_CMyukHZ_5gPYMbw3jMgDHLpvcVUcfK2CHYj8_icon-15ed1b947dd",
+		"visualUrl": "https://storage.googleapis.com/site-assets/_0__Br_CMyukHZ_5gPYMbw3jMgDHLpvcVUcfK2CHYj8_visual-15ed1b947dd",
+		"description": "Renovation, cabinet building and woodworking plans and tutorials. Build like a Girl®"
+	},
+	{
+		"feedId": "feed/http://fallfordiy.com/feed",
+		"title": "Fall For DIY",
+		"website": "https://fallfordiy.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/XWTwpLbfqmasmkzu5fkMGDL4OeJmaQ5z8LUdNdhnfAc_icon-16a7ca3e07b",
+		"visualUrl": "https://storage.googleapis.com/site-assets/XWTwpLbfqmasmkzu5fkMGDL4OeJmaQ5z8LUdNdhnfAc_visual-16a7ca3e07b",
+		"description": "Contemporary crafts and DIY blogger. Pinterest UK Interiors Pinner of the year 2017. https://t.co/wHcvQHVaUx"
+	},
+	{
+		"feedId": "feed/http://jenwoodhouse.com/feed",
+		"title": "The House of Wood",
+		"website": "https://jenwoodhouse.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/sZOBA07LxPmmb1RB4tbsIEUeLj1iNkXF8DYA72sotPE_icon-16cf0ec7259",
+		"visualUrl": "https://storage.googleapis.com/site-assets/sZOBA07LxPmmb1RB4tbsIEUeLj1iNkXF8DYA72sotPE_visual-16cf0ec7259",
+		"description": "Author of The House of Wood, a DIY and design blog. I build furniture and show you how to do it yourself!"
+	},
+	{
+		"feedId": "feed/https://www.familyhandyman.com/feed/",
+		"title": "The Family Handyman",
+		"website": "https://www.familyhandyman.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/2U4q1UBdURpiuAgnu4l17v6cZOAJb0sy66Dop5dRB2k_icon-160266db766",
+		"visualUrl": "https://storage.googleapis.com/site-assets/2U4q1UBdURpiuAgnu4l17v6cZOAJb0sy66Dop5dRB2k_visual-160266db766",
+		"description": "Family Handyman: your leading DIY resource for projects, renovations, smart technology, pest control, maintenance, design inspiration and so much more."
+	},
+	{
+		"feedId": "feed/http://sugarandcloth.com/feed/",
+		"title": "Sugar & Cloth",
+		"website": "https://sugarandcloth.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/M8cAQl6fqjX8l6ROVbXhL684qpyZwE3p6ZKtV5PWVMU_icon-16c0e614531",
+		"visualUrl": "https://storage.googleapis.com/site-assets/M8cAQl6fqjX8l6ROVbXhL684qpyZwE3p6ZKtV5PWVMU_visual-16c0e614531",
+		"description": "From DIY's, to recipes, travel, entertaining, and all of the pretty things in between, Sugar & Cloth has everything you need for DIY inspired living."
+	},
+	{
+		"feedId": "feed/http://www.evilmadscientist.com/backend/geeklog.rss",
+		"title": "Evil Mad Scientist Laboratories",
+		"website": "https://www.evilmadscientist.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/AUyoDVgaDUcj6rZUQWiK6mztvADJLYMqPfGe3k2rcfw_icon-16d999fbd39",
+		"visualUrl": "https://storage.googleapis.com/site-assets/AUyoDVgaDUcj6rZUQWiK6mztvADJLYMqPfGe3k2rcfw_visual-16d999fbd39",
+		"description": "Making the world a better place, one Evil Mad Scientist at a time."
+	},
+	{
+		"feedId": "feed/http://dangerousprototypes.com/feed/",
+		"title": "Dangerous Prototypes",
+		"website": "http://dangerousprototypes.com/blog",
+		"iconUrl": "https://storage.googleapis.com/site-assets/mpe-V9TtnQ3AUzTto6KdkRQ2MjXCGO4-fW-JNh9Smn8_icon-15b9273e67d",
+		"visualUrl": "https://storage.googleapis.com/site-assets/mpe-V9TtnQ3AUzTto6KdkRQ2MjXCGO4-fW-JNh9Smn8_visual-15b9273e67d",
+		"description": "Open source hardware projects"
+	},
+	{
+		"feedId": "feed/http://diydiva.net/feed/",
+		"title": "DIYdiva",
+		"website": "http://diydiva.net",
+		"iconUrl": "http://storage.googleapis.com/site-assets/UmYiHqtTOTu-VqZ6sJeebLk-k5u7Vc-bp1ugiLOV-NY_sicon-15413964eb2",
+		"visualUrl": "http://storage.googleapis.com/site-assets/UmYiHqtTOTu-VqZ6sJeebLk-k5u7Vc-bp1ugiLOV-NY_svisual-15413964eb2",
+		"description": "A Home Improvement & DIY Blog"
+	},
+	{
+		"feedId": "feed/http://feeds.feedburner.com/theartofdoingstuff",
+		"title": "The Art of Doing Stuff",
+		"website": "https://www.theartofdoingstuff.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/WSsyAQIJxMikGPj7yddw_vOPZ6bpi6uTOsCShdD0qC0_icon-164739fe244",
+		"visualUrl": "https://storage.googleapis.com/site-assets/WSsyAQIJxMikGPj7yddw_vOPZ6bpi6uTOsCShdD0qC0_visual-164739fe244",
+		"description": "From how to make your own Starbucks Latte to building a chicken coop, browse hundreds of DIY tutorials and How-To Guides covering Food, Garden and Home projects you didn't even realize you needed to do! Learn to do everything 'Cause it ain't that hard. Any of it.'"
+	},
+	{
+		"feedId": "feed/http://feeds.feedburner.com/papernstitchblog/",
+		"title": "Paper and Stitch",
+		"website": "https://www.papernstitchblog.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/ObX2O863-VKw8Kupk4ez4BJLz-8Br3dLkbqnTGE7tXE_icon-15d880ffc4f",
+		"visualUrl": "https://storage.googleapis.com/site-assets/ObX2O863-VKw8Kupk4ez4BJLz-8Br3dLkbqnTGE7tXE_visual-15d880ffc4f",
+		"description": "Inspiration for your DIY life"
+	},
+	{
+		"feedId": "feed/http://vintagerevivals.blogspot.com/feeds/posts/default",
+		"title": "Vintage Revivals",
+		"website": "https://vintagerevivals.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/xOfBbC5lNbDsQGSGtwHJ4axLME9HQ7ThBhTMi0sjRL8_icon-16b57b89748",
+		"visualUrl": "https://storage.googleapis.com/site-assets/xOfBbC5lNbDsQGSGtwHJ4axLME9HQ7ThBhTMi0sjRL8_visual-16b57b89748",
+		"description": "Fearless DIY"
+	},
+	{
+		"feedId": "feed/http://www.hertoolbelt.com/feed/",
+		"title": "Her Tool Belt",
+		"website": "https://www.hertoolbelt.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/Hd2txdol41y5iqd6-XRrZZZSZdS-cXFu4N75pSVMxEo_icon-1628a75666d",
+		"visualUrl": "https://storage.googleapis.com/site-assets/Hd2txdol41y5iqd6-XRrZZZSZdS-cXFu4N75pSVMxEo_visual-1628a75666d",
+		"description": "DIY furniture plans, crafts, and home improvement tutorials to empower you!"
+	},
+	{
+		"feedId": "feed/http://poppytalk.blogspot.com/feeds/posts/default",
+		"title": "Poppytalk",
+		"website": "http://www.poppytalk.com/",
+		"iconUrl": "https://storage.googleapis.com/site-assets/GwOvNV8LUTaCKn4sbB2UfJYF37N-rUYH7GZZvod8FvA_icon-15b63917b2d",
+		"visualUrl": "https://storage.googleapis.com/site-assets/GwOvNV8LUTaCKn4sbB2UfJYF37N-rUYH7GZZvod8FvA_visual-15b63917b2d",
+		"description": "A blog about DIY, design, arts and crafts."
+	},
+	{
+		"feedId": "feed/http://www.bowerpowerblog.com/feed/",
+		"title": "Bower Power",
+		"website": "https://www.bowerpowerblog.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/gHNNEw6-9A4XgJmvCk6BhdfBrNEb6KgG4YlHSjqawXE_sicon-16b594d6fe1",
+		"visualUrl": "https://storage.googleapis.com/site-assets/gHNNEw6-9A4XgJmvCk6BhdfBrNEb6KgG4YlHSjqawXE_svisual-16b594d6fe1",
+		"description": null
+	},
+	{
+		"feedId": "feed/http://addicted2diy.com/feed/",
+		"title": "Addicted 2 DIY",
+		"website": "https://addicted2diy.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/fTiHfX3SgrX1JbbwDKNHPMVjoy5qSvbhQw08HozK1M8_icon-15e89a67e01",
+		"visualUrl": "https://storage.googleapis.com/site-assets/fTiHfX3SgrX1JbbwDKNHPMVjoy5qSvbhQw08HozK1M8_visual-15e89a67e01",
+		"description": "Eat. Sleep. DIY."
+	},
+	{
+		"feedId": "feed/http://themerrythought.com/feed/",
+		"title": "The Merrythought",
+		"website": "https://themerrythought.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/h-G6WgrFlYKkGLlcBlfyknadZV7AIXfLBJe_g0GQIh0_sicon-164f9735da8",
+		"visualUrl": "https://storage.googleapis.com/site-assets/h-G6WgrFlYKkGLlcBlfyknadZV7AIXfLBJe_g0GQIh0_svisual-164f9735da8",
+		"description": "The Merrythought"
+	},
+	{
+		"feedId": "feed/http://www.uglyducklinghouse.com/feeds/posts/default",
+		"title": "Ugly Duckling House",
+		"website": "https://www.uglyducklinghouse.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/YPOlMCH7_FmHyZxsoDdgYfTks5XsYO0a5s8MR5cIo8U_icon-1665af3a012",
+		"visualUrl": "https://storage.googleapis.com/site-assets/YPOlMCH7_FmHyZxsoDdgYfTks5XsYO0a5s8MR5cIo8U_visual-1665af3a012",
+		"description": "Your Not-So-Serious Guide to DIY Home Improvement, Home Repair, Woodworking, Food, and Decorating | Atlanta, GA | Sarah Fogle"
+	},
+	{
+		"feedId": "feed/http://www.raspberrypi.org/feed",
+		"title": "Raspberry Pi",
+		"website": "https://www.raspberrypi.org",
+		"iconUrl": "https://storage.googleapis.com/site-assets/T9hmeuKYnjwPSNv2tr76qcqwJeF2grg8RhmI0qOrzhg_icon-16b20add05e",
+		"visualUrl": "https://storage.googleapis.com/site-assets/T9hmeuKYnjwPSNv2tr76qcqwJeF2grg8RhmI0qOrzhg_visual-16b20add05e",
+		"description": "Teach, learn and make with Raspberry Pi"
+	},
+	{
+		"feedId": "feed/http://thriftydecorchick.blogspot.com/feeds/posts/default",
+		"title": "Thrifty Decor Chick",
+		"website": "https://www.thriftydecorchick.com/",
+		"iconUrl": "",
+		"visualUrl": "",
+		"description": "Sharing simple, inexpensive ways to decorate your home."
+	},
+	{
+		"feedId": "feed/http://fixthisbuildthat.com/feed/",
+		"title": "Fix This Build That",
+		"website": "https://fixthisbuildthat.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/CuESj9WMHBH-3IHTfwBdcckIhjYmRQ-13DmVhlu4JO0_icon-16305fdc39c",
+		"visualUrl": "https://storage.googleapis.com/site-assets/CuESj9WMHBH-3IHTfwBdcckIhjYmRQ-13DmVhlu4JO0_visual-16305fdc39c",
+		"description": "Woodworking & DIY projects, plans, and tools. Shop, home and furniture projects. Free downloadable plans. Tool info and reviews. Fix This Build That!"
+	},
+	{
+		"feedId": "feed/http://pneumaticaddict.blogspot.com/feeds/posts/default",
+		"title": "Pneumatic Addict",
+		"website": "https://www.pneumaticaddict.com/",
+		"iconUrl": "https://storage.googleapis.com/site-assets/O3o-9uW2v-UeXLqhK_lExzqDmugFjnTESbSnPOqZBMo_icon-16b6dfea2ae",
+		"visualUrl": "https://storage.googleapis.com/site-assets/O3o-9uW2v-UeXLqhK_lExzqDmugFjnTESbSnPOqZBMo_visual-16b6dfea2ae",
+		"description": "DIY and furniture blog, offering in-depth tutorials on subjects such as furniture building, refinishing, home decor and crafts. Detailed descriptions of tools and their uses, from a woman's perspective."
+	},
+	{
+		"feedId": "feed/http://feeds.feedburner.com/TWW",
+		"title": "The Wood Whisperer",
+		"website": "https://www.thewoodwhisperer.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/mFUm498hYdbf8Pslme_8eP25zhndUPfY9C8e8Dv246Y_icon-15f80bb8f5a",
+		"visualUrl": "https://storage.googleapis.com/site-assets/mFUm498hYdbf8Pslme_8eP25zhndUPfY9C8e8Dv246Y_visual-15f80bb8f5a",
+		"description": "Education and Entertainment for the modern woodworker!"
+	},
+	{
+		"feedId": "feed/http://feeds.feedburner.com/dreamgreendiy/dyiE",
+		"title": "Dream Green DIY",
+		"website": "https://www.dreamgreendiy.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/J_USj5IxOuLKbxqXCAERtnL6-kwKnt7tplfVSgxPkkg_icon-161319f4ca0",
+		"visualUrl": "https://storage.googleapis.com/site-assets/J_USj5IxOuLKbxqXCAERtnL6-kwKnt7tplfVSgxPkkg_visual-161319f4ca0",
+		"description": "Dream Green DIY"
+	},
+	{
+		"feedId": "feed/http://www.homeyohmy.com/feed/",
+		"title": "Homey Oh My",
+		"website": "https://www.homeyohmy.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/64fKiF7LHhp5cT_fJ7gElT0AbTHylkBPtqp2gYnonQQ_icon-16be00ef628",
+		"visualUrl": "https://storage.googleapis.com/site-assets/64fKiF7LHhp5cT_fJ7gElT0AbTHylkBPtqp2gYnonQQ_visual-16be00ef628",
+		"description": "Modern home and lifestyle"
+	},
+	{
+		"feedId": "feed/http://feeds2.feedburner.com/toolguyd",
+		"title": "ToolGuyd",
+		"website": "https://toolguyd.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/kspxubr1bdD094wDnagzZmeJq2cUFtsvmA0zYCM7fjI_icon-1639b7b45fd",
+		"visualUrl": "https://storage.googleapis.com/site-assets/kspxubr1bdD094wDnagzZmeJq2cUFtsvmA0zYCM7fjI_visual-1639b7b45fd",
+		"description": "Tool Reviews, New Tool Previews, Best Tool Picks & Tool Deals Blog"
+	},
+	{
+		"feedId": "feed/http://build-basic.com/feed/",
+		"title": "Build Basic",
+		"website": "https://build-basic.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/dTRjPtQfwwhGQtaga0hCe3sy0alk7AVlIkcEY68JqBU_icon-16bea82403e",
+		"visualUrl": "https://storage.googleapis.com/site-assets/dTRjPtQfwwhGQtaga0hCe3sy0alk7AVlIkcEY68JqBU_visual-16bea82403e",
+		"description": "Easy Building Plans and Tool Tutorials"
+	},
+	{
+		"feedId": "feed/http://feeds2.feedburner.com/craftgawker",
+		"title": "craftgawker",
+		"website": "https://craftgawker.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/kn63EvEk38g5veZE_xaTiz-3QZVJQigqLuReMInOLaM_icon-168a4ec38ba",
+		"visualUrl": "https://storage.googleapis.com/site-assets/kn63EvEk38g5veZE_xaTiz-3QZVJQigqLuReMInOLaM_visual-168a4ec38ba",
+		"description": "look to inspire."
+	},
+	{
+		"feedId": "feed/http://52weeksproject.com/rss",
+		"title": "The Crafted Life",
+		"website": "https://thecraftedlife.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/g15H8HdeFcyknpFOW9cgV7ZF_MjVpoHiP5JD8Ycms_g_icon-164457b35a7",
+		"visualUrl": "https://storage.googleapis.com/site-assets/g15H8HdeFcyknpFOW9cgV7ZF_MjVpoHiP5JD8Ycms_g_visual-164457b35a7",
+		"description": "The Crafted Life is all about making DIY fun and accessible. Given the right set of directions I believe anyone is capable of making."
+	},
+	{
+		"feedId": "feed/http://feeds.feedburner.com/homerepairtutorblog",
+		"title": "Home Repair Tutor",
+		"website": "https://www.homerepairtutor.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/gVRpnXrKoCTnLdRe9GVTYPl_UVPmb_gOQ74_AVvpBME_icon-16b72908905",
+		"visualUrl": "https://storage.googleapis.com/site-assets/gVRpnXrKoCTnLdRe9GVTYPl_UVPmb_gOQ74_AVvpBME_visual-16b72908905",
+		"description": "Welcome to Home Repair Tutor, enjoy sharing the craft of building custom bathrooms, sharing knowldedge, and helping others with their projects"
+	},
+	{
+		"feedId": "feed/http://diyhshp.blogspot.com/feeds/posts/default",
+		"title": "DIY Home Sweet Home",
+		"website": "http://www.diyhsh.com/",
+		"iconUrl": "https://storage.googleapis.com/site-assets/8sdPiGUXsNjXybXJOdBaO8dlCfjH0VF5aui8oQ_Fzto_sicon-162b1bec643",
+		"visualUrl": "https://storage.googleapis.com/site-assets/8sdPiGUXsNjXybXJOdBaO8dlCfjH0VF5aui8oQ_Fzto_svisual-162b1bec643",
+		"description": "I'm here to inspire YOU to be crafty, get organized, cook amazing meals, grow your own vegetables, and create a gorgeous home, no matter what your budget is."
+	},
+	{
+		"feedId": "feed/http://sawdust2stitches.com/feed/",
+		"title": "Sawdust 2 Stitches",
+		"website": "https://sawdust2stitches.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/NPfgkYSiuBOFrRm6y35CgT2uzZl9iXWz7OlrsGF5Bnw_icon-15ff6e71ce8",
+		"visualUrl": "https://storage.googleapis.com/site-assets/NPfgkYSiuBOFrRm6y35CgT2uzZl9iXWz7OlrsGF5Bnw_visual-15ff6e71ce8",
+		"description": "Where we can't leave well enough alone."
+	},
+	{
+		"feedId": "feed/http://www.upcyclethat.com/feed/",
+		"title": "Upcycle That",
+		"website": "https://www.upcyclethat.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/5oSdFh5XLdKZ_9Fpr9ezSpe0XG5bE4vE69SC00b9tZk_icon-16b596e76ce",
+		"visualUrl": "https://storage.googleapis.com/site-assets/5oSdFh5XLdKZ_9Fpr9ezSpe0XG5bE4vE69SC00b9tZk_visual-16b596e76ce",
+		"description": "Upcycling Ideas and Inspiration"
+	},
+	{
+		"feedId": "feed/http://feeds.feedburner.com/honestlywtf",
+		"title": "Honestly WTF",
+		"website": "https://honestlywtf.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/ggt2WNZnnlhGGRNOjDmgCj86sju7rZ4iB0lCR5GB91M_icon-16374afeff4",
+		"visualUrl": "https://storage.googleapis.com/site-assets/ggt2WNZnnlhGGRNOjDmgCj86sju7rZ4iB0lCR5GB91M_visual-16374afeff4",
+		"description": "A daily dose of fashion discoveries and inspirations, contributed by a stylist and a designer who both see the world through rose-colored shades."
+	},
+	{
+		"feedId": "feed/http://learn.adafruit.com/feed",
+		"title": "Adafruit Learning System | Latest Published Guides",
+		"website": "https://learn.adafruit.com",
+		"iconUrl": "http://storage.googleapis.com/site-assets/xNqlNl6lm7YzwLW7wqhj0TgD9-sdnYPACmrESkCt2UI_sicon-15413961dd3",
+		"visualUrl": "http://storage.googleapis.com/site-assets/xNqlNl6lm7YzwLW7wqhj0TgD9-sdnYPACmrESkCt2UI_svisual-15413961dd3",
+		"description": null
+	},
+	{
+		"feedId": "feed/http://www.chrislovesjulia.com/feed",
+		"title": "Chris Loves Julia",
+		"website": "https://www.chrislovesjulia.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/t6HD1bO9SMt8hbIm1EXkL9TFGVXikwCVFe0l4WSrxio_icon-164473e07e7",
+		"visualUrl": "https://storage.googleapis.com/site-assets/t6HD1bO9SMt8hbIm1EXkL9TFGVXikwCVFe0l4WSrxio_visual-164473e07e7",
+		"description": "DIY | Home Design | Our Life In Our Home"
+	},
+	{
+		"feedId": "feed/http://feeds.feedburner.com/1001Pallets",
+		"title": "1001 Pallets",
+		"website": "https://www.1001pallets.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/FJKbMhVn8q1XkCWdcacql6OlXHDIlcJEFisv_teSsMA_sicon-16b681c1cc2",
+		"visualUrl": "https://storage.googleapis.com/site-assets/FJKbMhVn8q1XkCWdcacql6OlXHDIlcJEFisv_teSsMA_svisual-16b681c1cc2",
+		"description": "Welcome to 1001Pallets, your online community to discover and share your pallet projects & ideas! Thousands of recycled pallet ideas, free PDF plans & guides, safety information & useful guides for your next pallet project!"
+	},
+	{
+		"feedId": "feed/http://lovelyindeed.com/feed/",
+		"title": "Lovely Indeed",
+		"website": "https://lovelyindeed.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/_vaLeCz7JxkujYJX7moTtUQtUo263L5b2xm0tt46rNI_icon-15e31fc4a1c",
+		"visualUrl": "https://storage.googleapis.com/site-assets/_vaLeCz7JxkujYJX7moTtUQtUo263L5b2xm0tt46rNI_visual-15e31fc4a1c",
+		"description": "Created by Chelsea Foy, Lovely Indeed is a DIY lifestyle blog that features colorful ideas, easy DIYs, simple recipes, modern style, and lots more loveliness."
+	},
+	{
+		"feedId": "feed/http://www.bobvila.com/rss.xml",
+		"title": "Bob Vila : Trusted Home Renovation & Repair Expert",
+		"website": "https://www.bobvila.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/5w7Yqwzu05BN0D3CLkAskEQLhwgCOy6Xe248dwZvm7I_icon-16352a542a3",
+		"visualUrl": "https://storage.googleapis.com/site-assets/5w7Yqwzu05BN0D3CLkAskEQLhwgCOy6Xe248dwZvm7I_visual-16352a542a3",
+		"description": "Home Repair and Renovation Projects, Featured Products Marketplace, Expert Do It Yourself, Budget and Green advice from Bob Vila, the most trusted name in home improvement."
+	},
+	{
+		"feedId": "feed/http://www.hackster.io/projects.rss",
+		"title": "Explore all projects - Page 1 - Hackster.io",
+		"website": "https://www.hackster.io",
+		"iconUrl": "https://storage.googleapis.com/site-assets/gG0234GcQtVw_TyJLcS5Gmg36mH84r699Ge2PWZyQuo_icon-167a04b68fb",
+		"visualUrl": "https://storage.googleapis.com/site-assets/gG0234GcQtVw_TyJLcS5Gmg36mH84r699Ge2PWZyQuo_visual-167a04b68fb",
+		"description": "Hackster is a community dedicated to learning hardware, from beginner to pro. Share your projects and learn from other developers. Come build awesome hardware!"
+	},
+	{
+		"feedId": "feed/http://feeds.feedburner.com/SawdustAndEmbryos",
+		"title": "Reality Daydream",
+		"website": "https://realitydaydream.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/X5f8o_GuTIf6kMnb6AqqGQq3gCaYO7mzaq2mrrfyy0c_sicon-15f76643b24",
+		"visualUrl": "https://storage.googleapis.com/site-assets/X5f8o_GuTIf6kMnb6AqqGQq3gCaYO7mzaq2mrrfyy0c_svisual-15f76643b24",
+		"description": "The Dream is Free, The Hustle Sold Separately"
+	},
+	{
+		"feedId": "feed/http://feeds.feedburner.com/Everythingetsycom",
+		"title": "EverythingEtsy.com",
+		"website": "https://www.everythingetsy.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/iJzWVuCzSuoTCSqG5IVLmh-Ki4--oD-3Uq3M81w1NpY_icon-160a15295d2",
+		"visualUrl": "https://storage.googleapis.com/site-assets/iJzWVuCzSuoTCSqG5IVLmh-Ki4--oD-3Uq3M81w1NpY_visual-160a15295d2",
+		"description": "Etsy Blog | Selling on Etsy | Etsy Banners | Giveaways & Creative Stuff"
+	},
+	{
+		"feedId": "feed/http://makeitandloveit.blogspot.com/feeds/posts/default",
+		"title": "Make It and Love It",
+		"website": "https://makeit-loveit.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/AmTMMewajVYK4je43x_vywu050w8P9MoxLm0bN4OYvA_icon-16d7ec2f5d6",
+		"visualUrl": "https://storage.googleapis.com/site-assets/AmTMMewajVYK4je43x_vywu050w8P9MoxLm0bN4OYvA_visual-16d7ec2f5d6",
+		"description": "Free and Inspirational Crafting/Sewing/Decorating Tutorials"
+	},
+	{
+		"feedId": "feed/http://thelovelydrawer.com/feed/",
+		"title": "The Lovely Drawer",
+		"website": "https://thelovelydrawer.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/NBUUdLF2YXsUlSisVahEVpIGebEqeY5Stt3K0jq96Ns_icon-1659931eba3",
+		"visualUrl": "https://storage.googleapis.com/site-assets/NBUUdLF2YXsUlSisVahEVpIGebEqeY5Stt3K0jq96Ns_visual-1659931eba3",
+		"description": "One Year of Maggie 12 September 2018 | Baby Read Post A Nursery Update 05 September 2018 | Baby ,  Interiors Read Post A Mum day in the life with Baby Jogger 31 August 2018 | Baby Read Post A Fresh Lick Of Paint 30 August 2018 | Life Read Post Stand Out 27 August…"
+	},
+	{
+		"feedId": "feed/http://www.allthingsthrifty.com/feeds/posts/default",
+		"title": "All Things Thrifty",
+		"website": "https://www.allthingsthrifty.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/7chHb3hUlAFz6yu3IhtV7j8UtspXS4LnhdhHRkW3gls_icon-15f0f6c452f",
+		"visualUrl": "https://storage.googleapis.com/site-assets/7chHb3hUlAFz6yu3IhtV7j8UtspXS4LnhdhHRkW3gls_visual-15f0f6c452f",
+		"description": "All Things DIY, All Things Girlie, All Things Delicious, All Things Family"
+	},
+	{
+		"feedId": "feed/http://diyready.com/feed/",
+		"title": "DIY Projects Craft Ideas & How To’s for Home Decor with Videos",
+		"website": "https://diyprojects.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/jJV9QV3LYogmSYrvZGG8hiyLLBDsFfESExrhEXGKBJ8_sicon-16b71e2d4eb",
+		"visualUrl": "https://storage.googleapis.com/site-assets/jJV9QV3LYogmSYrvZGG8hiyLLBDsFfESExrhEXGKBJ8_svisual-16b71e2d4eb",
+		"description": "Find 8000+ Free DIY Projects, Creative Do It Yourself Ideas, Easy Craft Plans and Holiday Decorations to Inspire Kids, Men and You at DIYProjects.com"
+	},
+	{
+		"feedId": "feed/http://feeds.feedburner.com/handmadecharlotte",
+		"title": "Handmade Charlotte",
+		"website": "https://www.handmadecharlotte.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/YLGvfjgKQvigTMoH4WMygOpWPsT4GFUvPhR1RzVTH3o_icon-16251faec07",
+		"visualUrl": "https://storage.googleapis.com/site-assets/YLGvfjgKQvigTMoH4WMygOpWPsT4GFUvPhR1RzVTH3o_visual-16251faec07",
+		"description": "Celebrate every day with crafts, recipes, and ideas for creative family living from Handmade Charlotte."
+	},
+	{
+		"feedId": "feed/http://doityourselflady.blogspot.com/feeds/posts/default",
+		"title": "Lizzy O",
+		"website": "https://www.thelizzyo.com/",
+		"iconUrl": "https://storage.googleapis.com/site-assets/IwwP-NaWmjfzWZNIIIEXtb8oB4bXXQziu8zC0NbACnQ_sicon-16b594e9f70",
+		"visualUrl": "https://storage.googleapis.com/site-assets/IwwP-NaWmjfzWZNIIIEXtb8oB4bXXQziu8zC0NbACnQ_svisual-16b594e9f70",
+		"description": "Disabled Mommy Blogger living in Los Angeles California. Beauty Enthusiast with love for fashion and all things lifestyle."
+	},
+	{
+		"feedId": "feed/http://www.thehandymansdaughter.com/feed/",
+		"title": "The Handyman's Daughter",
+		"website": "https://www.thehandymansdaughter.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/EesSHu4ZC8FmAybrik5ZS87OKmpYOuIyCBuT6dppC6s_icon-16865d0598e",
+		"visualUrl": "https://storage.googleapis.com/site-assets/EesSHu4ZC8FmAybrik5ZS87OKmpYOuIyCBuT6dppC6s_visual-16865d0598e",
+		"description": "Fix it, build it, do it YOURSELF! Get free woodworking plans, detailed step-by-step tutorials and amazing DIY project ideas at The Handyman's Daughter!"
+	},
+	{
+		"feedId": "feed/http://feeds.feedburner.com/KnockOffDecor",
+		"title": "KnockOffDecor.com",
+		"website": "https://knockoffdecor.com",
+		"iconUrl": "",
+		"visualUrl": "",
+		"description": "DIY Home Decor and Project Ideas"
+	},
+	{
+		"feedId": "feed/http://feeds.feedburner.com/YellowBrickHome",
+		"title": "Yellow Brick Home",
+		"website": "https://www.yellowbrickhome.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/UdIYzGnUQbub-pOyb83v0G5JBpMn4CdBje8jkAPYpaA_sicon-16a775ae85f",
+		"visualUrl": "https://storage.googleapis.com/site-assets/UdIYzGnUQbub-pOyb83v0G5JBpMn4CdBje8jkAPYpaA_svisual-16a775ae85f",
+		"description": "sweet home chicago"
+	},
+	{
+		"feedId": "feed/http://www.manhattan-nest.com/feed/",
+		"title": "Manhattan Nest",
+		"website": "http://manhattan-nest.com",
+		"iconUrl": "http://storage.googleapis.com/site-assets/0ynr5s75_txJU-ijiuOo5s-b0cBlcrS7hFQFssuQ7vw_icon-154125f1fe2",
+		"visualUrl": "http://storage.googleapis.com/site-assets/0ynr5s75_txJU-ijiuOo5s-b0cBlcrS7hFQFssuQ7vw_visual-154125f1fe2",
+		"description": "Blog written by Daniel Kanter about creating a little home on a little budget in a big city. Sometimes it's also about dogs and travel and other stuff."
+	},
+	{
+		"feedId": "feed/http://feeds.feedburner.com/OpenElectronics",
+		"title": "Open Electronics",
+		"website": "https://www.open-electronics.org",
+		"iconUrl": "https://www.open-electronics.org/wp-content/uploads/2018/01/icona.png",
+		"visualUrl": "https://www.open-electronics.org/wp-content/uploads/2018/01/icona.png",
+		"description": "Open Electronics is the brainchild of Futura Elettronica. We will support you in designing circuits, making prototypes, so as to help you project your idea."
+	},
+	{
+		"feedId": "feed/http://wilkerdos.com/feed/",
+		"title": "Wilker Do's",
+		"website": "https://wilkerdos.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/f4lBgOoz-DCutTbVB5Bl1p44rqM2qyaBn-6zemEkinc_sicon-166a43dd874",
+		"visualUrl": "https://storage.googleapis.com/site-assets/f4lBgOoz-DCutTbVB5Bl1p44rqM2qyaBn-6zemEkinc_svisual-166a43dd874",
+		"description": null
+	},
+	{
+		"feedId": "feed/http://feeds.feedburner.com/DesignerTrappedInALawyersBody",
+		"title": "Kaleidoscope Living",
+		"website": "https://designertrapped.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/uwBmyctICMMXXWZB79CVfuMP8ZE1PVnw_Z_K-5tLwPc_icon-169b3cc8706",
+		"visualUrl": "https://storage.googleapis.com/site-assets/uwBmyctICMMXXWZB79CVfuMP8ZE1PVnw_Z_K-5tLwPc_visual-169b3cc8706",
+		"description": "DIY and Home Decor Blog- Living Life in Color"
+	},
+	{
+		"feedId": "feed/http://www.instructables.com/tag/type:id/featured:true/rss.xml",
+		"title": "Instructables: exploring - featured",
+		"website": "https://www.instructables.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/WOWVBUcX61qwEfc7NGxWFBHhWl64V3y9zrgwlL_6QEc_icon-16546d7e4fd",
+		"visualUrl": "https://storage.googleapis.com/site-assets/WOWVBUcX61qwEfc7NGxWFBHhWl64V3y9zrgwlL_6QEc_visual-16546d7e4fd",
+		"description": "Instructables is a community for people who like to make things. Come explore, share, and make your next project with us!"
+	},
+	{
+		"feedId": "feed/http://www.instructables.com/tag/type-id/category-technology/rss.xml",
+		"title": "Instructables: exploring - technology",
+		"website": "https://www.instructables.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/-IjA-BhfqF7W6hlSGMqbuo-tcg131oFvzLUHJetMi8o_icon-16546d7ef59",
+		"visualUrl": "https://storage.googleapis.com/site-assets/-IjA-BhfqF7W6hlSGMqbuo-tcg131oFvzLUHJetMi8o_visual-16546d7ef59",
+		"description": "Instructables is a community for people who like to make things. Come explore, share, and make your next project with us!"
+	},
+	{
+		"feedId": "feed/http://feeds.apartmenttherapy.com/apartmenttherapy/diy",
+		"title": "Apartment Therapy| Saving the world, one room at a time",
+		"website": "https://www.apartmenttherapy.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/WTlJYNE0s5WsAOppRsz8aoupARtZi4TILMhekELgwbE_icon-166b98e9537",
+		"visualUrl": "https://storage.googleapis.com/site-assets/WTlJYNE0s5WsAOppRsz8aoupARtZi4TILMhekELgwbE_visual-166b98e9537",
+		"description": "Saving the world, one room at a time"
+	},
+	{
+		"feedId": "feed/http://www.instructables.com/tag/type:id/popular:true/rss.xml",
+		"title": "Instructables: exploring - popular",
+		"website": "https://www.instructables.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/6_3q24sZJIVzxTii6gAV8ZVMxtWAPSgG6Jr1dHaJIeE_icon-16546d7ea92",
+		"visualUrl": "https://storage.googleapis.com/site-assets/6_3q24sZJIVzxTii6gAV8ZVMxtWAPSgG6Jr1dHaJIeE_visual-16546d7ea92",
+		"description": "Instructables is a community for people who like to make things. Come explore, share, and make your next project with us!"
+	},
+	{
+		"feedId": "feed/http://makezine.com/projects/feed/",
+		"title": "Projects – Make: DIY Projects and Ideas for Makers",
+		"website": "https://makezine.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/FXvXliiK_5vD7yhAqccww4FZQHNw51DpkB63Gs3WwxU_icon-15e848d70d2",
+		"visualUrl": "https://storage.googleapis.com/site-assets/FXvXliiK_5vD7yhAqccww4FZQHNw51DpkB63Gs3WwxU_visual-15e848d70d2",
+		"description": "Make: is the voice of the Maker Movement, empowering, inspiring and connecting makers worldwide."
+	},
+	{
+		"feedId": "feed/http://www.ikeahackers.net/category/hacks/feed",
+		"title": "HACKS – IKEA Hackers",
+		"website": "https://www.ikeahackers.net",
+		"iconUrl": "https://storage.googleapis.com/site-assets/Dvc6V_X4IG6r-kYj2S0S7hbFPhQl9iXYtL-YqXZ747M_icon-16b67841511",
+		"visualUrl": "https://storage.googleapis.com/site-assets/Dvc6V_X4IG6r-kYj2S0S7hbFPhQl9iXYtL-YqXZ747M_visual-16b67841511",
+		"description": "IKEA hackers is the site for hacks and mods on all things IKEA. Browse thousands of ideas to transform your IKEA furniture to fit your home and life."
+	}
+]

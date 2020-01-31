@@ -1,0 +1,25 @@
+.feed-selection{
+    min-width: 260px;
+}
+
+.feed-item{
+    padding: 8px;
+    cursor: pointer;
+}
+
+.feed-item:hover{
+    background-color: #efefef;
+}
+
+.category-active{
+    font-weight: bold;
+}
+
+.feed-item:hover svg{
+    color: #4b4b4b;
+}
+
+.feed-item svg {
+    width: 20px !important;
+    color: #b6b6b6;
+}

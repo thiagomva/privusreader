@@ -1,0 +1,169 @@
+.source-link{
+    color: #1a1a1a;
+    text-decoration: none;
+}
+
+.source-link:hover{
+    text-decoration: none;
+    color: unset;
+}
+
+.source-card{
+    padding: 8px;
+}
+
+.source-card,
+.source-time-actions{
+    display: flex;
+    flex-direction: row;    
+}
+
+.source-img{
+    height: 138px;
+    background-size: cover;
+    width: 208px;
+    min-width: 208px;
+    max-width: 208px;
+    background-color: #4b4b4b;
+    margin-right: 20px;
+    margin-top: 3px;
+    margin-bottom: 3px;
+}
+
+@media(max-width: 576px) {
+    .source-img{
+        display: none;
+    }
+}
+
+.source-title{
+    font-size: 20px;
+    font-weight: bold;
+    font-style: normal;
+    font-stretch: normal;
+    letter-spacing: 1.1px;
+    text-align: left;
+    color: #323232;
+    line-height: 1.2;
+    margin-bottom: 8px;
+    max-height: 48px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+}
+
+.source-title.read-title {
+    color: #32323299;
+}
+
+.source-content{
+    font-size: 12px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    letter-spacing: 0.6px;
+    text-align: left;
+    color: #858585;
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    line-height: 16px;
+    max-height: 48px;
+}
+
+.source-info,
+.source-time,
+.source-time-actions{
+    font-size: 14px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 2.14;
+    letter-spacing: 0.35px;
+    text-align: left;
+    color: #323232;
+    text-decoration: none;
+}
+
+.favorited,
+.read{
+    color: #e69500 !important;
+}
+
+.source-actions svg{
+    margin-left: 5px;
+    margin-right: 5px;
+    color: #4b4b4b;
+    cursor: pointer;
+}
+
+.source-details{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+}
+
+.source-card.inline {
+    border-bottom: 1px solid #bbbbbb;
+}
+
+.source-card.inline:hover {
+    background: #efefef;
+}
+
+.inline .source-details {
+    width: 100%;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    white-space: nowrap;
+    flex-direction: row;
+    height: 24px;
+}
+
+.inline .source-link {
+    color: #1a1a1a;
+    text-decoration: none;
+    display: inline-block;
+    width: calc(100% - 100px);
+    overflow: hidden;
+    text-overflow: ellipsis;
+    margin-right: 5px;
+}
+
+.inline .source-title,
+.inline .source-content,
+.inline .source-actions,
+.inline .source-time-actions{
+    display: inline;
+}
+
+.inline .source-title{
+    font-size: 16px;
+    margin-right: 5px;
+    letter-spacing: unset;
+}
+
+.inline .source-time,
+.inline .source-actions
+{
+    width: 50px;
+    display: inline-block;
+    font-size: 12px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.inline .source-info {
+    font-size: 12px;
+    margin-right: 8px;
+    width: 160px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.inline .source-img{
+    display: none;
+}

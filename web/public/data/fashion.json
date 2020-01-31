@@ -1,0 +1,770 @@
+[
+	{
+		"feedId": "feed/http://feeds.feedburner.com/thesartorialist",
+		"title": "The Sartorialist",
+		"website": "https://www.thesartorialist.com",
+		"iconUrl": "",
+		"visualUrl": "",
+		"description": "Sartorialist's Blog."
+	},
+	{
+		"feedId": "feed/http://feeds.feedburner.com/fashionistacom",
+		"title": "Fashionista",
+		"website": "https://fashionista.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/k-CSD4UO15JsfufkBOM1Qjsm9Y02T4X3nOl5Ufoyvck_icon-15c1fc26392",
+		"visualUrl": "https://storage.googleapis.com/site-assets/k-CSD4UO15JsfufkBOM1Qjsm9Y02T4X3nOl5Ufoyvck_visual-15c1fc26392",
+		"description": "\tFashionista.com is an online explosion of personalities, companies, events and trends that shape the fashion universe. "
+	},
+	{
+		"feedId": "feed/http://hypebeast.com/feed/",
+		"title": "HYPEBEAST",
+		"website": "https://hypebeast.com/",
+		"iconUrl": "https://storage.googleapis.com/site-assets/pBZIA_lPyLw4H9j5Cb58Tx2wjsyemXt9v7WabWy9EzM_icon-1617cdba0aa",
+		"visualUrl": "https://storage.googleapis.com/site-assets/pBZIA_lPyLw4H9j5Cb58Tx2wjsyemXt9v7WabWy9EzM_visual-1617cdba0aa",
+		"description": "Leading online destination for men's contemporary fashion and streetwear. Shop at our store and also enjoy the best in daily editorial content. "
+	},
+	{
+		"feedId": "feed/http://www.extrapetite.com/feed",
+		"title": "Extra Petite",
+		"website": "http://www.extrapetite.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/2v_v6iBIEwKkq1WSza3V7tgQvfPw383WjTPblqzR7jQ_icon-15db18bd91d",
+		"visualUrl": "https://storage.googleapis.com/site-assets/2v_v6iBIEwKkq1WSza3V7tgQvfPw383WjTPblqzR7jQ_visual-15db18bd91d",
+		"description": "Fashion, style tips, and outfit ideas | Based in Boston."
+	},
+	{
+		"feedId": "feed/http://feeds.feedburner.com/highsnobiety/rss",
+		"title": "Highsnobiety",
+		"website": "https://www.highsnobiety.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/8OTsYBNzeuR-Smxicm_6NYzMo3ky_MptTfzpneYw0Wg_icon-16540689008",
+		"visualUrl": "https://storage.googleapis.com/site-assets/8OTsYBNzeuR-Smxicm_6NYzMo3ky_MptTfzpneYw0Wg_visual-16540689008",
+		"description": "Online lifestyle news site covering sneakers, streetwear, street art and more."
+	},
+	{
+		"feedId": "feed/http://putthison.com/rss",
+		"title": "Put This On",
+		"website": "https://putthison.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/Q2sO_FeBoSjd_Yd5r7RzTh1GGTS76rdrDITd4V3S9Zw_icon-1651da98cd7",
+		"visualUrl": "https://storage.googleapis.com/site-assets/Q2sO_FeBoSjd_Yd5r7RzTh1GGTS76rdrDITd4V3S9Zw_visual-1651da98cd7",
+		"description": "A blog about dressing like a grownup."
+	},
+	{
+		"feedId": "feed/http://feeds.feedburner.com/Dappered",
+		"title": "Dappered Style",
+		"website": "https://dappered.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/CHNZW4MhxqGN-blsf8NiMiLJAgvu-prZKsKqejWMDSw_icon-167268735d3",
+		"visualUrl": "https://storage.googleapis.com/site-assets/CHNZW4MhxqGN-blsf8NiMiLJAgvu-prZKsKqejWMDSw_visual-167268735d3",
+		"description": "Your Daily Style Updated from Dappered.com"
+	},
+	{
+		"feedId": "feed/http://www.puttingmetogether.com/feeds/posts/default",
+		"title": "Putting Me Together",
+		"website": "https://www.puttingmetogether.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/dkvz3zMVdlk98FZbSSmmvMyU_7DHiFcQSkY1I9QcBco_icon-16087afe4c1",
+		"visualUrl": "https://storage.googleapis.com/site-assets/dkvz3zMVdlk98FZbSSmmvMyU_7DHiFcQSkY1I9QcBco_visual-16087afe4c1",
+		"description": "Style Help for the Everyday Woman."
+	},
+	{
+		"feedId": "feed/http://kendieveryday.blogspot.com/feeds/posts/default",
+		"title": "Kendi Everyday",
+		"website": "http://www.kendieveryday.com",
+		"iconUrl": "http://storage.googleapis.com/site-assets/oqvfjAU52zsVJ4BEjduk5zJzlJ4AbrqH7MOiJCtVLT4_icon-15415bf1c47",
+		"visualUrl": "http://storage.googleapis.com/site-assets/oqvfjAU52zsVJ4BEjduk5zJzlJ4AbrqH7MOiJCtVLT4_visual-15415bf1c47",
+		"description": "Kendi Everyday is a every girl’s guide to living your best life. "
+	},
+	{
+		"feedId": "feed/http://www.un-fancy.com/feed/",
+		"title": "Un-Fancy",
+		"website": "http://www.un-fancy.com",
+		"iconUrl": "http://storage.googleapis.com/site-assets/Nvb-bkHlYteLCjbXeLfcnvKgbzSBGJtSqweOQ83cMuM_sicon-1541f2bf60d",
+		"visualUrl": "http://storage.googleapis.com/site-assets/Nvb-bkHlYteLCjbXeLfcnvKgbzSBGJtSqweOQ83cMuM_svisual-1541f2bf60d",
+		"description": "Mindful style."
+	},
+	{
+		"feedId": "feed/http://www.businessoffashion.com/feed",
+		"title": "The Business of Fashion",
+		"website": "https://www.businessoffashion.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/13dQxBpYv_S22vUFxsifPradWazBipczZK9qEpwYtNc_icon-1639392a800",
+		"visualUrl": "https://storage.googleapis.com/site-assets/13dQxBpYv_S22vUFxsifPradWazBipczZK9qEpwYtNc_visual-1639392a800",
+		"description": "Fashion News, Analysis and Business Intelligence from the leading digital authority on the global fashion industry."
+	},
+	{
+		"feedId": "feed/http://www.garancedore.fr/en/feed/",
+		"title": "DORÉ",
+		"website": "https://www.wearedore.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/CuDOdVvVD5V48nmPowz-eRsqBmCJfznx64uusB2NJ8I_sicon-16b58aa1e0e",
+		"visualUrl": "https://storage.googleapis.com/site-assets/CuDOdVvVD5V48nmPowz-eRsqBmCJfznx64uusB2NJ8I_svisual-16b58aa1e0e",
+		"description": "A beautiful place where style, beauty and creativity are not taken so seriously. Founded by Garance Doré."
+	},
+	{
+		"feedId": "feed/http://www.manrepeller.com/feeds/posts/default",
+		"title": "Man Repeller",
+		"website": "https://www.manrepeller.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/RjVLh1fM-bA2YqObP9Fw3_txpTo7QHHOJungbdxO0Hc_icon-16b216186e1",
+		"visualUrl": "https://storage.googleapis.com/site-assets/RjVLh1fM-bA2YqObP9Fw3_txpTo7QHHOJungbdxO0Hc_visual-16b216186e1",
+		"description": "Where an interest in fashion never minimizes one's intellect."
+	},
+	{
+		"feedId": "feed/http://feeds.whowhatwear.com/whowhatwear",
+		"title": "Who What Wear",
+		"website": "https://whowhatwear.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/wNFGqqfrfROb8MSS8QwwgqXA93H-sYhCg8bNYE7OcUw_icon-1654befbc3b",
+		"visualUrl": "https://storage.googleapis.com/site-assets/wNFGqqfrfROb8MSS8QwwgqXA93H-sYhCg8bNYE7OcUw_visual-1654befbc3b",
+		"description": "Get the latest and greatest celebrity style, runway trends, and shopping suggestions from the fashion and beauty experts at whowhatwear.com!"
+	},
+	{
+		"feedId": "feed/http://www.refinery29.com/index.xml",
+		"title": "Refinery29",
+		"website": "https://www.refinery29.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/3EFSUgER3DWl3qnmKSM7sf4xY35_UTL_c8M_WtftVK0_icon-16bb0e9967b",
+		"visualUrl": "https://storage.googleapis.com/site-assets/3EFSUgER3DWl3qnmKSM7sf4xY35_UTL_c8M_WtftVK0_visual-16bb0e9967b",
+		"description": "Refinery29 is a modern woman's destination for how to live a stylish, well-rounded life. Read on for breaking entertainment news, fashion tips, health, and more."
+	},
+	{
+		"feedId": "feed/http://galmeetsglam.com/feed/",
+		"title": "Gal Meets Glam",
+		"website": "https://galmeetsglam.com",
+		"iconUrl": "https://storage.googleapis.com/test-site-assets/U6jVOTvtpretwmMwDaoTBrFC2RVKW4lNcqoeCLRpCv0_oicon-1658ba88bdd",
+		"visualUrl": "https://storage.googleapis.com/test-site-assets/U6jVOTvtpretwmMwDaoTBrFC2RVKW4lNcqoeCLRpCv0_ovisual-1658ba88bdd",
+		"description": "A Charleston Based Style and Beauty Blog by Julia Engel"
+	},
+	{
+		"feedId": "feed/http://feeds.feedburner.com/Fashionbeans",
+		"title": "FashionBeans Full RSS Feed",
+		"website": "http://www.fashionbeans.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/B4BDklXgWKL9-3e2mb3acC39v7lLOU0RJ1T59rxirzA_icon-16a6a7e92d5",
+		"visualUrl": "https://storage.googleapis.com/site-assets/B4BDklXgWKL9-3e2mb3acC39v7lLOU0RJ1T59rxirzA_visual-16a6a7e92d5",
+		"description": "FashionBeans.com is a leading men's style and lifestyle portal. We provide men with the know-how to live their lives stylishly, publishing across style, grooming, fitness, watches, tech, culture, travel and food and drink."
+	},
+	{
+		"feedId": "feed/http://www.valetmag.com/distribution/rss_all.xml",
+		"title": "Valet.",
+		"website": "https://www.valetmag.com/",
+		"iconUrl": "https://storage.googleapis.com/site-assets/ctXfthgjejr6chts5uXHtjlmfwWff2OulV_DfDw8w54_icon-1673a8d12bd",
+		"visualUrl": "https://storage.googleapis.com/site-assets/ctXfthgjejr6chts5uXHtjlmfwWff2OulV_DfDw8w54_visual-1673a8d12bd",
+		"description": "Your concierge to a well-styled life. Intelligent, rakish and slightly irreverent, Valet. combines expert advice and insider knowledge with the latest style and culture news to help men be their best."
+	},
+	{
+		"feedId": "feed/http://cupcakesandcashmere.com/rss.xml",
+		"title": "Cupcakes & Cashmere",
+		"website": "https://cupcakesandcashmere.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/LR-IBzfgKqR6Pxze4XzM5UzRMzCqk-zOe57rado5mk4_icon-1675f44c121",
+		"visualUrl": "https://storage.googleapis.com/site-assets/LR-IBzfgKqR6Pxze4XzM5UzRMzCqk-zOe57rado5mk4_visual-1675f44c121",
+		"description": "Cupcakes and Cashmere is the premier destination for fashion, food and lifestyle inspiration."
+	},
+	{
+		"feedId": "feed/http://9to5chic.com/feed",
+		"title": "9to5chic",
+		"website": "https://9to5chic.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/AvYWwlQzQusGKcYDGU_BwGCLzQN70EH9rfiXPP-G9OQ_icon-162e2038c74",
+		"visualUrl": "https://storage.googleapis.com/site-assets/AvYWwlQzQusGKcYDGU_BwGCLzQN70EH9rfiXPP-G9OQ_visual-162e2038c74",
+		"description": "Personal Style Blog for Work in San Francisco Bay Area"
+	},
+	{
+		"feedId": "feed/http://www.wendyslookbook.com/feed/",
+		"title": "Wendy's Lookbook",
+		"website": "https://www.wendyslookbook.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/plcyis8rDkxoPPCWhR8ub6rm-JIAXgqDo0hJMU7pv_M_icon-164ea2ac6ed",
+		"visualUrl": "https://storage.googleapis.com/site-assets/plcyis8rDkxoPPCWhR8ub6rm-JIAXgqDo0hJMU7pv_M_visual-164ea2ac6ed",
+		"description": "Fashion Guru - Inspiration. Imagination. Fashion."
+	},
+	{
+		"feedId": "feed/http://damselindior.com/feed/",
+		"title": "Damsel In Dior",
+		"website": "https://damselindior.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/lFHPOy1Gzjf0fRz1R32lmToAlNC9jEK6DubPD7PKEp0_icon-1612d9aa050",
+		"visualUrl": "https://storage.googleapis.com/site-assets/lFHPOy1Gzjf0fRz1R32lmToAlNC9jEK6DubPD7PKEp0_visual-1612d9aa050",
+		"description": "A Fashion, Travel & Lifestyle Blog"
+	},
+	{
+		"feedId": "feed/http://dieworkwear.com/rss",
+		"title": "Die, Workwear!",
+		"website": "https://dieworkwear.com/",
+		"iconUrl": "https://storage.googleapis.com/site-assets/JesNAsvT1ZbquMcFYtSUISjY3InFoLdrl7svjnWrRew_icon-16a1acdfa24",
+		"visualUrl": "https://storage.googleapis.com/site-assets/JesNAsvT1ZbquMcFYtSUISjY3InFoLdrl7svjnWrRew_visual-16a1acdfa24",
+		"description": "A semi-daily blog about classic men’s tailoring and semi-casual attire. Find more of my writing at Put This On, which you can visit at www.putthison.com."
+	},
+	{
+		"feedId": "feed/http://www.gq.com/services/rss/feeds/latest.xml",
+		"title": "GQ",
+		"website": "https://www.gq.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/uaxUO2V4POzzYlUkCFk3veP7lab56-_tb4ismHzXC1s_sicon-16d93aa3734",
+		"visualUrl": "https://storage.googleapis.com/site-assets/uaxUO2V4POzzYlUkCFk3veP7lab56-_tb4ismHzXC1s_svisual-16d93aa3734",
+		"description": "homepage | The latest tips and advice for men on style, grooming, fitness, best products, travel destinations and more.  Find politics, sports and entertainment news."
+	},
+	{
+		"feedId": "feed/http://feeds.feedburner.com/caphillstyle/ZmEu",
+		"title": "Capitol Hill Style",
+		"website": "https://theworkedit.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/FtJY-p1f5ve-pqXzA-YYZDAl5W_Pqxl7cm8p6MNtYGw_sicon-169572f16e4",
+		"visualUrl": "https://storage.googleapis.com/site-assets/FtJY-p1f5ve-pqXzA-YYZDAl5W_Pqxl7cm8p6MNtYGw_svisual-169572f16e4",
+		"description": "A Fashion Blog for Professional Women"
+	},
+	{
+		"feedId": "feed/http://www.pennypincherfashion.com/feeds/posts/default",
+		"title": "Penny Pincher Fashion",
+		"website": "https://www.pennypincherfashion.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/9UtXcfOgGyoHpZftP7YFJIuhShT6ampO6eK4mONPaXw_sicon-15e08c339d9",
+		"visualUrl": "https://storage.googleapis.com/site-assets/9UtXcfOgGyoHpZftP7YFJIuhShT6ampO6eK4mONPaXw_svisual-15e08c339d9",
+		"description": "Your source for style inspiration, hair/beauty ideas and affordable fashion finds."
+	},
+	{
+		"feedId": "feed/http://becauseimaddicted.net/feeds/posts/default",
+		"title": "because im addicted",
+		"website": "https://becauseimaddicted.net",
+		"iconUrl": "https://storage.googleapis.com/site-assets/f-Bs0ukv1dRskFGjvxR100Q7DUec1wiZDQruwAIpauI_icon-16cc7cea447",
+		"visualUrl": "https://storage.googleapis.com/site-assets/f-Bs0ukv1dRskFGjvxR100Q7DUec1wiZDQruwAIpauI_visual-16cc7cea447",
+		"description": "Cultivating my love for wellness, clean recipes, natural beauty, and fashion into a collection of style and self-love."
+	},
+	{
+		"feedId": "feed/http://www.eatsleepwear.com/feed/",
+		"title": "eat.sleep.wear. – Fashion & Lifestyle Blog by Kimberly Lapides",
+		"website": "https://www.eatsleepwear.com",
+		"iconUrl": "https://storage.googleapis.com/test-site-assets/WocnWSpdznqAXyFtKeufc1CxRK5TL1-uHS_QluZ0GtA_oicon-1658babb2bf",
+		"visualUrl": "https://storage.googleapis.com/test-site-assets/WocnWSpdznqAXyFtKeufc1CxRK5TL1-uHS_QluZ0GtA_ovisual-1658babb2bf",
+		"description": "I celebrate personal style, photography, and everyday inspirations of fashion as well as the occasional cupcake."
+	},
+	{
+		"feedId": "feed/http://www.jseverydayfashion.com/feeds/posts/default",
+		"title": "Home - J's Everyday Fashion",
+		"website": "https://jseverydayfashion.com/home/",
+		"iconUrl": "https://storage.googleapis.com/site-assets/lpbRq__fjX1j_kbptRbUAeJIqFBnOvkaJc1bDZtyYzY_icon-16afd576da8",
+		"visualUrl": "https://storage.googleapis.com/site-assets/lpbRq__fjX1j_kbptRbUAeJIqFBnOvkaJc1bDZtyYzY_visual-16afd576da8",
+		"description": "Jeanette Johnson, author and founder of J's Everyday Fashion. Budget-friendly, uplifting outfit ideas + meaningful discussions on style."
+	},
+	{
+		"feedId": "feed/http://memorandum.com/feed/",
+		"title": "MEMORANDUM | NYC Fashion & Lifestyle Blog for the Working Girl",
+		"website": "https://www.memorandum.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/CpK-l7hemvT3OVhEoJJLCBYDigFSPnVKmBXXJsPvEYs_icon-166ce395947",
+		"visualUrl": "https://storage.googleapis.com/site-assets/CpK-l7hemvT3OVhEoJJLCBYDigFSPnVKmBXXJsPvEYs_visual-166ce395947",
+		"description": "A New York City fashion and lifestyle blog by Mary Orton offering fashion, workwear, beauty, home decor and travel tips"
+	},
+	{
+		"feedId": "feed/http://feeds.feedburner.com/WardrobeOxygen",
+		"title": "Wardrobe Oxygen - a Personal Style and Fashion Advice Blog",
+		"website": "https://www.wardrobeoxygen.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/ViFo70nHHZ-1lkoocEvcrz75ITaqJm9kZBagPKMPX6A_icon-165293f98fe",
+		"visualUrl": "https://storage.googleapis.com/site-assets/ViFo70nHHZ-1lkoocEvcrz75ITaqJm9kZBagPKMPX6A_visual-165293f98fe",
+		"description": "Real Life Fashion Advice by Alison Gary"
+	},
+	{
+		"feedId": "feed/http://well-spent.com/feed/",
+		"title": "Well Spent.",
+		"website": "http://well-spent.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/kCy_Ntl9Mdc1rXfAeWsyff7yy0AABrbEdJ2zBKAyIkc_sicon-16c3dd33226",
+		"visualUrl": "https://storage.googleapis.com/site-assets/kCy_Ntl9Mdc1rXfAeWsyff7yy0AABrbEdJ2zBKAyIkc_svisual-16c3dd33226",
+		"description": "Obtainable, honestly crafted goods"
+	},
+	{
+		"feedId": "feed/http://feeds.feedburner.com/TheEffortlessGent",
+		"title": "Effortless Gent",
+		"website": "https://effortlessgent.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/zEvRutc23BoLCL-vebUgjPa44Z9Uhc5l8VtI6UAo_FI_icon-16ce40dca1a",
+		"visualUrl": "https://storage.googleapis.com/site-assets/zEvRutc23BoLCL-vebUgjPa44Z9Uhc5l8VtI6UAo_FI_visual-16ce40dca1a",
+		"description": "Dress well and feel confident, no matter where you're headed"
+	},
+	{
+		"feedId": "feed/http://www.permanentstyle.co.uk/feeds/posts/default",
+		"title": "Permanent Style",
+		"website": "https://www.permanentstyle.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/L0gLywmgNN20y28W3UeyvfZuvwcz5rqFpmbjll9M928_sicon-16d88116018",
+		"visualUrl": "https://storage.googleapis.com/site-assets/L0gLywmgNN20y28W3UeyvfZuvwcz5rqFpmbjll9M928_svisual-16d88116018",
+		"description": "The leading British blog on tailoring, luxury and men's style"
+	},
+	{
+		"feedId": "feed/http://feeds.feedblitz.com/corporette",
+		"title": "Corporette.com",
+		"website": "https://corporette.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/JlR0i0hkafdZPOPM5TbyFrhc8bIq2Ja2apNnR44BEaI_icon-16761d06872",
+		"visualUrl": "https://storage.googleapis.com/site-assets/JlR0i0hkafdZPOPM5TbyFrhc8bIq2Ja2apNnR44BEaI_visual-16761d06872",
+		"description": "A work fashion blog offering fashion, lifestyle, and career advice for overachieving chicks"
+	},
+	{
+		"feedId": "feed/http://feeds2.feedburner.com/TheArtOfManliness",
+		"title": "The Art of Manliness",
+		"website": "https://www.artofmanliness.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/8_xASU9jnUEiu07zoh0CYwFQrlKhl9qioiQ5iwzL5Gc_icon-168142bb084",
+		"visualUrl": "https://storage.googleapis.com/site-assets/8_xASU9jnUEiu07zoh0CYwFQrlKhl9qioiQ5iwzL5Gc_visual-168142bb084",
+		"description": "Men's Interests and Lifestyle"
+	},
+	{
+		"feedId": "feed/http://www.thebudgetbabe.com/feeds/index.rss2",
+		"title": "The Budget Babe | Affordable Fashion & Style Blog",
+		"website": "https://www.thebudgetbabe.com/",
+		"iconUrl": "https://storage.googleapis.com/site-assets/t-xolk5ORacUIENM-LdR5F966KIQdeg5zPta47ql2sQ_icon-16cf7e98fb1",
+		"visualUrl": "https://storage.googleapis.com/site-assets/t-xolk5ORacUIENM-LdR5F966KIQdeg5zPta47ql2sQ_visual-16cf7e98fb1",
+		"description": "Budget fashion blog featuring celebrity and designer looks for less, sale scoops, exclusive deals, plus honest reports on the places we all love to shop!"
+	},
+	{
+		"feedId": "feed/http://www.esquire.com/blogs/mens-fashion/mens-fashion-rss/",
+		"title": "Style - Esquire",
+		"website": "https://www.esquire.com/",
+		"iconUrl": "https://storage.googleapis.com/site-assets/JZfwgfjwVDppSG-lX107W0lnGWW-ePmI5SflGpcP38A_icon-16852be840e",
+		"visualUrl": "https://storage.googleapis.com/site-assets/JZfwgfjwVDppSG-lX107W0lnGWW-ePmI5SflGpcP38A_visual-16852be840e",
+		"description": "Esquire is your destination for the latest news headlines, political developments, celebrity interviews, mens fashion advice, and food & drink recipes. "
+	},
+	{
+		"feedId": "feed/http://youlookfab.com/feed/",
+		"title": "YouLookFab",
+		"website": "https://youlookfab.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/nUaLy9AGTElU8fz-RPFV8NmFanmGGJk3diIEUPqbIlM_icon-15b92839f62",
+		"visualUrl": "https://storage.googleapis.com/site-assets/nUaLy9AGTElU8fz-RPFV8NmFanmGGJk3diIEUPqbIlM_visual-15b92839f62",
+		"description": "Style advice from expert Angie and a supportive community of fashion lovers helps women of all body types, budgets and lifestyles decide what to wear"
+	},
+	{
+		"feedId": "feed/http://www.pinkpeonies.com/feed/",
+		"title": "Rach Parcell",
+		"website": "https://rachelparcell.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/SIchc6Sr2OC6sLViVdbDKxGqvBt7C2tg1dvMauLxUHg_sicon-16b045ec84e",
+		"visualUrl": "https://storage.googleapis.com/site-assets/SIchc6Sr2OC6sLViVdbDKxGqvBt7C2tg1dvMauLxUHg_svisual-16b045ec84e",
+		"description": "A Personal Style, Beauty & Home Blog"
+	},
+	{
+		"feedId": "feed/http://feeds.feedburner.com/StyleGirlfriend",
+		"title": "Style Girlfriend",
+		"website": "https://stylegirlfriend.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/KIPOyzlExM5cGw5Tow1c3mUbCQe1SJDF5h2M6DaKU0U_icon-164dcce8118",
+		"visualUrl": "https://storage.googleapis.com/site-assets/KIPOyzlExM5cGw5Tow1c3mUbCQe1SJDF5h2M6DaKU0U_visual-164dcce8118",
+		"description": "A digital handbook for the modern man, Style Girlfriend helps millennial guys improve their style and show up in their lives with more confidence."
+	},
+	{
+		"feedId": "feed/http://www.songofstyle.com/feed",
+		"title": "Song of Style",
+		"website": "http://www.songofstyle.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/q-ksZEOki6P1yPufS9C0VX_4QRiRPCuY3ox4cpIblWw_icon-1671aea329a",
+		"visualUrl": "https://storage.googleapis.com/site-assets/q-ksZEOki6P1yPufS9C0VX_4QRiRPCuY3ox4cpIblWw_visual-1671aea329a",
+		"description": "A fashion and interior design Blogger / YouTuber featuring videos focused on fashion, design inspiration, DIY and more."
+	},
+	{
+		"feedId": "feed/http://feeds.feedburner.com/uncrate",
+		"title": "Uncrate",
+		"website": "https://uncrate.com/",
+		"iconUrl": "https://storage.googleapis.com/site-assets/wrXeKwvjFsqgWHicFXvijNMhIcMl_JvORxwN4d4q0_Q_icon-169e41960be",
+		"visualUrl": "https://storage.googleapis.com/site-assets/wrXeKwvjFsqgWHicFXvijNMhIcMl_JvORxwN4d4q0_Q_visual-169e41960be",
+		"description": "The original buyer's guide for men, filled with the world's best gear, apparel, and automobiles."
+	},
+	{
+		"feedId": "feed/http://feeds.feedburner.com/GentlemansGazette",
+		"title": "Gentleman's Gazette",
+		"website": "https://www.gentlemansgazette.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/DJW-UjeYDuEmybUH0Dx1Cqic6SOAF5xg0HZe2FtzsVw_icon-16352a22ada",
+		"visualUrl": "https://storage.googleapis.com/site-assets/DJW-UjeYDuEmybUH0Dx1Cqic6SOAF5xg0HZe2FtzsVw_visual-16352a22ada",
+		"description": "Reviews & Articles About Classic Men's Clothing & Accessories"
+	},
+	{
+		"feedId": "feed/http://www.stylebee.ca/feed/",
+		"title": "Style Bee",
+		"website": "https://www.stylebee.ca",
+		"iconUrl": "https://storage.googleapis.com/site-assets/BQLVUoxn3CCCsdi-J_EOX3V9aWHFVbU9miSf7dyA7pk_sicon-1689dd74269",
+		"visualUrl": "https://storage.googleapis.com/site-assets/BQLVUoxn3CCCsdi-J_EOX3V9aWHFVbU9miSf7dyA7pk_svisual-1689dd74269",
+		"description": "Thoughtful style & closet curation."
+	},
+	{
+		"feedId": "feed/http://feedproxy.google.com/nymag/fashion",
+		"title": "thecut",
+		"website": "https://www.thecut.com/news/",
+		"iconUrl": "https://storage.googleapis.com/site-assets/AINYKInZ7RWP2Tt8rvWNgKejCZThIlPQ-SvtdUDUVSE_icon-15e026e5813",
+		"visualUrl": "https://storage.googleapis.com/site-assets/AINYKInZ7RWP2Tt8rvWNgKejCZThIlPQ-SvtdUDUVSE_visual-15e026e5813",
+		"description": "With wit, honesty, and power, The Cut covers the issues that matter most to women with stylish minds."
+	},
+	{
+		"feedId": "feed/http://www.classygirlswearpearls.com/feed",
+		"title": "Classy Girls Wear Pearls",
+		"website": "https://www.classygirlswearpearls.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/9aS5cUpwj5csXXIf3sXgdpyrp260ZBxTAAG30YxbEDs_icon-1642668f7e2",
+		"visualUrl": "https://storage.googleapis.com/site-assets/9aS5cUpwj5csXXIf3sXgdpyrp260ZBxTAAG30YxbEDs_visual-1642668f7e2",
+		"description": "SARAH VICKERS\n\t\n\tA New England girl’s pursuit of quality fashion, friendship and coastal living.\n\tABOUT ● CONTACT\n\t\t\n\t\t\n\t\t\t\t\t\n\t\t\n\t\t\n\t\t\t\t\t\n\t\t\n\t\t\n\t\t\t\t\t\n\t\t\n\t\t\n\t\t\t\t\t\n\n\t\tNEWSLETTER\n\t\n\n\t\tKIEL JAMES PATRICK\n\t\n\t\t\t\t\n\tPerfect for Fall trips to the orchard, or for snuggling up by a crackling fire with a good book, our Autumn Knit dresses were designed with crisp weather in mind. Made from the perfect wool blend and constructed with a traditional cable knit, this dress will keep you cozy, cute and warm a..."
+	},
+	{
+		"feedId": "feed/http://sincerelyjules.com/feed",
+		"title": "Sincerely Jules",
+		"website": "http://sincerelyjules.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/mdifczxfZtLUqpoC5iRqxn_SmwIJ-75-oame7IpwyxE_icon-162ce90cdbc",
+		"visualUrl": "https://storage.googleapis.com/site-assets/mdifczxfZtLUqpoC5iRqxn_SmwIJ-75-oame7IpwyxE_visual-162ce90cdbc",
+		"description": "A Lifestyle & Fashion Blog by Julie Sariñana"
+	},
+	{
+		"feedId": "feed/http://www.brooklynblonde.com/feed",
+		"title": "Brooklyn Blonde",
+		"website": "https://www.brooklynblonde.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/hBNTd91pJE2Z8FLDV7zbJ1EgduEI0lvtndIWkBtPBX4_icon-16c04350461",
+		"visualUrl": "https://storage.googleapis.com/site-assets/hBNTd91pJE2Z8FLDV7zbJ1EgduEI0lvtndIWkBtPBX4_visual-16c04350461",
+		"description": "Fashion & Lifestyle Blog by Helena Glazer"
+	},
+	{
+		"feedId": "feed/http://www.primermagazine.com/feed",
+		"title": "Primer",
+		"website": "https://www.primermagazine.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/kTSFtkhEGp3q9O7oIEnqd9MAPLQZWVbdSkk2v1bpgGM_icon-161760c9137",
+		"visualUrl": "https://storage.googleapis.com/site-assets/kTSFtkhEGp3q9O7oIEnqd9MAPLQZWVbdSkk2v1bpgGM_visual-161760c9137",
+		"description": "Not Your Typical Men's Magazine."
+	},
+	{
+		"feedId": "feed/http://www.realmenrealstyle.com/feed/",
+		"title": "Real Men Real Style",
+		"website": "https://www.realmenrealstyle.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/9H-hh1Pi8-2Hrg1NyR_s4Rppfz96VPZD63ZFCDfG0ZQ_icon-16aedf02997",
+		"visualUrl": "https://storage.googleapis.com/site-assets/9H-hh1Pi8-2Hrg1NyR_s4Rppfz96VPZD63ZFCDfG0ZQ_visual-16aedf02997",
+		"description": "Real Men Real Style is a community where men freely educate themselves about timeless male style rules, get modern fashion advice, classic grooming tips, and learn about communication in every social situation including sales meetings, job interviews, and flirting with women. Join our RMRS community today!"
+	},
+	{
+		"feedId": "feed/http://hespokestyle.com/feed/",
+		"title": "He Spoke Style",
+		"website": "http://hespokestyle.com",
+		"iconUrl": "http://storage.googleapis.com/site-assets/luF4nUUEwKop-dq9e7FQn8RqDaF4eHINbR11t4iP79Q_icon-15413e4b20b",
+		"visualUrl": "http://storage.googleapis.com/site-assets/luF4nUUEwKop-dq9e7FQn8RqDaF4eHINbR11t4iP79Q_visual-15413e4b20b",
+		"description": "Men's Style, Fashion, Grooming, Tips and Advice"
+	},
+	{
+		"feedId": "feed/http://www.hellofashionblog.com/feed",
+		"title": "Hello Fashion",
+		"website": "http://www.hellofashionblog.com",
+		"iconUrl": "http://storage.googleapis.com/site-assets/uW8xSBLsQAFt5vZy1pRc7ZHwyWH0G5LIbPQoAq_yL1w_icon-15411ef76d8",
+		"visualUrl": "http://storage.googleapis.com/site-assets/uW8xSBLsQAFt5vZy1pRc7ZHwyWH0G5LIbPQoAq_yL1w_visual-15411ef76d8",
+		"description": "Fashion and Lifestyle Blog"
+	},
+	{
+		"feedId": "feed/http://www.stripesandsequins.com/feed",
+		"title": "The Stripe",
+		"website": "https://thestripe.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/wQrQWpN8lSoH8GPGSXM5qKrxBNbqwrJUCqB-ZzkfXZE_icon-15f61e97d2e",
+		"visualUrl": "https://storage.googleapis.com/site-assets/wQrQWpN8lSoH8GPGSXM5qKrxBNbqwrJUCqB-ZzkfXZE_visual-15f61e97d2e",
+		"description": "A lifestyle blog about fashion, beauty, travel, and DIY."
+	},
+	{
+		"feedId": "feed/https://feeds.feedburner.com/OutfitPosts",
+		"title": "Outfit Posts",
+		"website": "https://outfitposts.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/EN9AeoI7rZ-wISQQXGy9IywEiZWw8N8dtEPqF5ZRNLE_sicon-16b594ea3c0",
+		"visualUrl": "https://storage.googleapis.com/site-assets/EN9AeoI7rZ-wISQQXGy9IywEiZWw8N8dtEPqF5ZRNLE_svisual-16b594ea3c0",
+		"description": "Daily outfit posts. Mix of professional, casual and travel outfits with the occasional packing list. :)"
+	},
+	{
+		"feedId": "feed/http://the-atlantic-pacific.com/feed/",
+		"title": "Atlantic-Pacific",
+		"website": "https://the-atlantic-pacific.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/lg8Z4Uxaxvpq0Vsb8WIPhQoieHd9xLCAEdaAeSEMhcI_sicon-15e897f8e7f",
+		"visualUrl": "https://storage.googleapis.com/site-assets/lg8Z4Uxaxvpq0Vsb8WIPhQoieHd9xLCAEdaAeSEMhcI_svisual-15e897f8e7f",
+		"description": "A fashion and personal style site by Blair Eadie."
+	},
+	{
+		"feedId": "feed/http://whatkatewore.com/feed/",
+		"title": "What Kate Wore",
+		"website": "https://whatkatewore.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/kvxxJEChIRKPYgfgDPukQmU87tx8XWu7IvwE3rZ1M0c_icon-163de44fcb5",
+		"visualUrl": "https://storage.googleapis.com/site-assets/kvxxJEChIRKPYgfgDPukQmU87tx8XWu7IvwE3rZ1M0c_visual-163de44fcb5",
+		"description": "The go-to source on Kate's style for fans, fashion writers, trend watchers."
+	},
+	{
+		"feedId": "feed/http://www.girlofacertainage.com/feed/",
+		"title": "Girls of a Certain Age",
+		"website": "https://www.girlsofacertainage.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/iVFVqC3I30IBTiakYrLHK-qLZMX-hl8LRC0RUNLUw7E_icon-164f07e7920",
+		"visualUrl": "https://storage.googleapis.com/site-assets/iVFVqC3I30IBTiakYrLHK-qLZMX-hl8LRC0RUNLUw7E_visual-164f07e7920",
+		"description": "You Know Who You Are"
+	},
+	{
+		"feedId": "feed/http://feeds2.feedburner.com/celebuzz/Kggb",
+		"title": "Go Fug Yourself",
+		"website": "https://www.gofugyourself.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/UET_G5Q6auqrNeWzlgbq8Km_SZN22dWnqfaARRyDd5o_icon-15f861502e8",
+		"visualUrl": "https://storage.googleapis.com/site-assets/UET_G5Q6auqrNeWzlgbq8Km_SZN22dWnqfaARRyDd5o_visual-15f861502e8",
+		"description": "Because Fugly Is The New Pretty"
+	},
+	{
+		"feedId": "feed/http://www.tomandlorenzo.com/feed",
+		"title": "Tom + Lorenzo",
+		"website": "https://tomandlorenzo.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/AoBnNo6mYEsadcNoezKo3aDDzQRFIkYylo1LrWfloC4_sicon-16d5f85d04b",
+		"visualUrl": "https://storage.googleapis.com/site-assets/AoBnNo6mYEsadcNoezKo3aDDzQRFIkYylo1LrWfloC4_svisual-16d5f85d04b",
+		"description": "The fabulous, funny & opinionated place for red carpet, runway, celebrity, television, costume, and film commentary, for over 10 years."
+	},
+	{
+		"feedId": "feed/http://unefemme.net/feed",
+		"title": "une femme d'un certain âge",
+		"website": "https://unefemme.net",
+		"iconUrl": "https://storage.googleapis.com/site-assets/o2Sbv4sEab6p_26gRF9NScI_a6Xp3Qli-cQ98Mj11kk_icon-16b5638682c",
+		"visualUrl": "https://storage.googleapis.com/site-assets/o2Sbv4sEab6p_26gRF9NScI_a6Xp3Qli-cQ98Mj11kk_visual-16b5638682c",
+		"description": "Style, for Life"
+	},
+	{
+		"feedId": "feed/http://feeds2.feedburner.com/purseblog",
+		"title": "PurseBlog",
+		"website": "https://www.purseblog.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/kzELMXYR0V2eOvcPVlAbFEjVLB1nm8N4rh2hZpPjEhU_icon-15dda8ec234",
+		"visualUrl": "https://storage.googleapis.com/site-assets/kzELMXYR0V2eOvcPVlAbFEjVLB1nm8N4rh2hZpPjEhU_visual-15dda8ec234",
+		"description": "PurseBlog reviews luxury designer handbags and accessories in a daily editorial."
+	},
+	{
+		"feedId": "feed/http://lefashionimage.blogspot.com/feeds/posts/default",
+		"title": "Le Fashion",
+		"website": "https://www.lefashion.com/",
+		"iconUrl": "https://storage.googleapis.com/site-assets/8trnxB7RUVCznrp_PoPmVEmp69h2svdH9aE-Usg4MWA_icon-16b5a2723e6",
+		"visualUrl": "https://storage.googleapis.com/site-assets/8trnxB7RUVCznrp_PoPmVEmp69h2svdH9aE-Usg4MWA_visual-16b5a2723e6",
+		"description": "The latest in trends, street style, and editorials."
+	},
+	{
+		"feedId": "feed/http://feeds.feedburner.com/TheVivienneFiles",
+		"title": "The Vivienne Files",
+		"website": "https://www.theviviennefiles.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/M8IpNjrCG4sp2uF1ES7KHnGrh5mbcYMbPhD6vXIFReE_icon-169766f37cb",
+		"visualUrl": "https://storage.googleapis.com/site-assets/M8IpNjrCG4sp2uF1ES7KHnGrh5mbcYMbPhD6vXIFReE_visual-169766f37cb",
+		"description": "Capsule wardrobes inspired by art and nature"
+	},
+	{
+		"feedId": "feed/http://www.wwd.com/rss/2/news/recentstories",
+		"title": "WWDWWD",
+		"website": "https://wwd.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/AMlqBgnHBIHgcu1ADv9u6gRXqjUxsLBCJxxR-jm8BX0_icon-164457ac7fe",
+		"visualUrl": "https://storage.googleapis.com/site-assets/AMlqBgnHBIHgcu1ADv9u6gRXqjUxsLBCJxxR-jm8BX0_visual-164457ac7fe",
+		"description": "Women's Wear Daily brings you breaking news about the fashion industry, designers, celebrity trend setters, and extensive coverage of fashion week."
+	},
+	{
+		"feedId": "feed/http://pinteresttoldmeto.blogspot.com/feeds/posts/default",
+		"title": "Sheaffer Told Me To",
+		"website": "https://sheaffertoldmeto.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/0a85FfrpS_L7rAVa7juTrBdhFpVzz7pR55q0etAKoGU_icon-164cc8dbcbb",
+		"visualUrl": "https://storage.googleapis.com/site-assets/0a85FfrpS_L7rAVa7juTrBdhFpVzz7pR55q0etAKoGU_visual-164cc8dbcbb",
+		"description": "Wife, mom, and accidental fashion blogger. I have a passion for sharing things I love with others, and that's what Sheaffer Told Me To is all about!"
+	},
+	{
+		"feedId": "feed/http://advancedstyle.blogspot.com/feeds/posts/default",
+		"title": "Advanced Style",
+		"website": "https://www.advanced.style",
+		"iconUrl": "https://storage.googleapis.com/site-assets/DInXvbjDglDi1qeuSB4-rrF6LBVxckT7LdqcK9EYV04_sicon-16619d74eeb",
+		"visualUrl": "https://storage.googleapis.com/site-assets/DInXvbjDglDi1qeuSB4-rrF6LBVxckT7LdqcK9EYV04_svisual-16619d74eeb",
+		"description": "Advanced Style is Ari Seth Cohen’s blog-based ode to the confidence, beauty, and fashion that can only be achieved through the experience of a life lived glamorously. It is a collection of street fashion unlike any seen before—focused on the over-60 set in the world’s most stylish locales."
+	},
+	{
+		"feedId": "feed/http://goodlifeforless.blogspot.com/feeds/posts/default",
+		"title": "jillgg's good life (for less) | a west michigan style blog",
+		"website": "http://goodlifeforless.blogspot.com/",
+		"iconUrl": "http://storage.googleapis.com/site-assets/KhuYIVL69TOFAOP7cX1JUXKTyTufF44Shg-ugEglBVE_icon-15413bb3e27",
+		"visualUrl": "http://storage.googleapis.com/site-assets/KhuYIVL69TOFAOP7cX1JUXKTyTufF44Shg-ugEglBVE_visual-15413bb3e27",
+		"description": "A personal style blog featuring simple and casual style for moms and women in western michigan."
+	},
+	{
+		"feedId": "feed/http://themomedit.com/feed/",
+		"title": "The Mom Edit",
+		"website": "https://themomedit.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/R4JqAkyLsyF_7sohQgoIDLZ2BvtHiFrMhQild_oFY4M_icon-169da569f29",
+		"visualUrl": "https://storage.googleapis.com/site-assets/R4JqAkyLsyF_7sohQgoIDLZ2BvtHiFrMhQild_oFY4M_visual-169da569f29",
+		"description": "The Mom Edit is a playful, (sometimes) fearless source for all things style, momming, travel, beauty & home. All are welcome here."
+	},
+	{
+		"feedId": "feed/http://blog.stitchfix.com/feed/",
+		"title": "Stitch Fix Style",
+		"website": "https://www.stitchfix.com/women/blog",
+		"iconUrl": "https://storage.googleapis.com/site-assets/ehaRFBmNUXLx2r2v-iSr4GkR_00xyqG4YoLrfPO6u2Q_icon-16b56562730",
+		"visualUrl": "https://storage.googleapis.com/site-assets/ehaRFBmNUXLx2r2v-iSr4GkR_00xyqG4YoLrfPO6u2Q_visual-16b56562730",
+		"description": "Stitch Fix Style | Fashion Inspiration"
+	},
+	{
+		"feedId": "feed/http://www.vogue.com/rss/just-in/",
+		"title": "Vogue",
+		"website": "https://www.vogue.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/_7s3aKffbvnBBdH8I1XOvJi6DWgZifBdtH0GKdJC-p0_icon-160c94641ff",
+		"visualUrl": "https://storage.googleapis.com/site-assets/_7s3aKffbvnBBdH8I1XOvJi6DWgZifBdtH0GKdJC-p0_visual-160c94641ff",
+		"description": "The latest fashion news, beauty coverage, celebrity style, fashion week updates, culture reviews, and videos on Vogue.com."
+	},
+	{
+		"feedId": "feed/http://www.livinginyellow.com/feed",
+		"title": "Living in Yellow",
+		"website": "https://livinginyellow.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/jVkr-0X6vR6h-CWg-874RAXybKiCA1RNbvt15Mpy2eY_icon-16c5873c617",
+		"visualUrl": "https://storage.googleapis.com/site-assets/jVkr-0X6vR6h-CWg-874RAXybKiCA1RNbvt15Mpy2eY_visual-16c5873c617",
+		"description": "A lifestyle and fashion blog that brings you easy to achieve fashion at affordable prices with a side of humor, occasional travel inspiration, recipes, real life and more!"
+	},
+	{
+		"feedId": "feed/http://www.fashionologie.com/posts/feed",
+		"title": "POPSUGAR Fashion",
+		"website": "https://www.popsugar.com/fashion/",
+		"iconUrl": "https://storage.googleapis.com/site-assets/PE0fOPC4HGl3APdqirgrBQZCZftKju20V8dvjuTaEdk_icon-15bf130a154",
+		"visualUrl": "https://storage.googleapis.com/site-assets/PE0fOPC4HGl3APdqirgrBQZCZftKju20V8dvjuTaEdk_visual-15bf130a154",
+		"description": "Dedicated to the latest must haves in fashion and accessories, POPSUGAR Fashion provides the wishlist before the waitlist!"
+	},
+	{
+		"feedId": "feed/http://www.sequinsandstripes.com/feed/",
+		"title": "Hello Adams Family",
+		"website": "http://helloadamsfamily.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/NdQ60Gghhk0KdopOILGVXPKtxt5AdYkvFVkUtWk4ysw_icon-16b58f21c02",
+		"visualUrl": "https://storage.googleapis.com/site-assets/NdQ60Gghhk0KdopOILGVXPKtxt5AdYkvFVkUtWk4ysw_visual-16b58f21c02",
+		"description": "Chicago Based Family, Fashion and Lifestyle Blog"
+	},
+	{
+		"feedId": "feed/http://www.merricksart.com/feeds/posts/default",
+		"title": "Merrick's Art",
+		"website": "https://www.merricksart.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/l8IPeLdB5T3vmRwGFkPOK3mIsa8dK7xqUeN4r-BnYSA_icon-16b59792e78",
+		"visualUrl": "https://storage.googleapis.com/site-assets/l8IPeLdB5T3vmRwGFkPOK3mIsa8dK7xqUeN4r-BnYSA_visual-16b59792e78",
+		"description": "The everyday girl's guide to getting dressed, trying trends, making more of your closet, and even sewing your own clothing with style and sewing expert Merrick White."
+	},
+	{
+		"feedId": "feed/http://thatsnotmyage.blogspot.com/feeds/posts/default",
+		"title": "That’s Not My Age",
+		"website": "https://thatsnotmyage.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/3Q1vnthXWUn9J2cjJo5K-5M5YabnbSwBVpdlaI8t31I_icon-1619dd63ddb",
+		"visualUrl": "https://storage.googleapis.com/site-assets/3Q1vnthXWUn9J2cjJo5K-5M5YabnbSwBVpdlaI8t31I_visual-1619dd63ddb",
+		"description": "It’s not about age, it’s about style. And this is for every woman who refuses to be invisible. Alyson Walsh. I’m a freelance journalist, former magazine fashion editor and author. That’s Not My Age began in 2008, when I noticed a space online to celebrate women (and men) of all ages. I write for the FT’s How To Spend It, The Pool and the Guardian websites."
+	},
+	{
+		"feedId": "feed/http://feeds.feedburner.com/alreadypretty",
+		"title": "Already Pretty | Where style meets body image",
+		"website": "https://www.alreadypretty.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/RkSkv7SswfOv7RsxiY1PNg9wcs9LgThfON1CwSE-0qE_sicon-164309c709a",
+		"visualUrl": "https://storage.googleapis.com/site-assets/RkSkv7SswfOv7RsxiY1PNg9wcs9LgThfON1CwSE-0qE_svisual-164309c709a",
+		"description": null
+	},
+	{
+		"feedId": "feed/http://feeds.feedburner.com/honestlywtf",
+		"title": "Honestly WTF",
+		"website": "https://honestlywtf.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/ggt2WNZnnlhGGRNOjDmgCj86sju7rZ4iB0lCR5GB91M_icon-16374afeff4",
+		"visualUrl": "https://storage.googleapis.com/site-assets/ggt2WNZnnlhGGRNOjDmgCj86sju7rZ4iB0lCR5GB91M_visual-16374afeff4",
+		"description": "A daily dose of fashion discoveries and inspirations, contributed by a stylist and a designer who both see the world through rose-colored shades."
+	},
+	{
+		"feedId": "feed/http://www.seasons-and-salt.com/feed/",
+		"title": "Seasons + Salt",
+		"website": "https://www.seasons-and-salt.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/0DDjWEaYVtxyXbJQUtisL1aCTPdrf2A2hse1xRf3aB4_sicon-16b29aaddce",
+		"visualUrl": "https://storage.googleapis.com/site-assets/0DDjWEaYVtxyXbJQUtisL1aCTPdrf2A2hse1xRf3aB4_svisual-16b29aaddce",
+		"description": "A blog about simple, conscious, style."
+	},
+	{
+		"feedId": "feed/http://happilygrey.com/feed/",
+		"title": "Happily Grey",
+		"website": "https://www.happilygrey.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/Ps0rcoZykgZVC3MkiwbZgi7wiNbwZpdw8BO0OK2YXaQ_icon-1688e9d3988",
+		"visualUrl": "https://storage.googleapis.com/site-assets/Ps0rcoZykgZVC3MkiwbZgi7wiNbwZpdw8BO0OK2YXaQ_visual-1688e9d3988",
+		"description": "Fashion blog"
+	},
+	{
+		"feedId": "feed/http://thechrisellefactor.com/feed/",
+		"title": "The Chriselle Factor",
+		"website": "http://thechrisellefactor.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/m35WEpfK5uo02ucyl1UNHxql8hsc8IMufcRZxAATAHM_icon-163981fa7f8",
+		"visualUrl": "https://storage.googleapis.com/site-assets/m35WEpfK5uo02ucyl1UNHxql8hsc8IMufcRZxAATAHM_visual-163981fa7f8",
+		"description": "A tip-driven website dedicated to beauty, fashion and lifestyle by Chriselle Lim"
+	},
+	{
+		"feedId": "feed/http://www.nytimes.com/services/xml/rss/nyt/FashionandStyle.xml",
+		"title": "NYT > Style",
+		"website": "https://www.nytimes.com/section/style?emc=rss&partner=rss",
+		"iconUrl": "https://storage.googleapis.com/site-assets/_c1U2-fkOia2waiJTyar7DthGf9HXL5_lu6OhdCjW0c_icon-16aedf1729d",
+		"visualUrl": "https://storage.googleapis.com/site-assets/_c1U2-fkOia2waiJTyar7DthGf9HXL5_lu6OhdCjW0c_visual-16aedf1729d",
+		"description": "FashionandStyle"
+	},
+	{
+		"feedId": "feed/http://bluecollarredlipstick.com/feed/",
+		"title": "Blue Collar Red Lipstick",
+		"website": "http://bluecollarredlipstick.com",
+		"iconUrl": "http://storage.googleapis.com/site-assets/2F4sz6RbjwYJMkixqSOKyqvJPhRdym8QtQ9WAr79rWs_sicon-15426f6176a",
+		"visualUrl": "http://storage.googleapis.com/site-assets/2F4sz6RbjwYJMkixqSOKyqvJPhRdym8QtQ9WAr79rWs_svisual-15426f6176a",
+		"description": "Blue Collar Red Lipstick"
+	},
+	{
+		"feedId": "feed/http://www.lecatch.com/feeds/posts/default",
+		"title": "LE CATCH",
+		"website": "https://www.lecatch.com/",
+		"iconUrl": "",
+		"visualUrl": "",
+		"description": "get it before it's gone"
+	},
+	{
+		"feedId": "feed/http://www.thecoveteur.com/feed/",
+		"title": "Coveteur",
+		"website": "http://coveteur.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/gR0pSjGmNA6pK6R8S4pYisGhagN8QfCCXy_0s1gOsU4_icon-16bfec6fe5b",
+		"visualUrl": "https://storage.googleapis.com/site-assets/gR0pSjGmNA6pK6R8S4pYisGhagN8QfCCXy_0s1gOsU4_visual-16bfec6fe5b",
+		"description": "Inside untapped territory (think: closets, homes, backstage, archives and, like, everywhere in between). Thank us later. "
+	},
+	{
+		"feedId": "feed/http://getyourprettyon.com/feed/",
+		"title": "Get Your Pretty On",
+		"website": "https://getyourprettyon.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/73VDnPcXQPB7w9A9CP4mo3TJGI8BKh7dV7_xj5G74xc_icon-16d2675a949",
+		"visualUrl": "https://storage.googleapis.com/site-assets/73VDnPcXQPB7w9A9CP4mo3TJGI8BKh7dV7_xj5G74xc_visual-16d2675a949",
+		"description": "Easy Style, Pretty Life"
+	},
+	{
+		"feedId": "feed/http://girlwithcurves.com/rss",
+		"title": "Girl With Curves",
+		"website": "https://girlwithcurves.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/6tcAh0OHPlCFbT9fykELq_SWR7EAi4szOm0rkjwMSIQ_icon-15d82fc769e",
+		"visualUrl": "https://storage.googleapis.com/site-assets/6tcAh0OHPlCFbT9fykELq_SWR7EAi4szOm0rkjwMSIQ_visual-15d82fc769e",
+		"description": "Style, Beauty and Inspiration curated by Tanesha Awasthi, for the unapologetically confident GIRL WITH CURVES."
+	},
+	{
+		"feedId": "feed/http://fashiongonerogue.com/feed/",
+		"title": "Fashion Gone Rogue",
+		"website": "https://www.fashiongonerogue.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/xS79BhSDb1jOvn2FEvJY6WqVtCQzPo_bPUb0sAD_ni4_icon-1657ed4ab03",
+		"visualUrl": "https://storage.googleapis.com/site-assets/xS79BhSDb1jOvn2FEvJY6WqVtCQzPo_bPUb0sAD_ni4_visual-1657ed4ab03",
+		"description": "The latest in editorial, ad campaigns and covers"
+	},
+	{
+		"feedId": "feed/http://www.thecollegeprepster.com/feeds/posts/default",
+		"title": "Carly the Prepster",
+		"website": "http://www.carlytheprepster.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/snhxWLamWiZ_kyKKS7HBNuYmAJBjnw0gC-bxfWOV-DY_sicon-15f8b32a108",
+		"visualUrl": "https://storage.googleapis.com/site-assets/snhxWLamWiZ_kyKKS7HBNuYmAJBjnw0gC-bxfWOV-DY_svisual-15f8b32a108",
+		"description": null
+	},
+	{
+		"feedId": "feed/http://www.all-theprettybirds.com/feed/",
+		"title": "All The Pretty Birds",
+		"website": "https://www.alltheprettybirds.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/zMfqxLDn1QSc31jBtsorND05NSBtMz0X_DP8-xOgRmA_icon-16b88682c26",
+		"visualUrl": "https://storage.googleapis.com/site-assets/zMfqxLDn1QSc31jBtsorND05NSBtMz0X_DP8-xOgRmA_visual-16b88682c26",
+		"description": "All the Pretty Birds is an online community exploring fashion, wellness, culture, and beauty through articles, images, interviews, and more."
+	},
+	{
+		"feedId": "feed/http://www.theivorylane.com/feed",
+		"title": "Ivory Lane",
+		"website": "https://theivorylane.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/rVcIDt8z1emiPMpobvMdHYJ12J9nYw0hrMuat-LSxzw_icon-16b5977c1f7",
+		"visualUrl": "https://storage.googleapis.com/site-assets/rVcIDt8z1emiPMpobvMdHYJ12J9nYw0hrMuat-LSxzw_visual-16b5977c1f7",
+		"description": "theivorylane.com ivory lane ivorylane emily jackson blog blogger lifestyle fashion style mom mommy images pictures photos pinterest jcrew j.crew j crew crewcuts nordstrom tory burch jack rogers bergdorf goodman madewell zappos kate spade saks fifth avenue neiman marcus coach ann taylor piperlime asos gap bloomingdales topshop macys forever 21"
+	},
+	{
+		"feedId": "feed/http://www.freshnessmag.com/feed/",
+		"title": "Freshness Mag",
+		"website": "https://www.freshnessmag.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/NqshaCtLjFHWBIhFquJ5qYBNyzud0VlSqoyJAFaqC6U_icon-15c394efd4e",
+		"visualUrl": "https://storage.googleapis.com/site-assets/NqshaCtLjFHWBIhFquJ5qYBNyzud0VlSqoyJAFaqC6U_visual-15c394efd4e",
+		"description": "Freshness Mag is an online destination for streetwear fashion, contemporary menswear, sneakers and more."
+	},
+	{
+		"feedId": "feed/http://thisfits.me/rss",
+		"title": "This Fits",
+		"website": "https://thisfits.me/",
+		"iconUrl": "https://storage.googleapis.com/site-assets/EYlaKDCI3EpcEaiUZBlukk9m_Cfk2LMh6b4oXzPY_qg_icon-16a537ba12f",
+		"visualUrl": "https://storage.googleapis.com/site-assets/EYlaKDCI3EpcEaiUZBlukk9m_Cfk2LMh6b4oXzPY_qg_visual-16a537ba12f",
+		"description": "A resource for men about dressing well, This Fits has been mentioned by  GQ and Put This On, and is one of Gilt Manual’s 25 most follow-worthy Tumblrs.\nWhile I try to be relevant to a wide audience, I aim to be a go-to for guys like myself: mid-twenties to mid-thirties, short, brown-skinned, and working in technology.\n My name is Aliotsy Andrianarivo. I started This Fits in 2010 as a personal set of visual bookmarks, and it’s grown into something much bigger than myself.  In April 2012, I was selected as an editor for Tumblr’s Menswear tag.\n\nWhat a ride. I’m humbled and thankful.\n\n\n\nTo get in touch, email me: aliotsy@thisfits.me"
+	},
+	{
+		"feedId": "feed/http://intothegloss.com/feed/",
+		"title": "Into The Gloss - Beauty Tips, Trends, And Product Reviews",
+		"website": "https://intothegloss.com/",
+		"iconUrl": "https://storage.googleapis.com/site-assets/ZPMxsml7kR4G1WDptUcw7b7XkGLKXh7X-s-Jidura4E_icon-15cc7b9a51c",
+		"visualUrl": "https://storage.googleapis.com/site-assets/ZPMxsml7kR4G1WDptUcw7b7XkGLKXh7X-s-Jidura4E_visual-15cc7b9a51c",
+		"description": "The best in beauty tips, makeup tutorials, product reviews, and techniques from industry leaders worldwide. Into The Gloss is beauty, from the Inside."
+	},
+	{
+		"feedId": "feed/http://Crystalinmarie.com/feed/",
+		"title": "Crystalin Marie",
+		"website": "http://Crystalinmarie.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/S8ELnkBWloK4zOatB6vKEHfYqhlGULVSM4yOqKfSN3A_icon-15b6496bbeb",
+		"visualUrl": "https://storage.googleapis.com/site-assets/S8ELnkBWloK4zOatB6vKEHfYqhlGULVSM4yOqKfSN3A_visual-15b6496bbeb",
+		"description": "Fashion . Lifestyle . Motherhood"
+	},
+	{
+		"feedId": "feed/http://www.gq.com/style/rss",
+		"title": "GQ - Style",
+		"website": "https://www.gq.com/style",
+		"iconUrl": "https://storage.googleapis.com/site-assets/uLrHdgiwfiPhgX6ZyeNdteb8TNdCpfzY5LFwSGuO_Tg_sicon-16b27508b7c",
+		"visualUrl": "https://storage.googleapis.com/site-assets/uLrHdgiwfiPhgX6ZyeNdteb8TNdCpfzY5LFwSGuO_Tg_svisual-16b27508b7c",
+		"description": "style | Get the latest men's fashion and style trends, celebrity style photos, news, tips and advice from top experts of GQ."
+	}
+]

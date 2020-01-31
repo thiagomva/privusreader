@@ -1,0 +1,778 @@
+[
+	{
+		"feedId": "feed/http://feeds.feedburner.com/DigitalPhotographySchool",
+		"title": "Digital Photography School",
+		"website": "https://digital-photography-school.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/6-w3okM2bg2iIGqPqNQzK3KxkMXB6nK8fxipCYLJxFo_icon-15b926eabcd",
+		"visualUrl": "https://storage.googleapis.com/site-assets/6-w3okM2bg2iIGqPqNQzK3KxkMXB6nK8fxipCYLJxFo_visual-15b926eabcd",
+		"description": "Digital Photography Tips and Tutorials."
+	},
+	{
+		"feedId": "feed/http://feed.500px.com/500px-editors",
+		"title": "500px:",
+		"website": "https://500px.com/editors.rss",
+		"iconUrl": "https://storage.googleapis.com/site-assets/TBEGDVioxx7nqYCPR8kQmt2hp29r7lYfNmP9C538q8A_sicon-16b57605bcf",
+		"visualUrl": "https://storage.googleapis.com/site-assets/TBEGDVioxx7nqYCPR8kQmt2hp29r7lYfNmP9C538q8A_svisual-16b57605bcf",
+		"description": "on 500px."
+	},
+	{
+		"feedId": "feed/http://www.dpreview.com/feeds/news.xml",
+		"title": "Dpreview",
+		"website": "https://www.dpreview.com/",
+		"iconUrl": "https://storage.googleapis.com/site-assets/9Q8CPiT-mhIuyXy3tJcUXapy2CqtsIyKNA99ZL0ML5s_icon-16bc12f61b5",
+		"visualUrl": "https://storage.googleapis.com/site-assets/9Q8CPiT-mhIuyXy3tJcUXapy2CqtsIyKNA99ZL0ML5s_visual-16bc12f61b5",
+		"description": "Expert news, reviews and videos of the latest digital cameras, lenses, accessories, and phones. Get answers to your questions in our photography forums."
+	},
+	{
+		"feedId": "feed/http://feeds.feedburner.com/PetaPixel",
+		"title": "PetaPixel",
+		"website": "https://petapixel.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/wMyLn6mLw5qdQLbt3Zb9LKoESO4vYqBF33T9X_3o7Xg_icon-15b926e5445",
+		"visualUrl": "https://storage.googleapis.com/site-assets/wMyLn6mLw5qdQLbt3Zb9LKoESO4vYqBF33T9X_3o7Xg_visual-15b926e5445",
+		"description": "Photography and Camera News, Reviews, and Inspiration."
+	},
+	{
+		"feedId": "feed/http://www.boston.com/bigpicture/index.xml",
+		"title": "The Boston Globe - Big Picture ",
+		"website": "http://www.bostonglobe.com/bigpicture/",
+		"iconUrl": "https://storage.googleapis.com/site-assets/LiI5AK__PJcdMieHu_Hqvd3uhzYMnJT5aUuyjjt2Nys_icon-165833a449a",
+		"visualUrl": "https://storage.googleapis.com/site-assets/LiI5AK__PJcdMieHu_Hqvd3uhzYMnJT5aUuyjjt2Nys_visual-165833a449a",
+		"description": "The Big Picture is a photo blog produced by a select group of picture editors of The Boston Globe."
+	},
+	{
+		"feedId": "feed/http://feeds.feedburner.com/fstoppersfeed",
+		"title": "Fstoppers",
+		"website": "https://fstoppers.com/",
+		"iconUrl": "http://storage.googleapis.com/site-assets/5PzrhHVBofny7QJi9rLgbHpx-q8I5uDkduzC2AMi938_icon-1541519ff64",
+		"visualUrl": "http://storage.googleapis.com/site-assets/5PzrhHVBofny7QJi9rLgbHpx-q8I5uDkduzC2AMi938_visual-1541519ff64",
+		"description": "Fstoppers is a community based photography news website that promotes photographers and videographers by showcasing their photography and latest behind the scenes videos and productions."
+	},
+	{
+		"feedId": "feed/http://strobist.blogspot.com/feeds/posts/default",
+		"title": "Strobist",
+		"website": "http://strobist.blogspot.com/",
+		"iconUrl": "https://storage.googleapis.com/test-site-assets/0kgNCRoNaJ718B7ArSWYL0_bCGERh6AhYi_JBjz1ycA_oicon-16586634398",
+		"visualUrl": "https://storage.googleapis.com/test-site-assets/0kgNCRoNaJ718B7ArSWYL0_bCGERh6AhYi_JBjz1ycA_ovisual-16586634398",
+		"description": "The world's most popular free resource for learning how to use off-camera flash."
+	},
+	{
+		"feedId": "feed/http://feeds.feedburner.com/Light-Stalking",
+		"title": "Light Stalking",
+		"website": "https://www.lightstalking.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/89TmLe71oOgc-veGsoiDe9RMeB6YGQ-Tg678nnTTGGA_icon-16835a0587c",
+		"visualUrl": "https://storage.googleapis.com/site-assets/89TmLe71oOgc-veGsoiDe9RMeB6YGQ-Tg678nnTTGGA_visual-16835a0587c",
+		"description": "Illuminating Your Passion."
+	},
+	{
+		"feedId": "feed/http://feeds.feedburner.com/LightroomKillerTips",
+		"title": "Lightroom Killer Tips",
+		"website": "https://lightroomkillertips.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/BvRP_q7P99KGJ5G1pxk84ZVpBwZ1xqOK5VUwy6gHgL4_sicon-160111fd381",
+		"visualUrl": "https://storage.googleapis.com/site-assets/BvRP_q7P99KGJ5G1pxk84ZVpBwZ1xqOK5VUwy6gHgL4_svisual-160111fd381",
+		"description": "Lightroom Presets, Videos, Tips and News."
+	},
+	{
+		"feedId": "feed/http://feeds.feedburner.com/canonrumors/rss",
+		"title": "Canon Rumors",
+		"website": "https://www.canonrumors.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/lbImEjoiGhbG55thKrzEu7Euoctx9l9ZWEK79TE40GQ_icon-16b49ea3bb1",
+		"visualUrl": "https://storage.googleapis.com/site-assets/lbImEjoiGhbG55thKrzEu7Euoctx9l9ZWEK79TE40GQ_visual-16b49ea3bb1",
+		"description": "Canon Rumors, Canon imaging, Canon Photography, Canon Cameras, Canon Lenses, Cinema EOS, EOS, EOS M."
+	},
+	{
+		"feedId": "feed/http://feeds2.feedburner.com/NikonRumors",
+		"title": "Nikon Rumors",
+		"website": "https://nikonrumors.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/8MVp8QwRSuFghb60AS-dT1LwwCQ9NgZv61mtZ7dAavE_icon-163c68a86db",
+		"visualUrl": "https://storage.googleapis.com/site-assets/8MVp8QwRSuFghb60AS-dT1LwwCQ9NgZv61mtZ7dAavE_visual-163c68a86db",
+		"description": "where there’s smoke there’s fire."
+	},
+	{
+		"feedId": "feed/http://feeds.feedburner.com/stuckincustoms/EmRA",
+		"title": "Stuck in Customs",
+		"website": "https://stuckincustoms.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/egCX5RtvaLZdSqJsQYMy7qfp052c0kQMXol1UgqOw2g_icon-169ec6f3c37",
+		"visualUrl": "https://storage.googleapis.com/site-assets/egCX5RtvaLZdSqJsQYMy7qfp052c0kQMXol1UgqOw2g_visual-169ec6f3c37",
+		"description": "Trey Ratcliff's fine art photography and travel photography, free HDR Tutorial, photography tips, camera reviews and photo editing software reviews."
+	},
+	{
+		"feedId": "feed/http://feeds.feedburner.com/Diyphotographynet",
+		"title": "DIYPhotography.net -Hacking Photography, One Picture At A Time",
+		"website": "https://www.diyphotography.net",
+		"iconUrl": "https://storage.googleapis.com/site-assets/y18BwF9Csl4Ky6a5l-5yMdFqmYyTHtug8QvNWHZRZxI_icon-15ebd9df6d2",
+		"visualUrl": "https://storage.googleapis.com/site-assets/y18BwF9Csl4Ky6a5l-5yMdFqmYyTHtug8QvNWHZRZxI_visual-15ebd9df6d2",
+		"description": "A home devoted to DIY, Photography and Lighting"
+	},
+	{
+		"feedId": "feed/http://www.thephoblographer.com/feed/",
+		"title": "The Phoblographer",
+		"website": "https://www.thephoblographer.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/t4iv9SR-XJM1HT1UOIlQ-57XjtFdcneeCRTcpYJWR9o_icon-16d71ce49b5",
+		"visualUrl": "https://storage.googleapis.com/site-assets/t4iv9SR-XJM1HT1UOIlQ-57XjtFdcneeCRTcpYJWR9o_visual-16d71ce49b5",
+		"description": "The Psychology of Creative Photography"
+	},
+	{
+		"feedId": "feed/http://www.fujirumors.com/feed/",
+		"title": "Fuji Rumors",
+		"website": "https://www.fujirumors.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/JlySqzVac65ZaOwpxJLoKTyXjyRxW2ZIohSIg8GcrBM_icon-15f058d118c",
+		"visualUrl": "https://storage.googleapis.com/site-assets/JlySqzVac65ZaOwpxJLoKTyXjyRxW2ZIohSIg8GcrBM_visual-15f058d118c",
+		"description": "Worldwide largest online community for Fujifilm X and GFX-shooters and non-stop Fujifilm News/Rumors coverage"
+	},
+	{
+		"feedId": "feed/http://photographylife.com/feed",
+		"title": "Photography Life",
+		"website": "https://photographylife.com",
+		"iconUrl": "https://photographylife.com/wp-content/uploads/2017/06/Logo-Square-Transparent.svg",
+		"visualUrl": "https://photographylife.com/wp-content/uploads/2017/06/Logo-Square-Transparent.svg",
+		"description": "PL provides various digital photography news, reviews, articles, tips, tutorials and guides to photographers of all levels"
+	},
+	{
+		"feedId": "feed/http://photofocus.com/feed/",
+		"title": "Photofocus",
+		"website": "https://photofocus.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/VKFOUkyNzAIdXnOfA8VLBpVuz5pKiWt-t7r08MxfYNg_icon-15b9162747f",
+		"visualUrl": "https://storage.googleapis.com/site-assets/VKFOUkyNzAIdXnOfA8VLBpVuz5pKiWt-t7r08MxfYNg_visual-15b9162747f",
+		"description": "Webinar: Making the cut — practical video editing On Monday, August 12, 2019 at 4 p.m. ET, join Photofocus for a webinar titled “Making the cut — practical video editing” with guest Abba Shapiro. Learn more > How to decide if you should repair or replace your camera Posted by VanelliYour trusty camera of 10 …"
+	},
+	{
+		"feedId": "feed/http://www.sonyalpharumors.com/feed/",
+		"title": "sonyalpharumors",
+		"website": "https://www.sonyalpharumors.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/TZYOT_CirJgKxz4F_yaeSirvGuK_VsajTdoWi53xSlM_icon-169db006da8",
+		"visualUrl": "https://storage.googleapis.com/site-assets/TZYOT_CirJgKxz4F_yaeSirvGuK_VsajTdoWi53xSlM_visual-169db006da8",
+		"description": "Sony Digital Camera News"
+	},
+	{
+		"feedId": "feed/http://theonlinephotographer.typepad.com/the_online_photographer/atom.xml",
+		"title": "The Online Photographer",
+		"website": "https://theonlinephotographer.typepad.com/the_online_photographer/",
+		"iconUrl": "https://storage.googleapis.com/site-assets/-nPFUfZIQwtyqQEARVlC7xI-tEpXcLz89tDHfzM_4hc_sicon-16b64426c3c",
+		"visualUrl": "https://storage.googleapis.com/site-assets/-nPFUfZIQwtyqQEARVlC7xI-tEpXcLz89tDHfzM_4hc_svisual-16b64426c3c",
+		"description": "QUICK LINK TO THE MAIN PAGE - Welcome! You've reached the \"About Us\" page of The Online Photographer (a.k.a. TOP). TOP is a daily news website for photo enthusiasts, in blog format. Our past contributors number more than 50 writers,..."
+	},
+	{
+		"feedId": "feed/http://feeds.feedburner.com/slrlounge",
+		"title": "SLR Lounge - Free Photography Resources, Tips, and Tutorials",
+		"website": "https://www.slrlounge.com",
+		"iconUrl": "http://storage.googleapis.com/site-assets/tpszfOggPF6qgB-XSlc5yG3-ArZaBZrcDm7-MbfeiOU_icon-154157d5c49",
+		"visualUrl": "http://storage.googleapis.com/site-assets/tpszfOggPF6qgB-XSlc5yG3-ArZaBZrcDm7-MbfeiOU_visual-154157d5c49",
+		"description": "Check us out for free photography information, lightroom and photoshop tutorials, wordpress themes, wordpress plugins, and photography techniques"
+	},
+	{
+		"feedId": "feed/http://feeds.feedburner.com/luminous-landscape-whatsnew",
+		"title": "Luminous Landscape",
+		"website": "https://luminous-landscape.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/JMAtQXmdSkPgdykrdSfgtbJvQt2XEGZxhzISMg9xY8Q_sicon-16a756bde4b",
+		"visualUrl": "https://storage.googleapis.com/site-assets/JMAtQXmdSkPgdykrdSfgtbJvQt2XEGZxhzISMg9xY8Q_svisual-16a756bde4b",
+		"description": "A fourteen year-old company focused on photographic education and providing a comprehensive information resource for Photo Enthusiasts around the world."
+	},
+	{
+		"feedId": "feed/http://feeds.feedburner.com/theatlantic/infocus",
+		"title": "The Atlantic Photo",
+		"website": "https://www.theatlantic.com/photo/",
+		"iconUrl": "https://storage.googleapis.com/site-assets/UtdRtc3M8KKX3RLTIimIbai_QiseaU6wLEtt2Bwrwfk_icon-15cf2d33ea0",
+		"visualUrl": "https://storage.googleapis.com/site-assets/UtdRtc3M8KKX3RLTIimIbai_QiseaU6wLEtt2Bwrwfk_visual-15cf2d33ea0",
+		"description": "The Atlantic's Photo section is an expanded home for photography at TheAtlantic.com."
+	},
+	{
+		"feedId": "feed/http://feeds2.feedburner.com/photographyblog",
+		"title": "Photography Blog",
+		"website": "https://www.photographyblog.com/",
+		"iconUrl": "https://storage.googleapis.com/site-assets/IMuEnr3qHWLhOiPVvjbSAEaO2nXGJmfxwFh8mS4lYY0_icon-164077d76fb",
+		"visualUrl": "https://storage.googleapis.com/site-assets/IMuEnr3qHWLhOiPVvjbSAEaO2nXGJmfxwFh8mS4lYY0_visual-164077d76fb",
+		"description": "Latest news, articles and reviews from Photography Blog"
+	},
+	{
+		"feedId": "feed/http://www.stevehuffphoto.com/feed/",
+		"title": "Steve Huff Photo",
+		"website": "http://www.stevehuffphoto.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/BvkO-mDXGWeXwylO8aiDboQtFsVBA0yvkFFoH6GMMiE_sicon-16aa090da03",
+		"visualUrl": "https://storage.googleapis.com/site-assets/BvkO-mDXGWeXwylO8aiDboQtFsVBA0yvkFFoH6GMMiE_svisual-16aa090da03",
+		"description": "Camera and Lens Reviews of Leica, Pentax, Sony, Olympus, Canon, Nikon and more. Photography articles and lessons as well as Daily Inspiration posts from readers"
+	},
+	{
+		"feedId": "feed/http://www.43rumors.com/feed/",
+		"title": "43 Rumors",
+		"website": "https://www.43rumors.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/UHZBbZ6VaO2Gu1ibByypxKrOXPQRzUIQqbDmo-IXJTE_sicon-16b7644e136",
+		"visualUrl": "https://storage.googleapis.com/site-assets/UHZBbZ6VaO2Gu1ibByypxKrOXPQRzUIQqbDmo-IXJTE_svisual-16b7644e136",
+		"description": "Panasonic and Olympus Digital Camera News"
+	},
+	{
+		"feedId": "feed/http://photorumors.com/feed/",
+		"title": "Photo Rumors",
+		"website": "https://photorumors.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/iG8DMCPBMpGcgoU2VzgZDQqrj4pKxoTFXbaUv8XGYqs_icon-15b9277f362",
+		"visualUrl": "https://storage.googleapis.com/site-assets/iG8DMCPBMpGcgoU2VzgZDQqrj4pKxoTFXbaUv8XGYqs_visual-15b9277f362",
+		"description": "Photography news, before it happens"
+	},
+	{
+		"feedId": "feed/http://blog.mingthein.com/feed/",
+		"title": "Ming Thein | Photographer",
+		"website": "https://blog.mingthein.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/OYVTXWE3VBUd5n1hSSt8cwtSvwc9dbRZ6rk6Erv9b3s_icon-161db8c7ec7",
+		"visualUrl": "https://storage.googleapis.com/site-assets/OYVTXWE3VBUd5n1hSSt8cwtSvwc9dbRZ6rk6Erv9b3s_visual-161db8c7ec7",
+		"description": "reframing the world one picture at a time"
+	},
+	{
+		"feedId": "feed/http://feeds.feedburner.com/ChaseJarvis",
+		"title": "Chase Jarvis Photography",
+		"website": "https://www.chasejarvis.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/haiQ9H7ZGPnUDaB60d_Ln0LjclawXfuIMFU0WNvu-W8_icon-165d700232d",
+		"visualUrl": "https://storage.googleapis.com/site-assets/haiQ9H7ZGPnUDaB60d_Ln0LjclawXfuIMFU0WNvu-W8_visual-165d700232d",
+		"description": "The hub for the award winning photographer director Chase Jarvis"
+	},
+	{
+		"feedId": "feed/http://www.mirrorlessrumors.com/feed/",
+		"title": "mirrorlessrumors",
+		"website": "https://www.mirrorlessrumors.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/3aSMAOntXRX3BkDzoY2SkNGBjrJM-gu2-32cE1M7ndY_icon-15f058d0cae",
+		"visualUrl": "https://storage.googleapis.com/site-assets/3aSMAOntXRX3BkDzoY2SkNGBjrJM-gu2-32cE1M7ndY_visual-15f058d0cae",
+		"description": "The number one resource for mirrorless digital camera news!"
+	},
+	{
+		"feedId": "feed/http://feeds.feedburner.com/FeatureShoot",
+		"title": "Feature Shoot",
+		"website": "https://www.featureshoot.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/LRio6qZGEtpfcq8H8SmqgQJ0Pk60HGBbRjXzD2SbIYk_icon-15e65ee4037",
+		"visualUrl": "https://storage.googleapis.com/site-assets/LRio6qZGEtpfcq8H8SmqgQJ0Pk60HGBbRjXzD2SbIYk_visual-15e65ee4037",
+		"description": "Travel Fashion Documentary Editorial & Portrait Photographers: Feature Shoot'"
+	},
+	{
+		"feedId": "feed/http://feeds.feedburner.com/picturecorrect",
+		"title": "PictureCorrect",
+		"website": "https://www.picturecorrect.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/actAqd6fSdODQkXfOcwbEk0ychw58lmTVeRNkApYzt0_icon-15c5d6f0686",
+		"visualUrl": "https://storage.googleapis.com/site-assets/actAqd6fSdODQkXfOcwbEk0ychw58lmTVeRNkApYzt0_visual-15c5d6f0686",
+		"description": "Photography Tips & Techniques"
+	},
+	{
+		"feedId": "feed/http://www.aphotoeditor.com/feed/",
+		"title": "A Photo Editor",
+		"website": "https://aphotoeditor.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/D03pZclyynOBAMgLH-ZSYU663n34x7c9JBDiJccwmRU_icon-16d907a0f69",
+		"visualUrl": "https://storage.googleapis.com/site-assets/D03pZclyynOBAMgLH-ZSYU663n34x7c9JBDiJccwmRU_visual-16d907a0f69",
+		"description": "Former Photography Director Rob Haggart"
+	},
+	{
+		"feedId": "feed/http://feeds.feedburner.com/PhotographyVideoBlogForPhotographersIso1200Magazine",
+		"title": "Blog Photography Tips - ISO 1200 Magazine",
+		"website": "http://www.iso1200.com/",
+		"iconUrl": "http://storage.googleapis.com/site-assets/Y-UigtJBuUkx9w7cBTVrEDG6vf6nUEldVEvcmIVV1MI_icon-15412966cec",
+		"visualUrl": "http://storage.googleapis.com/site-assets/Y-UigtJBuUkx9w7cBTVrEDG6vf6nUEldVEvcmIVV1MI_visual-15412966cec",
+		"description": "Blog: Creative Photography for digital and film photographers."
+	},
+	{
+		"feedId": "feed/http://www.kenrockwell.com/rss-daily.php",
+		"title": "Ken Rockwell's Updates",
+		"website": "http://www.kenrockwell.com/tech/00-new-today.htm",
+		"iconUrl": "http://storage.googleapis.com/site-assets/EstfSZJK589me7xVtrGvPxQa1DRQK_pEF2GqHWJSVLE_icon-154110b068d",
+		"visualUrl": "http://storage.googleapis.com/site-assets/EstfSZJK589me7xVtrGvPxQa1DRQK_pEF2GqHWJSVLE_visual-154110b068d",
+		"description": "Today's latest news from the world's largest independent source of photography information: KenRockwell.com"
+	},
+	{
+		"feedId": "feed/http://www.popphoto.com/rss.xml",
+		"title": "Popular Photography | RSS",
+		"website": "https://www.popphoto.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/RmjXS6SqAAklbi0dlbQKwlqA_NN4Hr9gSH9aSiw7pM8_icon-16b57d08253",
+		"visualUrl": "https://storage.googleapis.com/site-assets/RmjXS6SqAAklbi0dlbQKwlqA_NN4Hr9gSH9aSiw7pM8_visual-16b57d08253",
+		"description": "Popular Photography is a one-stop resource for digital camera reviews, photography tips, camera gear, photos, and so much more."
+	},
+	{
+		"feedId": "feed/http://blog.flickr.net/en/feed/",
+		"title": "Flickr Blog",
+		"website": "https://blog.flickr.net",
+		"iconUrl": "https://storage.googleapis.com/site-assets/vc74WRiR02rpOydJuJHQ6awIUKA9INnWShHNvxL0NaU_sicon-1671b935e0b",
+		"visualUrl": "https://storage.googleapis.com/site-assets/vc74WRiR02rpOydJuJHQ6awIUKA9INnWShHNvxL0NaU_svisual-1671b935e0b",
+		"description": null
+	},
+	{
+		"feedId": "feed/http://feeds.feedburner.com/Phototuts",
+		"title": "Envato Tuts+ Photo & Video",
+		"website": "https://photography.tutsplus.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/A_CeOyvAoFmSllPoy0p9lncjfklptVEHrRzMUXnMxTo_icon-1612e63784b",
+		"visualUrl": "https://storage.googleapis.com/site-assets/A_CeOyvAoFmSllPoy0p9lncjfklptVEHrRzMUXnMxTo_visual-1612e63784b",
+		"description": "Thousands of free tutorials and online courses to help you learn photography and video skills. Join our community of students and professionals to improve your shooting, style, editing, and workflow. What would you like to learn?"
+	},
+	{
+		"feedId": "feed/http://www.lensrentals.com/blog/feed",
+		"title": "LensRentals Blog",
+		"website": "https://www.lensrentals.com/blog",
+		"iconUrl": "https://storage.googleapis.com/site-assets/lXse5CEh7qdlrtFsUFV1OfkWdCVQmSsqec7uHTz79c0_icon-16b57aecf0e",
+		"visualUrl": "https://storage.googleapis.com/site-assets/lXse5CEh7qdlrtFsUFV1OfkWdCVQmSsqec7uHTz79c0_visual-16b57aecf0e",
+		"description": "Photo/video thoughts from the largest rental house"
+	},
+	{
+		"feedId": "feed/http://www.pixelatedimage.com/blog/feed/",
+		"title": "David duChemin – World & Humanitarian Photographer, Nomad, Author.",
+		"website": "https://davidduchemin.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/xtQmCTwtj7hLCKdhBY8iikE4RSF7SXLUFhnDFsBNbks_sicon-1646e6da88c",
+		"visualUrl": "https://storage.googleapis.com/site-assets/xtQmCTwtj7hLCKdhBY8iikE4RSF7SXLUFhnDFsBNbks_svisual-1646e6da88c",
+		"description": "David duChemin is a photographer, author, and nomad. These are his photographs, words, and adventures. Welcome."
+	},
+	{
+		"feedId": "feed/http://fujilove.com/feed/",
+		"title": "FUJILOVE MAGAZINE",
+		"website": "https://fujilove.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/cceX9D1-3Ati_cNUYV_fwDips8qfND9-Hw9Zuw5-UwI_icon-1610d7c1ae4",
+		"visualUrl": "https://storage.googleapis.com/site-assets/cceX9D1-3Ati_cNUYV_fwDips8qfND9-Hw9Zuw5-UwI_visual-1610d7c1ae4",
+		"description": "Number one community and magazine for users of the Fujifilm X Series and GFX cameras."
+	},
+	{
+		"feedId": "feed/http://www.cameralabs.com/feed/cameralabs.xml",
+		"title": "Cameralabs",
+		"website": "https://www.cameralabs.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/1UGpPv_-SXednxrOYoia3myXTaUZFrbh49G1brrEtwE_icon-162154c5a2f",
+		"visualUrl": "https://storage.googleapis.com/site-assets/1UGpPv_-SXednxrOYoia3myXTaUZFrbh49G1brrEtwE_visual-162154c5a2f",
+		"description": "Looking for camera reviews and photography tips? At Cameralabs I provide in-depth tests and easy guides to help you choose the best cameras and lenses!"
+	},
+	{
+		"feedId": "feed/http://scottkelby.com/feed/",
+		"title": "Scott Kelby's Photoshop Insider",
+		"website": "https://scottkelby.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/2Neo295e5sj0DbXLxINIzrjl9I6-bIcaZM6X4Pgqq70_icon-15cbf5fb48e",
+		"visualUrl": "https://storage.googleapis.com/site-assets/2Neo295e5sj0DbXLxINIzrjl9I6-bIcaZM6X4Pgqq70_visual-15cbf5fb48e",
+		"description": "Photoshop & Photography Techniques, News, Books, Reviews & More"
+	},
+	{
+		"feedId": "feed/https://www.lensculture.com/feeds/flipboard.rss",
+		"title": "LensCulture",
+		"website": "https://www.lensculture.com/",
+		"iconUrl": "https://storage.googleapis.com/site-assets/2KA5kNF6Lw_3e9wK0XufshQO4l9u8ZS5bHJ528Zz-9E_icon-15cc7b03d2f",
+		"visualUrl": "https://storage.googleapis.com/site-assets/2KA5kNF6Lw_3e9wK0XufshQO4l9u8ZS5bHJ528Zz-9E_visual-15cc7b03d2f",
+		"description": "The most comprehensive source on contemporary photography"
+	},
+	{
+		"feedId": "feed/http://www.imaging-resource.com/news.xml",
+		"title": "Imaging Resource News Page",
+		"website": "https://www.imaging-resource.com/news",
+		"iconUrl": "https://storage.googleapis.com/site-assets/6jew9NxbYmANSJ7VEl-H7icgdjFLQiKN_Za34dDvrRA_icon-16198a26c4c",
+		"visualUrl": "https://storage.googleapis.com/site-assets/6jew9NxbYmANSJ7VEl-H7icgdjFLQiKN_Za34dDvrRA_visual-16198a26c4c",
+		"description": "The Imaging Resource News page is the best way to stay on top of all the latest in the fast-paced world of digital imaging! Up-to-the-minute news as well as coverage of the latest articles and reviews covering digital imaging hardware and software of all types, professional and amateur. From digital cameras, printers and scanners to the latest image editors and more, we cover it. The IR News page is read by industry professionals and enthusiasts alike. Come check us out today..."
+	},
+	{
+		"feedId": "feed/http://feeds.feedburner.com/shoottokyo",
+		"title": "ShootTokyo",
+		"website": "https://shoottokyo.com/",
+		"iconUrl": "https://storage.googleapis.com/site-assets/vuyvCGjWPTiIt94XyhqGz7muV9Q6bxnMysf81Kc67Ag_icon-1612d5ae2f2",
+		"visualUrl": "https://storage.googleapis.com/site-assets/vuyvCGjWPTiIt94XyhqGz7muV9Q6bxnMysf81Kc67Ag_visual-1612d5ae2f2",
+		"description": "A friendly photography blog from Tokyo, Japan"
+	},
+	{
+		"feedId": "feed/http://feeds.feedburner.com/EricKimStreetPhotographyBlog",
+		"title": "ERIC KIM",
+		"website": "https://erickimphotography.com/blog",
+		"iconUrl": "https://storage.googleapis.com/site-assets/5blPEuJmOiA4bRKGyotnXCkQCPjBOkaYqCZ5wFDHoac_icon-16cdf188bea",
+		"visualUrl": "https://storage.googleapis.com/site-assets/5blPEuJmOiA4bRKGyotnXCkQCPjBOkaYqCZ5wFDHoac_visual-16cdf188bea",
+		"description": "BLOG"
+	},
+	{
+		"feedId": "feed/http://japancamerahunter.com/feed/",
+		"title": "Japan Camera Hunter",
+		"website": "https://www.japancamerahunter.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/A6feIYK0ORMKYs3RH6-0JK8mDt9zJCgHU5W_ZDo2tUw_icon-16667db2a35",
+		"visualUrl": "https://storage.googleapis.com/site-assets/A6feIYK0ORMKYs3RH6-0JK8mDt9zJCgHU5W_ZDo2tUw_visual-16667db2a35",
+		"description": "Find the camera of your dreams"
+	},
+	{
+		"feedId": "feed/http://neilvn.com/tangents/feed/",
+		"title": "Tangents",
+		"website": "https://neilvn.com/tangents",
+		"iconUrl": "https://storage.googleapis.com/site-assets/jpQNduV5EOvoj20TxRB0Eas86YA3-GpNbeezOKoUDSA_icon-15dc0daf6c0",
+		"visualUrl": "https://storage.googleapis.com/site-assets/jpQNduV5EOvoj20TxRB0Eas86YA3-GpNbeezOKoUDSA_visual-15dc0daf6c0",
+		"description": "photography tutorials, reviews & workshops"
+	},
+	{
+		"feedId": "feed/http://leicarumors.com/feed/",
+		"title": "Leica Rumors",
+		"website": "https://leicarumors.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/tj5NLxQlIWz4JzrGvWEv6loz6DtHlWtGoz7jOi1fy4o_icon-164062c5198",
+		"visualUrl": "https://storage.googleapis.com/site-assets/tj5NLxQlIWz4JzrGvWEv6loz6DtHlWtGoz7jOi1fy4o_visual-164062c5198",
+		"description": "Leica news, before it happens"
+	},
+	{
+		"feedId": "feed/http://www.the-digital-picture.com/News-RSS.aspx",
+		"title": "Canon, Nikon, and Sony News, Deals and What's New at The-Digital-Picture.com",
+		"website": "https://www.the-digital-picture.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/Pp-SrhACLDCLGGEw0gG8n7I7pG83LTufJpKGSIZ6PI4_icon-15e7a1102fd",
+		"visualUrl": "https://storage.googleapis.com/site-assets/Pp-SrhACLDCLGGEw0gG8n7I7pG83LTufJpKGSIZ6PI4_visual-15e7a1102fd",
+		"description": "Canon, Nikon, and Sony DSLR and Mirrorless Camera, Lens, and Accessory Reviews, News and Deals"
+	},
+	{
+		"feedId": "feed/http://www.shutterbug.com/rss.xml",
+		"title": "Shutterbug",
+		"website": "https://www.shutterbug.com/frontpage",
+		"iconUrl": "https://storage.googleapis.com/site-assets/x8vmZ_uzdX6yhz89wakoNn9cRqqNcYhgNoerKsHdniQ_icon-15cfc1188f8",
+		"visualUrl": "https://storage.googleapis.com/site-assets/x8vmZ_uzdX6yhz89wakoNn9cRqqNcYhgNoerKsHdniQ_visual-15cfc1188f8",
+		"description": "The Best Photography Tips, How-Tos, News & Photo Gear Reviews"
+	},
+	{
+		"feedId": "feed/http://feeds.feedburner.com/thephotoargus/QFUb",
+		"title": "The Photo Argus",
+		"website": "https://www.thephotoargus.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/5IlMHjaUomi81882Eeir9t8SRIrma5OA5lT6ex8LBA8_icon-164473f3e6d",
+		"visualUrl": "https://storage.googleapis.com/site-assets/5IlMHjaUomi81882Eeir9t8SRIrma5OA5lT6ex8LBA8_visual-164473f3e6d",
+		"description": "A photography resource and inspiration blog. We bring you useful information, inspiration, techniques, photographer showcases and more."
+	},
+	{
+		"feedId": "feed/http://www.joemcnally.com/blog/feed/",
+		"title": "Joe McNally's Blog",
+		"website": "https://blog.joemcnally.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/77LL3jJHHSuQLtWPwoHDC4pxzGpiPrdiI1RQLE6Pizs_icon-1668949e097",
+		"visualUrl": "https://storage.googleapis.com/site-assets/77LL3jJHHSuQLtWPwoHDC4pxzGpiPrdiI1RQLE6Pizs_visual-1668949e097",
+		"description": "Photographer. Director. Author. https://t.co/tzgKNd16c1 @NikonUSA Ambassador"
+	},
+	{
+		"feedId": "feed/http://www.pdnphotooftheday.com/feed",
+		"title": "PDN Photo of the Day",
+		"website": "https://potd.pdnonline.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/EkH375eYrsmJK-vaAV1sOXC7j6L295WAiUfXQXFGcSM_icon-16d095de884",
+		"visualUrl": "https://storage.googleapis.com/site-assets/EkH375eYrsmJK-vaAV1sOXC7j6L295WAiUfXQXFGcSM_visual-16d095de884",
+		"description": "A daily selection by the editors of Photo District News"
+	},
+	{
+		"feedId": "feed/http://blogs.adobe.com/jkost/feed",
+		"title": "Julieanne Kost's Blog",
+		"website": "http://blogs.adobe.com/jkost",
+		"iconUrl": "https://storage.googleapis.com/site-assets/LoMIhixmmukbh0UEIqeOjiuRen7HkhpuR-NINNHk9RU_icon-15dc4875999",
+		"visualUrl": "https://storage.googleapis.com/site-assets/LoMIhixmmukbh0UEIqeOjiuRen7HkhpuR-NINNHk9RU_visual-15dc4875999",
+		"description": "Indepth tutorials, training, techniques, and shortcuts for working with Adobe Photoshop and Lightroom."
+	},
+	{
+		"feedId": "feed/http://feeds.feedburner.com/PhotoshelterBlog",
+		"title": "PhotoShelter Blog",
+		"website": "https://blog.photoshelter.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/YcHW8ueqXNiDiVKavxVg8oOR0Dn7Mipsuy_7wFwzuuo_icon-1658ed7cd76",
+		"visualUrl": "https://storage.googleapis.com/site-assets/YcHW8ueqXNiDiVKavxVg8oOR0Dn7Mipsuy_7wFwzuuo_visual-1658ed7cd76",
+		"description": "Photo Industry News, Resources, and Opinion"
+	},
+	{
+		"feedId": "feed/http://stevemccurry.wordpress.com/feed/",
+		"title": "Steve McCurry's Blog",
+		"website": "https://stevemccurry.blog",
+		"iconUrl": "https://storage.googleapis.com/site-assets/6xXvnKqISZy1KKWW20OeXd3dyPyQc1p4N_FPqjERSkU_sicon-16ce0203ef2",
+		"visualUrl": "https://storage.googleapis.com/site-assets/6xXvnKqISZy1KKWW20OeXd3dyPyQc1p4N_FPqjERSkU_svisual-16ce0203ef2",
+		"description": "Steve's body of work spans conflicts, vanishing cultures, ancient traditions and contemporary culture alike - yet always retains the human element."
+	},
+	{
+		"feedId": "feed/http://www.sansmirror.com/newsviews/index.xml",
+		"title": "Mirrorless Camera News and Commentary | Sans Mirror | Thom Hogan",
+		"website": "http://www.sansmirror.com/newsviews/",
+		"iconUrl": "https://storage.googleapis.com/site-assets/-1V2DeLaCgJBO3IcGmhhxw5cSif3KsZCvkm0ADEt7Ws_sicon-16c1d00650b",
+		"visualUrl": "https://storage.googleapis.com/site-assets/-1V2DeLaCgJBO3IcGmhhxw5cSif3KsZCvkm0ADEt7Ws_svisual-16c1d00650b",
+		"description": "News and commentary on mirrorless ILC cameras by Thom Hogan"
+	},
+	{
+		"feedId": "feed/http://www.outdoorphotographer.com/blog/feed",
+		"title": "Blog – Outdoor Photographer",
+		"website": "https://www.outdoorphotographer.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/hcET3Z90VCU6p0PxtKyMr4F6KoBadOv-PfLGGAkn9tY_icon-16b5637a3ce",
+		"visualUrl": "https://storage.googleapis.com/site-assets/hcET3Z90VCU6p0PxtKyMr4F6KoBadOv-PfLGGAkn9tY_visual-16b5637a3ce",
+		"description": "The ultimate photographer's guide to nature, wildlife, travel and adventure sports photography, featuring the work of renown artists."
+	},
+	{
+		"feedId": "feed/http://www.mattk.com/feed/",
+		"title": "Matt Kloskowski",
+		"website": "https://mattk.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/R5COb8OJEWUmVzc55usFb1Uskds_-0SqGLBC9M-nnt4_sicon-165b44fb276",
+		"visualUrl": "https://storage.googleapis.com/site-assets/R5COb8OJEWUmVzc55usFb1Uskds_-0SqGLBC9M-nnt4_svisual-165b44fb276",
+		"description": "Lightroom, Photoshop, Photography Training"
+	},
+	{
+		"feedId": "feed/http://iso.500px.com/feed/",
+		"title": "500px Blog",
+		"website": "https://iso.500px.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/Wfve5Iyd6e34yPci1JdAth40Qpfi-R1PunPxC-D7cVk_icon-16a95dcaed0",
+		"visualUrl": "https://storage.googleapis.com/site-assets/Wfve5Iyd6e34yPci1JdAth40Qpfi-R1PunPxC-D7cVk_visual-16a95dcaed0",
+		"description": "The passionate photographer community."
+	},
+	{
+		"feedId": "feed/http://www.dslrbodies.com/newsviews/index.xml",
+		"title": "News/Views | DSLRBodies | Thom Hogan",
+		"website": "http://www.dslrbodies.com/newsviews/",
+		"iconUrl": "http://storage.googleapis.com/site-assets/oI0Bx18YwCcOpFpF-ac8SRFgJsCT0Dz7nVHqycgCpPE_sicon-1542fe6bf29",
+		"visualUrl": "http://storage.googleapis.com/site-assets/oI0Bx18YwCcOpFpF-ac8SRFgJsCT0Dz7nVHqycgCpPE_svisual-1542fe6bf29",
+		"description": "DSLR and Nikon news and commentary by Thom Hogan"
+	},
+	{
+		"feedId": "feed/http://lenscratch.blogspot.com/feeds/posts/default",
+		"title": "LENSCRATCH",
+		"website": "http://lenscratch.com",
+		"iconUrl": "http://storage.googleapis.com/site-assets/hhgjQjkJaVrnUQRr9QkANmHRxPQ-aEqHDab8hs9bMzQ_icon-15412937a95",
+		"visualUrl": "http://storage.googleapis.com/site-assets/hhgjQjkJaVrnUQRr9QkANmHRxPQ-aEqHDab8hs9bMzQ_visual-15412937a95",
+		"description": "Fine Art Photography Daily"
+	},
+	{
+		"feedId": "feed/http://robinwong.blogspot.com/feeds/posts/default",
+		"title": "ROBIN WONG",
+		"website": "http://robinwong.blogspot.com/",
+		"iconUrl": "https://storage.googleapis.com/site-assets/Oa8s55ZlgcSD4KO4UN5eglNbFFdfZWGg-KMd4s5iv70_sicon-162268b89cc",
+		"visualUrl": "https://storage.googleapis.com/site-assets/Oa8s55ZlgcSD4KO4UN5eglNbFFdfZWGg-KMd4s5iv70_svisual-162268b89cc",
+		"description": "Photography enthusiast who loves street photography and does shutter therapy every weekend, using mainly Micro Four Thirds gear. Reviews of Olympus cameras and lenses based on user experience approach, and sharing thoughts and experience in photography learning. Sometimes dabbles in Macro, Food, Portrait, and any form of photography. Loves Olympus and Panasonic cameras and lenses, and sometimes wanders off to Fujifilm and Sony cameras."
+	},
+	{
+		"feedId": "feed/http://visualsciencelab.blogspot.com/feeds/posts/default",
+		"title": "The Visual Science Lab / Kirk Tuck",
+		"website": "http://visualsciencelab.blogspot.com/",
+		"iconUrl": "https://storage.googleapis.com/site-assets/AbHXfMqi0j_9azbZMFt_UQTLccwkwVvD_aGF6iMpUNs_sicon-16d59b761bb",
+		"visualUrl": "https://storage.googleapis.com/site-assets/AbHXfMqi0j_9azbZMFt_UQTLccwkwVvD_aGF6iMpUNs_svisual-16d59b761bb",
+		"description": "Welcome back to the Visual Science Lab. Read Well."
+	},
+	{
+		"feedId": "feed/http://froknowsphoto.com/feed/",
+		"title": "Fro Knows Photo",
+		"website": "http://froknowsphoto.com",
+		"iconUrl": "http://storage.googleapis.com/site-assets/Ca4dKYYuBLZXSYpVfHD40jvj_Uzd49wvb0Dr7rW17aA_icon-1541299a775",
+		"visualUrl": "http://storage.googleapis.com/site-assets/Ca4dKYYuBLZXSYpVfHD40jvj_Uzd49wvb0Dr7rW17aA_visual-1541299a775",
+		"description": "Tips for Taking Photos | Photography Tip | How To for Photographers"
+	},
+	{
+		"feedId": "feed/http://feeds.feedburner.com/ClickinMomsBlog",
+		"title": "Clickin Moms blog: Helping you take better pictures one day at a time",
+		"website": "https://www.clickinmoms.com/blog",
+		"iconUrl": "https://storage.googleapis.com/site-assets/7sm2Q09UzkVaRnfm9xX78P1w_tdUtf1azQ9mX1SDUjw_sicon-16da50d7757",
+		"visualUrl": "https://storage.googleapis.com/site-assets/7sm2Q09UzkVaRnfm9xX78P1w_tdUtf1azQ9mX1SDUjw_svisual-16da50d7757",
+		"description": "Learn how to take better photos with our extensive collection of tutorials and inspiration from photography leaders around the world."
+	},
+	{
+		"feedId": "feed/http://www.amateurphotographer.co.uk/feeds/news.rss",
+		"title": "Amateur Photographer",
+		"website": "https://www.amateurphotographer.co.uk",
+		"iconUrl": "https://storage.googleapis.com/site-assets/pAJv7s2Yhukr_IOkwsF7HStFG5XP_3NiDfCRgclXvO0_icon-16d8a13f8e4",
+		"visualUrl": "https://storage.googleapis.com/site-assets/pAJv7s2Yhukr_IOkwsF7HStFG5XP_3NiDfCRgclXvO0_visual-16d8a13f8e4",
+		"description": "The world's number 1 weekly photo magazine"
+	},
+	{
+		"feedId": "feed/http://www.burnmagazine.org/feed/",
+		"title": "burn magazine",
+		"website": "https://www.burnmagazine.org",
+		"iconUrl": "https://storage.googleapis.com/site-assets/GjZwMUY0C4kU6HFAhjTTxBBOj541osaalRtVZSD_hYI_sicon-165eb7e2f16",
+		"visualUrl": "https://storage.googleapis.com/site-assets/GjZwMUY0C4kU6HFAhjTTxBBOj541osaalRtVZSD_hYI_svisual-165eb7e2f16",
+		"description": "burn is an online feature for emerging photographers worldwide. burn is curated by magnum photographer david alan harvey."
+	},
+	{
+		"feedId": "feed/http://www.canonwatch.com/feed/",
+		"title": "CanonWatch",
+		"website": "https://www.canonwatch.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/9Uz-eLMU4nqsawlifDIfUWa87z-sBtvsK9fbPK-_ayg_icon-15f058ef4f1",
+		"visualUrl": "https://storage.googleapis.com/site-assets/9Uz-eLMU4nqsawlifDIfUWa87z-sBtvsK9fbPK-_ayg_visual-15f058ef4f1",
+		"description": "The Source for Canon Rumors and Nikon Rumors and Photo News"
+	},
+	{
+		"feedId": "feed/http://www.35mmc.com/feed/",
+		"title": "35mmc",
+		"website": "https://www.35mmc.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/oRbAwr-DYOphIJUh3GZyKwiF-LGyHxpoBigbtr4wy4I_icon-16cac956ba2",
+		"visualUrl": "https://storage.googleapis.com/site-assets/oRbAwr-DYOphIJUh3GZyKwiF-LGyHxpoBigbtr4wy4I_visual-16cac956ba2",
+		"description": "reviews, thoughts & experiences with 35mm compact cameras, rangefinders & lenses"
+	},
+	{
+		"feedId": "feed/http://www.jasminestarblog.com/rss/",
+		"title": "Blog | Jasmine Star",
+		"website": "https://jasminestar.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/VAr8kg-Gyio3wRedcncYs6K4U6huYSJOK0Nd_g13O5k_icon-16b57beb6f6",
+		"visualUrl": "https://storage.googleapis.com/site-assets/VAr8kg-Gyio3wRedcncYs6K4U6huYSJOK0Nd_g13O5k_visual-16b57beb6f6",
+		"description": "Business Strategist 🙋🏽 Photographer 📸 Helping entrepreneurs grow social platforms✨ info@jasminestar.com📲 FREE stock photos👇🏼 https://t.co/cqQO6DNCyB"
+	},
+	{
+		"feedId": "feed/http://feeds.feedburner.com/Americansuburb",
+		"title": "ASX | Photography & Visual Culture",
+		"website": "https://americansuburbx.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/bsxGZZHzhBYvuf_7qe_3xgg6XRumrpsZn5bspnTS0A0_icon-16d675e7bc0",
+		"visualUrl": "https://storage.googleapis.com/site-assets/bsxGZZHzhBYvuf_7qe_3xgg6XRumrpsZn5bspnTS0A0_visual-16d675e7bc0",
+		"description": "Since 2008, an epicenter for photography, art and culture."
+	},
+	{
+		"feedId": "feed/http://feeds.feedburner.com/PhotographyBay",
+		"title": "Photography Bay",
+		"website": "http://photographybay.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/2MdbwuKGpOIxz6osytNeS7v9qIeUeYoN_gc-YHEozYI_sicon-16ad934ddeb",
+		"visualUrl": "https://storage.googleapis.com/site-assets/2MdbwuKGpOIxz6osytNeS7v9qIeUeYoN_gc-YHEozYI_svisual-16ad934ddeb",
+		"description": "Digital Camera News, Reviews and Tips"
+	},
+	{
+		"feedId": "feed/http://www.shorpy.com/rss.xml",
+		"title": "Shorpy Old Photos | Poster Art - Framed Prints",
+		"website": "https://www.shorpy.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/kxDkssXGVAra4YnuzbhIcwG-zjVqYNT-CV2ho-Wd9xg_sicon-168ad3c6ef1",
+		"visualUrl": "https://storage.googleapis.com/site-assets/kxDkssXGVAra4YnuzbhIcwG-zjVqYNT-CV2ho-Wd9xg_svisual-168ad3c6ef1",
+		"description": "Shorpy, a showcase for vintage photography and a forum for its fans, endeavors to be a high-definition window on the past."
+	},
+	{
+		"feedId": "feed/http://www.aperture.org/feed/",
+		"title": "Aperture Foundation NY",
+		"website": "https://aperture.org",
+		"iconUrl": "https://storage.googleapis.com/site-assets/IgSRYrc1-Y0ayyXHHQ7NAXXgDffRw67ZQFmCgFbORVQ_icon-15ed1b94dea",
+		"visualUrl": "https://storage.googleapis.com/site-assets/IgSRYrc1-Y0ayyXHHQ7NAXXgDffRw67ZQFmCgFbORVQ_visual-15ed1b94dea",
+		"description": "Aperture, a not-for-profit foundation, connects the photo community and its audiences with the most inspiring work, the sharpest ideas, and with each other—in print, in person, and online."
+	},
+	{
+		"feedId": "feed/http://moosepeterson.com/blog/?feed=rss",
+		"title": "Moose Peterson's Website",
+		"website": "https://www.moosepeterson.com/blog",
+		"iconUrl": "https://storage.googleapis.com/site-assets/vN2CnRJF-zpVxrPZmmKjORONGLnWwcc6ar4BrTeMGlY_icon-15b92859945",
+		"visualUrl": "https://storage.googleapis.com/site-assets/vN2CnRJF-zpVxrPZmmKjORONGLnWwcc6ar4BrTeMGlY_visual-15b92859945",
+		"description": "Where the world of photography is explored and shared!"
+	},
+	{
+		"feedId": "feed/http://www.ephotozine.com/index.xml",
+		"title": "ePHOTOzine",
+		"website": "https://www.ephotozine.com/",
+		"iconUrl": "https://storage.googleapis.com/site-assets/LVnwmWD4xq12XkKy-Zr3W4PvZshyEioa4dnJqzH1fhY_icon-15b8b4f4211",
+		"visualUrl": "https://storage.googleapis.com/site-assets/LVnwmWD4xq12XkKy-Zr3W4PvZshyEioa4dnJqzH1fhY_visual-15b8b4f4211",
+		"description": "The latest news, reviews, techniques and more from ePHOTOzine."
+	},
+	{
+		"feedId": "feed/http://www.humansofnewyork.com/rss",
+		"title": "Humans of New York",
+		"website": "https://www.humansofnewyork.com/",
+		"iconUrl": "https://storage.googleapis.com/site-assets/LYuZkz_fsW7VZaHirbgHls4ohtbZdyMP3r6fAkAwDLg_icon-16a491ab9a3",
+		"visualUrl": "https://storage.googleapis.com/site-assets/LYuZkz_fsW7VZaHirbgHls4ohtbZdyMP3r6fAkAwDLg_visual-16a491ab9a3",
+		"description": "Humans of New York "
+	},
+	{
+		"feedId": "feed/http://feeds.feedburner.com/joemcnally",
+		"title": "ModeaMobi",
+		"website": "http://modea.mobi",
+		"iconUrl": "",
+		"visualUrl": "",
+		"description": "The Blog of Joe McNally"
+	},
+	{
+		"feedId": "feed/http://cphmag.com/feed-atom/",
+		"title": "Conscientious Photography Magazine",
+		"website": "https://cphmag.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/PqUTkh580aUcMloaf9toU0SfwJMYtXLIEYD1lPYmoeY_icon-16150999e91",
+		"visualUrl": "https://storage.googleapis.com/site-assets/PqUTkh580aUcMloaf9toU0SfwJMYtXLIEYD1lPYmoeY_visual-16150999e91",
+		"description": "Jörg Colberg's online photography magazine, featuring photographer profiles, interviews, articles, and book reviews."
+	},
+	{
+		"feedId": "feed/https://www.magnumphotos.com/feed/",
+		"title": "Magnum Photos",
+		"website": "https://www.magnumphotos.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/HzBk2J25mjBXF9h2p9uxatsSuN7uWuTean21weD7z24_icon-15cfe62c754",
+		"visualUrl": "https://storage.googleapis.com/site-assets/HzBk2J25mjBXF9h2p9uxatsSuN7uWuTean21weD7z24_visual-15cfe62c754",
+		"description": "News, arts and culture stories through the lens of photography, featuring new and classic work from Magnum Photos’ global roster of artists and documentarians"
+	},
+	{
+		"feedId": "feed/http://www.bjp-online.com/feed/",
+		"title": "British Journal of Photography",
+		"website": "http://www.bjp-online.com",
+		"iconUrl": "http://storage.googleapis.com/site-assets/PTohvPB9PxDcvke1VnoNh476yZb4ovjxcFXDsA_bnM8_icon-1542d7be8b1",
+		"visualUrl": "http://storage.googleapis.com/site-assets/PTohvPB9PxDcvke1VnoNh476yZb4ovjxcFXDsA_bnM8_visual-1542d7be8b1",
+		"description": "The latest photography news and features, since 1854."
+	},
+	{
+		"feedId": "feed/http://shotkit.com/feed/",
+		"title": "Shotkit",
+		"website": "https://shotkit.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/wJg6JgvMdbdUQk-ZgQRs239DSFG3zhaJa-6-XReQagQ_icon-15ef5d287e5",
+		"visualUrl": "https://storage.googleapis.com/site-assets/wJg6JgvMdbdUQk-ZgQRs239DSFG3zhaJa-6-XReQagQ_visual-15ef5d287e5",
+		"description": "The World's Best Photographers & their Camera Gear"
+	},
+	{
+		"feedId": "feed/http://f16.click/feed/",
+		"title": "Fujifilm X-Photography",
+		"website": "https://www.f16.click",
+		"iconUrl": "https://storage.googleapis.com/site-assets/9EHiuIAAK9FaO0Lo5kAPnsP_TT4r57AcnoDNkYN4U2c_sicon-16c5b7244e4",
+		"visualUrl": "https://storage.googleapis.com/site-assets/9EHiuIAAK9FaO0Lo5kAPnsP_TT4r57AcnoDNkYN4U2c_svisual-16c5b7244e4",
+		"description": "A Fujifilm X-Series and other photography resource by UK based Wedding and Social Documentary Photographer Kevin Mullins."
+	},
+	{
+		"feedId": "feed/http://www.flourish.org/news/flickr-daily-interesting-one.xml",
+		"title": "Daily most interesting photo - Flickr",
+		"website": "http://www.flourish.org/flickr/",
+		"iconUrl": "",
+		"visualUrl": "",
+		"description": "Gives the most interesting photo from Flickr, a photo sharing site,\neach calendar day."
+	},
+	{
+		"feedId": "feed/http://jonasraskphotography.com/feed/",
+		"title": "jonasrask|photography",
+		"website": "https://jonasraskphotography.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/eqVD59TSYeBN_gEN6-X42Z_b6sdS04nSiZhskc4G7ZQ_sicon-16b67799ea7",
+		"visualUrl": "https://storage.googleapis.com/site-assets/eqVD59TSYeBN_gEN6-X42Z_b6sdS04nSiZhskc4G7ZQ_svisual-16b67799ea7",
+		"description": "Official Fujifilm X Photographer. Photography, Reviews, Adapted lenses and much more."
+	},
+	{
+		"feedId": "feed/http://blog.phaseone.com/feed/",
+		"title": "Photo Editing Tutorials, Tips & Tricks – Capture One Blog",
+		"website": "https://blog.captureone.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/nIeUolHg48nVT2JfWF56vVyy9wDyJKNREMdvUakI46k_icon-16952431898",
+		"visualUrl": "https://storage.googleapis.com/site-assets/nIeUolHg48nVT2JfWF56vVyy9wDyJKNREMdvUakI46k_visual-16952431898",
+		"description": "Official account of Capture One Pro - The professional choice in imaging software. Share your images with us: #captureonepro"
+	},
+	{
+		"feedId": "feed/http://blog.nikonians.org/index.xml",
+		"title": "Photography and Imaging News",
+		"website": "https://blog.nikonians.org/",
+		"iconUrl": "https://storage.googleapis.com/site-assets/C4ogq9ryw2e4q4wqduVw5BLFzIWsBZmGk7Dy5T74W-U_icon-15b9192e221",
+		"visualUrl": "https://storage.googleapis.com/site-assets/C4ogq9ryw2e4q4wqduVw5BLFzIWsBZmGk7Dy5T74W-U_visual-15b9192e221",
+		"description": "Photography and imaging news from the Nikonians Community"
+	},
+	{
+		"feedId": "feed/http://www.lighting-essentials.com/feed/",
+		"title": "ESSENTIALS For Photographers",
+		"website": "https://www.lighting-essentials.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/yzW14Fx2-GUJf-aq8m5Kf0sD6JKI8F3pExbyVS8EDHg_sicon-16cd711d561",
+		"visualUrl": "https://storage.googleapis.com/site-assets/yzW14Fx2-GUJf-aq8m5Kf0sD6JKI8F3pExbyVS8EDHg_svisual-16cd711d561",
+		"description": "Ideas. Inspiration. Fun. Photography."
+	},
+	{
+		"feedId": "feed/http://bokeh.digitalrev.com/api/rss",
+		"title": "DigitalRev - Focus on photography",
+		"website": "https://www.digitalrev.com/",
+		"iconUrl": "https://storage.googleapis.com/site-assets/TpDlJ3P8Als8yKuEpsDydwBt1WSVOtt7YgL2urfJ8Vc_icon-15b92caa675",
+		"visualUrl": "https://storage.googleapis.com/site-assets/TpDlJ3P8Als8yKuEpsDydwBt1WSVOtt7YgL2urfJ8Vc_visual-15b92caa675",
+		"description": "DigitalRev is all about photography, covering photo news, camera and lens gear reviews, photography and videography how-tos and tutorials."
+	},
+	{
+		"feedId": "feed/http://feeds.feedburner.com/photodoto",
+		"title": "Photodoto",
+		"website": "https://photodoto.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/AN7jpjZehlEnEvTFkt1sxRunJAKbO5aoMzknA0XFIYI_icon-16c092a40e5",
+		"visualUrl": "https://storage.googleapis.com/site-assets/AN7jpjZehlEnEvTFkt1sxRunJAKbO5aoMzknA0XFIYI_visual-16c092a40e5",
+		"description": "Photography blog: Reviews, tips, tricks and advice from professional photographers, tutorials on flash lighting, composition, landscape and portrait photos"
+	},
+	{
+		"feedId": "feed/http://www.earthboundlight.com/subscribe/phototips.xml",
+		"title": "Earthbound Light Photography Tips",
+		"website": "http://www.earthboundlight.com/phototips.html",
+		"iconUrl": "https://storage.googleapis.com/site-assets/OmWjJk_ZKuffbJv4n_bIzSuevC-kdpngOtbWdz3SQaU_sicon-1612cfc26fc",
+		"visualUrl": "https://storage.googleapis.com/site-assets/OmWjJk_ZKuffbJv4n_bIzSuevC-kdpngOtbWdz3SQaU_svisual-1612cfc26fc",
+		"description": "Weekly Photoshop and digital photography tips, articles and tutorials from EarthboundLight.com"
+	},
+	{
+		"feedId": "feed/http://www.dpreview.com/feeds/reviews.xml",
+		"title": "Reviews (latest): Digital Photography Review (dpreview.com)",
+		"website": "https://www.dpreview.com/reviews/",
+		"iconUrl": "https://storage.googleapis.com/site-assets/FVXq7yQjJ2foga3H1mN8hXOnzzbvACjlu1w6aPCe64s_icon-16bc12f65d1",
+		"visualUrl": "https://storage.googleapis.com/site-assets/FVXq7yQjJ2foga3H1mN8hXOnzzbvACjlu1w6aPCe64s_visual-16bc12f65d1",
+		"description": "The latest digital camera and digital imaging reviews from Digital Photography Review."
+	},
+	{
+		"feedId": "feed/http://feed.500px.com/500px-best",
+		"title": "500px:",
+		"website": "https://500px.com/photos.rss",
+		"iconUrl": "https://storage.googleapis.com/site-assets/TBEGDVioxx7nqYCPR8kQmt2hp29r7lYfNmP9C538q8A_sicon-16b57605bcf",
+		"visualUrl": "https://storage.googleapis.com/site-assets/TBEGDVioxx7nqYCPR8kQmt2hp29r7lYfNmP9C538q8A_svisual-16b57605bcf",
+		"description": "on 500px."
+	},
+	{
+		"feedId": "feed/http://www.dpreview.com/feeds/latest.xml",
+		"title": "Latest digital imaging products: Digital Photography Review (dpreview.com)",
+		"website": "https://www.dpreview.com/products",
+		"iconUrl": "https://storage.googleapis.com/site-assets/nX0WHwvQu-jbhDBJXBbQoBTxpqEQ_SyPMJA8sPrT8ho_icon-16bc12ffc84",
+		"visualUrl": "https://storage.googleapis.com/site-assets/nX0WHwvQu-jbhDBJXBbQoBTxpqEQ_SyPMJA8sPrT8ho_visual-16bc12ffc84",
+		"description": "The latest 50 digital imaging products from Digital Photography Review (dpreview.com)."
+	},
+	{
+		"feedId": "feed/http://feeds.feedburner.com/DigitalPhotographySchool/Tips",
+		"title": "Photography Tips and Tutorials – Digital Photography School",
+		"website": "https://digital-photography-school.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/HmO532G_lfUVoFdpLvul2GEIa4qwSnR_P0XHLnurILg_icon-15b9292f0ab",
+		"visualUrl": "https://storage.googleapis.com/site-assets/HmO532G_lfUVoFdpLvul2GEIa4qwSnR_P0XHLnurILg_visual-15b9292f0ab",
+		"description": "Digital Photography Tips and Tutorials"
+	}
+]

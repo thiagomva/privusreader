@@ -1,0 +1,754 @@
+[
+	{
+		"feedId": "feed/http://www.nytimes.com/services/xml/rss/nyt/HomePage.xml",
+		"title": "NYT > Top Stories",
+		"website": "https://nytimes.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/2IAKmisI-skG5eJD6FDanzV4JS35tHTM1ILbuVimBro_icon-16a2a518642",
+		"visualUrl": "https://storage.googleapis.com/site-assets/2IAKmisI-skG5eJD6FDanzV4JS35tHTM1ILbuVimBro_visual-16a2a518642",
+		"description": "Find breaking news, multimedia, reviews & opinion on Washington, business, sports, movies & more."
+	},
+	{
+		"feedId": "feed/http://newsrss.bbc.co.uk/rss/newsonline_world_edition/front_page/rss.xml",
+		"title": "BBC News - Home",
+		"website": "https://www.bbc.co.uk/news/",
+		"iconUrl": "https://storage.googleapis.com/site-assets/uYunhGc6mnMcwnCnr6rDEvRhdZsfgW3FK1p4gMSHkiM_icon-16bf7b9ee58",
+		"visualUrl": "https://storage.googleapis.com/site-assets/uYunhGc6mnMcwnCnr6rDEvRhdZsfgW3FK1p4gMSHkiM_visual-16bf7b9ee58",
+		"description": "Visit BBC News for up-to-the-minute news, breaking news, video, audio and feature stories. BBC News provides trusted World and UK news as well as local and regional perspectives. Also entertainment, business, science, technology and health news."
+	},
+	{
+		"feedId": "feed/http://rss.cnn.com/rss/cnn_topstories.rss",
+		"title": "CNN.com - RSS Channel - HP Hero",
+		"website": "https://www.cnn.com/index.html",
+		"iconUrl": "http://storage.googleapis.com/test-site-assets/rCJg7pKVnNYe-cGb-lsdnTD6zmt4MNGy627zsl0vNH4_oicon-14ebc5230d6",
+		"visualUrl": "http://storage.googleapis.com/test-site-assets/rCJg7pKVnNYe-cGb-lsdnTD6zmt4MNGy627zsl0vNH4_ovisual-14ebc5230d6",
+		"description": "Delivering up-to-the-minute news and information on the latest top stories, weather, entertainment, politics."
+	},
+	{
+		"feedId": "feed/http://feeds.reuters.com/reuters/topNews?irpc=69",
+		"title": "Reuters: Top News",
+		"website": "https://www.reuters.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/HRVU43C3QNjI2YNW0cqiEhW1I1mfsY0OucW0UZuUljs_icon-1688570d8e0",
+		"visualUrl": "https://storage.googleapis.com/site-assets/HRVU43C3QNjI2YNW0cqiEhW1I1mfsY0OucW0UZuUljs_visual-1688570d8e0",
+		"description": "Reuters.com is your source for breaking news, business, financial and investing news, including personal finance and stocks.  Reuters is the leading global provider of news, financial information and technology solutions to the world's media, financial institutions, businesses and individuals."
+	},
+	{
+		"feedId": "feed/http://www.guardian.co.uk/rssfeed/0,,1,00.xml",
+		"title": "The Guardian",
+		"website": "https://www.theguardian.com/uk",
+		"iconUrl": "https://storage.googleapis.com/site-assets/fLHFtwryZugkTI3NC4UrLqmHQcckXfXbVh1XRHy9YeE_icon-16d5358690b",
+		"visualUrl": "https://storage.googleapis.com/site-assets/fLHFtwryZugkTI3NC4UrLqmHQcckXfXbVh1XRHy9YeE_visual-16d5358690b",
+		"description": "Latest news, sport, business, comment, analysis and reviews from the Guardian, the world's leading liberal voice"
+	},
+	{
+		"feedId": "feed/http://www.npr.org/rss/rss.php?id=1001",
+		"title": "News : NPR",
+		"website": "https://www.npr.org/templates/story/story.php?storyId=1001",
+		"iconUrl": "https://storage.googleapis.com/site-assets/sADHxtZ_iQmNqUemqKPsHsrALS27IXrQCntkDFMbl00_icon-16cd5257177",
+		"visualUrl": "https://storage.googleapis.com/site-assets/sADHxtZ_iQmNqUemqKPsHsrALS27IXrQCntkDFMbl00_visual-16cd5257177",
+		"description": "Breaking stories, national and world news, politics, business, science, technology"
+	},
+	{
+		"feedId": "feed/http://rss.time.com/web/time/rss/top/index.xml",
+		"title": "TIME",
+		"website": "https://time.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/v8GrIox8wlD_6wSJ1nXQ_TWpl1cfTv1BstdxM39R8AY_icon-16b5ae7f377",
+		"visualUrl": "https://storage.googleapis.com/site-assets/v8GrIox8wlD_6wSJ1nXQ_TWpl1cfTv1BstdxM39R8AY_visual-16b5ae7f377",
+		"description": "Current & Breaking News | National & World Updates"
+	},
+	{
+		"feedId": "feed/http://feeds.feedburner.com/TheAtlantic",
+		"title": "The Atlantic ",
+		"website": "https://www.theatlantic.com/",
+		"iconUrl": "https://storage.googleapis.com/site-assets/PiZyxgIkdjlmli7o0PIIinzT0eRAK6XGvK0WaTRcMRg_icon-15cf2d2e609",
+		"visualUrl": "https://storage.googleapis.com/site-assets/PiZyxgIkdjlmli7o0PIIinzT0eRAK6XGvK0WaTRcMRg_visual-15cf2d2e609",
+		"description": "The Atlantic covers breaking news, analysis, opinion around politics, business, culture, international, science, technology, national and food on the official site of the Atlantic Magazine."
+	},
+	{
+		"feedId": "feed/http://www.washingtonpost.com/rss/homepage",
+		"title": "Washington Post: Breaking News, World, US, DC News & Analysis",
+		"website": "http://www.washingtonpost.com/pb/homepage/",
+		"iconUrl": "https://storage.googleapis.com/site-assets/PabZ8i1QCHv3KpsuDwP-IaHjEII8doc1zV63QTNW0N8_icon-166f1271c44",
+		"visualUrl": "https://storage.googleapis.com/site-assets/PabZ8i1QCHv3KpsuDwP-IaHjEII8doc1zV63QTNW0N8_visual-166f1271c44",
+		"description": "Breaking news and analysis on politics, business, world national news, entertainment more. In-depth DC, Virginia, Maryland news coverage including traffic, weather, crime, education, restaurant reviews and more."
+	},
+	{
+		"feedId": "feed/http://rssfeeds.usatoday.com/usatoday-NewsTopStories",
+		"title": "GANNETT Syndication Service",
+		"website": "https://api-internal.usatoday.com.akadns.net",
+		"iconUrl": "",
+		"visualUrl": "",
+		"description": "USATODAY - News Top Stories"
+	},
+	{
+		"feedId": "feed/http://feeds.abcnews.com/abcnews/topstories",
+		"title": "ABC News: Top Stories",
+		"website": "http://abcnews.go.com/",
+		"iconUrl": "https://storage.googleapis.com/site-assets/qvp3ktcoRC66PXWCqBjxN2MbWYclffkPjNpADz_-guA_icon-1682d24232d",
+		"visualUrl": "https://storage.googleapis.com/site-assets/qvp3ktcoRC66PXWCqBjxN2MbWYclffkPjNpADz_-guA_visual-1682d24232d",
+		"description": "Your trusted source for breaking news, analysis, exclusive interviews, headlines, and videos at ABCNews.com"
+	},
+	{
+		"feedId": "feed/http://english.aljazeera.net/Services/Rss/?PostingId=2007731105943979989",
+		"title": "Al Jazeera English",
+		"website": "https://www.aljazeera.com/default.html",
+		"iconUrl": "https://storage.googleapis.com/site-assets/TTsB8CQYN3fSiSmIVZ9M2VIt3SRoK7KmeAORIxsm980_icon-161d14bc256",
+		"visualUrl": "https://storage.googleapis.com/site-assets/TTsB8CQYN3fSiSmIVZ9M2VIt3SRoK7KmeAORIxsm980_visual-161d14bc256",
+		"description": "News, analysis from the Middle East & worldwide, multimedia & interactives, opinions, documentaries, podcasts, long reads and broadcast schedule."
+	},
+	{
+		"feedId": "feed/http://feeds.foxnews.com/foxnews/scitech",
+		"title": "FOX News Science",
+		"website": "http://www.foxnews.com/",
+		"iconUrl": "https://storage.googleapis.com/site-assets/zc_gHE_qBLwToEh4m7ruHyumh94Xla6H5tzQVp3iWrI_sicon-15fce2777af",
+		"visualUrl": "https://storage.googleapis.com/site-assets/zc_gHE_qBLwToEh4m7ruHyumh94Xla6H5tzQVp3iWrI_svisual-15fce2777af",
+		"description": "FOXNews.com - Breaking news and video. Latest Current News: U.S., World, Entertainment, Health, Business, Technology, Politics, Sports."
+	},
+	{
+		"feedId": "feed/http://www.slate.com/rss",
+		"title": "Slate - Culture",
+		"website": "https://slate.com/culture",
+		"iconUrl": "https://storage.googleapis.com/site-assets/UYLLtteHwMlBqAJdix1-rZ6nYC29mbsTyVq5t26GzPo_icon-16c6a546d8a",
+		"visualUrl": "https://storage.googleapis.com/site-assets/UYLLtteHwMlBqAJdix1-rZ6nYC29mbsTyVq5t26GzPo_visual-16c6a546d8a",
+		"description": "Online magazine of news, politics, technology, and culture. Combines humor and insight in thoughtful analyses of current events and political news."
+	},
+	{
+		"feedId": "feed/http://rss.news.yahoo.com/rss/topstories",
+		"title": "Yahoo News - Latest News & Headlines",
+		"website": "https://www.yahoo.com/news/topstories",
+		"iconUrl": "https://storage.googleapis.com/site-assets/U43yQtocz9j0g8DqctN2n1T_HphZ9Wi6hciGimQiEZw_icon-16d636c15d0",
+		"visualUrl": "https://storage.googleapis.com/site-assets/U43yQtocz9j0g8DqctN2n1T_HphZ9Wi6hciGimQiEZw_visual-16d636c15d0",
+		"description": "The latest news and headlines from Yahoo! News. Get breaking news stories and in-depth coverage with videos and photos."
+	},
+	{
+		"feedId": "feed/http://www.vox.com/rss/index.xml",
+		"title": "Vox -  All",
+		"website": "https://www.vox.com/",
+		"iconUrl": "https://storage.googleapis.com/site-assets/33Qk4QF65xZ2Kiom-Vs9Q3VHFCy_5Lcwa9OxFkQYJk4_icon-15bc817495b",
+		"visualUrl": "https://storage.googleapis.com/site-assets/33Qk4QF65xZ2Kiom-Vs9Q3VHFCy_5Lcwa9OxFkQYJk4_visual-15bc817495b",
+		"description": "Vox is a general interest news site for the 21st century. "
+	},
+	{
+		"feedId": "feed/http://www.newyorker.com/services/rss/feeds/everything.xml",
+		"title": "The New Yorker - Culture",
+		"website": "https://www.newyorker.com/culture",
+		"iconUrl": "https://storage.googleapis.com/site-assets/C9CfPZRBh-c_qSlXCotKuKjPbIhUHLA4NHKO5PZy49k_icon-165bd400541",
+		"visualUrl": "https://storage.googleapis.com/site-assets/C9CfPZRBh-c_qSlXCotKuKjPbIhUHLA4NHKO5PZy49k_visual-165bd400541",
+		"description": "Cultural news and criticism, and conversations about TV, theatre, movies, and music, as well as Goings On About Town listings from The New Yorker."
+	},
+	{
+		"feedId": "feed/http://www.vice.com/rss",
+		"title": "VICE",
+		"website": "https://www.vice.com/en_us",
+		"iconUrl": "https://storage.googleapis.com/site-assets/MeU9BtSj_A8jPpEQvxjkOT4bvgMzh5zwSPCIxB7OQ10_icon-15b926e823b",
+		"visualUrl": "https://storage.googleapis.com/site-assets/MeU9BtSj_A8jPpEQvxjkOT4bvgMzh5zwSPCIxB7OQ10_visual-15b926e823b",
+		"description": "The definitive guide to enlightening information."
+	},
+	{
+		"feedId": "feed/http://www.independent.co.uk/rss",
+		"title": "The Independent",
+		"website": "http://www.independent.co.uk/rss",
+		"iconUrl": "https://storage.googleapis.com/site-assets/wTOXJ0ovCoamJQSQqrbHMDzwSpe_e5eLLCh1JqNmUBY_icon-16bda18d8f5",
+		"visualUrl": "https://storage.googleapis.com/site-assets/wTOXJ0ovCoamJQSQqrbHMDzwSpe_e5eLLCh1JqNmUBY_visual-16bda18d8f5",
+		"description": "The Independent Feed"
+	},
+	{
+		"feedId": "feed/https://firstlook.org/theintercept/feed/",
+		"title": "The Intercept",
+		"website": "https://theintercept.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/6dltgvsV1l0R_8swQp-7laduxYuPxPBcGlW28RnYQV4_icon-15b8cb1e8ab",
+		"visualUrl": "https://storage.googleapis.com/site-assets/6dltgvsV1l0R_8swQp-7laduxYuPxPBcGlW28RnYQV4_visual-15b8cb1e8ab",
+		"description": "The Intercept."
+	},
+	{
+		"feedId": "feed/http://rss.cbc.ca/lineup/topstories.xml",
+		"title": "CBC | Top Stories News",
+		"website": "http://www.cbc.ca/news/?cmp=rss",
+		"iconUrl": "https://storage.googleapis.com/site-assets/I3vYeTq6OWwp4rUAjOACYnQCUQnsyoPRXNvu_fdi_Kw_icon-16bb8962586",
+		"visualUrl": "https://storage.googleapis.com/site-assets/I3vYeTq6OWwp4rUAjOACYnQCUQnsyoPRXNvu_fdi_Kw_visual-16bb8962586",
+		"description": "FOR PERSONAL USE ONLY"
+	},
+	{
+		"feedId": "feed/http://www.politico.com/rss/politicopicks.xml",
+		"title": "Politico ",
+		"website": "https://www.politico.com/",
+		"iconUrl": "https://storage.googleapis.com/site-assets/Phq6GMdD1uNEUQUw4vzpU7SrRv_2aniNTMc744uLeUs_icon-15f5ca91336",
+		"visualUrl": "https://storage.googleapis.com/site-assets/Phq6GMdD1uNEUQUw4vzpU7SrRv_2aniNTMc744uLeUs_visual-15f5ca91336",
+		"description": "Politics, Policy, Political News Top Stories."
+	},
+	{
+		"feedId": "feed/http://www.csmonitor.com/rss/top.rss",
+		"title": "The Christian Science Monitor | All stories",
+		"website": "https://www.csmonitor.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/74ejPURTkVni8VwC7It-uFQUMFgrHZoinzkE8PbDhUU_icon-16cd7264bdf",
+		"visualUrl": "https://storage.googleapis.com/site-assets/74ejPURTkVni8VwC7It-uFQUMFgrHZoinzkE8PbDhUU_visual-16cd7264bdf",
+		"description": "The Christian Science Monitor is an international news organization that delivers thoughtful, global coverage via its website, weekly magazine, online daily edition, and email newsletters."
+	},
+	{
+		"feedId": "feed/http://feeds.propublica.org/propublica/main",
+		"title": "Articles and Investigations - ProPublica",
+		"website": "https://www.propublica.org/feeds/54Ghome",
+		"iconUrl": "https://storage.googleapis.com/test-site-assets/o2OW84rPkzHW7ErHZgWr3FR0oZMMITApmucIgyninJE_oicon-16586365a07",
+		"visualUrl": "https://storage.googleapis.com/test-site-assets/o2OW84rPkzHW7ErHZgWr3FR0oZMMITApmucIgyninJE_ovisual-16586365a07",
+		"description": "Latest Articles and Investigations from ProPublica, an independent, non-profit newsroom that produces investigative journalism in the public interest."
+	},
+	{
+		"feedId": "feed/http://qz.com/feed/",
+		"title": "Quartz",
+		"website": "https://qz.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/t9NJb6rMt3WVivgF5JJtqOwhhWhdxPuJjlu7LCw1vdk_sicon-16bb2c9bf02",
+		"visualUrl": "https://storage.googleapis.com/site-assets/t9NJb6rMt3WVivgF5JJtqOwhhWhdxPuJjlu7LCw1vdk_svisual-16bb2c9bf02",
+		"description": "Quartz is a digitally native news outlet for the new global economy."
+	},
+	{
+		"feedId": "feed/https://news.vice.com/rss",
+		"title": "VICE US - undefined US",
+		"website": "https://news.vice.com/en_us",
+		"iconUrl": "https://storage.googleapis.com/site-assets/S_fehhT2fmfEEa_inljYRj0TY8LPB11pEmWnXTjnEVA_icon-16c8eff77bd",
+		"visualUrl": "https://storage.googleapis.com/site-assets/S_fehhT2fmfEEa_inljYRj0TY8LPB11pEmWnXTjnEVA_visual-16c8eff77bd",
+		"description": "RSS feed for undefined"
+	},
+	{
+		"feedId": "feed/http://www.bostonglobe.com/rss/feedly.xml",
+		"title": "The Boston Globe",
+		"website": "https://www.bostonglobe.com",
+		"iconUrl": "https://www.bostonglobe.com/rw/SysConfig/WebPortal/BostonGlobe/Framework/images/feedly/bg-logo.svg",
+		"visualUrl": "https://www.bostonglobe.com/rw/SysConfig/WebPortal/BostonGlobe/Framework/images/feedly/bg-logo.svg",
+		"description": "Boston and New England's leading source for breaking news and analysis, with coverage from across the world."
+	},
+	{
+		"feedId": "feed/http://drudgereportfeed.com/rss.xml",
+		"title": "Drudge Report Feed",
+		"website": "http://drudgereportfeed.com/",
+		"iconUrl": "https://storage.googleapis.com/test-site-assets/ZOqkVHSLZOC9Lu12_FVYoJMvRzDe7zCYvJ91pXfSyMY_oicon-1658635b705",
+		"visualUrl": "https://storage.googleapis.com/test-site-assets/ZOqkVHSLZOC9Lu12_FVYoJMvRzDe7zCYvJ91pXfSyMY_ovisual-1658635b705",
+		"description": "An RSS feed of the Drudge Report."
+	},
+	{
+		"feedId": "feed/http://feeds.feedburner.com/breitbart",
+		"title": "Breitbart News",
+		"website": "https://www.breitbart.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/WMTsVnhpHgdLEfh2a_okuMLwU_JbfU4VaH_hMflM8h4_icon-16459e6201d",
+		"visualUrl": "https://storage.googleapis.com/site-assets/WMTsVnhpHgdLEfh2a_okuMLwU_JbfU4VaH_hMflM8h4_visual-16459e6201d",
+		"description": "Syndicated news and opinion website providing continuously updated headlines to top news and analysis sources."
+	},
+	{
+		"feedId": "feed/http://feeds.feedburner.com/thedailybeast/articles",
+		"title": "The Daily Beast Latest Articles",
+		"website": "https://www.thedailybeast.com/?via=rss&source=articles",
+		"iconUrl": "https://storage.googleapis.com/site-assets/-tKG5UlMaY9RvpDYiaC7IZrxAzcc2hMSOnS1XdanTqo_icon-163bd680909",
+		"visualUrl": "https://storage.googleapis.com/site-assets/-tKG5UlMaY9RvpDYiaC7IZrxAzcc2hMSOnS1XdanTqo_visual-163bd680909",
+		"description": "The Daily Beast Latest Articles"
+	},
+	{
+		"feedId": "feed/http://www.ozy.com/XmlServers/DailyDoseRSS.aspx",
+		"title": "OZY",
+		"website": "https://www.ozy.com/",
+		"iconUrl": "http://storage.googleapis.com/test-site-assets/lBYIou4nmbqIvHzgpMRRU2xEjESdMJ0Z2CNSzactvTQ_oicon-14d6d2f0b32",
+		"visualUrl": "http://storage.googleapis.com/test-site-assets/lBYIou4nmbqIvHzgpMRRU2xEjESdMJ0Z2CNSzactvTQ_ovisual-14d6d2f0b32",
+		"description": "International online magazine that focuses on news, arts, and culture"
+	},
+	{
+		"feedId": "feed/http://rt.com/rss/",
+		"title": "RT - Daily news",
+		"website": "https://www.rt.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/920B3hS8feikoQo_ZFxE0vsfP6vspcIfYwRWc9KiEfc_icon-164a85f9680",
+		"visualUrl": "https://storage.googleapis.com/site-assets/920B3hS8feikoQo_ZFxE0vsfP6vspcIfYwRWc9KiEfc_visual-164a85f9680",
+		"description": "RT is the first Russian 24/7 English-language news channel which brings the Russian view on global news."
+	},
+	{
+		"feedId": "feed/http://www.salon.com/feed/",
+		"title": "Salon.com",
+		"website": "https://www.salon.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/0y9nwCias3My5eserPhbWFOMmKwkaGmO-dQt5dMNNQg_icon-167bb3e77fa",
+		"visualUrl": "https://storage.googleapis.com/site-assets/0y9nwCias3My5eserPhbWFOMmKwkaGmO-dQt5dMNNQg_visual-167bb3e77fa",
+		"description": " Award-winning news and culture, features breaking\n                                           news, in-depth reporting and criticism on politics, business,\n                                           entertainment and technology.\n                                         "
+	},
+	{
+		"feedId": "feed/https://www.axios.com/feeds/feed.rss",
+		"title": "Axios",
+		"website": "https://www.axios.com/top/",
+		"iconUrl": "https://storage.googleapis.com/site-assets/dY8vElNspgXe2yvHOWFe3MErs_r0Pbf9P_omSYMhFNE_icon-16bb2336ff3",
+		"visualUrl": "https://storage.googleapis.com/site-assets/dY8vElNspgXe2yvHOWFe3MErs_r0Pbf9P_omSYMhFNE_visual-16bb2336ff3",
+		"description": "Smart, efficient news worthy of your time, attention, and trust"
+	},
+	{
+		"feedId": "feed/http://fivethirtyeight.com/features/feed/",
+		"title": "FiveThirtyEight",
+		"website": "https://fivethirtyeight.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/2NA0BJlTR5R3kmbqPvnbf3gzOTn804jw9I0WxFJXUlI_icon-168cc53133b",
+		"visualUrl": "https://storage.googleapis.com/site-assets/2NA0BJlTR5R3kmbqPvnbf3gzOTn804jw9I0WxFJXUlI_visual-168cc53133b",
+		"description": "Nate Silver’s FiveThirtyEight uses statistical analysis — hard numbers — to tell compelling stories about politics, sports, science, economics and culture."
+	},
+	{
+		"feedId": "feed/http://www.latimes.com/rss2.0.xml",
+		"title": "California",
+		"website": "https://www.latimes.com/news/rss2.0.xml",
+		"iconUrl": "https://storage.googleapis.com/site-assets/EHJF-G4upVAh4pgJEZetgGI9UT1sogR72T2j12CM40s_icon-16d21cf620e",
+		"visualUrl": "https://storage.googleapis.com/site-assets/EHJF-G4upVAh4pgJEZetgGI9UT1sogR72T2j12CM40s_visual-16d21cf620e",
+		"description": "California news and features from the Los Angeles Times."
+	},
+	{
+		"feedId": "feed/http://www.telegraph.co.uk/rss",
+		"title": "www.telegraph.co.uk for the latest news from the UK and around the world.",
+		"website": "http://www.telegraph.co.uk/",
+		"iconUrl": "https://storage.googleapis.com/site-assets/4ZozfOgSretBFUR0cMDMtDq2B4KvzQ3tvXtfZaXD8Y4_icon-160739baaf0",
+		"visualUrl": "https://storage.googleapis.com/site-assets/4ZozfOgSretBFUR0cMDMtDq2B4KvzQ3tvXtfZaXD8Y4_visual-160739baaf0",
+		"description": "www.telegraph.co.uk for the latest news from the UK and around the world."
+	},
+	{
+		"feedId": "feed/http://rss.dw-world.de/rdf/rss-en-all",
+		"title": "Deutsche Welle",
+		"website": "http://www.dw.com/english/?maca=en-rss-en-all-1573-rdf",
+		"iconUrl": "https://storage.googleapis.com/site-assets/eNpZR4LrXTeYv3GlF6QqLkGKSDx-eKWFU0k54gZCCs4_sicon-15b64458af1",
+		"visualUrl": "https://storage.googleapis.com/site-assets/eNpZR4LrXTeYv3GlF6QqLkGKSDx-eKWFU0k54gZCCs4_svisual-15b64458af1",
+		"description": "News, off-beat stories and analysis of German and international affairs. Dive deeper with our features from Europe and beyond. Watch our 24/7 TV stream."
+	},
+	{
+		"feedId": "feed/http://timesofindia.indiatimes.com/rssfeedsdefault.cms",
+		"title": "The Times of India",
+		"website": "http://timesofindia.indiatimes.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/gr6I2Y3Ox5bFwTi4lxkt58YTYmA819EKW3mjc6ZNPDg_sicon-16d997035d5",
+		"visualUrl": "https://storage.googleapis.com/site-assets/gr6I2Y3Ox5bFwTi4lxkt58YTYmA819EKW3mjc6ZNPDg_svisual-16d997035d5",
+		"description": "Times of India brings the Latest & Top Breaking News on Politics and Current Affairs in India & around the World, Cricket, Sports, Business, Bollywood News and Entertainment, Science, Technology, Health & Fitness news & opinions from leading columnists."
+	},
+	{
+		"feedId": "feed/http://www.spiegel.de/international/index.rss",
+		"title": "SPIEGEL ONLINE - International",
+		"website": "https://www.spiegel.de",
+		"iconUrl": "https://storage.googleapis.com/site-assets/gWyOXAoDzZqu3ggFJhAHoakMKSCWt6iA1iHnKp6T7n4_sicon-16a0b365a33",
+		"visualUrl": "https://storage.googleapis.com/site-assets/gWyOXAoDzZqu3ggFJhAHoakMKSCWt6iA1iHnKp6T7n4_svisual-16a0b365a33",
+		"description": "Daily news, analysis and opinion from Europe's leading newsmagazine and Germany's top news Web site."
+	},
+	{
+		"feedId": "feed/http://www.cbsnews.com/feeds/rss/main.rss",
+		"title": "Home - CBSNews.com",
+		"website": "https://www.cbsnews.com/",
+		"iconUrl": "https://storage.googleapis.com/site-assets/erBpTNfts-qyeeG10_ND1i-H2wQXpmcRf3JKKR4ce3w_icon-15def20fe74",
+		"visualUrl": "https://storage.googleapis.com/site-assets/erBpTNfts-qyeeG10_ND1i-H2wQXpmcRf3JKKR4ce3w_visual-15def20fe74",
+		"description": "Watch CBSN the live news stream from CBS News and get the latest, breaking news headlines of the day for national news and world news today."
+	},
+	{
+		"feedId": "feed/http://www.newsweek.com/rss",
+		"title": "Newsweek",
+		"website": "https://www.newsweek.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/TgDw-dTpOr79IlFQZq5zQf66g46KHplZ5rp5gZQSyeM_icon-164a7356bcb",
+		"visualUrl": "https://storage.googleapis.com/site-assets/TgDw-dTpOr79IlFQZq5zQf66g46KHplZ5rp5gZQSyeM_visual-164a7356bcb",
+		"description": "Newsweek provides in-depth analysis, news and opinion about international issues, technology, business, culture and politics."
+	},
+	{
+		"feedId": "feed/http://www.abc.net.au/news/feed/46182/rss.xml",
+		"title": "ABC News",
+		"website": "http://www.abc.net.au/news/",
+		"iconUrl": "https://storage.googleapis.com/site-assets/gkZkQ1BY7HJLF5wW7wmIPVZ-DWkyxA7htowK6ywHKm4_icon-16587be17a7",
+		"visualUrl": "https://storage.googleapis.com/site-assets/gkZkQ1BY7HJLF5wW7wmIPVZ-DWkyxA7htowK6ywHKm4_visual-16587be17a7",
+		"description": "Trusted and independent source of local, national and world news. In-depth analysis, business, sport, weather and more."
+	},
+	{
+		"feedId": "feed/http://www.democracynow.org/democracynow.rss",
+		"title": "Democracy Now!",
+		"website": "http://www.democracynow.org/",
+		"iconUrl": "https://storage.googleapis.com/site-assets/mxb11iYprr6RDyWK77lQiTFmJIj8bgd0d99T86nocs8_icon-16a7eaa3bf4",
+		"visualUrl": "https://storage.googleapis.com/site-assets/mxb11iYprr6RDyWK77lQiTFmJIj8bgd0d99T86nocs8_visual-16a7eaa3bf4",
+		"description": "Democracy Now! is an independent daily TV & radio news program, hosted by award-winning journalists Amy Goodman and Juan González. We provide daily global news headlines, in-depth interviews and investigative reports without any advertisements or government funding. Our programming shines a spotlight on corporate and government abuses of power and lifts up the stories of ordinary people working to make change in extraordinary times. Democracy Now! is live weekdays at 8am ET and available 24/7 through our website and podcasts."
+	},
+	{
+		"feedId": "feed/http://feeds.feedburner.com/euronews/en/home/",
+		"title": "News | Euronews RSS",
+		"website": "http://www.euronews.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/Q-wYglWWz_bgBU_sDXpNx9wsk_Fdip8dwQ9oyioYh9Q_icon-16d8812d883",
+		"visualUrl": "https://storage.googleapis.com/site-assets/Q-wYglWWz_bgBU_sDXpNx9wsk_Fdip8dwQ9oyioYh9Q_visual-16d8812d883",
+		"description": "Latest breaking news available as free video on demand. Stay informed on European and world news about economy, politics, diplomacy&hellip; with Euronews."
+	},
+	{
+		"feedId": "feed/http://www.dailymail.co.uk/home/index.rss",
+		"title": "Home | Mail Online",
+		"website": "https://www.dailymail.co.uk?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+		"iconUrl": "https://storage.googleapis.com/site-assets/sKzf9IDHUjq8coV-t1Z44KjDu8XfNGfQfOjhDrs5OAc_sicon-16768cbf597",
+		"visualUrl": "https://storage.googleapis.com/site-assets/sKzf9IDHUjq8coV-t1Z44KjDu8XfNGfQfOjhDrs5OAc_svisual-16768cbf597",
+		"description": "MailOnline - get the latest breaking news, showbiz & celebrity photos, sport news & rumours, viral videos and top stories from MailOnline, Daily Mail and Mail on Sunday newspapers."
+	},
+	{
+		"feedId": "feed/http://feeds.reuters.com/reuters/JPTopNews",
+		"title": "ロイター: トップニュース",
+		"website": "https://jp.reuters.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/iaMVUI-BlyhBBPqiugo6euFkdF3W41jX0wpq30uCabE_icon-16b5978cd23",
+		"visualUrl": "https://storage.googleapis.com/site-assets/iaMVUI-BlyhBBPqiugo6euFkdF3W41jX0wpq30uCabE_visual-16b5978cd23",
+		"description": "Reuters.co.jpはニュース速報、ワールドニュース、ビジネス情報、経済ニュース、株式ニュース、外国為替ニュースなどが入手できる重要な情報源です。ロイターは世界中のメディア、金融機関、そして個人投資家にニュースや金融情報、テクノロジーを提供する世界最大の国際通信社です"
+	},
+	{
+		"feedId": "feed/http://www.thestar.com/feeds.topstories.rss",
+		"title": "TORONTO STAR",
+		"website": "https://www.thestar.com/content/thestar/feed.RSSManagerServlet.topstories.rss/",
+		"iconUrl": "https://storage.googleapis.com/site-assets/gQHPKy5cFNIpJvNVHyDFGHze-_OqSQMkVPeKxTv95KM_icon-16d580ad70c",
+		"visualUrl": "https://storage.googleapis.com/site-assets/gQHPKy5cFNIpJvNVHyDFGHze-_OqSQMkVPeKxTv95KM_visual-16d580ad70c",
+		"description": "thestar.com is Canada's largest online news site. From national coverage and issues to local headlines and stories across the country, the Star is your home for Canadian news and perspectives. Stay current with sports, business, entertainment stories and more at thestar.com."
+	},
+	{
+		"feedId": "feed/http://tv.msnbc.com/feed/",
+		"title": "msnbc.com Latest Headlines",
+		"website": "http://www.msnbc.com/",
+		"iconUrl": "https://storage.googleapis.com/site-assets/X14_T5NYd8Hsr7016Rc-mq-4NvPB93L79HCI6NLfrZM_sicon-165f9a6c481",
+		"visualUrl": "https://storage.googleapis.com/site-assets/X14_T5NYd8Hsr7016Rc-mq-4NvPB93L79HCI6NLfrZM_svisual-165f9a6c481",
+		"description": "Breaking news and in-depth analysis of the headlines, as well as commentary and informed perspectives from The Rachel Maddow Show, Morning Joe & more."
+	},
+	{
+		"feedId": "feed/http://www.newslookup.com/rss/business/bloomberg.rss",
+		"title": "Bloomberg",
+		"website": "http://www.bloomberg.com/",
+		"iconUrl": "https://storage.googleapis.com/site-assets/oq1n42IyECknOTiNfjNXiOoqagEUqv7DFJF0BkkUIkQ_sicon-160d0493815",
+		"visualUrl": "https://storage.googleapis.com/site-assets/oq1n42IyECknOTiNfjNXiOoqagEUqv7DFJF0BkkUIkQ_svisual-160d0493815",
+		"description": " The first word in business news."
+	},
+	{
+		"feedId": "feed/http://theweek.com/home.rss",
+		"title": "The Week",
+		"website": "https://theweek.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/VWYk4oEk2kg0ojweiikfVSWLeYfRejzLnIEsECA1QgM_icon-1634679b6a4",
+		"visualUrl": "https://storage.googleapis.com/site-assets/VWYk4oEk2kg0ojweiikfVSWLeYfRejzLnIEsECA1QgM_visual-1634679b6a4",
+		"description": "Political News and Cartoons, Current Events and Entertainment Online"
+	},
+	{
+		"feedId": "feed/http://feeds.feedburner.com/np_top_stories.rss",
+		"title": "National Post - Top Stories",
+		"website": "https://nationalpost.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/e4Bj_g6FOt72irhR3uhLgWh3Cmw2m5veO0-d18Zkqpw_icon-1644f969f53",
+		"visualUrl": "https://storage.googleapis.com/site-assets/e4Bj_g6FOt72irhR3uhLgWh3Cmw2m5veO0-d18Zkqpw_visual-1644f969f53",
+		"description": "Canadian News, World News and Breaking Headlines"
+	},
+	{
+		"feedId": "feed/http://feeds.smh.com.au/rssheadlines/top.xml",
+		"title": "Sydney Morning Herald - Latest News",
+		"website": "https://www.smh.com.au/rssheadlines",
+		"iconUrl": "https://storage.googleapis.com/site-assets/_XXTHt5mRP0Y4882hF7RZd9UBG5aPUWswlyLII0kwPY_icon-161d14b5043",
+		"visualUrl": "https://storage.googleapis.com/site-assets/_XXTHt5mRP0Y4882hF7RZd9UBG5aPUWswlyLII0kwPY_visual-161d14b5043",
+		"description": "The top News headlines from The Sydney Morning Herald. For all the news, visit https://www.smh.com.au"
+	},
+	{
+		"feedId": "feed/http://www.economist.com/rss/the_world_this_week_rss.xml",
+		"title": "The Economist",
+		"website": "https://www.economist.com/the-world-this-week/",
+		"iconUrl": "https://storage.googleapis.com/site-assets/g-rVxYCEsK3iPjTBPXEffBXGbIKQTTo1apZkiUddlAo_icon-165e17fd724",
+		"visualUrl": "https://storage.googleapis.com/site-assets/g-rVxYCEsK3iPjTBPXEffBXGbIKQTTo1apZkiUddlAo_visual-165e17fd724",
+		"description": "News and analysis with a global perspective. Subscribe here: https://t.co/owztJzwlmm"
+	},
+	{
+		"feedId": "feed/http://www.marketwatch.com/rss/topstories",
+		"title": "MarketWatch.com - Top Stories",
+		"website": "http://www.marketwatch.com/",
+		"iconUrl": "http://storage.googleapis.com/site-assets/no1B3lnqjlfyGXcCSfoyoWNrhpGPVUfjD2cOKRDhhVs_icon-15412500984",
+		"visualUrl": "http://storage.googleapis.com/site-assets/no1B3lnqjlfyGXcCSfoyoWNrhpGPVUfjD2cOKRDhhVs_visual-15412500984",
+		"description": "MarketWatch, a leading publisher of business and financial news, offers users up-to-the minute news, investment tools, and subscription products."
+	},
+	{
+		"feedId": "feed/http://www.europeanvoice.com/feed/",
+		"title": "POLITICO",
+		"website": "https://www.politico.eu",
+		"iconUrl": "https://storage.googleapis.com/site-assets/Q6RW-dH-bsmUpn7bagzWnnqJD0xVhwTuTDVeeosdCis_sicon-15f5257b3df",
+		"visualUrl": "https://storage.googleapis.com/site-assets/Q6RW-dH-bsmUpn7bagzWnnqJD0xVhwTuTDVeeosdCis_svisual-15f5257b3df",
+		"description": "European Politics, Policy, Government News"
+	},
+	{
+		"feedId": "feed/http://www.nypost.com/rss/news.xml",
+		"title": "News |  New York Post",
+		"website": "https://nypost.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/8TN5Mzf6ng2p6yZHRnC-wv8f5W61X_Vs2tI7PmPNp58_icon-161bebf3eec",
+		"visualUrl": "https://storage.googleapis.com/site-assets/8TN5Mzf6ng2p6yZHRnC-wv8f5W61X_Vs2tI7PmPNp58_visual-161bebf3eec",
+		"description": "Your source for breaking news, news about New York, sports, business, entertainment, opinion, real estate, culture, fashion, and more."
+	},
+	{
+		"feedId": "feed/http://www.thenation.com/rss/articles",
+		"title": "Article – The Nation",
+		"website": "https://www.thenation.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/B2NSjuaw088BRQjA67qR0jGeskBm6t5rOmKGXfCNwzI_icon-15b92742e24",
+		"visualUrl": "https://storage.googleapis.com/site-assets/B2NSjuaw088BRQjA67qR0jGeskBm6t5rOmKGXfCNwzI_visual-15b92742e24",
+		"description": "The Nation Magazine"
+	},
+	{
+		"feedId": "feed/http://www.dailywire.com/rss.xml",
+		"title": "The Daily Wire",
+		"website": "https://www.dailywire.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/8GYdwooyj37PaJSssHKePXqUCp9ZhX47O6NUkzFTjZY_icon-16d7c165b2a",
+		"visualUrl": "https://storage.googleapis.com/site-assets/8GYdwooyj37PaJSssHKePXqUCp9ZhX47O6NUkzFTjZY_visual-16d7c165b2a",
+		"description": "Led by the incomparable Ben Shapiro, The Daily Wire is a hard-hitting, irreverent news and commentary site for a new generation of conservatives."
+	},
+	{
+		"feedId": "feed/http://feeds.feedburner.com/motherjones/main",
+		"title": "article – Mother Jones",
+		"website": "https://www.motherjones.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/jRVgMJWw-BTTDxzuF2_19q3NAzLZ3CxaI6OaRbGd38g_icon-166a1cca340",
+		"visualUrl": "https://storage.googleapis.com/site-assets/jRVgMJWw-BTTDxzuF2_19q3NAzLZ3CxaI6OaRbGd38g_visual-166a1cca340",
+		"description": "Investigative journalism, politics, chart-tastic, sometimes sarcastic. Voted Magazine of the Year, 2017, by the National Association of Magazine Editors."
+	},
+	{
+		"feedId": "feed/http://www.tnr.com/toc/topstories.rss",
+		"title": "The New Republic",
+		"website": "https://newrepublic.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/mL6NrxNdpMTQ6JTyiUJVB8H5VIzA4FinC2nNLgicKeg_icon-161a5737298",
+		"visualUrl": "https://storage.googleapis.com/site-assets/mL6NrxNdpMTQ6JTyiUJVB8H5VIzA4FinC2nNLgicKeg_visual-161a5737298",
+		"description": "Founded in 1914, The New Republic is a media organization dedicated to addressing today’s most critical issues."
+	},
+	{
+		"feedId": "feed/http://en.rian.ru/export/rss2/index.xml",
+		"title": "Sputnik International - Breaking News & Analysis - Radio, Photos, Videos, Infographics",
+		"website": "https://sputniknews.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/vLZ35qyE1QiBkw9affKr_dpTu_y5GtERHZvajoGukX0_icon-1634cece036",
+		"visualUrl": "https://storage.googleapis.com/site-assets/vLZ35qyE1QiBkw9affKr_dpTu_y5GtERHZvajoGukX0_visual-1634cece036",
+		"description": "Sputnik is a major new media brand with modern multimedia centers in dozens of countries. Sputnik is uniquely positioned as a provider of alternative news content and as a radio broadcaster. Offering a fuller picture of the world with a truly diverse range of views, Sputnik tells the untold."
+	},
+	{
+		"feedId": "feed/http://www.huffingtonpost.com/feeds/index.xml",
+		"title": "HuffPost - Breaking News, U.S. and World News",
+		"website": "https://www.huffpost.com/",
+		"iconUrl": "https://storage.googleapis.com/site-assets/GO8_5oGqenqZ-Rbfd4cEYHwXDgEvTGmCu1FsI58cehY_icon-168f07b2815",
+		"visualUrl": "https://storage.googleapis.com/site-assets/GO8_5oGqenqZ-Rbfd4cEYHwXDgEvTGmCu1FsI58cehY_visual-168f07b2815",
+		"description": "Read the latest headlines, news stories, and opinion from Politics, Entertainment, Life, Perspectives, and more."
+	},
+	{
+		"feedId": "feed/http://foreignpolicy.com/feed/",
+		"title": "Foreign Policy",
+		"website": "https://foreignpolicy.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/C5W_sSe6Qd3yGIMHY8jq6mfNu5mdWcF99TgSOtIotaw_icon-164457a439f",
+		"visualUrl": "https://storage.googleapis.com/site-assets/C5W_sSe6Qd3yGIMHY8jq6mfNu5mdWcF99TgSOtIotaw_visual-164457a439f",
+		"description": "the Global Magazine of News and Ideas"
+	},
+	{
+		"feedId": "feed/http://www.ft.com/rss/home/us",
+		"title": "International homepage",
+		"website": "https://www.ft.com/",
+		"iconUrl": "https://storage.googleapis.com/site-assets/oidJVIgCqlL6cjceUEAbk1QLEWmuN9VwXQ916UKfTP4_icon-15fc67704f5",
+		"visualUrl": "https://storage.googleapis.com/site-assets/oidJVIgCqlL6cjceUEAbk1QLEWmuN9VwXQ916UKfTP4_visual-15fc67704f5",
+		"description": "News, analysis and comment from the Financial Times, the world's leading global business publication"
+	},
+	{
+		"feedId": "feed/http://feeds.bbci.co.uk/news/world/rss.xml",
+		"title": "BBC News - World",
+		"website": "https://www.bbc.co.uk/news/",
+		"iconUrl": "https://storage.googleapis.com/site-assets/6tEjjG1yas2HK_Qxnos1q7W8ioIhhmXKTYoNgwIjOLo_icon-16bf7b9f0af",
+		"visualUrl": "https://storage.googleapis.com/site-assets/6tEjjG1yas2HK_Qxnos1q7W8ioIhhmXKTYoNgwIjOLo_visual-16bf7b9f0af",
+		"description": "Visit BBC News for up-to-the-minute news, breaking news, video, audio and feature stories. BBC News provides trusted World and UK news as well as local and regional perspectives. Also entertainment, business, science, technology and health news."
+	},
+	{
+		"feedId": "feed/http://news.google.com/?output=rss",
+		"title": "Top stories - Google News",
+		"website": "https://news.google.com/?hl=en-US&gl=US&ceid=US:en",
+		"iconUrl": "https://storage.googleapis.com/site-assets/byrXw679XPst_3ELq289LsQfFxcSiBdToHPW553uBcE_sicon-16c53b6d036",
+		"visualUrl": "https://storage.googleapis.com/site-assets/byrXw679XPst_3ELq289LsQfFxcSiBdToHPW553uBcE_svisual-16c53b6d036",
+		"description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
+	},
+	{
+		"feedId": "feed/http://www.guardian.co.uk/world/usa/rss",
+		"title": "US news | The Guardian",
+		"website": "https://www.theguardian.com/us-news",
+		"iconUrl": "https://storage.googleapis.com/site-assets/90e4KmOTThFk07stLlf8yoiayCmDG3KGOCdHskFTQG4_icon-16d53586b68",
+		"visualUrl": "https://storage.googleapis.com/site-assets/90e4KmOTThFk07stLlf8yoiayCmDG3KGOCdHskFTQG4_visual-16d53586b68",
+		"description": "Latest US news, breaking news and current affairs coverage from theguardian.com"
+	},
+	{
+		"feedId": "feed/http://www.foxnews.com/xmlfeed/rss/0,4313,0,00.rss",
+		"title": "FOX news",
+		"website": "http://www.foxnews.com/",
+		"iconUrl": "https://storage.googleapis.com/site-assets/zc_gHE_qBLwToEh4m7ruHyumh94Xla6H5tzQVp3iWrI_sicon-15fce2777af",
+		"visualUrl": "https://storage.googleapis.com/site-assets/zc_gHE_qBLwToEh4m7ruHyumh94Xla6H5tzQVp3iWrI_svisual-15fce2777af",
+		"description": "FOXNews.com - Breaking news and video. Latest Current News: U.S., World, Entertainment, Health, Business, Technology, Politics, Sports."
+	},
+	{
+		"feedId": "feed/http://rss.cnn.com/rss/cnn_world.rss",
+		"title": "CNN.com - RSS Channel - World",
+		"website": "https://www.cnn.com/world/index.html",
+		"iconUrl": "https://storage.googleapis.com/site-assets/Q_H4PITTmAUA0wxVCI12-eqyZii669xG3Ba3IAiOXmc_icon-16198a0916c",
+		"visualUrl": "https://storage.googleapis.com/site-assets/Q_H4PITTmAUA0wxVCI12-eqyZii669xG3Ba3IAiOXmc_visual-16198a0916c",
+		"description": "CNN.com delivers up-to-the-minute news and information on the latest top stories, weather, entertainment, politics and more."
+	},
+	{
+		"feedId": "feed/http://feeds.reuters.com/reuters/worldNews",
+		"title": "Reuters: World News",
+		"website": "https://www.reuters.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/qmq1gMp8n-ErCBOFJmwbFq-606kgMzQiNuKqlh8494E_icon-164e74368e1",
+		"visualUrl": "https://storage.googleapis.com/site-assets/qmq1gMp8n-ErCBOFJmwbFq-606kgMzQiNuKqlh8494E_visual-164e74368e1",
+		"description": "Reuters.com is your source for breaking news, business, financial and investing news, including personal finance and stocks.  Reuters is the leading global provider of news, financial information and technology solutions to the world's media, financial institutions, businesses and individuals."
+	},
+	{
+		"feedId": "feed/http://feeds.guardian.co.uk/theguardian/world/rss",
+		"title": "World news | The Guardian",
+		"website": "https://www.theguardian.com/world",
+		"iconUrl": "https://storage.googleapis.com/site-assets/X9Szo_D-Z-7vyTOBXdWMAW6UhGPAhMPmCvKndkVnNck_icon-16d53587611",
+		"visualUrl": "https://storage.googleapis.com/site-assets/X9Szo_D-Z-7vyTOBXdWMAW6UhGPAhMPmCvKndkVnNck_visual-16d53587611",
+		"description": "Latest World news news, comment and analysis from the Guardian, the world's leading liberal voice"
+	},
+	{
+		"feedId": "feed/http://feeds.bbci.co.uk/news/rss.xml",
+		"title": "BBC News - Home",
+		"website": "https://www.bbc.co.uk/news/",
+		"iconUrl": "https://storage.googleapis.com/site-assets/uYunhGc6mnMcwnCnr6rDEvRhdZsfgW3FK1p4gMSHkiM_icon-16bf7b9ee58",
+		"visualUrl": "https://storage.googleapis.com/site-assets/uYunhGc6mnMcwnCnr6rDEvRhdZsfgW3FK1p4gMSHkiM_visual-16bf7b9ee58",
+		"description": "Visit BBC News for up-to-the-minute news, breaking news, video, audio and feature stories. BBC News provides trusted World and UK news as well as local and regional perspectives. Also entertainment, business, science, technology and health news."
+	},
+	{
+		"feedId": "feed/http://www.nytimes.com/services/xml/rss/nyt/World.xml",
+		"title": "NYT > World News",
+		"website": "https://www.nytimes.com/section/world?emc=rss&partner=rss",
+		"iconUrl": "https://storage.googleapis.com/site-assets/EKsMetHtehK9ZSuMRUaUX5M7LbQU_XHfPXjkfuNWhJ8_icon-16aedf14224",
+		"visualUrl": "https://storage.googleapis.com/site-assets/EKsMetHtehK9ZSuMRUaUX5M7LbQU_XHfPXjkfuNWhJ8_visual-16aedf14224",
+		"description": "Find international breaking news, top stories, latest headlines and features."
+	},
+	{
+		"feedId": "feed/http://www.washingtonpost.com/wp-dyn/rss/world/index.xml",
+		"title": "World",
+		"website": "http://www.washingtonpost.com/pb/world/",
+		"iconUrl": "https://storage.googleapis.com/site-assets/o2qO74dgktvbKYrWz77JzEaGp4hR_IAG6gyImkebtVs_icon-166f1271957",
+		"visualUrl": "https://storage.googleapis.com/site-assets/o2qO74dgktvbKYrWz77JzEaGp4hR_IAG6gyImkebtVs_visual-166f1271957",
+		"description": "The Washington Post World section provides information and analysis of breaking world news stories. In addition to our world news and video, Post World News offers discussions and blogs on major international news and economic issues."
+	},
+	{
+		"feedId": "feed/http://rss.cbc.ca/lineup/canada.xml",
+		"title": "CBC | Canada News",
+		"website": "http://www.cbc.ca/canada/?cmp=rss",
+		"iconUrl": "https://storage.googleapis.com/site-assets/40Xe6qz6iLtNO3aiiaWcCEnQlhiTse4f9UJQug5EIZE_icon-16bb8962ae9",
+		"visualUrl": "https://storage.googleapis.com/site-assets/40Xe6qz6iLtNO3aiiaWcCEnQlhiTse4f9UJQug5EIZE_visual-16bb8962ae9",
+		"description": "FOR PERSONAL USE ONLY"
+	},
+	{
+		"feedId": "feed/http://www.washingtonpost.com/wp-dyn/rss/politics/index.xml",
+		"title": "Washington Post - Politics ",
+		"website": "http://www.washingtonpost.com/pb/politics/",
+		"iconUrl": "https://storage.googleapis.com/site-assets/m-EWnENIADoZffb1VeAYGw_z3iMV_DKz1mdjKhuhphY_icon-166f126347c",
+		"visualUrl": "https://storage.googleapis.com/site-assets/m-EWnENIADoZffb1VeAYGw_z3iMV_DKz1mdjKhuhphY_visual-166f126347c",
+		"description": "Post Politics from The Washington Post is the source for political news headlines, in-depth politics coverage, political opinion, breaking news on the Trump administration and White House, Congress, the Supreme Court, elections..."
+	},
+	{
+		"feedId": "feed/http://rss.cnn.com/rss/edition.rss",
+		"title": "CNN.com - RSS Channel - App International Edition",
+		"website": "https://www.cnn.com/app-international-edition/index.html",
+		"iconUrl": "https://storage.googleapis.com/site-assets/1knORK8MhnUJY2e9sAXuk2bFPlND7gL_5_YyR7Klqrg_icon-16198a0b7c0",
+		"visualUrl": "https://storage.googleapis.com/site-assets/1knORK8MhnUJY2e9sAXuk2bFPlND7gL_5_YyR7Klqrg_visual-16198a0b7c0",
+		"description": "CNN.com delivers up-to-the-minute news and information on the latest top stories, weather, entertainment, politics and more."
+	},
+	{
+		"feedId": "feed/http://www.telegraph.co.uk/newsfeed/rss/news-uk_news.xml",
+		"title": "News",
+		"website": "https://www.telegraph.co.uk/news/",
+		"iconUrl": "https://storage.googleapis.com/site-assets/L6ZosYhN6YGtiUa07jJzBg7KmWyMZb5nPCJ33FTrBHQ_icon-164d58344c8",
+		"visualUrl": "https://storage.googleapis.com/site-assets/L6ZosYhN6YGtiUa07jJzBg7KmWyMZb5nPCJ33FTrBHQ_visual-164d58344c8",
+		"description": "www.telegraph.co.uk for the latest news from the UK and around the world."
+	},
+	{
+		"feedId": "feed/http://feeds.bbci.co.uk/news/world/us_and_canada/rss.xml",
+		"title": "BBC News - US & Canada",
+		"website": "https://www.bbc.co.uk/news/",
+		"iconUrl": "https://storage.googleapis.com/site-assets/HVFrE20kzNK0ybJ3xSvXNK9m5i2ONx7e962l_MoYY3I_icon-16bf7ba04bb",
+		"visualUrl": "https://storage.googleapis.com/site-assets/HVFrE20kzNK0ybJ3xSvXNK9m5i2ONx7e962l_MoYY3I_visual-16bf7ba04bb",
+		"description": "Visit BBC News for up-to-the-minute news, breaking news, video, audio and feature stories. BBC News provides trusted World and UK news as well as local and regional perspectives. Also entertainment, business, science, technology and health news."
+	},
+	{
+		"feedId": "feed/http://rss.cnn.com/rss/cnn_us.rss",
+		"title": "CNN.com - RSS Channel - US",
+		"website": "https://www.cnn.com/us/index.html",
+		"iconUrl": "https://storage.googleapis.com/site-assets/z7M494MkHSCZPq2bX-RvHaKGQx8RESllQXm5CYfxUig_icon-16198a0c2ce",
+		"visualUrl": "https://storage.googleapis.com/site-assets/z7M494MkHSCZPq2bX-RvHaKGQx8RESllQXm5CYfxUig_visual-16198a0c2ce",
+		"description": "CNN.com delivers up-to-the-minute news and information on the latest top stories, weather, entertainment, politics and more."
+	},
+	{
+		"feedId": "feed/http://feeds.slate.com/slate-101526",
+		"title": "Slate Magazine",
+		"website": "https://slate.com/",
+		"iconUrl": "https://storage.googleapis.com/site-assets/4PH1Oj3C2CMIF-iFju3zJaaNF8sj2iHea3GBjUY6SlE_icon-16c6a583d33",
+		"visualUrl": "https://storage.googleapis.com/site-assets/4PH1Oj3C2CMIF-iFju3zJaaNF8sj2iHea3GBjUY6SlE_visual-16c6a583d33",
+		"description": "Online magazine of news, politics, technology, and culture. Combines humor and insight in thoughtful analyses of current events and political news."
+	},
+	{
+		"feedId": "feed/http://rss.cbc.ca/lineup/world.xml",
+		"title": "CBC | World News",
+		"website": "http://www.cbc.ca/world/?cmp=rss",
+		"iconUrl": "https://storage.googleapis.com/site-assets/QVXNGYU3j4TPNuT-GLj-QwNZ4IodYk6tbQEkuuxIz1Q_icon-16bb36fc4f2",
+		"visualUrl": "https://storage.googleapis.com/site-assets/QVXNGYU3j4TPNuT-GLj-QwNZ4IodYk6tbQEkuuxIz1Q_visual-16bb36fc4f2",
+		"description": "FOR PERSONAL USE ONLY"
+	},
+	{
+		"feedId": "feed/http://feeds.washingtonpost.com/rss/national",
+		"title": "National",
+		"website": "http://www.washingtonpost.com/pb/national/",
+		"iconUrl": "https://storage.googleapis.com/site-assets/omg6N8BjH3hdVOfXoFqfQj5UQcC2PsAU6NLrHBXu_Rs_icon-166f1263aa5",
+		"visualUrl": "https://storage.googleapis.com/site-assets/omg6N8BjH3hdVOfXoFqfQj5UQcC2PsAU6NLrHBXu_Rs_visual-166f1263aa5",
+		"description": "The Washington Post's national news coverage. Get the latest national news, featuring national security, science and the courts. Read breaking national news headlines from across the U.S."
+	},
+	{
+		"feedId": "feed/http://newsrss.bbc.co.uk/rss/newsonline_uk_edition/uk/rss.xml",
+		"title": "BBC News - UK",
+		"website": "https://www.bbc.co.uk/news/",
+		"iconUrl": "https://storage.googleapis.com/site-assets/FacpfGrO3wu8CNMDyHpQY408OrTtcTmk1naNoGUvHd4_icon-16bf7b9fce0",
+		"visualUrl": "https://storage.googleapis.com/site-assets/FacpfGrO3wu8CNMDyHpQY408OrTtcTmk1naNoGUvHd4_visual-16bf7b9fce0",
+		"description": "Visit BBC News for up-to-the-minute news, breaking news, video, audio and feature stories. BBC News provides trusted World and UK news as well as local and regional perspectives. Also entertainment, business, science, technology and health news."
+	},
+	{
+		"feedId": "feed/http://news.google.com/news?hl=en&gl=us&q=news&um=1&ie=UTF-8&output=rss",
+		"title": "\"news\" - Google News",
+		"website": "https://news.google.com/search?q=news&hl=en-US&gl=US&ceid=US:en",
+		"iconUrl": "https://storage.googleapis.com/site-assets/gw34wBKHh53BWq0IzCvf3NxLk0DVp3_MMBPwHrvi3cA_sicon-16c526cee27",
+		"visualUrl": "https://storage.googleapis.com/site-assets/gw34wBKHh53BWq0IzCvf3NxLk0DVp3_MMBPwHrvi3cA_svisual-16c526cee27",
+		"description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
+	},
+	{
+		"feedId": "feed/http://www.abc.net.au/news/feed/51120/rss.xml",
+		"title": "Just In",
+		"website": "http://www.abc.net.au/news/justin/",
+		"iconUrl": "https://storage.googleapis.com/site-assets/CpBOejT5hGhfVsVnu4KOrmet8eAX3nfjAumCbh8xWxo_icon-165833989df",
+		"visualUrl": "https://storage.googleapis.com/site-assets/CpBOejT5hGhfVsVnu4KOrmet8eAX3nfjAumCbh8xWxo_visual-165833989df",
+		"description": "Live breaking news stories from across Australia & around the world. In-depth coverage from Australia's most trusted source. Includes business, sport, weather."
+	},
+	{
+		"feedId": "feed/http://rt.com/rss/news/",
+		"title": "RT World News",
+		"website": "https://www.rt.com/news/",
+		"iconUrl": "https://storage.googleapis.com/site-assets/vLbBgEn3uEu0MhS6G_YJLAAToVlnS-iFaOoU2mZzejc_icon-164a85f9d32",
+		"visualUrl": "https://storage.googleapis.com/site-assets/vLbBgEn3uEu0MhS6G_YJLAAToVlnS-iFaOoU2mZzejc_visual-164a85f9d32",
+		"description": "RT delivers latest news on current events from around the world including special reports, viral news and exclusive videos."
+	},
+	{
+		"feedId": "feed/http://www.npr.org/rss/podcast.php?id=500001",
+		"title": "NPR News Now",
+		"website": "http://www.npr.org/templates/topics/topic.php?topicId=1001",
+		"iconUrl": "https://storage.googleapis.com/site-assets/W6VeJaqcOspS5awwu2t87U3FfBZ56KprsW_r1_Pls18_icon-16cd7b6ac26",
+		"visualUrl": "https://storage.googleapis.com/site-assets/W6VeJaqcOspS5awwu2t87U3FfBZ56KprsW_r1_Pls18_visual-16cd7b6ac26",
+		"description": "NPR news, audio, and podcasts. Coverage of breaking stories, national and world news, politics, business, science, technology, and extended coverage of major national and world events."
+	},
+	{
+		"feedId": "feed/http://www.nytimes.com/services/xml/rss/nyt/Politics.xml",
+		"title": "NYT - Politics ",
+		"website": "https://www.nytimes.com/section/politics?emc=rss&partner=rss",
+		"iconUrl": "https://storage.googleapis.com/site-assets/ZUA_74hE33w8lKwi7Ab1NHoyqVhNelzPabVQ8cwjVlk_icon-16aedf136c7",
+		"visualUrl": "https://storage.googleapis.com/site-assets/ZUA_74hE33w8lKwi7Ab1NHoyqVhNelzPabVQ8cwjVlk_visual-16aedf136c7",
+		"description": "Politics"
+	},
+	{
+		"feedId": "feed/http://www.nytimes.com/services/xml/rss/nyt/US.xml",
+		"title": "NYT > U.S. News",
+		"website": "https://www.nytimes.com/section/us?emc=rss&partner=rss",
+		"iconUrl": "https://storage.googleapis.com/site-assets/yr2qVJL8sKYADH73IzyCtgMq1p9lID99zWMO7_EokwQ_icon-16aedf18132",
+		"visualUrl": "https://storage.googleapis.com/site-assets/yr2qVJL8sKYADH73IzyCtgMq1p9lID99zWMO7_EokwQ_visual-16aedf18132",
+		"description": "View the latest news, top stories, headlines, photos and videos from around the nation. Read our latest coverage on immigration, health care, politics and education."
+	},
+	{
+		"feedId": "feed/http://rss.cnn.com/rss/cnn_latest.rss",
+		"title": "CNN.com - RSS Channel",
+		"website": "http://www.cnn.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/gGJlQWrr6ECq9gTAwRKMXGFhei-dbw43tjtPTLLzK7U_icon-15b927a0be1",
+		"visualUrl": "https://storage.googleapis.com/site-assets/gGJlQWrr6ECq9gTAwRKMXGFhei-dbw43tjtPTLLzK7U_visual-15b927a0be1",
+		"description": "CNN.com delivers up-to-the-minute news and information on the latest top stories, weather, entertainment, politics and more."
+	},
+	{
+		"feedId": "feed/http://www.dailymail.co.uk/news/index.rss",
+		"title": "News | Mail Online",
+		"website": "https://www.dailymail.co.uk?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+		"iconUrl": "https://storage.googleapis.com/site-assets/V0QhP3ivVCsGgxCdPIliwZQzua9vGwSQpXNtuknwMkw_sicon-16768cc24bd",
+		"visualUrl": "https://storage.googleapis.com/site-assets/V0QhP3ivVCsGgxCdPIliwZQzua9vGwSQpXNtuknwMkw_svisual-16768cc24bd",
+		"description": "All the latest breaking UK and world news with in-depth comment and analysis, pictures and videos from MailOnline and the Daily Mail."
+	},
+	{
+		"feedId": "feed/http://feeds.nbcnews.com/feeds/worldnews",
+		"title": "NBC News World News",
+		"website": "https://www.nbcnews.com/",
+		"iconUrl": "https://storage.googleapis.com/site-assets/C-Vh2AIke6qGA1ec-EmJGcMyfzs5fCnviRRBid3zO14_icon-1699ca67ab6",
+		"visualUrl": "https://storage.googleapis.com/site-assets/C-Vh2AIke6qGA1ec-EmJGcMyfzs5fCnviRRBid3zO14_visual-1699ca67ab6",
+		"description": "Go to NBCNews.com for breaking news, videos, and the latest top stories in world news, business, politics, health and pop culture."
+	}
+]

@@ -1,0 +1,706 @@
+[
+	{
+		"feedId": "feed/http://feeds.harvardbusiness.org/harvardbusiness/",
+		"title": "Harvard Business Review ",
+		"website": "http://hbr.org",
+		"iconUrl": "https://storage.googleapis.com/site-assets/RUSFMaap2epUB1Hxr7coT6Cd7n5A3BtYAIay0ExHdcs_icon-15d810a31d8",
+		"visualUrl": "https://storage.googleapis.com/site-assets/RUSFMaap2epUB1Hxr7coT6Cd7n5A3BtYAIay0ExHdcs_visual-15d810a31d8",
+		"description": "Practical insights, tools and resources from leading business thought leaders."
+	},
+	{
+		"feedId": "feed/http://feeds2.feedburner.com/businessinsider",
+		"title": "Business Insider",
+		"website": "https://www.businessinsider.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/UGoT913Pj2iVsp570XrRhskqe5_o7yyV3N_NTloByRs_icon-164d075260d",
+		"visualUrl": "https://storage.googleapis.com/site-assets/UGoT913Pj2iVsp570XrRhskqe5_o7yyV3N_NTloByRs_visual-164d075260d",
+		"description": "What you need to know."
+	},
+	{
+		"feedId": "feed/http://feeds.feedburner.com/entrepreneur/latest",
+		"title": "Entrepreneur",
+		"website": "https://www.entrepreneur.com/latest?utm_source=Feedly&utm_medium=related&utm_campaign=syndication",
+		"iconUrl": "https://storage.googleapis.com/site-assets/9kvTSXJ_FoV0tKjA81ehh0HicK5d-u3ZYbKAl6iUAKY_icon-15ec75541b2",
+		"visualUrl": "https://storage.googleapis.com/site-assets/9kvTSXJ_FoV0tKjA81ehh0HicK5d-u3ZYbKAl6iUAKY_visual-15ec75541b2",
+		"description": "The latest small business tips and advice from Entrepreneur.com."
+	},
+	{
+		"feedId": "feed/http://feeds.feedburner.com/fastcompany/headlines",
+		"title": "Fast Company",
+		"website": "https://www.fastcompany.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/FXo4hbYMcVMG4DMa6lzD_36M21OEGgDUjmAuOzeuMs0_icon-16677f47e4e",
+		"visualUrl": "https://storage.googleapis.com/site-assets/FXo4hbYMcVMG4DMa6lzD_36M21OEGgDUjmAuOzeuMs0_visual-16677f47e4e",
+		"description": "Fast Company inspires a new breed of innovative and creative thought leaders who are actively inventing the future of business."
+	},
+	{
+		"feedId": "feed/http://venturebeat.com/feed/",
+		"title": "VentureBeat",
+		"website": "https://venturebeat.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/rvLYYJQ_KhJEJr-Wuxoh8HGIa5s40lYL9uUIDFAckJ8_icon-16bec2fc5a5",
+		"visualUrl": "https://storage.googleapis.com/site-assets/rvLYYJQ_KhJEJr-Wuxoh8HGIa5s40lYL9uUIDFAckJ8_visual-16bec2fc5a5",
+		"description": "News About Tech, Money and Innovation."
+	},
+	{
+		"feedId": "feed/http://www.forbes.com/entrepreneurs/index.xml",
+		"title": "Forbes - Entrepreneurs",
+		"website": "http://www.forbes.com/entrepreneurs/",
+		"iconUrl": "https://storage.googleapis.com/site-assets/9cBrvDBD3oAYwxfCphFc8AnSz8rrOvNsgyi0D7RMFvk_icon-169855b972b",
+		"visualUrl": "https://storage.googleapis.com/site-assets/9cBrvDBD3oAYwxfCphFc8AnSz8rrOvNsgyi0D7RMFvk_visual-169855b972b",
+		"description": "Forbes is a leading source for reliable news and updated analysis on Entrepreneurs. Read the breaking Entrepreneurs coverage and top headlines on Forbes.com"
+	},
+	{
+		"feedId": "feed/http://www.economist.com/rss/the_world_this_week_rss.xml",
+		"title": "The Economist",
+		"website": "https://www.economist.com/the-world-this-week/",
+		"iconUrl": "https://storage.googleapis.com/site-assets/g-rVxYCEsK3iPjTBPXEffBXGbIKQTTo1apZkiUddlAo_icon-165e17fd724",
+		"visualUrl": "https://storage.googleapis.com/site-assets/g-rVxYCEsK3iPjTBPXEffBXGbIKQTTo1apZkiUddlAo_visual-165e17fd724",
+		"description": "News and analysis with a global perspective. Subscribe here: https://t.co/owztJzwlmm"
+	},
+	{
+		"feedId": "feed/http://feeds.feedburner.com/AtlanticBusinessChannel",
+		"title": "Business | The Atlantic",
+		"website": "https://www.theatlantic.com/business/",
+		"iconUrl": "https://storage.googleapis.com/site-assets/c88zlBS7ddar-Zky4VGH7rNE30TdW4bGusU-oIaNE5I_icon-16324dacfc4",
+		"visualUrl": "https://storage.googleapis.com/site-assets/c88zlBS7ddar-Zky4VGH7rNE30TdW4bGusU-oIaNE5I_visual-16324dacfc4",
+		"description": "The Atlantic covers breaking news, analysis, opinion around the intersection of Washington and Wall Street, plus coverage of key industries on the official site of the Atlantic Magazine."
+	},
+	{
+		"feedId": "feed/http://sethgodin.typepad.com/seths_blog/atom.xml",
+		"title": "Seth Godin's Blog ",
+		"website": "https://seths.blog",
+		"iconUrl": "https://storage.googleapis.com/site-assets/6GV_GbWOJ6VnCKxInEF8KnvUbqZzRLHHRNcmgK9rnUk_icon-16c61ec2c65",
+		"visualUrl": "https://storage.googleapis.com/site-assets/6GV_GbWOJ6VnCKxInEF8KnvUbqZzRLHHRNcmgK9rnUk_visual-16c61ec2c65",
+		"description": " Marketing, tribes and respect."
+	},
+	{
+		"feedId": "feed/http://www.newslookup.com/rss/business/bloomberg.rss",
+		"title": "Bloomberg",
+		"website": "http://www.bloomberg.com/",
+		"iconUrl": "https://storage.googleapis.com/site-assets/oq1n42IyECknOTiNfjNXiOoqagEUqv7DFJF0BkkUIkQ_sicon-160d0493815",
+		"visualUrl": "https://storage.googleapis.com/site-assets/oq1n42IyECknOTiNfjNXiOoqagEUqv7DFJF0BkkUIkQ_svisual-160d0493815",
+		"description": " The first word in business news."
+	},
+	{
+		"feedId": "feed/http://www.nytimes.com/services/xml/rss/nyt/Business.xml",
+		"title": "NYT > Business",
+		"website": "https://www.nytimes.com/section/business?emc=rss&partner=rss",
+		"iconUrl": "https://storage.googleapis.com/site-assets/LHB8De6Z7uvP0LcU9DRrQSPjBYC9vuyfNCfCZaUEC6c_icon-16aedf1235a",
+		"visualUrl": "https://storage.googleapis.com/site-assets/LHB8De6Z7uvP0LcU9DRrQSPjBYC9vuyfNCfCZaUEC6c_visual-16aedf1235a",
+		"description": "Exclusive reporting and breaking news about the most important business and technology news, covering everything from Wall Street to media and economics."
+	},
+	{
+		"feedId": "feed/http://feeds.feedburner.com/SmallBusinessTrends",
+		"title": "Small Business Trends",
+		"website": "https://smallbiztrends.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/3dImH0xEoo9pukvxI-EgQNbjVXpQHinrOcWT53hM6OQ_icon-166d492e425",
+		"visualUrl": "https://storage.googleapis.com/site-assets/3dImH0xEoo9pukvxI-EgQNbjVXpQHinrOcWT53hM6OQ_visual-166d492e425",
+		"description": "Founded in 2003, Small Business Trends is an award-winning online publication for small business owners, entrepreneurs and the people who interact with them. It is one of the most popular independent small business publications on the web."
+	},
+	{
+		"feedId": "feed/http://fortune.com/feed/",
+		"title": "Fortune",
+		"website": "https://fortune.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/7ddVLYLZ-hgDsfb9jtZAbhqWD7SAiTID10Fq59fipnY_icon-15cb11a9f54",
+		"visualUrl": "https://storage.googleapis.com/site-assets/7ddVLYLZ-hgDsfb9jtZAbhqWD7SAiTID10Fq59fipnY_visual-15cb11a9f54",
+		"description": "Defining design, arresting photography, and award-winning writing for those who want to succeed in business and in life. https://t.co/cqCsV8YG7D"
+	},
+	{
+		"feedId": "feed/http://feeds.reuters.com/reuters/businessNews",
+		"title": "Reuters: Business News",
+		"website": "https://www.reuters.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/ZLhGk6lFGk3QYDu66VuvfBYiGVCiw62uKpP4v5UNRz0_icon-164e74370b1",
+		"visualUrl": "https://storage.googleapis.com/site-assets/ZLhGk6lFGk3QYDu66VuvfBYiGVCiw62uKpP4v5UNRz0_visual-164e74370b1",
+		"description": "Reuters.com is your source for breaking news, business, financial and investing news, including personal finance and stocks.  Reuters is the leading global provider of news, financial information and technology solutions to the world's media, financial institutions, businesses and individuals."
+	},
+	{
+		"feedId": "feed/http://www.calculatedriskblog.com/feeds/posts/default",
+		"title": "Calculated Risk",
+		"website": "http://www.calculatedriskblog.com/",
+		"iconUrl": "https://storage.googleapis.com/site-assets/bQV7MgaeyZnrZ19m7Pax9HFqwEsJ8Me7pOLUgbe0uqA_icon-15c853cbcd9",
+		"visualUrl": "https://storage.googleapis.com/site-assets/bQV7MgaeyZnrZ19m7Pax9HFqwEsJ8Me7pOLUgbe0uqA_visual-15c853cbcd9",
+		"description": "Finance and Economics."
+	},
+	{
+		"feedId": "feed/http://rss.time.com/web/time/rss/top/index.xml",
+		"title": "TIME",
+		"website": "https://time.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/v8GrIox8wlD_6wSJ1nXQ_TWpl1cfTv1BstdxM39R8AY_icon-16b5ae7f377",
+		"visualUrl": "https://storage.googleapis.com/site-assets/v8GrIox8wlD_6wSJ1nXQ_TWpl1cfTv1BstdxM39R8AY_visual-16b5ae7f377",
+		"description": "Current & Breaking News | National & World Updates"
+	},
+	{
+		"feedId": "feed/http://newsrss.bbc.co.uk/rss/newsonline_world_edition/business/rss.xml",
+		"title": "BBC News - Business",
+		"website": "https://www.bbc.co.uk/news/",
+		"iconUrl": "https://storage.googleapis.com/site-assets/ZjY1BX87j5yt7JfVVtHLFZSTV1HD2ce5G6el_wlwGtY_icon-16bf7b9f9ff",
+		"visualUrl": "https://storage.googleapis.com/site-assets/ZjY1BX87j5yt7JfVVtHLFZSTV1HD2ce5G6el_wlwGtY_visual-16bf7b9f9ff",
+		"description": "Visit BBC News for up-to-the-minute news, breaking news, video, audio and feature stories. BBC News provides trusted World and UK news as well as local and regional perspectives. Also entertainment, business, science, technology and health news."
+	},
+	{
+		"feedId": "feed/http://www.marketwatch.com/rss/topstories",
+		"title": "MarketWatch.com - Top Stories",
+		"website": "http://www.marketwatch.com/",
+		"iconUrl": "http://storage.googleapis.com/site-assets/no1B3lnqjlfyGXcCSfoyoWNrhpGPVUfjD2cOKRDhhVs_icon-15412500984",
+		"visualUrl": "http://storage.googleapis.com/site-assets/no1B3lnqjlfyGXcCSfoyoWNrhpGPVUfjD2cOKRDhhVs_visual-15412500984",
+		"description": "MarketWatch, a leading publisher of business and financial news, offers users up-to-the minute news, investment tools, and subscription products."
+	},
+	{
+		"feedId": "feed/http://www.newslookup.com/rss/business/cnbc.rss",
+		"title": "CNBC",
+		"website": "http://www.cnbc.com/",
+		"iconUrl": "https://storage.googleapis.com/site-assets/MkJEU9_Z1DOZndBDzsSaCZfHFIrJ6FuMf1N7Ymxm_kA_sicon-16a572ab4e7",
+		"visualUrl": "https://storage.googleapis.com/site-assets/MkJEU9_Z1DOZndBDzsSaCZfHFIrJ6FuMf1N7Ymxm_kA_svisual-16a572ab4e7",
+		"description": "CNBC is the world leader in business news and real-time financial market coverage. Find fast, actionable information."
+	},
+	{
+		"feedId": "feed/http://feeds.feedburner.com/mitsmr",
+		"title": "MIT Sloan Management Review",
+		"website": "https://sloanreview.mit.edu",
+		"iconUrl": "https://storage.googleapis.com/site-assets/BUEvBIVe03FbDU0EyzEzv_VDSm4_Zd00EUbS6Vcjq40_icon-15fe3144443",
+		"visualUrl": "https://storage.googleapis.com/site-assets/BUEvBIVe03FbDU0EyzEzv_VDSm4_Zd00EUbS6Vcjq40_visual-15fe3144443",
+		"description": "New management ideas and research to help thoughtful executives capitalize on the opportunities generated by rapid organizational, technological, and societal change."
+	},
+	{
+		"feedId": "feed/http://www.strategy-business.com/all_updates.xml",
+		"title": "Strategy business",
+		"website": "https://www.strategy-business.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/7GQ6Q6yTx5YEt1sPgESTnAruguSQFWR03c7o4ALASUs_sicon-16033e02b8d",
+		"visualUrl": "https://storage.googleapis.com/site-assets/7GQ6Q6yTx5YEt1sPgESTnAruguSQFWR03c7o4ALASUs_svisual-16033e02b8d",
+		"description": "Read commentary, research, and practical ideas that bridge the gap between theory and practice in contemporary global business."
+	},
+	{
+		"feedId": "feed/http://www.fourhourworkweek.com/blog/feed/",
+		"title": "The Blog of Author Tim Ferriss",
+		"website": "https://tim.blog",
+		"iconUrl": "https://storage.googleapis.com/site-assets/RwyumVv25fU133DkXeU_us81RK20Em58MSXG--9jY9k_icon-16c84b58d2d",
+		"visualUrl": "https://storage.googleapis.com/site-assets/RwyumVv25fU133DkXeU_us81RK20Em58MSXG--9jY9k_visual-16c84b58d2d",
+		"description": "Tim Ferriss's 4-Hour Workweek and Lifestyle Design Blog. Tim is an author of 5 #1 NYT/WSJ bestsellers, investor (FB, Uber, Twitter, 50+ more), and host of The Tim Ferriss Show podcast (300M+ downloads)"
+	},
+	{
+		"feedId": "feed/http://www.washingtonpost.com/wp-dyn/rss/business/index.xml",
+		"title": "Business",
+		"website": "http://www.washingtonpost.com/pb/business/",
+		"iconUrl": "https://storage.googleapis.com/site-assets/fAO3h-i6tc0zXxqpABSaljbszt2LZvoxtgmYjDALitc_icon-166f129f985",
+		"visualUrl": "https://storage.googleapis.com/site-assets/fAO3h-i6tc0zXxqpABSaljbszt2LZvoxtgmYjDALitc_visual-166f129f985",
+		"description": "The source for business news and analysis. Covering economic policy, business policy, financial news, economic issues, stock market data, local business, technology and more."
+	},
+	{
+		"feedId": "feed/http://feeds.feedburner.com/AVc",
+		"title": "AVC",
+		"website": "https://avc.com",
+		"iconUrl": "https://storage.googleapis.com/test-site-assets/HHt3UnsOIXnIPDzeAeTDAxydi3oiavGpvZ5wXC1Iq5A_oicon-1658b9c814a",
+		"visualUrl": "https://storage.googleapis.com/test-site-assets/HHt3UnsOIXnIPDzeAeTDAxydi3oiavGpvZ5wXC1Iq5A_ovisual-1658b9c814a",
+		"description": "Musings of a VC in NYC. By Fred Wilson."
+	},
+	{
+		"feedId": "feed/http://knowledge.wharton.upenn.edu/knowledgefeed.xml",
+		"title": "Knowledge@Wharton",
+		"website": "http://knowledge.wharton.upenn.edu",
+		"iconUrl": "https://storage.googleapis.com/site-assets/PWg2vencwAYBGzg8UoYDhDVKd-qiszXuwi7W5i-DyNs_icon-16624277b05",
+		"visualUrl": "https://storage.googleapis.com/site-assets/PWg2vencwAYBGzg8UoYDhDVKd-qiszXuwi7W5i-DyNs_visual-16624277b05",
+		"description": "Knowledge@Wharton is the online business analysis journal of the Wharton School of the University of Pennsylvania."
+	},
+	{
+		"feedId": "feed/http://www.getrichslowly.org/blog/feed/",
+		"title": "Get Rich Slowly",
+		"website": "https://www.getrichslowly.org",
+		"iconUrl": "https://storage.googleapis.com/site-assets/E13ZgnqrTzmR2YQ2MfwHw6gnAGdxOFpB5qhgzGlIdVo_icon-161d692d4bc",
+		"visualUrl": "https://storage.googleapis.com/site-assets/E13ZgnqrTzmR2YQ2MfwHw6gnAGdxOFpB5qhgzGlIdVo_visual-161d692d4bc",
+		"description": "Common sense advice and money saving tips on topics from high interest savings accounts, frugality, cd rates, money market accounts, mortgage rates, how to get out of debt, money management and more."
+	},
+	{
+		"feedId": "feed/http://rss.news.yahoo.com/rss/business",
+		"title": "Yahoo News - Latest News & Headlines",
+		"website": "https://www.yahoo.com/news/business",
+		"iconUrl": "https://storage.googleapis.com/site-assets/pHy6XUCzaVp1Qk91MlDi6dGjLRnMzkWM1ej4y6dLymA_icon-16d5f846717",
+		"visualUrl": "https://storage.googleapis.com/site-assets/pHy6XUCzaVp1Qk91MlDi6dGjLRnMzkWM1ej4y6dLymA_visual-16d5f846717",
+		"description": "The latest news and headlines from Yahoo! News. Get breaking news stories and in-depth coverage with videos and photos."
+	},
+	{
+		"feedId": "feed/http://hbswk.hbs.edu/rss/rss.xml",
+		"title": "HBS Working Knowledge",
+		"website": "http://hbswk.hbs.edu/",
+		"iconUrl": "https://storage.googleapis.com/site-assets/R5oc1QvUAONIxedcH7xfc8l3URqiWEWtO53B7AYn3tI_icon-15fdcf97e1a",
+		"visualUrl": "https://storage.googleapis.com/site-assets/R5oc1QvUAONIxedcH7xfc8l3URqiWEWtO53B7AYn3tI_visual-15fdcf97e1a",
+		"description": "Harvard Business School Working Knowledge offers business practitioners a\nfirst look at cutting-edge research and thinking from more than 200 HBS\nfaculty."
+	},
+	{
+		"feedId": "feed/http://www.ft.com/rss/home/us",
+		"title": "International homepage",
+		"website": "https://www.ft.com/",
+		"iconUrl": "https://storage.googleapis.com/site-assets/oidJVIgCqlL6cjceUEAbk1QLEWmuN9VwXQ916UKfTP4_icon-15fc67704f5",
+		"visualUrl": "https://storage.googleapis.com/site-assets/oidJVIgCqlL6cjceUEAbk1QLEWmuN9VwXQ916UKfTP4_visual-15fc67704f5",
+		"description": "News, analysis and comment from the Financial Times, the world's leading global business publication"
+	},
+	{
+		"feedId": "feed/http://www.huffingtonpost.com/feeds/verticals/business/index.xml",
+		"title": "Business - News, Opinion and Analysis",
+		"website": "https://www.huffpost.com/impact/business",
+		"iconUrl": "https://storage.googleapis.com/site-assets/XKOXLGaOMgydbIRI68jkO2MvjCV9twCXs8iEISEH1Js_sicon-168f03392db",
+		"visualUrl": "https://storage.googleapis.com/site-assets/XKOXLGaOMgydbIRI68jkO2MvjCV9twCXs8iEISEH1Js_svisual-168f03392db",
+		"description": "Keep up with latest business news and insights on the changing economy. Including topics such as labor and employment, inequality and more."
+	},
+	{
+		"feedId": "feed/http://feeds.feedburner.com/smartpassiveincome",
+		"title": "The Smart Passive Income ",
+		"website": "https://www.smartpassiveincome.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/ooHy6_Vi1FhBt5mSu5kamiMsZ_snvPuvfeqmPaK0Hrk_sicon-15b64a37b0d",
+		"visualUrl": "https://storage.googleapis.com/site-assets/ooHy6_Vi1FhBt5mSu5kamiMsZ_snvPuvfeqmPaK0Hrk_svisual-15b64a37b0d",
+		"description": "Smart Passive Income is a resource run by me, Pat Flynn, to teach you proven strategies for running an online business and optimizing it for passive income."
+	},
+	{
+		"feedId": "feed/http://feeds.feedburner.com/FP_TopStories",
+		"title": "Financial Post - Top Stories",
+		"website": "https://business.financialpost.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/ekZeSDD3heRnUJtNCkSxkenoMuqmNS5h0FO9iqPNIjs_icon-1644f964c53",
+		"visualUrl": "https://storage.googleapis.com/site-assets/ekZeSDD3heRnUJtNCkSxkenoMuqmNS5h0FO9iqPNIjs_visual-1644f964c53",
+		"description": "Canada Business News | Financial Updates & Information"
+	},
+	{
+		"feedId": "feed/http://bigpicture.typepad.com/comments/atom.xml",
+		"title": "The Big Picture",
+		"website": "https://ritholtz.com",
+		"iconUrl": "http://storage.googleapis.com/site-assets/-Gg2TBSK2DpXBH7hamJJw-FtjP1QG8wnHkYnsrV11I0_icon-1541251fd35",
+		"visualUrl": "http://storage.googleapis.com/site-assets/-Gg2TBSK2DpXBH7hamJJw-FtjP1QG8wnHkYnsrV11I0_visual-1541251fd35",
+		"description": "Macro Perspective on the Capital Markets, Economy, Geopolitics, Technology, and Digital Media"
+	},
+	{
+		"feedId": "feed/http://qz.com/feed/",
+		"title": "Quartz",
+		"website": "https://qz.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/t9NJb6rMt3WVivgF5JJtqOwhhWhdxPuJjlu7LCw1vdk_sicon-16bb2c9bf02",
+		"visualUrl": "https://storage.googleapis.com/site-assets/t9NJb6rMt3WVivgF5JJtqOwhhWhdxPuJjlu7LCw1vdk_svisual-16bb2c9bf02",
+		"description": "Quartz is a digitally native news outlet for the new global economy."
+	},
+	{
+		"feedId": "feed/http://stratechery.com/feed/",
+		"title": "Stratechery by Ben Thompson",
+		"website": "https://stratechery.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/cix-o6cOEwiduuGLpCH1x7Cdi2NtS_Cz0nVCIG4UWsE_icon-16294d41776",
+		"visualUrl": "https://storage.googleapis.com/site-assets/cix-o6cOEwiduuGLpCH1x7Cdi2NtS_Cz0nVCIG4UWsE_visual-16294d41776",
+		"description": "On the business, strategy, and impact of technology."
+	},
+	{
+		"feedId": "feed/http://feeds.mashable.com/mashable/business",
+		"title": "Business",
+		"website": "https://mashable.com/category/business/?utm_campaign=Mash-Prod-RSS-Feedburner-Bus-Partial&tm_cid=Mash-Prod-RSS-Feedburner-Bus-Partial",
+		"iconUrl": "https://storage.googleapis.com/site-assets/o5nQjrJG-vRV0_UkRKv-VS_UgiJbJWj0kQyHhXB5SeI_icon-16bb0ebf0dd",
+		"visualUrl": "https://storage.googleapis.com/site-assets/o5nQjrJG-vRV0_UkRKv-VS_UgiJbJWj0kQyHhXB5SeI_visual-16bb0ebf0dd",
+		"description": "The latest articles about Business from Mashable, the media and tech company"
+	},
+	{
+		"feedId": "feed/http://www.rediff.com/rss/moneyrss.xml",
+		"title": "rediff Business",
+		"website": "http://www.rediff.com/money/index.html",
+		"iconUrl": "",
+		"visualUrl": "",
+		"description": "Rediff Business - Covers Business News from India and around the world. India's best collection of interviews with Market Leaders and columns on Stock Markets, Personal Finance, Technology, Automobiles, Entrepreneurs and Innovation"
+	},
+	{
+		"feedId": "feed/http://moneycontrol.com/rss/latestnews.xml",
+		"title": "Moneycontrol Latest News",
+		"website": "https://www.moneycontrol.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/yn9Yn1L_-TK7h0SJ9Fd_fgda2NuOIP674xeEUctCxPQ_icon-161ff830f0f",
+		"visualUrl": "https://storage.googleapis.com/site-assets/yn9Yn1L_-TK7h0SJ9Fd_fgda2NuOIP674xeEUctCxPQ_visual-161ff830f0f",
+		"description": "Moneycontrol is India's leading financial information source for Live Stock Price, Stock/Share Trading news, Stock/Share Markets Tips, Sensex, Nifty. Manage your finance with our online Investment Portfolio, mutual funds, Views and Analysis on Equity & Stock Markets, Commodity Market, Personal Finance, Insurance, Bank, Loans & Live CNBC TV18 news/updates."
+	},
+	{
+		"feedId": "feed/http://feeds.feedburner.com/jamesaltucher",
+		"title": "James Altucher",
+		"website": "https://jamesaltucher.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/KlpEjC8ZNnoax4oK-KH19xRcDZgvYyvCX94VKgfLOyU_icon-16859bc10f2",
+		"visualUrl": "https://storage.googleapis.com/site-assets/KlpEjC8ZNnoax4oK-KH19xRcDZgvYyvCX94VKgfLOyU_visual-16859bc10f2",
+		"description": "I’m an entrepreneur and angel investor. I’ve achieved the rank of chess master. And I’m the author of the Wall Street Journal best-selling book “Choose Yourself.” I’ve started 20 companies, 17 of which have failed. But I’ve learned a lot along the way"
+	},
+	{
+		"feedId": "feed/http://knowledge.insead.edu/rss.cfm",
+		"title": "Knowledge feed articles",
+		"website": "http://knowledge.insead.edu/",
+		"iconUrl": "https://storage.googleapis.com/site-assets/s_SDmPHPdQrsXdSq4oJ3Rcd9pUEhZ_AIZ3fHHyvveJU_icon-16b06eeb971",
+		"visualUrl": "https://storage.googleapis.com/site-assets/s_SDmPHPdQrsXdSq4oJ3Rcd9pUEhZ_AIZ3fHHyvveJU_visual-16b06eeb971",
+		"description": "INSEAD Knowledge showcases research and business insight. Featuring articles, videos, interviews and opinion pieces. Covering Economics/Politics, Entrepreneurship, Finance, Innovation, Leadership, Markteting, Strategy, Social Innovation and more."
+	},
+	{
+		"feedId": "feed/http://feeds.copyblogger.com/Copyblogger",
+		"title": "Copyblogger",
+		"website": "https://www.copyblogger.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/ZHRZtYiHJQ6J-UVQHPBOZDQsUR9mTy4Wuxkt7gN-1UM_sicon-164455f19f7",
+		"visualUrl": "https://storage.googleapis.com/site-assets/ZHRZtYiHJQ6J-UVQHPBOZDQsUR9mTy4Wuxkt7gN-1UM_svisual-164455f19f7",
+		"description": "Soutions for Smarter Content Marketing."
+	},
+	{
+		"feedId": "feed/http://www.business-opportunities.biz/feed/",
+		"title": "Business Opportunities",
+		"website": "https://www.business-opportunities.biz",
+		"iconUrl": "https://storage.googleapis.com/site-assets/8qhAisIj2rW4abW1g-GgwqPsEzHNO42by3u_lax9Ess_icon-16b57ce41a0",
+		"visualUrl": "https://storage.googleapis.com/site-assets/8qhAisIj2rW4abW1g-GgwqPsEzHNO42by3u_lax9Ess_visual-16b57ce41a0",
+		"description": "The original blog about business opportunities and business ideas for small business entrepreneurs"
+	},
+	{
+		"feedId": "feed/http://steveblank.com/feed/",
+		"title": "Steve Blank",
+		"website": "https://steveblank.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/XJggJQksH_1J3xnry1LJlJFz7-BLRe9RTPZXFIoF-F4_icon-1621e3c2406",
+		"visualUrl": "https://storage.googleapis.com/site-assets/XJggJQksH_1J3xnry1LJlJFz7-BLRe9RTPZXFIoF-F4_visual-1621e3c2406",
+		"description": "Entrepreneurship and Innovation."
+	},
+	{
+		"feedId": "feed/http://feeds.feedburner.com/BothSidesOfTheTable",
+		"title": "Both Sides of the Table",
+		"website": "https://bothsidesofthetable.com?source=rss----97f98e5df342---4",
+		"iconUrl": "https://storage.googleapis.com/site-assets/7saDh-AX3ShYtqFzfI8VZaySaMTMA3qr8Z9bcohTi6I_icon-15b926dce8d",
+		"visualUrl": "https://storage.googleapis.com/site-assets/7saDh-AX3ShYtqFzfI8VZaySaMTMA3qr8Z9bcohTi6I_visual-15b926dce8d",
+		"description": "Perspectives of a 2x entrepreneur turned VC at @UpfrontVC, the largest and most active early-stage fund in Southern California."
+	},
+	{
+		"feedId": "feed/http://feeds.feedburner.com/TechCrunch/startups",
+		"title": "TechCrunch",
+		"website": "https://techcrunch.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/hM30vcQZ_oA0LeyNChBsqmsjjLZMqnV4Le4N6GeCh_w_sicon-16a756c81a2",
+		"visualUrl": "https://storage.googleapis.com/site-assets/hM30vcQZ_oA0LeyNChBsqmsjjLZMqnV4Le4N6GeCh_w_svisual-16a756c81a2",
+		"description": "TechCrunch - Reporting on the business of technology, startups, venture capital funding, and Silicon Valley"
+	},
+	{
+		"feedId": "feed/http://feeds.foxbusiness.com/foxbusiness/latest",
+		"title": "FOX Business",
+		"website": "http://www.foxbusiness.com/",
+		"iconUrl": "https://storage.googleapis.com/site-assets/E4R0rHH98LAujIMrQRgeSoeYdp2DgRPFms1ebdkwRMI_icon-16d824a5799",
+		"visualUrl": "https://storage.googleapis.com/site-assets/E4R0rHH98LAujIMrQRgeSoeYdp2DgRPFms1ebdkwRMI_visual-16d824a5799",
+		"description": "FOXBusiness.com - Breaking news and video. Latest Current News: News, Investing, Technology, Personal Finance, Business Leaders, Travel, On Air, Small Business."
+	},
+	{
+		"feedId": "feed/http://www.guardian.co.uk/business/rss",
+		"title": "Business | The Guardian",
+		"website": "https://www.theguardian.com/us/business",
+		"iconUrl": "https://storage.googleapis.com/site-assets/FDP_opevFj_ZqeGhU7hEHINiKWnzRi_SmoFg1KWOB3w_icon-16d535b591a",
+		"visualUrl": "https://storage.googleapis.com/site-assets/FDP_opevFj_ZqeGhU7hEHINiKWnzRi_SmoFg1KWOB3w_visual-16d535b591a",
+		"description": "Latest US financial, market & economic news and analysis."
+	},
+	{
+		"feedId": "feed/http://seekingalpha.com/feed.xml",
+		"title": "All Articles on Seeking Alpha",
+		"website": "https://seekingalpha.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/rMXjrMnuYVI9URjXDZZfTXp9vpVgwNMPXIAxjH1C48g_icon-15b92713f0d",
+		"visualUrl": "https://storage.googleapis.com/site-assets/rMXjrMnuYVI9URjXDZZfTXp9vpVgwNMPXIAxjH1C48g_visual-15b92713f0d",
+		"description": "© seekingalpha.com. Use of this feed is limited to personal, non-commercial use and is governed by Seeking Alpha's Terms of Use (https://seekingalpha.com/page/terms-of-use). Publishing this feed for public or commercial use and/or misrepresentation by a third party is prohibited."
+	},
+	{
+		"feedId": "feed/http://www.npr.org/rss/rss.php?id=1006",
+		"title": "Business : NPR",
+		"website": "https://www.npr.org/templates/story/story.php?storyId=1006",
+		"iconUrl": "https://storage.googleapis.com/site-assets/1ZNtOBsGoRr2TWHw8zmCJRAZa585m8vnReiLKP_JiBo_icon-16cd525af34",
+		"visualUrl": "https://storage.googleapis.com/site-assets/1ZNtOBsGoRr2TWHw8zmCJRAZa585m8vnReiLKP_JiBo_visual-16cd525af34",
+		"description": "Find the latest business news with reports on Wall Street, interest rates, banking, companies, and U.S. and world financial markets. Subscribe to the Business Story of the Day podcast."
+	},
+	{
+		"feedId": "feed/http://thehustle.co/feed/",
+		"title": "The Hustle",
+		"website": "http://thehustle.co",
+		"iconUrl": "https://storage.googleapis.com/site-assets/uaggCe4dYKOf8itI5jKu1kgXbFLQAJGybBqKk688vs4_sicon-16b5618686d",
+		"visualUrl": "https://storage.googleapis.com/site-assets/uaggCe4dYKOf8itI5jKu1kgXbFLQAJGybBqKk688vs4_svisual-16b5618686d",
+		"description": "Tech and business news delivered daily"
+	},
+	{
+		"feedId": "feed/http://feeds.feedburner.com/37signals/beMH",
+		"title": "Signal v. Noise",
+		"website": "https://m.signalvnoise.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/7Za_zqY5-X7fYgcQFIcOrkUBr06oZlqE1S903nI1Du8_icon-1685b0ebb2f",
+		"visualUrl": "https://storage.googleapis.com/site-assets/7Za_zqY5-X7fYgcQFIcOrkUBr06oZlqE1S903nI1Du8_visual-1685b0ebb2f",
+		"description": "Strong opinions and shared thoughts on design, business, and tech. By the makers (and friends) of Basecamp. Since 1999."
+	},
+	{
+		"feedId": "feed/http://feeds.feedburner.com/FeldThoughts",
+		"title": "Feld Thoughts",
+		"website": "https://feld.com",
+		"iconUrl": "http://storage.googleapis.com/test-site-assets/VQzDvjaJVe7ksi7B2V5vRQ2WAAtSQLE50PO6o4XEK-8_oicon-14f4376a74e",
+		"visualUrl": "http://storage.googleapis.com/test-site-assets/VQzDvjaJVe7ksi7B2V5vRQ2WAAtSQLE50PO6o4XEK-8_ovisual-14f4376a74e",
+		"description": "Brad Feld is a VC at Foundry Group and invests in software and Internet companies around the US."
+	},
+	{
+		"feedId": "feed/http://economictimes.indiatimes.com/rssfeedsdefault.cms",
+		"title": "Economic Times",
+		"website": "https://economictimes.indiatimes.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/8i35Y8yIJwXrrCVhAzTsRBQE5ON9Bkg-jBpoxOtOhnQ_sicon-16563b08972",
+		"visualUrl": "https://storage.googleapis.com/site-assets/8i35Y8yIJwXrrCVhAzTsRBQE5ON9Bkg-jBpoxOtOhnQ_svisual-16563b08972",
+		"description": "The Economic Times: Latest business, finance, markets, stocks, company news from India."
+	},
+	{
+		"feedId": "feed/http://www.canadianbusiness.com/rss",
+		"title": "Canadian Business – Your Source For Business News",
+		"website": "https://www.canadianbusiness.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/B6TmvfaUeXg3th-h0kWUdx-3viQsqfLpirhvaJB9TRM_icon-1644a902ce7",
+		"visualUrl": "https://storage.googleapis.com/site-assets/B6TmvfaUeXg3th-h0kWUdx-3viQsqfLpirhvaJB9TRM_visual-1644a902ce7",
+		"description": "Your source for market news, investing, technology, economy and Canadian industry"
+	},
+	{
+		"feedId": "feed/http://www.businessnewsdaily.com/home/feed/site.xml",
+		"title": "BusinessNewsDaily.com",
+		"website": "https://www.businessnewsdaily.com/",
+		"iconUrl": "https://storage.googleapis.com/site-assets/ujwaaAzv3ynGZ8tGpSL9Cs7wBMIwDYar-kpZOsCCS-U_icon-15fbed824aa",
+		"visualUrl": "https://storage.googleapis.com/site-assets/ujwaaAzv3ynGZ8tGpSL9Cs7wBMIwDYar-kpZOsCCS-U_visual-15fbed824aa",
+		"description": "Get the news you need to succeed in business on Business News Daily. Learn how to start a business, how to grow your business and how to market yourself."
+	},
+	{
+		"feedId": "feed/http://andrewchen.co/feed/",
+		"title": "andrewchen",
+		"website": "http://andrewchen.co",
+		"iconUrl": "https://storage.googleapis.com/site-assets/x7dFM3Dg53g2rSRK9FRo86xF47Mlb6ZMSSkSCElnhCg_icon-169ec5fa80a",
+		"visualUrl": "https://storage.googleapis.com/site-assets/x7dFM3Dg53g2rSRK9FRo86xF47Mlb6ZMSSkSCElnhCg_visual-169ec5fa80a",
+		"description": "Writer of 650+ essays featured in The New York Times, Fortune, Wired, and WSJ. Topics range from mobile product design to fundraising to user growth."
+	},
+	{
+		"feedId": "feed/http://www.businessoffashion.com/feed",
+		"title": "The Business of Fashion",
+		"website": "https://www.businessoffashion.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/13dQxBpYv_S22vUFxsifPradWazBipczZK9qEpwYtNc_icon-1639392a800",
+		"visualUrl": "https://storage.googleapis.com/site-assets/13dQxBpYv_S22vUFxsifPradWazBipczZK9qEpwYtNc_visual-1639392a800",
+		"description": "Fashion News, Analysis and Business Intelligence from the leading digital authority on the global fashion industry."
+	},
+	{
+		"feedId": "feed/http://feeds.feedburner.com/ducttapemarketing/nRUD",
+		"title": "Duct Tape Marketing",
+		"website": "https://ducttapemarketing.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/u38pTMsvEtG5zvgVKW_5aYxZPrPwMDpAWJTWNfiZYfs_icon-167788c5e5c",
+		"visualUrl": "https://storage.googleapis.com/site-assets/u38pTMsvEtG5zvgVKW_5aYxZPrPwMDpAWJTWNfiZYfs_visual-167788c5e5c",
+		"description": "The small business marketing blog"
+	},
+	{
+		"feedId": "feed/http://www.sidehustlenation.com/feed/",
+		"title": "Side Hustle Nation",
+		"website": "https://www.sidehustlenation.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/gB-1M6rzz9VPa-zdRzND9O-Tgb4Dt6ukPFyA5CS3o9A_icon-16ad0e53b24",
+		"visualUrl": "https://storage.googleapis.com/site-assets/gB-1M6rzz9VPa-zdRzND9O-Tgb4Dt6ukPFyA5CS3o9A_visual-16ad0e53b24",
+		"description": "Chief Side-Hustler at Side Hustle Nation. Marketer, skier, author, business nerd, podcaster, Seattle sports fan, parrothead. Never stop learning. #FinCon19"
+	},
+	{
+		"feedId": "feed/http://www.psfk.com/feed",
+		"title": "PSFK",
+		"website": "http://www.psfk.com/",
+		"iconUrl": "http://storage.googleapis.com/test-site-assets/CvXTapverWJKxzHMFtdLAnIgkRkSysvOpa2jl_VsATM_oicon-14e9d313524",
+		"visualUrl": "http://storage.googleapis.com/test-site-assets/CvXTapverWJKxzHMFtdLAnIgkRkSysvOpa2jl_VsATM_ovisual-14e9d313524",
+		"description": "PSFK helps brands and retailers build tomorrow's customer experiences through an offering of research reports, analyst calls, on-demand research and workshops."
+	},
+	{
+		"feedId": "feed/http://feeds.feedburner.com/inside-the-world-economic-forum",
+		"title": "World Economic Forum | Agenda | podcasts",
+		"website": "https://www.weforum.org",
+		"iconUrl": "https://storage.googleapis.com/site-assets/NaErl19ImaafKVOYGH6ZEdnP4XQK4pxp-JYtnOMak0w_icon-164593765f4",
+		"visualUrl": "https://storage.googleapis.com/site-assets/NaErl19ImaafKVOYGH6ZEdnP4XQK4pxp-JYtnOMak0w_visual-164593765f4",
+		"description": "The World Economic Forum is an independent international organization committed to improving the state of the world by engaging business, political, academic and other leaders of society to shape global, regional and industry agendas. Incorporated as a not-for-profit foundation in 1971, and headquartered in Geneva, Switzerland, the Forum is tied to no political, partisan or national interests."
+	},
+	{
+		"feedId": "feed/http://www.blackenterprise.com/feed/",
+		"title": "Black Enterprise",
+		"website": "https://www.blackenterprise.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/tD_RVjb6zHIEBWX8Kb_ZrQBuFbMr25gUN5Iaut476Ic_sicon-16d119e3cca",
+		"visualUrl": "https://storage.googleapis.com/site-assets/tD_RVjb6zHIEBWX8Kb_ZrQBuFbMr25gUN5Iaut476Ic_svisual-16d119e3cca",
+		"description": "Your #1 Resource for Black Entrepreneurs, Professionals and Small Businesses"
+	},
+	{
+		"feedId": "feed/http://feeds.latimes.com/latimes/business",
+		"title": "L.A. Times - Business",
+		"website": "https://www.latimes.com/business/rss2.0.xml",
+		"iconUrl": "https://storage.googleapis.com/site-assets/7T5v_g9W8F5bQcOw5jAJEb4IJFAYOU2JG_hdy8ngOzM_icon-16d21cf7411",
+		"visualUrl": "https://storage.googleapis.com/site-assets/7T5v_g9W8F5bQcOw5jAJEb4IJFAYOU2JG_hdy8ngOzM_visual-16d21cf7411",
+		"description": "National and international business news. Find stock updates, the latest trends in technology, real estate news and the latest on the economy."
+	},
+	{
+		"feedId": "feed/http://www.business-standard.com/bsrss.xml",
+		"title": "Business Standard",
+		"website": "https://www.business-standard.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/rh4xL0cvnhRGtxN4wHdl5LZoaHNra8m2aFKC17u-8iI_icon-16d74d01c3e",
+		"visualUrl": "https://storage.googleapis.com/site-assets/rh4xL0cvnhRGtxN4wHdl5LZoaHNra8m2aFKC17u-8iI_visual-16d74d01c3e",
+		"description": "Business Standard, Indias leading business newspaper, provides latest news on stock markets, investing, companies, industry, banking, finance, economy, policy, opinion, analysis, life, leisure, management, marketing, motoring, technology, commodities, personal finance and politics. Business News, Business World, India Stock News, India Business, India Economy, Corporate Result, Trade, Events, Technology, Cars, Bikes, Retail, Buy, Sell, Shop, SMS, Regional News, World News, World Business, Finance News on business-standard.com"
+	},
+	{
+		"feedId": "feed/http://feeds.harvardbusiness.org/harvardbusiness/ideacast",
+		"title": "Harvard Business Review IdeaCast",
+		"website": "https://hbr.org/podcasts/ideacast",
+		"iconUrl": "https://storage.googleapis.com/test-site-assets/MTjv91w5RsRl2b7Efz1HaiidICBE2SiY3-H8EnzDaiE_oicon-166b2ffa18c",
+		"visualUrl": "https://storage.googleapis.com/test-site-assets/MTjv91w5RsRl2b7Efz1HaiidICBE2SiY3-H8EnzDaiE_ovisual-166b2ffa18c",
+		"description": "A weekly podcast featuring the leading thinkers in business and management from Harvard Business Review."
+	},
+	{
+		"feedId": "feed/http://feeds.feedburner.com/68131",
+		"title": "Farnam Street",
+		"website": "https://fs.blog",
+		"iconUrl": "https://storage.googleapis.com/site-assets/ZnHzJjZcrXk8AHHrVtr_lovP_T9VpyK6Dr3f7Cm2u5I_icon-16c89efeedd",
+		"visualUrl": "https://storage.googleapis.com/site-assets/ZnHzJjZcrXk8AHHrVtr_lovP_T9VpyK6Dr3f7Cm2u5I_visual-16c89efeedd",
+		"description": "Master the best of what other people have already figured out. Use mental models to think in a multidisciplinary way, avoid problems, and live a meaningful life."
+	},
+	{
+		"feedId": "feed/http://www.marginalrevolution.com/marginalrevolution/index.rdf",
+		"title": "Marginal Revolution",
+		"website": "http://marginalrevolution.com",
+		"iconUrl": "http://storage.googleapis.com/site-assets/Od_Z0OrlTBzSrJtcae1t5qtueOtvOco3UFNx6gD9Pd4_icon-15413992018",
+		"visualUrl": "http://storage.googleapis.com/site-assets/Od_Z0OrlTBzSrJtcae1t5qtueOtvOco3UFNx6gD9Pd4_visual-15413992018",
+		"description": "Small Steps Toward A Much Better World."
+	},
+	{
+		"feedId": "feed/http://www.economist.com/rss/finance_and_economics_rss.xml",
+		"title": "Finance and economics",
+		"website": "https://www.economist.com/finance-and-economics/",
+		"iconUrl": "https://storage.googleapis.com/site-assets/iAIUsVHadavS0Zh078N8sKe5eQvOQg5FWJOpvgUGarc_icon-165e17fdc1d",
+		"visualUrl": "https://storage.googleapis.com/site-assets/iAIUsVHadavS0Zh078N8sKe5eQvOQg5FWJOpvgUGarc_visual-165e17fdc1d",
+		"description": "The Economist offers authoritative insight and opinion on international news, politics, business, finance, science, technology and the connections between them."
+	},
+	{
+		"feedId": "feed/http://www.forbes.com/business/index.xml",
+		"title": "Forbes - Business",
+		"website": "http://www.forbes.com/business/",
+		"iconUrl": "https://storage.googleapis.com/site-assets/oqN73z0QK_LTcGAQuOw11QRTUR9-sEYT2bpPV-Eevoc_icon-169855bd0ce",
+		"visualUrl": "https://storage.googleapis.com/site-assets/oqN73z0QK_LTcGAQuOw11QRTUR9-sEYT2bpPV-Eevoc_visual-169855bd0ce",
+		"description": "Forbes is a leading source for reliable news and updated analysis on Business. Read the breaking Business coverage and top headlines on Forbes.com"
+	},
+	{
+		"feedId": "feed/http://www.inc.com/rss/homepage.xml",
+		"title": "Inc.com",
+		"website": "https://www.inc.com/",
+		"iconUrl": "https://storage.googleapis.com/site-assets/tmpO-ODuyt0I_a6qbvP6xzDxrWkgZ9TQaCSVc5hgMA0_icon-164de7ae97c",
+		"visualUrl": "https://storage.googleapis.com/site-assets/tmpO-ODuyt0I_a6qbvP6xzDxrWkgZ9TQaCSVc5hgMA0_visual-164de7ae97c",
+		"description": "Inc.com, the daily resource for entrepreneurs."
+	},
+	{
+		"feedId": "feed/http://feeds.feedburner.com/businessinsider/warroom",
+		"title": "Strategy",
+		"website": "https://www.businessinsider.com/warroom",
+		"iconUrl": "https://storage.googleapis.com/site-assets/bhZVHHTkTFNrsOFmkZ4n3C5d86zwRgmuWnGENCUk9XQ_icon-16d9ae24545",
+		"visualUrl": "https://storage.googleapis.com/site-assets/bhZVHHTkTFNrsOFmkZ4n3C5d86zwRgmuWnGENCUk9XQ_visual-16d9ae24545",
+		"description": "The latest news from Strategy"
+	},
+	{
+		"feedId": "feed/http://www.forbes.com/news/index.xml",
+		"title": "Forbes Real Time",
+		"website": "http://www.forbes.com/real-time/",
+		"iconUrl": "https://storage.googleapis.com/site-assets/OyWVSO_58oWznPIHyCqChh6lFjrrVWqz0SpVp88fNPQ_icon-169888ab296",
+		"visualUrl": "https://storage.googleapis.com/site-assets/OyWVSO_58oWznPIHyCqChh6lFjrrVWqz0SpVp88fNPQ_visual-169888ab296",
+		"description": "Forbes Real Time news stream features up-to-date activity throughout Forbes.com. Watch news stories, photo galleries and video content publish in real time."
+	},
+	{
+		"feedId": "feed/http://www.forbes.com/feeds/popstories.xml",
+		"title": "Forbes.com: Most popular stories",
+		"website": "http://www.forbes.com/most-popular/",
+		"iconUrl": "https://storage.googleapis.com/site-assets/F_nYF3-tPvM_WTL49eOyN1hg2cW-B85Y4LdNbGq7S0c_icon-169840f6f23",
+		"visualUrl": "https://storage.googleapis.com/site-assets/F_nYF3-tPvM_WTL49eOyN1hg2cW-B85Y4LdNbGq7S0c_visual-169840f6f23",
+		"description": "Forbes is a global media company, focusing on business, investing, technology, entrepreneurship, leadership, and lifestyle."
+	},
+	{
+		"feedId": "feed/http://www.economist.com/rss/business_rss.xml",
+		"title": "Business",
+		"website": "https://www.economist.com/business/",
+		"iconUrl": "https://storage.googleapis.com/site-assets/YbpqnXjLbb7MtdlZJXAPK1wsS-o7ckd2bRk9BcrrZzk_icon-165e17fe62b",
+		"visualUrl": "https://storage.googleapis.com/site-assets/YbpqnXjLbb7MtdlZJXAPK1wsS-o7ckd2bRk9BcrrZzk_visual-165e17fe62b",
+		"description": "The Economist offers authoritative insight and opinion on international news, politics, business, finance, science, technology and the connections between them."
+	},
+	{
+		"feedId": "feed/http://www.forbes.com/leadership/index.xml",
+		"title": "Forbes - Leadership",
+		"website": "http://www.forbes.com/leadership/",
+		"iconUrl": "https://storage.googleapis.com/site-assets/IquPiygIHw4icOmrvB1jcWpL7oArgN639w2Pu22105s_icon-169855bd30b",
+		"visualUrl": "https://storage.googleapis.com/site-assets/IquPiygIHw4icOmrvB1jcWpL7oArgN639w2Pu22105s_visual-169855bd30b",
+		"description": "Forbes is a leading source for reliable news and updated analysis on Leadership. Read the breaking Leadership coverage and top headlines on Forbes.com"
+	},
+	{
+		"feedId": "feed/http://feeds.harvardbusiness.org/managementtip",
+		"title": "Harvard Business Review -  Leadership",
+		"website": "https://hbr.org/topic/leadership",
+		"iconUrl": "https://storage.googleapis.com/site-assets/3qJF9z7Cuq3E8tn68r6DABHMr_cj-Kq8na6uDOwct9k_icon-16ae58f09fa",
+		"visualUrl": "https://storage.googleapis.com/site-assets/3qJF9z7Cuq3E8tn68r6DABHMr_cj-Kq8na6uDOwct9k_visual-16ae58f09fa",
+		"description": "Quick, practical management tips and ideas from HBR.org"
+	},
+	{
+		"feedId": "feed/http://www.entrepreneur.com/feeds/startingabusiness.rss",
+		"title": "Entrepreneur: Latest Starting a Business Articles",
+		"website": "https://www.entrepreneur.com/topic/starting-a-business",
+		"iconUrl": "http://storage.googleapis.com/site-assets/WEr0mrLpSA4Ojhbi3qtz3l5trY76tRQcKQ2i6DGx7v4_icon-15415e2dd4c",
+		"visualUrl": "http://storage.googleapis.com/site-assets/WEr0mrLpSA4Ojhbi3qtz3l5trY76tRQcKQ2i6DGx7v4_visual-15415e2dd4c",
+		"description": "The latest news, videos, and discussion topics on Starting a Business."
+	},
+	{
+		"feedId": "feed/http://dealbook.nytimes.com/feed/",
+		"title": "NYT > Business > DealBook",
+		"website": "https://www.nytimes.com/section/business/dealbook?emc=rss&partner=rss",
+		"iconUrl": "https://storage.googleapis.com/site-assets/eN49BuoR_FESOepDXNPN9ea1uA0ChR9h9PhbiBHNXBM_icon-16aedf15743",
+		"visualUrl": "https://storage.googleapis.com/site-assets/eN49BuoR_FESOepDXNPN9ea1uA0ChR9h9PhbiBHNXBM_visual-16aedf15743",
+		"description": "A Financial News Service of The New York Times"
+	},
+	{
+		"feedId": "feed/http://news.google.com/news?hl=en&gl=us&q=business&um=1&ie=UTF-8&output=rss",
+		"title": "\"business\" - Google News",
+		"website": "https://news.google.com/search?q=business&hl=en-US&gl=US&ceid=US:en",
+		"iconUrl": "https://storage.googleapis.com/site-assets/XH-mf4ORbk_ZsxUqSneDKqgqNqbCy_n1TVfDrUixbPA_sicon-16c526d2f4a",
+		"visualUrl": "https://storage.googleapis.com/site-assets/XH-mf4ORbk_ZsxUqSneDKqgqNqbCy_n1TVfDrUixbPA_svisual-16c526d2f4a",
+		"description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
+	},
+	{
+		"feedId": "feed/http://news.google.com/news?hl=en&gl=us&q=harvard%20business%20review&um=1&ie=UTF-8&output=rss",
+		"title": "\"harvard business review\" - Google News",
+		"website": "https://news.google.com/search?q=harvard+business+review&hl=en-US&gl=US&ceid=US:en",
+		"iconUrl": "https://storage.googleapis.com/site-assets/UpbCdUp0c2DsIuCeR4Hf6XiDEmvG3qEwAhwySVEoonc_sicon-16c526e92d3",
+		"visualUrl": "https://storage.googleapis.com/site-assets/UpbCdUp0c2DsIuCeR4Hf6XiDEmvG3qEwAhwySVEoonc_svisual-16c526e92d3",
+		"description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
+	},
+	{
+		"feedId": "feed/http://rss.time.com/web/time/rss/business/index.xml",
+		"title": "Business – TIME",
+		"website": "https://time.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/7LeocDHLiic1lKNiL7wWtuSdLk5P_hx4iRwniPyiesU_icon-16b5ae7f7c6",
+		"visualUrl": "https://storage.googleapis.com/site-assets/7LeocDHLiic1lKNiL7wWtuSdLk5P_hx4iRwniPyiesU_visual-16b5ae7f7c6",
+		"description": "Current & Breaking News | National & World Updates"
+	},
+	{
+		"feedId": "feed/http://www.cnbc.com/id/10001147/device/rss/rss.html",
+		"title": "Business News",
+		"website": "https://www.cnbc.com/business/",
+		"iconUrl": "https://storage.googleapis.com/site-assets/ybWoDN4-QDWcWVFF9pJCBzSi_G3NtAobti50WTyok68_sicon-16a96458269",
+		"visualUrl": "https://storage.googleapis.com/site-assets/ybWoDN4-QDWcWVFF9pJCBzSi_G3NtAobti50WTyok68_svisual-16a96458269",
+		"description": "Latest headlines for business news around the world."
+	},
+	{
+		"feedId": "feed/http://rss.news.yahoo.com/rss/topstories",
+		"title": "Yahoo News - Latest News & Headlines",
+		"website": "https://www.yahoo.com/news/topstories",
+		"iconUrl": "https://storage.googleapis.com/site-assets/U43yQtocz9j0g8DqctN2n1T_HphZ9Wi6hciGimQiEZw_icon-16d636c15d0",
+		"visualUrl": "https://storage.googleapis.com/site-assets/U43yQtocz9j0g8DqctN2n1T_HphZ9Wi6hciGimQiEZw_visual-16d636c15d0",
+		"description": "The latest news and headlines from Yahoo! News. Get breaking news stories and in-depth coverage with videos and photos."
+	},
+	{
+		"feedId": "feed/http://www.forbes.com/markets/index.xml",
+		"title": "Forbes - Markets",
+		"website": "http://www.forbes.com/markets/",
+		"iconUrl": "https://storage.googleapis.com/site-assets/vfMI7WGs4ZCqa3ny4CrWd-pE_Asqc6SRwuxX7ihCNiM_icon-169855d03dd",
+		"visualUrl": "https://storage.googleapis.com/site-assets/vfMI7WGs4ZCqa3ny4CrWd-pE_Asqc6SRwuxX7ihCNiM_visual-169855d03dd",
+		"description": "Forbes - Markets"
+	},
+	{
+		"feedId": "feed/http://www.ft.com/rss/companies",
+		"title": "Companies",
+		"website": "https://www.ft.com/stream/c47f4dfc-6879-4e95-accf-ca8cbe6a1f69",
+		"iconUrl": "https://storage.googleapis.com/site-assets/FQJLpPq63LS33SwBxTOhVzkYuXsTJSQUtc6Jv-rqMmU_icon-16198a1ea22",
+		"visualUrl": "https://storage.googleapis.com/site-assets/FQJLpPq63LS33SwBxTOhVzkYuXsTJSQUtc6Jv-rqMmU_visual-16198a1ea22",
+		"description": "The best of FT journalism, including breaking news and insight"
+	},
+	{
+		"feedId": "feed/http://feeds.guardian.co.uk/theguardian/business/uk-edition/rss",
+		"title": "Business | The Guardian",
+		"website": "https://www.theguardian.com/uk/business",
+		"iconUrl": "https://storage.googleapis.com/site-assets/FDP_opevFj_ZqeGhU7hEHINiKWnzRi_SmoFg1KWOB3w_icon-16d535b591a",
+		"visualUrl": "https://storage.googleapis.com/site-assets/FDP_opevFj_ZqeGhU7hEHINiKWnzRi_SmoFg1KWOB3w_visual-16d535b591a",
+		"description": "Latest financial, market & economic news and analysis from The Guardian"
+	},
+	{
+		"feedId": "feed/http://www.ft.com/rss/home/uk",
+		"title": "UK homepage",
+		"website": "https://www.ft.com/",
+		"iconUrl": "https://storage.googleapis.com/site-assets/YTC4ZvwFe9z0SWnnVy3SEPcUXD0RZgZW1Qhm0MRaiKE_icon-15fc67708bb",
+		"visualUrl": "https://storage.googleapis.com/site-assets/YTC4ZvwFe9z0SWnnVy3SEPcUXD0RZgZW1Qhm0MRaiKE_visual-15fc67708bb",
+		"description": "News, analysis and comment from the Financial Times, the world's leading global business publication"
+	},
+	{
+		"feedId": "feed/http://feedproxy.google.com/clusterstock?format=xml",
+		"title": "Finance",
+		"website": "https://www.businessinsider.com/clusterstock",
+		"iconUrl": "https://storage.googleapis.com/site-assets/UB_Ag9bChh04i51pv2ImuALeDUxJwwl-euDR4tK-VFw_icon-16c9e94645f",
+		"visualUrl": "https://storage.googleapis.com/site-assets/UB_Ag9bChh04i51pv2ImuALeDUxJwwl-euDR4tK-VFw_visual-16c9e94645f",
+		"description": "The latest news from Finance"
+	}
+]

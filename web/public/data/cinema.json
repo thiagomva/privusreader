@@ -1,0 +1,698 @@
+[
+	{
+		"feedId": "feed/http://feeds.feedburner.com/slashfilm",
+		"title": "/Film",
+		"website": "https://www.slashfilm.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/G4RAWNxy184LSngScpi_TDPpJ2Z1T8XCWC51Awy3Qns_icon-16d2676218a",
+		"visualUrl": "https://storage.googleapis.com/site-assets/G4RAWNxy184LSngScpi_TDPpJ2Z1T8XCWC51Awy3Qns_visual-16d2676218a",
+		"description": "Movie News and Reviews This feed is for non commercial use. Content Copyright Slashfilm.com."
+	},
+	{
+		"feedId": "feed/http://www.guardian.co.uk/rssfeed/0,,16,00.xml",
+		"title": "Film | The Guardian",
+		"website": "https://www.theguardian.com/us/film",
+		"iconUrl": "https://storage.googleapis.com/site-assets/4U1gisZ3rfCp7Zt8P8d7FimVFRhqSw_2OqDKEg28mzk_icon-16d53586de3",
+		"visualUrl": "https://storage.googleapis.com/site-assets/4U1gisZ3rfCp7Zt8P8d7FimVFRhqSw_2OqDKEg28mzk_visual-16d53586de3",
+		"description": "Latest Film news, comment and analysis from the Guardian, the world's leading liberal voice"
+	},
+	{
+		"feedId": "feed/http://www.firstshowing.net/feed/?full",
+		"title": "FirstShowing.net",
+		"website": "https://www.firstshowing.net",
+		"iconUrl": "https://storage.googleapis.com/site-assets/QRpgOBSlEwmfUqvvV2th_EKkmXLgS5R2f0xIABItlEs_icon-16810f11f74",
+		"visualUrl": "https://storage.googleapis.com/site-assets/QRpgOBSlEwmfUqvvV2th_EKkmXLgS5R2f0xIABItlEs_visual-16810f11f74",
+		"description": "The latest movie trailers, reviews, release dates, and everything about the cinematic experience straight from Hollywood and beyond."
+	},
+	{
+		"feedId": "feed/http://feeds.feedburner.com/FilmSchoolRejects",
+		"title": "Film School Rejects",
+		"website": "https://filmschoolrejects.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/KdIDEBiUPCaAFLwjLlp1XaG3cDXzjR3oxF_5YnjYYbc_icon-166cee0bb1d",
+		"visualUrl": "https://storage.googleapis.com/site-assets/KdIDEBiUPCaAFLwjLlp1XaG3cDXzjR3oxF_5YnjYYbc_visual-166cee0bb1d",
+		"description": "Exploring the beauty and splendor of film and television, one shot at a time. The articles are also free."
+	},
+	{
+		"feedId": "feed/http://trailers.apple.com/trailers/home/rss/newtrailers.rss",
+		"title": "Latest Movie Trailers",
+		"website": "https://trailers.apple.com/",
+		"iconUrl": "https://storage.googleapis.com/site-assets/7nseWql7dn20-m05U6VaUUsr8alm6s2v6UyGMj9udYo_icon-16b2342c8da",
+		"visualUrl": "https://storage.googleapis.com/site-assets/7nseWql7dn20-m05U6VaUUsr8alm6s2v6UyGMj9udYo_visual-16b2342c8da",
+		"description": "View the latest movie trailers for many current and upcoming releases.  Many trailers are available in high-quality HD, iPod, and iPhone versions."
+	},
+	{
+		"feedId": "feed/http://www.nytimes.com/services/xml/rss/nyt/Movies.xml",
+		"title": "NYT > Movies",
+		"website": "https://www.nytimes.com/section/movies?emc=rss&partner=rss",
+		"iconUrl": "https://storage.googleapis.com/site-assets/UhPl4ueycarkrZkEPgi5FMPCnF4p5MjxlstjfFx81qc_icon-16aedf13200",
+		"visualUrl": "https://storage.googleapis.com/site-assets/UhPl4ueycarkrZkEPgi5FMPCnF4p5MjxlstjfFx81qc_visual-16aedf13200",
+		"description": "Stay up-to-date on the latest movie news. Reviews of new movies, art, foreign and documentary films by co-chief critics A.O. Scott and Manohla Dargis."
+	},
+	{
+		"feedId": "feed/http://www.variety.com/rss.asp?categoryid=10",
+		"title": "Variety",
+		"website": "http://variety.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/2v_iEuFsfb9nkR5R5_ehb9Y76JRSq0ejt7C971nHGMw_icon-166f44a4feb",
+		"visualUrl": "https://storage.googleapis.com/site-assets/2v_iEuFsfb9nkR5R5_ehb9Y76JRSq0ejt7C971nHGMw_visual-166f44a4feb",
+		"description": "Entertainment news, film reviews, awards, film festivals, box office, entertainment industry conferences"
+	},
+	{
+		"feedId": "feed/http://www.davidbordwell.net/blog/?feed=atom",
+		"title": "Observations on film art",
+		"website": "http://www.davidbordwell.net/blog",
+		"iconUrl": "https://storage.googleapis.com/site-assets/SL4A72aYMe2Z7nziMK_383C_1GCyqKWm7ugU8g9uSm0_sicon-16d997036b4",
+		"visualUrl": "https://storage.googleapis.com/site-assets/SL4A72aYMe2Z7nziMK_383C_1GCyqKWm7ugU8g9uSm0_svisual-16d997036b4",
+		"description": null
+	},
+	{
+		"feedId": "feed/http://feeds.feedburner.com/comingsoonnet30",
+		"title": "ComingSoon.net",
+		"website": "https://www.comingsoon.net",
+		"iconUrl": "https://storage.googleapis.com/site-assets/7xtL0TjhLfdK69dIyhOck_FIaEW22Vlba1QP1BZ-8Oc_icon-16690bffc36",
+		"visualUrl": "https://storage.googleapis.com/site-assets/7xtL0TjhLfdK69dIyhOck_FIaEW22Vlba1QP1BZ-8Oc_visual-16690bffc36",
+		"description": "New Movies, Movie Trailers, TV, Digital, Blu-ray & Video Game News!"
+	},
+	{
+		"feedId": "feed/http://www.aintitcool.com/node/feed",
+		"title": "Ain't It Cool News Feed",
+		"website": "http://www.aintitcool.com/",
+		"iconUrl": "http://storage.googleapis.com/site-assets/mnsajROzkyzblRl7PH1it3JtoX74MC_Rr1cvztjyYAg_icon-15412562ddc",
+		"visualUrl": "http://storage.googleapis.com/site-assets/mnsajROzkyzblRl7PH1it3JtoX74MC_Rr1cvztjyYAg_visual-15412562ddc",
+		"description": "The best in movie, TV, DVD and comic book news."
+	},
+	{
+		"feedId": "feed/http://mubi.com/notebook/posts.atom",
+		"title": "The Daily Notebook",
+		"website": "https://mubi.com/notebook/posts",
+		"iconUrl": "https://storage.googleapis.com/site-assets/EbOHgLDhDD_0WCchORgHiI0RN9W5_9LYqyxz7T7dCag_icon-1690f175dea",
+		"visualUrl": "https://storage.googleapis.com/site-assets/EbOHgLDhDD_0WCchORgHiI0RN9W5_9LYqyxz7T7dCag_visual-1690f175dea",
+		"description": "Watch truly great cinema. Right now. Wherever you are. With no ads. Ever. Cult, classic, and independent films. A new film every day. 30 hand-picked, award-winning films every month. Stream Now. Watch Offline. Start your free 7 day trial, now."
+	},
+	{
+		"feedId": "feed/http://www.avclub.com/feed/rss/",
+		"title": "The A.V. Club",
+		"website": "https://www.avclub.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/-BauHQcQUEmlbwi_54dAX2h3bGtu4uqYAeG0b_nQrSo_icon-16bb0ed7bc8",
+		"visualUrl": "https://storage.googleapis.com/site-assets/-BauHQcQUEmlbwi_54dAX2h3bGtu4uqYAeG0b_nQrSo_visual-16bb0ed7bc8",
+		"description": "Pop culture obsessives writing for the pop culture obsessed."
+	},
+	{
+		"feedId": "feed/http://www.deadline.com/feed/",
+		"title": "Deadline",
+		"website": "https://deadline.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/cF61QZYMq-FHvwPDumUltLMpQEbClhlvPhdonFUWl0A_icon-16b30ecf7ae",
+		"visualUrl": "https://storage.googleapis.com/site-assets/cF61QZYMq-FHvwPDumUltLMpQEbClhlvPhdonFUWl0A_visual-16b30ecf7ae",
+		"description": "Hollywood Entertainment Breaking News"
+	},
+	{
+		"feedId": "feed/http://feeds.feedburner.com/nofilmschool/",
+		"title": "No Film School",
+		"website": "https://nofilmschool.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/zN2I3e4Ecb3EoIPGloaW84Dm3PHVWaqj54ppjZKcOf4_icon-16b58268239",
+		"visualUrl": "https://storage.googleapis.com/site-assets/zN2I3e4Ecb3EoIPGloaW84Dm3PHVWaqj54ppjZKcOf4_visual-16b58268239",
+		"description": "helping us all become better filmmakers — “no film school” required."
+	},
+	{
+		"feedId": "feed/http://feeds.feedburner.com/badassdigest",
+		"title": "Birth.Movies.Death.",
+		"website": "https://birthmoviesdeath.com/rss",
+		"iconUrl": "https://storage.googleapis.com/site-assets/Mro4X9AJ_61SXgPq6-g4R2v0HD5Ekqx_hjxkmLrgMT4_icon-164884ae055",
+		"visualUrl": "https://storage.googleapis.com/site-assets/Mro4X9AJ_61SXgPq6-g4R2v0HD5Ekqx_hjxkmLrgMT4_visual-164884ae055",
+		"description": "Talking about all the things movie lovers love."
+	},
+	{
+		"feedId": "feed/http://www.cinemablend.com/rss-all.xml",
+		"title": "CinemaBlend Latest Content",
+		"website": "https://www.cinemablend.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/dgFYiLK_5ua-ZtAosu4tbzA2tdXeQ2Op_BCcOS4Litw_icon-16b6ead386d",
+		"visualUrl": "https://storage.googleapis.com/site-assets/dgFYiLK_5ua-ZtAosu4tbzA2tdXeQ2Op_BCcOS4Litw_visual-16b6ead386d",
+		"description": "CINEMABLEND is the go-to-source for today's information and updates on new movies, tv shows, games and celebrity news and gossip. Visit now to see what's new!"
+	},
+	{
+		"feedId": "feed/http://www.tasteofcinema.com/feed/",
+		"title": "Taste of Cinema – Movie Reviews and Classic Movie Lists",
+		"website": "http://www.tasteofcinema.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/YnZZj9T5wG0MJvPL2FOWIpw9dH1b_Qn6TIhCXLT3GqM_icon-16c9a8c73cc",
+		"visualUrl": "https://storage.googleapis.com/site-assets/YnZZj9T5wG0MJvPL2FOWIpw9dH1b_Qn6TIhCXLT3GqM_visual-16c9a8c73cc",
+		"description": "taste of cinema"
+	},
+	{
+		"feedId": "feed/http://rogerebert.suntimes.com/apps/pbcs.dll/section?category=RSS&mime=xml",
+		"title": "All Content",
+		"website": "https://www.rogerebert.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/u6mMH4Y1K5fkmwx-v4fLWi4xoadqt7Mnqsj7PMLC3-8_icon-15f715e8da2",
+		"visualUrl": "https://storage.googleapis.com/site-assets/u6mMH4Y1K5fkmwx-v4fLWi4xoadqt7Mnqsj7PMLC3-8_visual-15f715e8da2",
+		"description": "Movie reviews and ratings by Film Critic Roger Ebert | Roger Ebert"
+	},
+	{
+		"feedId": "feed/http://www.joblo.com/newsfeeds/rss.xml",
+		"title": "JoBlo's Movie Emporium News",
+		"website": "https://www.joblo.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/wUCcRjPKKPHo9kT04vdR_26l1yejOD5UqoEJjEE5Lks_icon-16a15010227",
+		"visualUrl": "https://storage.googleapis.com/site-assets/wUCcRjPKKPHo9kT04vdR_26l1yejOD5UqoEJjEE5Lks_visual-16a15010227",
+		"description": "The JoBlo Movie Network features the latest movie trailers, posters, previews & interviews all in one place! Updated daily with the latest news from Hollywood!"
+	},
+	{
+		"feedId": "feed/http://theplaylist.blogspot.com/feeds/posts/default",
+		"title": "The Playlist",
+		"website": "https://theplaylist.net",
+		"iconUrl": "https://storage.googleapis.com/site-assets/GyIuFe8TaRc1n9xPDJOjB4lTjTZiYKvxH0Y6AX9ocWk_icon-163de43f528",
+		"visualUrl": "https://storage.googleapis.com/site-assets/GyIuFe8TaRc1n9xPDJOjB4lTjTZiYKvxH0Y6AX9ocWk_visual-163de43f528",
+		"description": "The best movie news and TV news, movie reviews and TV reviews, celebrity interviews and guides to filmmaking."
+	},
+	{
+		"feedId": "feed/http://www.filmcomment.com/feed/",
+		"title": "Film Comment",
+		"website": "https://www.filmcomment.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/bo3KbiSRjbXQPCHY5aRvnodLmg8BtoVkPEEtOsk5NhU_icon-16a765666d6",
+		"visualUrl": "https://storage.googleapis.com/site-assets/bo3KbiSRjbXQPCHY5aRvnodLmg8BtoVkPEEtOsk5NhU_visual-16a765666d6",
+		"description": "Founded in 1962, Film Comment magazine features reviews and analysis of mainstream, art-house, and avant-garde filmmaking from around the world."
+	},
+	{
+		"feedId": "feed/http://screencrave.com/feed/",
+		"title": "Upcoming New Movies",
+		"website": "http://screencrave.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/5Yp21fOmMiKY48fUJMMzJT6oPhv8lSLydkZ5TONxOCU_sicon-16cc6510736",
+		"visualUrl": "https://storage.googleapis.com/site-assets/5Yp21fOmMiKY48fUJMMzJT6oPhv8lSLydkZ5TONxOCU_svisual-16cc6510736",
+		"description": "Reviews Interviews Trailers & Posters"
+	},
+	{
+		"feedId": "feed/http://feeds.feedburner.com/uproxx/filmdrunk",
+		"title": "FilmDrunk – UPROXX",
+		"website": "https://uproxx.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/RNRyuk4-RQ0bG18UOdwjTmjVKpauBLs1mT_Oit8OVnU_icon-1622373358a",
+		"visualUrl": "https://storage.googleapis.com/site-assets/RNRyuk4-RQ0bG18UOdwjTmjVKpauBLs1mT_Oit8OVnU_visual-1622373358a",
+		"description": "The Culture Of Now"
+	},
+	{
+		"feedId": "feed/http://feeds.movieweb.com/movieweb_news",
+		"title": "Movieweb News",
+		"website": "https://movieweb.com/news/",
+		"iconUrl": "https://storage.googleapis.com/site-assets/fLZCdFVRHy1Z12Ji-LZVNTQ0fcHZMqFRBwcW5ij4jgw_icon-16b6854181e",
+		"visualUrl": "https://storage.googleapis.com/site-assets/fLZCdFVRHy1Z12Ji-LZVNTQ0fcHZMqFRBwcW5ij4jgw_visual-16b6854181e",
+		"description": "Movieweb is a massive source of movie news, movie trailers, movie lists and so much more. Your movies, your way."
+	},
+	{
+		"feedId": "feed/http://www.metacritic.com/rss/movie/film.xml",
+		"title": "Latest Movie Metascores on Metacritic",
+		"website": "https://www.metacritic.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/yl2slKNr9dM6ovrUQRDGyO3eKBFEbWnDW2LkOD5r-R4_icon-165b2fc9330",
+		"visualUrl": "https://storage.googleapis.com/site-assets/yl2slKNr9dM6ovrUQRDGyO3eKBFEbWnDW2LkOD5r-R4_visual-165b2fc9330",
+		"description": "Metacritic aggregates music, game, tv, and movie reviews from the leading critics. Only Metacritic.com uses METASCORES, which let you know at a glance how each item was reviewed."
+	},
+	{
+		"feedId": "feed/http://feeds.feedburner.com/BloodyDisgusting",
+		"title": "Bloody Disgusting!",
+		"website": "https://bloody-disgusting.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/JY0QuLgbAmZnnf2X7e7wXOcKyeHCLysGRQLrNj9a754_sicon-164979a5c4d",
+		"visualUrl": "https://storage.googleapis.com/site-assets/JY0QuLgbAmZnnf2X7e7wXOcKyeHCLysGRQLrNj9a754_svisual-164979a5c4d",
+		"description": "Horror movie news, reviews, interviews, videos, podcasts and more"
+	},
+	{
+		"feedId": "feed/http://screencrush.com/feed/",
+		"title": "ScreenCrush",
+		"website": "http://screencrush.com",
+		"iconUrl": "http://storage.googleapis.com/site-assets/BWSsxueq6RjNo8DK3wCplqLCrUIuP-W9s2KmCYfI5AM_icon-1541434820e",
+		"visualUrl": "http://storage.googleapis.com/site-assets/BWSsxueq6RjNo8DK3wCplqLCrUIuP-W9s2KmCYfI5AM_visual-1541434820e",
+		"description": "Read movie reviews, TV recaps and celebrity news, plus watch the latest movie trailers."
+	},
+	{
+		"feedId": "feed/http://www.boxofficemojo.com/data/rss.php?file=topstories.xml",
+		"title": "Box Office Mojo - Top Stories",
+		"website": "http://boxofficemojo.com/",
+		"iconUrl": "https://storage.googleapis.com/site-assets/y_MCDb2WBPstmIpKgV_y9qKhHHOuDgwESc0v0WCZcPk_icon-15d6401ac81",
+		"visualUrl": "https://storage.googleapis.com/site-assets/y_MCDb2WBPstmIpKgV_y9qKhHHOuDgwESc0v0WCZcPk_visual-15d6401ac81",
+		"description": "Top Stories from Box Office Mojo"
+	},
+	{
+		"feedId": "feed/http://www.cinephiliabeyond.org/feed/",
+		"title": "Cinephilia & Beyond",
+		"website": "https://cinephiliabeyond.org",
+		"iconUrl": "https://storage.googleapis.com/site-assets/40nGiQRngxpQDdH1DsVpCFedtYxf0fpue0R2tN1rDIM_icon-15bdb4e1aae",
+		"visualUrl": "https://storage.googleapis.com/site-assets/40nGiQRngxpQDdH1DsVpCFedtYxf0fpue0R2tN1rDIM_visual-15bdb4e1aae",
+		"description": "Cinephilia & Beyond"
+	},
+	{
+		"feedId": "feed/http://feeds.feedburner.com/thefilmstage",
+		"title": "The Film Stage",
+		"website": "https://thefilmstage.com",
+		"iconUrl": "http://storage.googleapis.com/site-assets/Qjtwdpfi5jb8cIw_kBjV651V23AXllzy8Gm8AZKKa9E_sicon-1541de25b39",
+		"visualUrl": "http://storage.googleapis.com/site-assets/Qjtwdpfi5jb8cIw_kBjV651V23AXllzy8Gm8AZKKa9E_svisual-1541de25b39",
+		"description": "Your Spotlight on Cinema"
+	},
+	{
+		"feedId": "feed/http://www.sensesofcinema.com/feed/",
+		"title": "Senses of Cinema",
+		"website": "http://sensesofcinema.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/6C0AHz68OaBrvLzZzcQQ4NcM5RAz1-EhsbcMMPeNRjA_sicon-16d312dbac8",
+		"visualUrl": "https://storage.googleapis.com/site-assets/6C0AHz68OaBrvLzZzcQQ4NcM5RAz1-EhsbcMMPeNRjA_svisual-16d312dbac8",
+		"description": "Founded in 1999, Senses of Cinema is one of the first online film journals of its kind and has set the standard for professional, high quality film-related content on the Internet. The online journal is devoted to the serious and eclectic discussion of cinema."
+	},
+	{
+		"feedId": "feed/http://www.denofgeek.com/movies/rss/",
+		"title": "Movies",
+		"website": "https://www.denofgeek.com/taxonomy/term/6/all/feed",
+		"iconUrl": "https://storage.googleapis.com/site-assets/jWTzrsvBc51cB3zqxQRQK-hWf2SjGFuayvZ2wngWKyo_icon-16690bf6cb4",
+		"visualUrl": "https://storage.googleapis.com/site-assets/jWTzrsvBc51cB3zqxQRQK-hWf2SjGFuayvZ2wngWKyo_visual-16690bf6cb4",
+		"description": "Who will be the next Superman? What's going on in Doctor Who? What sequels are coming? What comics are becoming movies? All your geek news in one place."
+	},
+	{
+		"feedId": "feed/https://yts.ag/rss",
+		"title": "YTS RSS",
+		"website": "https://yts.lt/",
+		"iconUrl": "https://storage.googleapis.com/site-assets/1LID_5kHWQ8M8xrpW0sD5sHpJgngOIwROE5Pi8ph28k_sicon-16b3b0df671",
+		"visualUrl": "https://storage.googleapis.com/site-assets/1LID_5kHWQ8M8xrpW0sD5sHpJgngOIwROE5Pi8ph28k_svisual-16b3b0df671",
+		"description": "Most popular Torrents in the smallest file size RSS Feed"
+	},
+	{
+		"feedId": "feed/http://www.comicbookmovie.com/rss/",
+		"title": "Comic Book Movie",
+		"website": "https://www.comicbookmovie.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/TwX_9d4rACm575yAdAQWM0iPd2RFZ5j7Yw_P6VMuSPM_icon-15bef4808de",
+		"visualUrl": "https://storage.googleapis.com/site-assets/TwX_9d4rACm575yAdAQWM0iPd2RFZ5j7Yw_P6VMuSPM_visual-15bef4808de",
+		"description": "CBM RSS: ComicBookMovie.com's official RSS Feed! Keep up to date with the latest and greates in comic and superhero movies and TV!"
+	},
+	{
+		"feedId": "feed/http://somecamerunning.typepad.com/some_came_running/atom.xml",
+		"title": "Some Came Running",
+		"website": "https://somecamerunning.typepad.com/some_came_running/",
+		"iconUrl": "https://storage.googleapis.com/site-assets/jPPQQmRXs5E1dd8p_M2kBKlLHfwQw6MdvR7f2h-kx2Y_sicon-16b5f2147e6",
+		"visualUrl": "https://storage.googleapis.com/site-assets/jPPQQmRXs5E1dd8p_M2kBKlLHfwQw6MdvR7f2h-kx2Y_svisual-16b5f2147e6",
+		"description": "Enthusiasms and  expostulations, by Glenn Kenny"
+	},
+	{
+		"feedId": "feed/http://www.traileraddict.com/rss",
+		"title": "Movie Trailers at TrailerAddict",
+		"website": "http://www.traileraddict.com/",
+		"iconUrl": "http://storage.googleapis.com/site-assets/SUoumbJn6K0-K3sWx7XJKMk8D07oR9j8sNCZ38A6QvU_icon-15413f65db0",
+		"visualUrl": "http://storage.googleapis.com/site-assets/SUoumbJn6K0-K3sWx7XJKMk8D07oR9j8sNCZ38A6QvU_visual-15413f65db0",
+		"description": "List of latest video additions at Trailer Addict."
+	},
+	{
+		"feedId": "feed/http://feeds.feedburner.com/thr/news",
+		"title": "diigo.com",
+		"website": "https://www.diigo.com/user/Gmhass90/1gmhass90",
+		"iconUrl": "",
+		"visualUrl": "",
+		"description": null
+	},
+	{
+		"feedId": "feed/http://www.bfi.org.uk/latest/feed",
+		"title": "BFI RSS latest news feed",
+		"website": "https://www.bfi.org.uk/latest/feed",
+		"iconUrl": "https://storage.googleapis.com/site-assets/qEhiXzmTq1Vyk7IpSVMZM2ux_Cl2QNSn00ly9xgl6eY_icon-16c6297dc82",
+		"visualUrl": "https://storage.googleapis.com/site-assets/qEhiXzmTq1Vyk7IpSVMZM2ux_Cl2QNSn00ly9xgl6eY_visual-16c6297dc82",
+		"description": "We are the British Film Institute. Passionate about film. We use #NationalLottery funding to inspire people to watch, make and learn about film. 🎥 🎬📺📽🎞"
+	},
+	{
+		"feedId": "feed/http://www.artofthetitle.com/feed/",
+		"title": "Art of the Title",
+		"website": "https://www.artofthetitle.com/",
+		"iconUrl": "https://storage.googleapis.com/site-assets/Yampd4yF456a0h_w6yYmTc-rmaIDwxYDV2RraRt9zS4_icon-16d8c0228e0",
+		"visualUrl": "https://storage.googleapis.com/site-assets/Yampd4yF456a0h_w6yYmTc-rmaIDwxYDV2RraRt9zS4_visual-16d8c0228e0",
+		"description": "The definitive industry publication for title sequence design in film, TV, and beyond"
+	},
+	{
+		"feedId": "feed/http://geektyrant.com/news/atom.xml",
+		"title": "GeekTyrant – Geek Movie and Entertainment News",
+		"website": "https://geektyrant.com/",
+		"iconUrl": "https://storage.googleapis.com/site-assets/jK7rDhYCcZUNcWm3bz5vzde4Sp5Bxknd8Bmjs2Dpul4_sicon-1612e463984",
+		"visualUrl": "https://storage.googleapis.com/site-assets/jK7rDhYCcZUNcWm3bz5vzde4Sp5Bxknd8Bmjs2Dpul4_svisual-1612e463984",
+		"description": "Geek, Movie, and Entertainment news from GeekTyrant."
+	},
+	{
+		"feedId": "feed/http://www.shortoftheweek.com/feed/",
+		"title": "Short of the WeekShort of the Week",
+		"website": "https://www.shortoftheweek.com",
+		"iconUrl": "http://storage.googleapis.com/site-assets/ReMFTK7OmvMqAcRGGjT7zvvOvLNLTIdgzGfYtixYj04_icon-15414ce4ef4",
+		"visualUrl": "http://storage.googleapis.com/site-assets/ReMFTK7OmvMqAcRGGjT7zvvOvLNLTIdgzGfYtixYj04_visual-15414ce4ef4",
+		"description": "Discovering the most innovative storytellers of our time. Submit your film at www.shortoftheweek.com/submit"
+	},
+	{
+		"feedId": "feed/http://filmmakermagazine.com/feed/",
+		"title": "Filmmaker Magazine",
+		"website": "https://filmmakermagazine.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/9BehMu7fuiAFduE4qN0MNLjX6tKdQlgA8_Ui7_g6Wao_icon-16a16469916",
+		"visualUrl": "https://storage.googleapis.com/site-assets/9BehMu7fuiAFduE4qN0MNLjX6tKdQlgA8_Ui7_g6Wao_visual-16a16469916",
+		"description": "Publication with a focus on independent film, offering articles, links, and resources."
+	},
+	{
+		"feedId": "feed/http://www.filmscoop.it/feed/alcinema.asp",
+		"title": "I film in programmazione al cinema",
+		"website": "http://www.filmscoop.it/",
+		"iconUrl": "https://storage.googleapis.com/site-assets/E6GMEPWIjT6EnM-OsdeBwaCMCgEg4VNFdug-vtyQqXI_sicon-16da507e6fb",
+		"visualUrl": "https://storage.googleapis.com/site-assets/E6GMEPWIjT6EnM-OsdeBwaCMCgEg4VNFdug-vtyQqXI_svisual-16da507e6fb",
+		"description": "IL RE LEONE (2019) regia di Jon Favreau con Donald Glover, Beyonc� Knowles, James Earl Jones, Chiwetel Ejiofor, Alfre Woodard, John Oliver, John Kani, Seth Rogen, Billy Eichner, Eric Andr�, Florence Kasumba, Keegan-Michael Key, JD McCrary, Shahadi Wright Joseph, Amy Sedaris, J. Lee, Penny Johnson, Chance the Rapper, Josh McCrary, Phil LaMarr, FilmScoop.it vota e commenta film al cinema"
+	},
+	{
+		"feedId": "feed/http://www.blu-ray.com/rss/newsfeed.xml",
+		"title": "Blu-ray.com - Blu-ray Disc news",
+		"website": "https://www.blu-ray.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/gTjuVTlv7xu5FF2dTaJsqBmKUk707snUdi9Q4uMVom8_sicon-16d93a955ea",
+		"visualUrl": "https://storage.googleapis.com/site-assets/gTjuVTlv7xu5FF2dTaJsqBmKUk707snUdi9Q4uMVom8_svisual-16d93a955ea",
+		"description": "Everything about Blu-ray Disc. Blu-ray reviews, releases, news, guides and forums covering Blu-ray movies, players, recorders, drives, media, software and much more."
+	},
+	{
+		"feedId": "feed/http://www.jonathanrosenbaum.net/feed/",
+		"title": "Jonathan Rosenbaum",
+		"website": "http://www.jonathanrosenbaum.net",
+		"iconUrl": "http://storage.googleapis.com/site-assets/nRNRUMsxn6CtPMXMyREjfcEmo4vtVW7cVD_QEdoLoes_sicon-15426f110da",
+		"visualUrl": "http://storage.googleapis.com/site-assets/nRNRUMsxn6CtPMXMyREjfcEmo4vtVW7cVD_QEdoLoes_svisual-15426f110da",
+		"description": null
+	},
+	{
+		"feedId": "feed/http://selfstyledsiren.blogspot.com/feeds/posts/default",
+		"title": "Self-Styled Siren",
+		"website": "http://selfstyledsiren.blogspot.com/",
+		"iconUrl": "https://storage.googleapis.com/site-assets/ITgvB5lVKK8UaUDco0B1WFYscuBwDmZ3RMT2kUL14BM_icon-15f7a533802",
+		"visualUrl": "https://storage.googleapis.com/site-assets/ITgvB5lVKK8UaUDco0B1WFYscuBwDmZ3RMT2kUL14BM_visual-15f7a533802",
+		"description": "Film writing, film history, film love. Bylines @FilmComment @SightSoundMag @Criterion + others. Novel: MISSING REELS. Blogging as Self-Styled Siren since 2005."
+	},
+	{
+		"feedId": "feed/http://cineuropa.org/rss.aspx?lang=en",
+		"title": "cineuropa.org",
+		"website": "https://cineuropa.org/en/index/",
+		"iconUrl": "https://storage.googleapis.com/site-assets/EhQIxd-TR29L9mATj4cGMzDABcuyjKFb3tVjpFW0qBU_icon-16652c198c2",
+		"visualUrl": "https://storage.googleapis.com/site-assets/EhQIxd-TR29L9mATj4cGMzDABcuyjKFb3tVjpFW0qBU_visual-16652c198c2",
+		"description": "Cineuropa - the best of european cinema"
+	},
+	{
+		"feedId": "feed/http://www.avclub.com/feed/film/",
+		"title": "Film",
+		"website": "https://film.avclub.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/qjunJr_2eNQBrjbbTq7T5ojtOtVT2sOsWF4xJP0R6m4_icon-164884aad28",
+		"visualUrl": "https://storage.googleapis.com/site-assets/qjunJr_2eNQBrjbbTq7T5ojtOtVT2sOsWF4xJP0R6m4_visual-164884aad28",
+		"description": "Reviews and commentary to help you find the best (and worst) in film."
+	},
+	{
+		"feedId": "feed/http://www.reverseshot.com/archive/entry/rss",
+		"title": "local.reverseshot.org",
+		"website": "http://www.reverseshot.org/archive/entry/rss",
+		"iconUrl": "https://storage.googleapis.com/site-assets/zz7HK3VofE68RqgtQ05hdNiv0yyqskF3euSfeiyKP38_sicon-163e369877c",
+		"visualUrl": "https://storage.googleapis.com/site-assets/zz7HK3VofE68RqgtQ05hdNiv0yyqskF3euSfeiyKP38_svisual-163e369877c",
+		"description": "Museum of the Moving Image presents Reverse Shot: a different angle on moving images—past, present, and future"
+	},
+	{
+		"feedId": "feed/http://cinema-scope.com/feed/",
+		"title": "Cinema Scope",
+		"website": "https://cinema-scope.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/u5UDKMwJKhz4QNTG6jIwlRFd5yA8CsP-SrlZXbJOYlY_icon-16d065926ff",
+		"visualUrl": "https://storage.googleapis.com/site-assets/u5UDKMwJKhz4QNTG6jIwlRFd5yA8CsP-SrlZXbJOYlY_visual-16d065926ff",
+		"description": "Expanding the frame on int'l cinema, tweeting relevantly for Cinema Scope Magazine and Cinema Scope Online: https://t.co/IggMoLrLCm. #LUP4EVER"
+	},
+	{
+		"feedId": "feed/http://themovieblog.com/feed",
+		"title": "The Movie Blog",
+		"website": "http://www.themovieblog.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/vTugexsUb1NY46dWCzLj0BSnR9COIgwz4-fQmUxenG8_icon-15bb387b7e3",
+		"visualUrl": "https://storage.googleapis.com/site-assets/vTugexsUb1NY46dWCzLj0BSnR9COIgwz4-fQmUxenG8_visual-15bb387b7e3",
+		"description": "The Official Home of Correct Movie Opinions"
+	},
+	{
+		"feedId": "feed/http://feeds.feedburner.com/filmjunknews",
+		"title": "Film Junk",
+		"website": "https://filmjunk.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/YvUwrvlsYm6om_YBMoQcUylOOLscY60UK4I-gm8QDhw_icon-16a1ace3592",
+		"visualUrl": "https://storage.googleapis.com/site-assets/YvUwrvlsYm6om_YBMoQcUylOOLscY60UK4I-gm8QDhw_visual-16a1ace3592",
+		"description": "Blog and Podcast"
+	},
+	{
+		"feedId": "feed/http://www.scnsrc.me/category/films/feed/",
+		"title": "Movies – SceneSource",
+		"website": "http://www.scnsrc.me",
+		"iconUrl": "",
+		"visualUrl": "",
+		"description": "Your source for Games, Movies, Music and more."
+	},
+	{
+		"feedId": "feed/http://feeds.latimes.com/latimes/entertainment/news/movies",
+		"title": "L.A. Times - Movie News",
+		"website": "https://www.latimes.com/entertainment/movies/rss2.0.xml",
+		"iconUrl": "https://storage.googleapis.com/site-assets/RassPnm4J4qd6esD0eYX4C6ITSfbqOC4QWaE9vk3as0_icon-16d45d3290e",
+		"visualUrl": "https://storage.googleapis.com/site-assets/RassPnm4J4qd6esD0eYX4C6ITSfbqOC4QWaE9vk3as0_visual-16d45d3290e",
+		"description": "Movie reviews and film news, including articles about big-budget blockbusters, foreign films and independent filmmakers."
+	},
+	{
+		"feedId": "feed/http://sunsetgun.typepad.com/sunsetgun/atom.xml",
+		"title": "Sunset Gun",
+		"website": "https://sunsetgun.typepad.com/sunsetgun/",
+		"iconUrl": "http://storage.googleapis.com/site-assets/3EeRSdo0tPRtgh0eU4IjTVC3IcL4CE76S9y_kpEGoUU_sicon-1543cce2118",
+		"visualUrl": "http://storage.googleapis.com/site-assets/3EeRSdo0tPRtgh0eU4IjTVC3IcL4CE76S9y_kpEGoUU_svisual-1543cce2118",
+		"description": "kim morgan movies music melodrama"
+	},
+	{
+		"feedId": "feed/http://filmexperience.blogspot.com/feeds/posts/default",
+		"title": "Blog",
+		"website": "http://thefilmexperience.net/blog/",
+		"iconUrl": "https://storage.googleapis.com/site-assets/7rQZ9WnWuRnD40YikmYPU19X1bbtAmwCwmD7DpVXWn0_sicon-16c94bc912f",
+		"visualUrl": "http://storage.googleapis.com/site-assets/7rQZ9WnWuRnD40YikmYPU19X1bbtAmwCwmD7DpVXWn0_svisual",
+		"description": null
+	},
+	{
+		"feedId": "feed/http://heroichollywood.com/feed/",
+		"title": "Heroic Hollywood",
+		"website": "https://heroichollywood.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/X_MYzruHebAVFFzqqlOd6D25hCqKbMaPYiWoChBMTp0_icon-16c0f0e0d2d",
+		"visualUrl": "https://storage.googleapis.com/site-assets/X_MYzruHebAVFFzqqlOd6D25hCqKbMaPYiWoChBMTp0_visual-16c0f0e0d2d",
+		"description": "Comic Movies | Superhero | Movie News | Movie Reviews | Entertainment | DC | Marvel"
+	},
+	{
+		"feedId": "feed/https://www.screendaily.com/45187.rss",
+		"title": "Screen - Latest",
+		"website": "https://www.screendaily.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/vj6llJoTtEWlXcnSfYtmRA2sB0QGAsRml8zXMlAW40c_icon-168a82b69ba",
+		"visualUrl": "https://storage.googleapis.com/site-assets/vj6llJoTtEWlXcnSfYtmRA2sB0QGAsRml8zXMlAW40c_visual-168a82b69ba",
+		"description": "The online home of Screen International, posting breaking film news, the latest film reviews and reports from film festivals and film awards around the world."
+	},
+	{
+		"feedId": "feed/http://www.superherohype.com/feed",
+		"title": "SuperHeroHype",
+		"website": "https://www.superherohype.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/t_xaSMe0O6DSGQ-IBD0RIpeP61DQDzv1QMxFc9aVBZE_icon-1666c6043a7",
+		"visualUrl": "https://storage.googleapis.com/site-assets/t_xaSMe0O6DSGQ-IBD0RIpeP61DQDzv1QMxFc9aVBZE_visual-1666c6043a7",
+		"description": "Comic Book Movies and Superhero Movie News"
+	},
+	{
+		"feedId": "feed/http://dcairns.wordpress.com/feed/",
+		"title": "shadowplay",
+		"website": "https://dcairns.wordpress.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/5jj1otDqsgaHcDutvnmAi2SsYDog9klUKygnTtzLuGQ_icon-15eaf1af8d8",
+		"visualUrl": "https://storage.googleapis.com/site-assets/5jj1otDqsgaHcDutvnmAi2SsYDog9klUKygnTtzLuGQ_visual-15eaf1af8d8",
+		"description": "david cairns"
+	},
+	{
+		"feedId": "feed/http://366weirdmovies.com/feed",
+		"title": "366 Weird Movies",
+		"website": "https://366weirdmovies.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/MbekyyYx7amhz_74BDN_8iFXPv4dijVNQD7VUccth0Q_icon-1664d693b75",
+		"visualUrl": "https://storage.googleapis.com/site-assets/MbekyyYx7amhz_74BDN_8iFXPv4dijVNQD7VUccth0Q_visual-1664d693b75",
+		"description": "Celebrating the cinematically surreal, bizarre, cult, oddball, fantastique, strange, psychedelic, and the just plain WEIRD!"
+	},
+	{
+		"feedId": "feed/http://outlawvern.com/feed/",
+		"title": "Vern's Reviews on the Films of Cinema",
+		"website": "http://outlawvern.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/wnTbttkzf7acLFDOPc8Oisf004AQGCe53TBfU7ibW8Q_icon-15c155f2442",
+		"visualUrl": "https://storage.googleapis.com/site-assets/wnTbttkzf7acLFDOPc8Oisf004AQGCe53TBfU7ibW8Q_visual-15c155f2442",
+		"description": "The Life and Art of Vern"
+	},
+	{
+		"feedId": "feed/http://www.movies.com/rss-feeds/movie-news-rss",
+		"title": "Movies.com | Movie News",
+		"website": "http://www.movies.com/movie-news/",
+		"iconUrl": "http://storage.googleapis.com/site-assets/Ow0u_Sc67mfp8qXIB-MXjOlKtQkvs3nqNZbTuS26NHE_icon-15414208b28",
+		"visualUrl": "http://storage.googleapis.com/site-assets/Ow0u_Sc67mfp8qXIB-MXjOlKtQkvs3nqNZbTuS26NHE_visual-15414208b28",
+		"description": "Check out new exclusive trailers, reviews, interviews and movie news only at Movies.com"
+	},
+	{
+		"feedId": "feed/http://rupertpupkinspeaks.blogspot.com/feeds/posts/default",
+		"title": "Rupert Pupkin Speaks",
+		"website": "http://www.rupertpupkinspeaks.com/",
+		"iconUrl": "https://storage.googleapis.com/site-assets/KylJsoT-ZNAEftusPzzUMCR7laZEKtKKvUKKmue1cUg_sicon-16a6e61b63d",
+		"visualUrl": "https://storage.googleapis.com/site-assets/KylJsoT-ZNAEftusPzzUMCR7laZEKtKKvUKKmue1cUg_svisual-16a6e61b63d",
+		"description": "a blog about cult movies, psychotronic, netflix instant, 80s movies, classic films, film noir, disaster movies, warner archive, danny peary, VHS Gems."
+	},
+	{
+		"feedId": "feed/http://www.awardsdaily.com/?feed=rss2",
+		"title": "Awards Daily",
+		"website": "http://www.awardsdaily.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/kakvR1LqzjiljzGgby0JdywuzrWWot_EG9gO9dhrOvY_icon-16d176e14e9",
+		"visualUrl": "https://storage.googleapis.com/site-assets/kakvR1LqzjiljzGgby0JdywuzrWWot_EG9gO9dhrOvY_visual-16d176e14e9",
+		"description": "The Oscars, the Films and everything in between."
+	},
+	{
+		"feedId": "feed/http://www.300mbfilms.com/feed",
+		"title": "300mbfilms.io",
+		"website": "https://www.300mbfilms.io",
+		"iconUrl": "",
+		"visualUrl": "",
+		"description": "All the latest high quality movies in small size and in resumable 300mb links"
+	},
+	{
+		"feedId": "feed/http://criterioncast.com/feed/",
+		"title": "CriterionCast",
+		"website": "https://criterioncast.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/jI_vMPm33IPWVIO7uyzDjaJaIZcKbO44PiPMPC9ogrQ_sicon-1608b7ebedd",
+		"visualUrl": "https://storage.googleapis.com/site-assets/jI_vMPm33IPWVIO7uyzDjaJaIZcKbO44PiPMPC9ogrQ_svisual-1608b7ebedd",
+		"description": "A space for images, videos and links. Visit CriterionCast.com for reviews, articles, and podcasts."
+	},
+	{
+		"feedId": "feed/http://www.thedigitalbits.com/columns/my-two-cents/feed",
+		"title": "The Digital Bits - Bill Hunt's My Two Cents",
+		"website": "http://thedigitalbits.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/fBVXBqRMSNBrg4Z0oveGpwG3ClZvryz8pAQKt352ggU_icon-16d4de0a88c",
+		"visualUrl": "https://storage.googleapis.com/site-assets/fBVXBqRMSNBrg4Z0oveGpwG3ClZvryz8pAQKt352ggU_visual-16d4de0a88c",
+		"description": "Since 1997, The Digital Bits has been a leading source for DVD/Blu-ray industry news, reviews, analysis and expertise, and great place for cinephiles of all stripes to share their love of film."
+	},
+	{
+		"feedId": "feed/http://feeds.ign.com/ign/movies-articles",
+		"title": "IGN Movies Articles",
+		"website": "http://www.ign.com/articles",
+		"iconUrl": "https://storage.googleapis.com/site-assets/ip_VW_6Gmza-laOY8mdZzpAE1BJD34R2iigRGDRTKZM_icon-163ec82fed4",
+		"visualUrl": "https://storage.googleapis.com/site-assets/ip_VW_6Gmza-laOY8mdZzpAE1BJD34R2iigRGDRTKZM_visual-163ec82fed4",
+		"description": "The latest news, reviews and features about movies"
+	},
+	{
+		"feedId": "feed/http://feeds.feedburner.com/mtvmoviesblog",
+		"title": "Movies – News",
+		"website": "http://www.mtv.com/news/",
+		"iconUrl": "https://storage.googleapis.com/site-assets/QXrnasj7nOVaSyx5h71jL5tQbTdpS7ew1yEZL9qZpmQ_icon-16bb37c4546",
+		"visualUrl": "https://storage.googleapis.com/site-assets/QXrnasj7nOVaSyx5h71jL5tQbTdpS7ew1yEZL9qZpmQ_visual-16bb37c4546",
+		"description": "The ultimate news source for music, celebrity, entertainment, movies, and current events on the web. It&amp;#039;s pop culture on steroids."
+	},
+	{
+		"feedId": "feed/http://johnaugust.com/feed",
+		"title": "John August",
+		"website": "https://johnaugust.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/P0m5DG_O-F26ggvdZZGTtxhZYWvb7Bgr2oykAdDKEYw_icon-1687a0483a5",
+		"visualUrl": "https://storage.googleapis.com/site-assets/P0m5DG_O-F26ggvdZZGTtxhZYWvb7Bgr2oykAdDKEYw_visual-1687a0483a5",
+		"description": "Author and Screenwriter"
+	},
+	{
+		"feedId": "feed/http://www.cinema5d.com/news/?feed=rss2",
+		"title": "News – cinema5D",
+		"website": "https://www.cinema5d.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/VCBU5-8wl7jBsSICzoMko9IrfZ5mXxKOGIOElBeCf_g_icon-1616cd1e953",
+		"visualUrl": "https://storage.googleapis.com/site-assets/VCBU5-8wl7jBsSICzoMko9IrfZ5mXxKOGIOElBeCf_g_visual-1616cd1e953",
+		"description": "Cinema5D is a leading digital filmmaking news, reviews and community platform, covering the latest in cinematography, video DSLR & large sensor technology."
+	},
+	{
+		"feedId": "feed/http://www.impawards.com/mainupdates.xml",
+		"title": "IMP Awards: Latest Movie Poster Updates",
+		"website": "http://www.impawards.com",
+		"iconUrl": "http://storage.googleapis.com/site-assets/juoyeCYmFx0W1YjUcHYvYhQQwtgVl0E_dVpJxbzCwjk_icon-1543cee377c",
+		"visualUrl": "http://storage.googleapis.com/site-assets/juoyeCYmFx0W1YjUcHYvYhQQwtgVl0E_dVpJxbzCwjk_visual-1543cee377c",
+		"description": "The Internet Movie Poster Awards features annual awards for the best and worst movie posters as well all the latest updates and one of the largest movie poster galleries on the internet."
+	},
+	{
+		"feedId": "feed/http://worldscinema.org/feed/",
+		"title": "Cinema of the World",
+		"website": "http://worldscinema.org",
+		"iconUrl": "https://storage.googleapis.com/site-assets/5KsDA4Dot2Tn29WkNeQA9VmlDgHhF19KMpdZcTSnUbQ_sicon-167e464dff8",
+		"visualUrl": "https://storage.googleapis.com/site-assets/5KsDA4Dot2Tn29WkNeQA9VmlDgHhF19KMpdZcTSnUbQ_svisual-167e464dff8",
+		"description": "A comprehensive library of Arthouse..Cult,Classic,Experimental and rare movies from all over the world."
+	},
+	{
+		"feedId": "feed/http://sergioleoneifr.blogspot.com/feeds/posts/default",
+		"title": "Sergio Leone and the Infield Fly Rule",
+		"website": "http://sergioleoneifr.blogspot.com/",
+		"iconUrl": "http://storage.googleapis.com/site-assets/m1n85Wv0VhhpZw2fNqQrOLGcEuRc3ZyYNn49s7ahN1Y_sicon-15426eaee80",
+		"visualUrl": "http://storage.googleapis.com/site-assets/m1n85Wv0VhhpZw2fNqQrOLGcEuRc3ZyYNn49s7ahN1Y_svisual-15426eaee80",
+		"description": "\"Great movies are rarely perfect movies\" - Pauline Kael"
+	},
+	{
+		"feedId": "feed/http://girishshambu.blogspot.com/feeds/posts/default",
+		"title": "girish",
+		"website": "http://www.girishshambu.net/",
+		"iconUrl": "",
+		"visualUrl": "",
+		"description": null
+	},
+	{
+		"feedId": "feed/http://www.quietearth.us/rss.xml",
+		"title": "Quiet Earth",
+		"website": "http://www.quietearth.us",
+		"iconUrl": "http://storage.googleapis.com/site-assets/0TADE8hV1gG6baOL3KXlgMqfWhIjfYHYo2Ph2DWIg3I_icon-15412936744",
+		"visualUrl": "http://storage.googleapis.com/site-assets/0TADE8hV1gG6baOL3KXlgMqfWhIjfYHYo2Ph2DWIg3I_visual-15412936744",
+		"description": "The UHF of the film world."
+	},
+	{
+		"feedId": "feed/http://acidemic.blogspot.com/feeds/posts/default",
+		"title": "Acidemic - Film",
+		"website": "https://acidemic.blogspot.com/",
+		"iconUrl": "https://storage.googleapis.com/site-assets/bhhmoWxlNMtVD_apf6gG4XxkxrUVb0gIxGhV45SS2Ow_sicon-16204a4aa94",
+		"visualUrl": "https://storage.googleapis.com/site-assets/bhhmoWxlNMtVD_apf6gG4XxkxrUVb0gIxGhV45SS2Ow_svisual-16204a4aa94",
+		"description": "Psychedelic Film Criticism that's been engulfed by its own demontrifiguous nanoeclecticism - spilled the right way!"
+	},
+	{
+		"feedId": "feed/http://baradwajrangan.wordpress.com/feed/",
+		"title": "Baradwaj Rangan",
+		"website": "https://baradwajrangan.wordpress.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/K6RR6OqKGuaEvo_Sd1vEit4mMK6ssMab3kGyuS48eIA_icon-16ba74cf86c",
+		"visualUrl": "https://storage.googleapis.com/site-assets/K6RR6OqKGuaEvo_Sd1vEit4mMK6ssMab3kGyuS48eIA_visual-16ba74cf86c",
+		"description": "National Award-winning film critic. Author (Conversations with Mani Ratnam, Dispatches from the Wall Corner). Editor, Film Companion (South)."
+	},
+	{
+		"feedId": "feed/http://variety.com/v/film/feed/",
+		"title": "Film",
+		"website": "https://variety.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/ZiOPWvAOSwpkICgl0e0JSvoZhFWoTWGv486-3y3KsB4_icon-1671d81c4c6",
+		"visualUrl": "https://storage.googleapis.com/site-assets/ZiOPWvAOSwpkICgl0e0JSvoZhFWoTWGv486-3y3KsB4_visual-1671d81c4c6",
+		"description": "Entertainment news, film reviews, awards, film festivals, box office, entertainment industry conferences"
+	},
+	{
+		"feedId": "feed/http://www.hitfix.com/channels/movies.rss",
+		"title": "Movies – UPROXX",
+		"website": "https://uproxx.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/HpLUHgdxYsaEmPdadPwdgimnCzGkbTDvTXCOdVlsWzg_icon-161bcefd122",
+		"visualUrl": "https://storage.googleapis.com/site-assets/HpLUHgdxYsaEmPdadPwdgimnCzGkbTDvTXCOdVlsWzg_visual-161bcefd122",
+		"description": "The Culture Of Now"
+	},
+	{
+		"feedId": "feed/http://www.boxofficemojo.com/data/rss.php?file=charts.xml",
+		"title": "Box Office Mojo - Current Box Office Results",
+		"website": "http://boxofficemojo.com/",
+		"iconUrl": "https://storage.googleapis.com/site-assets/Y7FHIiETRBnS7wGRIbJPCK8Ct98BB3AmOTWFQOdS87c_icon-15d64095697",
+		"visualUrl": "https://storage.googleapis.com/site-assets/Y7FHIiETRBnS7wGRIbJPCK8Ct98BB3AmOTWFQOdS87c_visual-15d64095697",
+		"description": "Current Daily and Weekend Box Office Results from Box Office Mojo"
+	},
+	{
+		"feedId": "feed/http://www.cinemablend.com/rss.php",
+		"title": "CinemaBlend Latest Content",
+		"website": "https://www.cinemablend.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/dgFYiLK_5ua-ZtAosu4tbzA2tdXeQ2Op_BCcOS4Litw_icon-16b6ead386d",
+		"visualUrl": "https://storage.googleapis.com/site-assets/dgFYiLK_5ua-ZtAosu4tbzA2tdXeQ2Op_BCcOS4Litw_visual-16b6ead386d",
+		"description": "CINEMABLEND is the go-to-source for today's information and updates on new movies, tv shows, games and celebrity news and gossip. Visit now to see what's new!"
+	},
+	{
+		"feedId": "feed/http://www.blu-ray.com/rss/reviewfeed.xml",
+		"title": "Blu-ray.com - Blu-ray Movie Reviews",
+		"website": "https://www.blu-ray.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/i3umIvjxjSkVGVZ3yjcUBecGgVxwR4rrEX2KBRI8z10_sicon-16d98d55c89",
+		"visualUrl": "https://storage.googleapis.com/site-assets/i3umIvjxjSkVGVZ3yjcUBecGgVxwR4rrEX2KBRI8z10_svisual-16d98d55c89",
+		"description": "Everything about Blu-ray Disc. Blu-ray reviews, releases, news, guides and forums covering Blu-ray movies, players, recorders, drives, media, software and much more."
+	},
+	{
+		"feedId": "feed/http://www.guardian.co.uk/profile/markkermode/rss",
+		"title": "Mark Kermode | The Guardian",
+		"website": "https://www.theguardian.com/profile/markkermode",
+		"iconUrl": "https://storage.googleapis.com/site-assets/77bM1RrV3gYtNq7MzPKCqptNCB0yE3MfHEuvPCv7e4s_icon-16d7813dd09",
+		"visualUrl": "https://storage.googleapis.com/site-assets/77bM1RrV3gYtNq7MzPKCqptNCB0yE3MfHEuvPCv7e4s_visual-16d7813dd09",
+		"description": "<p>Writer and broadcaster Mark Kermode is the Observer's chief film critic. He is the author of <a href=\"http://bookshop.theguardian.com/hatchet-job.html\">Hatchet Job</a> and <a href=\"http://bookshop.theguardian.com/good-the-bad-and-the-multiplex.html\">The Good, the Bad and the Multiplex</a>. Follow him on twitter: <a href=\"https://twitter.com/kermodemovie\">@kermodemovie</a></p>"
+	},
+	{
+		"feedId": "feed/http://feeds.feedburner.com/indiewire/thompsononhollywood",
+		"title": "Thompson on Hollywood",
+		"website": "https://www.indiewire.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/sOO4D9U2yZVLb3yMPph_Uuj4edZAFZXSH5eH6E9oxpE_sicon-16a7e6fab1e",
+		"visualUrl": "https://storage.googleapis.com/site-assets/sOO4D9U2yZVLb3yMPph_Uuj4edZAFZXSH5eH6E9oxpE_svisual-16a7e6fab1e",
+		"description": "The Voice of Creative Independence"
+	},
+	{
+		"feedId": "feed/http://www.blu-ray.com/rss/newreleasesfeed.xml",
+		"title": "Blu-ray.com - Movies - New Releases",
+		"website": "https://www.blu-ray.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/nGimVG90K-c3Qoe6xQI26sJM54w-az0cRMIX6RUXVTo_sicon-16d9df3766a",
+		"visualUrl": "https://storage.googleapis.com/site-assets/nGimVG90K-c3Qoe6xQI26sJM54w-az0cRMIX6RUXVTo_svisual-16d9df3766a",
+		"description": "Everything about Blu-ray Disc. Blu-ray reviews, releases, news, guides and forums covering Blu-ray movies, players, recorders, drives, media, software and much more."
+	}
+]

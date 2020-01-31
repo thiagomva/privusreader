@@ -1,0 +1,33 @@
+.name-input-wrapper {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-end;
+}
+  
+.name-input-wrapper > input {
+    font-size: 14px;
+    font-weight: normal;
+    width: 100%;
+    text-align: left;
+    display: inline-block;
+    vertical-align: middle;
+    padding: 3px 6px;
+    background-color: inherit;
+    border: 1px solid #b7b7b7;
+    border-radius: 2px;
+    outline: none;
+    color: #323232;
+    margin: 0;
+}
+
+.name-input-wrapper > span {
+    font-size: 11px;
+    display: inline-block;
+    vertical-align: middle;
+    color: #e52643;
+    outline: none;
+    margin-top: 3px;
+    line-height: 1;
+}

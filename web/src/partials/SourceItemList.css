@@ -1,0 +1,39 @@
+.empty-feed{
+    text-align: center;
+    height: calc(100vh - 300px);
+    display: flex;
+    justify-content: center;
+    place-items: center;
+    flex-direction: column
+}
+
+.empty-message{
+    font-size: 18px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.5;
+    letter-spacing: 0.8px;
+    text-align: center;
+    color: #4b4b4b;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.empty-submessage{
+    font-size: 14px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.5;
+    letter-spacing: 0.8px;
+    text-align: center;
+    color: #4b4b4b;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.empty-feed .action-btn{
+    margin-left: auto;
+    margin-right: auto;
+}

@@ -1,0 +1,674 @@
+[
+	{
+		"feedId": "feed/http://sports.espn.go.com/espn/rss/news",
+		"title": "www.espn.com - TOP",
+		"website": "http://www.espn.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/VYbZ3bbQLQX9ypTL696oTeZd1MtL0iNueadUU6t_m70_sicon-1631fd54b0d",
+		"visualUrl": "https://storage.googleapis.com/site-assets/VYbZ3bbQLQX9ypTL696oTeZd1MtL0iNueadUU6t_m70_svisual-1631fd54b0d",
+		"description": "Visit ESPN to get up-to-the-minute sports news coverage, scores, highlights and commentary for NFL, MLB, NBA, College Football, NCAA Basketball and more."
+	},
+	{
+		"feedId": "feed/http://bleacherreport.com/articles/feed",
+		"title": "Bleacher Report - Front Page",
+		"website": "https://bleacherreport.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/causQNG8JAzAE7rHqb8r4MQMhGbF0x8nPJdcfiQ_46A_sicon-163ba3eae91",
+		"visualUrl": "https://storage.googleapis.com/site-assets/causQNG8JAzAE7rHqb8r4MQMhGbF0x8nPJdcfiQ_46A_svisual-163ba3eae91",
+		"description": "Bleacher Report - The latest articles about sports news, rumors, teams, events, and more."
+	},
+	{
+		"feedId": "feed/http://newsrss.bbc.co.uk/rss/sportonline_world_edition/front_page/rss.xml",
+		"title": "BBC Sport - Sport",
+		"website": "http://www.bbc.co.uk/sport/",
+		"iconUrl": "https://storage.googleapis.com/site-assets/HjexZXZU2cZJFDSROfYCyUYe6C2On9dOBZU9shpQv5s_icon-166ccd75efd",
+		"visualUrl": "https://storage.googleapis.com/site-assets/HjexZXZU2cZJFDSROfYCyUYe6C2On9dOBZU9shpQv5s_visual-166ccd75efd",
+		"description": "Breaking news & live sports coverage including results, video, audio and analysis on Football, F1, Cricket, Rugby Union, Rugby League, Golf, Tennis and all the main world sports, plus major events such as the Olympic Games."
+	},
+	{
+		"feedId": "feed/http://www.skysports.com/rss/0,20514,11095,00.xml",
+		"title": "SkySports | News",
+		"website": "http://www.skysports.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/zOPwzXOb9yAErfp0L4KQKbwPC0xQzFWL4KbZDubZFaQ_icon-16776a44cf0",
+		"visualUrl": "https://storage.googleapis.com/site-assets/zOPwzXOb9yAErfp0L4KQKbwPC0xQzFWL4KbZDubZFaQ_visual-16776a44cf0",
+		"description": "Watch the best live coverage of your favourite sports: Football, Golf, Rugby, Cricket, Tennis, F1, Boxing, plus the latest sports news, transfers & scores."
+	},
+	{
+		"feedId": "feed/http://feeds.sbnation.com/rss/current",
+		"title": "SBNation.com -  All Posts",
+		"website": "https://www.sbnation.com/",
+		"iconUrl": "https://storage.googleapis.com/site-assets/tJuQDAYIs_DhHsoBVKnrI4dpmMD56m5DsNmtbo0SKi8_icon-16b9b0f1567",
+		"visualUrl": "https://storage.googleapis.com/site-assets/tJuQDAYIs_DhHsoBVKnrI4dpmMD56m5DsNmtbo0SKi8_visual-16b9b0f1567",
+		"description": "Come fan with us. SB Nation is the largest independent sports media brand, consisting of SBNation.com, MMAFighting.com and over 300 fan-centric team communities."
+	},
+	{
+		"feedId": "feed/https://www.theringer.com/rss/index.xml",
+		"title": "The Ringer -  All",
+		"website": "https://www.theringer.com/",
+		"iconUrl": "https://storage.googleapis.com/site-assets/NxszCar9J_EdRn4LYN9IjDezNT53VOCj8dPC3Upk9NU_icon-16d25395324",
+		"visualUrl": "https://storage.googleapis.com/site-assets/NxszCar9J_EdRn4LYN9IjDezNT53VOCj8dPC3Upk9NU_visual-16d25395324",
+		"description": "Sports, pop culture, and tech."
+	},
+	{
+		"feedId": "feed/http://profootballtalk.nbcsports.com/feed/",
+		"title": "ProFootballTalk",
+		"website": "https://profootballtalk.nbcsports.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/F8DxvG55oXlqIdRjYN1j0gc2OGUTtg8RD_E0aB7lpwg_sicon-16d9ac63cfc",
+		"visualUrl": "https://storage.googleapis.com/site-assets/F8DxvG55oXlqIdRjYN1j0gc2OGUTtg8RD_E0aB7lpwg_svisual-16d9ac63cfc",
+		"description": "ProFootballTalk on NBCSports.com"
+	},
+	{
+		"feedId": "feed/http://fivethirtyeight.com/sports/feed/",
+		"title": "Sports – FiveThirtyEight",
+		"website": "https://fivethirtyeight.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/7ZSHTrF7HH5DQPnVT6HEAgnSY2_cVCcHRyBFP2R2UnI_icon-15caf91f31a",
+		"visualUrl": "https://storage.googleapis.com/site-assets/7ZSHTrF7HH5DQPnVT6HEAgnSY2_cVCcHRyBFP2R2UnI_visual-15caf91f31a",
+		"description": "Nate Silver’s FiveThirtyEight uses statistical analysis — hard numbers — to tell compelling stories about politics, sports, science, economics and culture."
+	},
+	{
+		"feedId": "feed/http://www.theguardian.com/football/rss",
+		"title": "Football | The Guardian",
+		"website": "https://www.theguardian.com/football",
+		"iconUrl": "https://storage.googleapis.com/site-assets/k0Jznhfi_YIP6WQL3jwPBKiRqfYB12B3phvnnn_Qi_w_icon-16d5358724e",
+		"visualUrl": "https://storage.googleapis.com/site-assets/k0Jznhfi_YIP6WQL3jwPBKiRqfYB12B3phvnnn_Qi_w_visual-16d5358724e",
+		"description": "Football news, results, fixtures, blogs, podcasts and comment on the Premier League, European and World football from the Guardian, the world's leading liberal voice"
+	},
+	{
+		"feedId": "feed/http://www.cbssports.com/partners/feeds/rss/home_news",
+		"title": "CBSSports.com Headlines",
+		"website": "https://www.cbssports.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/c2hZnDvNi82MizFBPgtR9jE3MOHVIiCRQYGfe9w9Whk_sicon-16772744bf9",
+		"visualUrl": "https://storage.googleapis.com/site-assets/c2hZnDvNi82MizFBPgtR9jE3MOHVIiCRQYGfe9w9Whk_svisual-16772744bf9",
+		"description": "CBS Sports features live scoring, news, stats, and player info for NFL football, MLB baseball, NBA basketball, NHL hockey, college basketball and football."
+	},
+	{
+		"feedId": "feed/http://www.awfulannouncing.com/feed/rss.html",
+		"title": "Awful Announcing",
+		"website": "https://awfulannouncing.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/1L4Yd6OjlcVn9axgcP4zEDlA6LMC0w8MVW2vxCiKtWI_icon-166acb3e447",
+		"visualUrl": "https://storage.googleapis.com/site-assets/1L4Yd6OjlcVn9axgcP4zEDlA6LMC0w8MVW2vxCiKtWI_visual-166acb3e447",
+		"description": "All things sports media"
+	},
+	{
+		"feedId": "feed/http://www.mlbtraderumors.com/atom.xml",
+		"title": "MLB Trade Rumors",
+		"website": "https://www.mlbtraderumors.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/ifwiMNoReRzgeJMwqi5fxIIWpFb5TEpPAK4zDtOhk4k_icon-15fc1f15996",
+		"visualUrl": "https://storage.googleapis.com/site-assets/ifwiMNoReRzgeJMwqi5fxIIWpFb5TEpPAK4zDtOhk4k_visual-15fc1f15996",
+		"description": "MLB Rumors - MLBTradeRumors.com"
+	},
+	{
+		"feedId": "feed/http://www.goal.com/en/feeds/news?fmt=rss",
+		"title": "Football News, Live Scores, Results & Transfers | Goal.com",
+		"website": "http://www.goal.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/4A2n8bOyYASkehXB2psjGzcJyJkCtUBkH6IH6GdpRyM_sicon-1699a007c16",
+		"visualUrl": "https://storage.googleapis.com/site-assets/4A2n8bOyYASkehXB2psjGzcJyJkCtUBkH6IH6GdpRyM_svisual-1699a007c16",
+		"description": "The latest football news, rumours, transfers and match reports from around the world."
+	},
+	{
+		"feedId": "feed/http://sports.yahoo.com/top/rss.xml",
+		"title": "Yahoo! Sports - News, Scores, Standings, Rumors, Fantasy Games",
+		"website": "https://sports.yahoo.com/",
+		"iconUrl": "https://storage.googleapis.com/site-assets/0jqLivAiYxJJd1Jv_c3Ihan7uM3CdDXC5rzrcxYOzeQ_sicon-16d673b720a",
+		"visualUrl": "https://storage.googleapis.com/site-assets/0jqLivAiYxJJd1Jv_c3Ihan7uM3CdDXC5rzrcxYOzeQ_svisual-16d673b720a",
+		"description": "Yahoo! Sports - Comprehensive  news, scores, standings, fantasy games, rumors, and more"
+	},
+	{
+		"feedId": "feed/http://rss.news.yahoo.com/rss/sports",
+		"title": "Yahoo News - Latest News & Headlines",
+		"website": "https://www.yahoo.com/news/tagged/sports",
+		"iconUrl": "https://storage.googleapis.com/site-assets/3hvfoFwzUXq8ww5c1MbRugbiXzmnMpu0qzon8Ybfs3k_sicon-16d5edbe2e3",
+		"visualUrl": "https://storage.googleapis.com/site-assets/3hvfoFwzUXq8ww5c1MbRugbiXzmnMpu0qzon8Ybfs3k_svisual-16d5edbe2e3",
+		"description": "The latest news and headlines from Yahoo! News. Get breaking news stories and in-depth coverage with videos and photos."
+	},
+	{
+		"feedId": "feed/http://www.fangraphs.com/blogs/?feed=rss2",
+		"title": "FanGraphs Baseball",
+		"website": "https://blogs.fangraphs.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/Nj3oGJ3qOf4M7yBOTS4HtZfVxu0z70Bm-gENUrEytBc_sicon-1683bf07144",
+		"visualUrl": "https://storage.googleapis.com/site-assets/Nj3oGJ3qOf4M7yBOTS4HtZfVxu0z70Bm-gENUrEytBc_svisual-1683bf07144",
+		"description": "Daily baseball statistical analysis and commentary"
+	},
+	{
+		"feedId": "feed/http://feeds.feedburner.com/uproxx/withleather",
+		"title": "Sports – UPROXX",
+		"website": "https://uproxx.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/Hy0kh3exQUvAr1iPxeFWvtxc27i_5yH2VVQ1vXlyfk8_icon-16223736371",
+		"visualUrl": "https://storage.googleapis.com/site-assets/Hy0kh3exQUvAr1iPxeFWvtxc27i_5yH2VVQ1vXlyfk8_visual-16223736371",
+		"description": "The Culture Of Now"
+	},
+	{
+		"feedId": "feed/http://feeds.feedburner.com/edsbs/rss2",
+		"title": "EDSBS",
+		"website": "https://www.everydayshouldbesaturday.com/",
+		"iconUrl": "https://storage.googleapis.com/site-assets/cnU03HG2MIYZAsLi6d-eYaMBbo4Sxrs314IYVpVEbBg_sicon-15cb4dcd3c7",
+		"visualUrl": "https://storage.googleapis.com/site-assets/cnU03HG2MIYZAsLi6d-eYaMBbo4Sxrs314IYVpVEbBg_svisual-15cb4dcd3c7",
+		"description": "Every Day Should Be Saturday"
+	},
+	{
+		"feedId": "feed/http://www.cricinfo.com/rss/content/story/feeds/0.xml",
+		"title": "Cricket news from ESPN Cricinfo.com",
+		"website": "http://www.espncricinfo.com/",
+		"iconUrl": "https://storage.googleapis.com/site-assets/0KC2tzBkTxr9Im7CZuA3qHbFSLeltLaMOJr7o6o6eWM_icon-16275f57fce",
+		"visualUrl": "https://storage.googleapis.com/site-assets/0KC2tzBkTxr9Im7CZuA3qHbFSLeltLaMOJr7o6o6eWM_visual-16275f57fce",
+		"description": "Visit Cricinfo.com for up-to-the-minute cricket news, breaking cricket news, live cricket commentary, ball-by-ball commentary, cricket video, cricket audio and features."
+	},
+	{
+		"feedId": "feed/http://feeds.feedburner.com/FootballOutsiders",
+		"title": "Archives",
+		"website": "http://www.footballoutsiders.com/archives",
+		"iconUrl": "https://storage.googleapis.com/site-assets/N5YA_ZWj2ZCIxAbgMQD0j0ZXSxcCUPa8zIIhHLHHnLc_icon-16c0602e385",
+		"visualUrl": "https://storage.googleapis.com/site-assets/N5YA_ZWj2ZCIxAbgMQD0j0ZXSxcCUPa8zIIhHLHHnLc_visual-16c0602e385",
+		"description": "Advanced football stats and film analysis. Part of @EdjSports. Tech support: fo-support@edjsports.com. Sorry, we don't respond to fantasy questions on Twitter."
+	},
+	{
+		"feedId": "feed/http://www.rotoworld.com/rss/feed.aspx?sport=nfl&ftype=news&count=12&format=rss",
+		"title": "Fantasy Football News - Rotoworld.com",
+		"website": "http://www.rotoworld.com/",
+		"iconUrl": "https://storage.googleapis.com/site-assets/-40m8eRT0jtBynW6yJfBqgpOUIzqyJc9a0U9Jl2ofBc_icon-168e49b5c7e",
+		"visualUrl": "https://storage.googleapis.com/site-assets/-40m8eRT0jtBynW6yJfBqgpOUIzqyJc9a0U9Jl2ofBc_visual-168e49b5c7e",
+		"description": "Rotoworld fantasy sports news and analysis for NFL, MLB, NBA, NHL, CFB, Golf, EPL and NASCAR"
+	},
+	{
+		"feedId": "feed/http://mgoblog.com/fbfeed",
+		"title": "mgoblog - i'm an actor, not a reactor",
+		"website": "https://mgoblog.com/fbfeed",
+		"iconUrl": "https://storage.googleapis.com/site-assets/Qj9rpiRsxvEoMHPfJfN8wnrDSAQf_k5cFpmnWEgUs38_sicon-165ad128bdb",
+		"visualUrl": "https://storage.googleapis.com/site-assets/Qj9rpiRsxvEoMHPfJfN8wnrDSAQf_k5cFpmnWEgUs38_svisual-165ad128bdb",
+		"description": null
+	},
+	{
+		"feedId": "feed/http://msn.foxsports.com/feedout/syndicatedContent?categoryId=5",
+		"title": "FOX Sports Digital",
+		"website": "http://api.foxsports.com/v1/rss",
+		"iconUrl": "https://storage.googleapis.com/site-assets/PQJtjwfc4MQVFRkqF0pdQakY-8j7EPyhSMXyPsEZRxw_icon-16abb1d3b8e",
+		"visualUrl": "https://storage.googleapis.com/site-assets/PQJtjwfc4MQVFRkqF0pdQakY-8j7EPyhSMXyPsEZRxw_visual-16abb1d3b8e",
+		"description": "Find live scores, player & team news, videos, rumors, stats, standings, schedules & fantasy games on FOX Sports."
+	},
+	{
+		"feedId": "feed/http://www.sportsnet.ca/feed/",
+		"title": "Sportsnet.ca",
+		"website": "http://sportsnet.ca/feed/",
+		"iconUrl": "https://storage.googleapis.com/site-assets/N8kBizNAroPvyENASayzIksWCmENgcqu9nd2TMpPu_M_icon-16be00f7492",
+		"visualUrl": "https://storage.googleapis.com/site-assets/N8kBizNAroPvyENASayzIksWCmENgcqu9nd2TMpPu_M_visual-16be00f7492",
+		"description": "Sports News: World and National Sports Headlines, Score Updates, Highlights, Stats & Results"
+	},
+	{
+		"feedId": "feed/http://ftw.usatoday.com/feed/",
+		"title": "For The Win",
+		"website": "https://ftw.usatoday.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/w-0W9vO3pGUt9V6_m-hwt9HA1v4rwJ_9z4dyc0yfSuU_icon-167b62a6dfb",
+		"visualUrl": "https://storage.googleapis.com/site-assets/w-0W9vO3pGUt9V6_m-hwt9HA1v4rwJ_9z4dyc0yfSuU_visual-167b62a6dfb",
+		"description": "What fans are talking about."
+	},
+	{
+		"feedId": "feed/http://www.nytimes.com/services/xml/rss/nyt/Sports.xml",
+		"title": "NYT > Sports",
+		"website": "https://www.nytimes.com/section/sports?emc=rss&partner=rss",
+		"iconUrl": "https://storage.googleapis.com/site-assets/aB1bppwHDDWcyuNalmSQG9R09MkNIE7Tm97FDgjN2xU_icon-16aedf1d505",
+		"visualUrl": "https://storage.googleapis.com/site-assets/aB1bppwHDDWcyuNalmSQG9R09MkNIE7Tm97FDgjN2xU_visual-16aedf1d505",
+		"description": "Find breaking news & sports news on the NFL, the NBA, the NCAA, the NHL, baseball, golf, tennis, soccer, the World Series, Super Bowl, the Olympics and more."
+	},
+	{
+		"feedId": "feed/https://sports.vice.com/rss",
+		"title": "VICE US - Sports US",
+		"website": "https://www.vice.com/en_us/topic/sports",
+		"iconUrl": "https://storage.googleapis.com/site-assets/sNYQA9sXAnUAz5MGdNNvWiRf36SLVozjErxcyx_PtIM_icon-16a81d82eab",
+		"visualUrl": "https://storage.googleapis.com/site-assets/sNYQA9sXAnUAz5MGdNNvWiRf36SLVozjErxcyx_PtIM_visual-16a81d82eab",
+		"description": "RSS feed for https://www.vice.com/en_us/topic/sports"
+	},
+	{
+		"feedId": "feed/http://www.starsandstripesfc.com/rss/current",
+		"title": "Stars and Stripes FC -  All Posts",
+		"website": "https://www.starsandstripesfc.com/",
+		"iconUrl": "https://storage.googleapis.com/site-assets/3ezMiCINzELCxJFGwv3fgB6ekx6XMt8mCtgzgUi-6y8_icon-16beae1a68c",
+		"visualUrl": "https://storage.googleapis.com/site-assets/3ezMiCINzELCxJFGwv3fgB6ekx6XMt8mCtgzgUi-6y8_visual-16beae1a68c",
+		"description": "For all the latest news and opinion on the United States Men's and Women's National Soccer Teams"
+	},
+	{
+		"feedId": "feed/http://hardballtalk.nbcsports.com/feed/",
+		"title": "HardballTalk",
+		"website": "https://mlb.nbcsports.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/XK_I4UjE8lwgKgD3vqI_CUd6lWg8s7AawpDASFrJ1jA_sicon-16348e45092",
+		"visualUrl": "https://storage.googleapis.com/site-assets/XK_I4UjE8lwgKgD3vqI_CUd6lWg8s7AawpDASFrJ1jA_svisual-16348e45092",
+		"description": "Baseball. Baseball. And then a bit more baseball."
+	},
+	{
+		"feedId": "feed/http://basketball.realgm.com/rss/realgm_nba_wiretap.xml",
+		"title": "RealGM Basketball Wiretap",
+		"website": "https://basketball.realgm.com/news",
+		"iconUrl": "https://storage.googleapis.com/site-assets/Yr90M2MC9WEH1CISq42U8_Nuyun1G7LxHDpUwUbmsLM_icon-15cb04e3660",
+		"visualUrl": "https://storage.googleapis.com/site-assets/Yr90M2MC9WEH1CISq42U8_Nuyun1G7LxHDpUwUbmsLM_visual-15cb04e3660",
+		"description": "Basketball News, Rumors, Scores, Stats, Analysis, Depth Charts, Forums"
+	},
+	{
+		"feedId": "feed/http://probasketballtalk.nbcsports.com/feed/",
+		"title": "ProBasketballTalk",
+		"website": "https://nba.nbcsports.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/wokiM1stQAij_of8hVHbyUyki7ePldp__glNN8g9DPA_sicon-16348e46799",
+		"visualUrl": "https://storage.googleapis.com/site-assets/wokiM1stQAij_of8hVHbyUyki7ePldp__glNN8g9DPA_svisual-16348e46799",
+		"description": "Find the latest NBA basketball live scores, standings, news, schedules, rumors, fantasy updates, team and player stats and more from NBC Sports."
+	},
+	{
+		"feedId": "feed/http://feeds.washingtonpost.com/rss/rss_dc-sports-bog",
+		"title": "D.C. Sports Bog",
+		"website": "https://www.washingtonpost.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/49LdOWwVLtTCy0yJCQUuDBsaZuXwO0gcVoaiyqFWrgs_icon-1672bb53d91",
+		"visualUrl": "https://storage.googleapis.com/site-assets/49LdOWwVLtTCy0yJCQUuDBsaZuXwO0gcVoaiyqFWrgs_visual-1672bb53d91",
+		"description": "Breaking news and analysis on politics, business, world national news, entertainment more. In-depth DC, Virginia, Maryland news coverage including traffic, weather, crime, education, restaurant reviews and more."
+	},
+	{
+		"feedId": "feed/http://www.dcrainmaker.com/feeds/posts/default",
+		"title": "DC Rainmaker",
+		"website": "https://www.dcrainmaker.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/sClgG3m7WJZmFHEN9UWVMLcDEyv-mUa4seOSijvxg_g_icon-15b927045aa",
+		"visualUrl": "https://storage.googleapis.com/site-assets/sClgG3m7WJZmFHEN9UWVMLcDEyv-mUa4seOSijvxg_g_visual-15b927045aa",
+		"description": "window.newShareCountsAuto=\"smart\";"
+	},
+	{
+		"feedId": "feed/http://feeds2.feedburner.com/elevenwarriors",
+		"title": "Eleven Warriors",
+		"website": "https://www.elevenwarriors.com/rss.xml",
+		"iconUrl": "https://storage.googleapis.com/site-assets/_2F-IV3koOS-RbAHFFXd8StQOUrs330h3gLVow8pZ34_icon-1612e69b0ca",
+		"visualUrl": "https://storage.googleapis.com/site-assets/_2F-IV3koOS-RbAHFFXd8StQOUrs330h3gLVow8pZ34_visual-1612e69b0ca",
+		"description": "You're reading the 11W RSS feed. Get smart."
+	},
+	{
+		"feedId": "feed/http://www.101greatgoals.com/feed/",
+		"title": "Football (soccer) greatest goals and highlights | 101 Great Goals - Feed",
+		"website": "https://www.101greatgoals.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/YX4t968orZ5n0p4qq8mE_eKwi98FP9eaHxRFESUzNO0_icon-16b5a209c2d",
+		"visualUrl": "https://storage.googleapis.com/site-assets/YX4t968orZ5n0p4qq8mE_eKwi98FP9eaHxRFESUzNO0_visual-16b5a209c2d",
+		"description": "No matter where you are in the world, we allow you to stay up to date with all the latest goals from around the world. Have you seen the latest great goal?"
+	},
+	{
+		"feedId": "feed/http://www.zonalmarking.net/feed/",
+		"title": "Zonal Marking",
+		"website": "http://www.zonalmarking.net",
+		"iconUrl": "https://storage.googleapis.com/site-assets/3tu3cpyoIH1ppiUjhuyDsBxdsT7ZVXmaWA4o-KI6Boc_sicon-1668a7d1ced",
+		"visualUrl": "https://storage.googleapis.com/site-assets/3tu3cpyoIH1ppiUjhuyDsBxdsT7ZVXmaWA4o-KI6Boc_svisual-1668a7d1ced",
+		"description": "Zonal Marking - the book - is out now. Click the book cover below-right for the Amazon link."
+	},
+	{
+		"feedId": "feed/http://www.profootballfocus.com/feed/",
+		"title": "Pro Football Focus",
+		"website": "http://www.pff.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/pzWlRQ-0cIQVjnI8weFzOwJgAZo7SMAnXz2QjnG8Zzg_icon-16bea80219c",
+		"visualUrl": "https://storage.googleapis.com/site-assets/pzWlRQ-0cIQVjnI8weFzOwJgAZo7SMAnXz2QjnG8Zzg_visual-16bea80219c",
+		"description": "\"Information about football you simply can't get anywhere else\""
+	},
+	{
+		"feedId": "feed/http://www.burntorangenation.com/rss2/index.xml",
+		"title": "Burnt Orange Nation -  All Posts",
+		"website": "https://www.burntorangenation.com/",
+		"iconUrl": "https://storage.googleapis.com/site-assets/fK_wa-zmHQOTtBRWrifzxZIMchXZhj-xcmPC9pcWm6Y_icon-16753ba74ba",
+		"visualUrl": "https://storage.googleapis.com/site-assets/fK_wa-zmHQOTtBRWrifzxZIMchXZhj-xcmPC9pcWm6Y_visual-16753ba74ba",
+		"description": "Your best source for quality Texas Longhorns news, rumors, analysis, stats and scores from the fan perspective."
+	},
+	{
+		"feedId": "feed/http://www.dailymail.co.uk/sport/football/index.rss",
+		"title": "Football | Mail Online",
+		"website": "https://www.dailymail.co.uk?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+		"iconUrl": "https://storage.googleapis.com/site-assets/ozb8H8C8o86j1GjZy742Q0txxDlW0D5b7OCEE1PzPO0_sicon-16768cc40c4",
+		"visualUrl": "https://storage.googleapis.com/site-assets/ozb8H8C8o86j1GjZy742Q0txxDlW0D5b7OCEE1PzPO0_svisual-16768cc40c4",
+		"description": "Read about football news including transfers, results and headlines. Sign up for MailOnline newsletters to get breaking news delivered to your inbox."
+	},
+	{
+		"feedId": "feed/http://www.overthemonster.com/rss2/index.xml",
+		"title": "Over the Monster -  All Posts",
+		"website": "https://www.overthemonster.com/",
+		"iconUrl": "https://storage.googleapis.com/site-assets/wSdJx7lR27ySaqQ7M7MwmMmP2uTB4C-woWDw4fB7Hl0_icon-15ccea0ef27",
+		"visualUrl": "https://storage.googleapis.com/site-assets/wSdJx7lR27ySaqQ7M7MwmMmP2uTB4C-woWDw4fB7Hl0_visual-15ccea0ef27",
+		"description": "Your best source for quality Boston Red Sox news, rumors, analysis, stats and scores from the fan perspective."
+	},
+	{
+		"feedId": "feed/http://www.pinstripedbible.com/rss/current",
+		"title": "Pinstripe Alley -  All Posts",
+		"website": "https://www.pinstripealley.com/",
+		"iconUrl": "https://storage.googleapis.com/site-assets/KFLFqhoHWN3ekEZNW4IbWsjAmdSUdCPQ6RUot1vyxiA_icon-15e1e4b225f",
+		"visualUrl": "https://storage.googleapis.com/site-assets/KFLFqhoHWN3ekEZNW4IbWsjAmdSUdCPQ6RUot1vyxiA_visual-15e1e4b225f",
+		"description": "Your best source for quality New York Yankees news, rumors, analysis, stats and scores from the fan perspective."
+	},
+	{
+		"feedId": "feed/http://www.celticsblog.com/atom/",
+		"title": "CelticsBlog -  All Posts",
+		"website": "https://www.celticsblog.com/",
+		"iconUrl": "https://storage.googleapis.com/site-assets/ljGes3eLx8ifRWGbGMTmLu6jtO6mofYzE_vsrP-Cubs_icon-15cb04f4723",
+		"visualUrl": "https://storage.googleapis.com/site-assets/ljGes3eLx8ifRWGbGMTmLu6jtO6mofYzE_vsrP-Cubs_visual-15cb04f4723",
+		"description": "A Boston Celtics Blog: 17 Banners and Counting"
+	},
+	{
+		"feedId": "feed/http://www.mmafighting.com/rss.xml",
+		"title": "MMA Fighting -  All Posts",
+		"website": "https://www.mmafighting.com/",
+		"iconUrl": "https://storage.googleapis.com/site-assets/pLLo3e0S8rs6BeLwYvdwqledRaWQGm0MR4gOTxJPmhM_icon-15cc11f27fc",
+		"visualUrl": "https://storage.googleapis.com/site-assets/pLLo3e0S8rs6BeLwYvdwqledRaWQGm0MR4gOTxJPmhM_visual-15cc11f27fc",
+		"description": "MMA News & results for the Ultimate Fighting Championship (UFC), Strikeforce & more Mixed Martial Arts fights"
+	},
+	{
+		"feedId": "feed/http://feeds.feedburner.com/arseblog",
+		"title": "Arseblog - the Arsecasts, Arsenal podcasts",
+		"website": "http://feeds.feedburner.com/arseblog.com",
+		"iconUrl": "",
+		"visualUrl": "",
+		"description": "The original Arsenal podcast - coming to you twice a week (Mondays and Fridays) with news, interviews, analysis, special guests, jokes and occasionally some really terrible songs."
+	},
+	{
+		"feedId": "feed/http://www.bleedcubbieblue.com/atom/",
+		"title": "Bleed Cubbie Blue -  All Posts",
+		"website": "https://www.bleedcubbieblue.com/",
+		"iconUrl": "https://storage.googleapis.com/site-assets/PqRl1tNj_UcZJOqhVDIAJQC9cTvlgGzAowVDbG5xI4E_icon-15e27c71276",
+		"visualUrl": "https://storage.googleapis.com/site-assets/PqRl1tNj_UcZJOqhVDIAJQC9cTvlgGzAowVDbG5xI4E_visual-15e27c71276",
+		"description": "A Chicago Cubs Fan Community Since February 9, 2005"
+	},
+	{
+		"feedId": "feed/http://kentuckysportsradio.com/?feed=rss2",
+		"title": "Kentucky Sports Radio",
+		"website": "http://kentuckysportsradio.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/70FaRJoWAkQ7hPWo0KQSistbcUAq0PMSvxWBzoUSXV0_icon-16d9cada14e",
+		"visualUrl": "https://storage.googleapis.com/site-assets/70FaRJoWAkQ7hPWo0KQSistbcUAq0PMSvxWBzoUSXV0_visual-16d9cada14e",
+		"description": "University of Kentucky Basketball, Football, and Recruiting news brought to you in the most ridiculous manner possible."
+	},
+	{
+		"feedId": "feed/http://www.nesn.com/boston-red-sox.xml",
+		"title": "Boston Red Sox – NESN.com",
+		"website": "https://nesn.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/iCxVfZL_NpbnCdyfwiaz3_UZ1DZ4_bNE_-0Sbpstjtc_icon-16d7060bac4",
+		"visualUrl": "https://storage.googleapis.com/site-assets/iCxVfZL_NpbnCdyfwiaz3_UZ1DZ4_bNE_-0Sbpstjtc_visual-16d7060bac4",
+		"description": "Sports News | Red Sox, Bruins, Patriots, Celtics"
+	},
+	{
+		"feedId": "feed/http://www.thegoodphight.com/atom/",
+		"title": "The Good Phight -  All Posts",
+		"website": "https://www.thegoodphight.com/",
+		"iconUrl": "https://storage.googleapis.com/site-assets/IOXA_87-dIP9ltGPAhtjgIqnf-DO6zvTbUtaSLx1rA4_icon-16bc44a897d",
+		"visualUrl": "https://storage.googleapis.com/site-assets/IOXA_87-dIP9ltGPAhtjgIqnf-DO6zvTbUtaSLx1rA4_visual-16bc44a897d",
+		"description": "Your best source for quality Philadelphia Phillies news, rumors, analysis, stats and scores from the fan perspective."
+	},
+	{
+		"feedId": "feed/http://www.blazersedge.com/rss/current",
+		"title": "Blazer's Edge -  All Posts",
+		"website": "https://www.blazersedge.com/",
+		"iconUrl": "https://storage.googleapis.com/site-assets/pIP8K3gzG5n5pHwxP72xHnUWGgso3no6JzJzJBtrmaU_icon-15cb04fd361",
+		"visualUrl": "https://storage.googleapis.com/site-assets/pIP8K3gzG5n5pHwxP72xHnUWGgso3no6JzJzJBtrmaU_visual-15cb04fd361",
+		"description": "The ultimate coverage and analysis of the Portland Trail Blazers"
+	},
+	{
+		"feedId": "feed/http://www.autosport.com/rss/f1news.xml",
+		"title": "Formula 1 news - Autosport",
+		"website": "https://www.autosport.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/CII9OumL78Dx8JleTt6eAnmAGfhqbJMQfnkqIYOOIK4_icon-15def213d0b",
+		"visualUrl": "https://storage.googleapis.com/site-assets/CII9OumL78Dx8JleTt6eAnmAGfhqbJMQfnkqIYOOIK4_visual-15def213d0b",
+		"description": "Stay up to date with the latest Formula 1 news from Autosport."
+	},
+	{
+		"feedId": "feed/http://aol.sportingnews.com/rss",
+		"title": "Sporting News RSS",
+		"website": "http://www.sportingnews.com/us/rss",
+		"iconUrl": "https://storage.googleapis.com/site-assets/lOWlm7UgkAhpjNcG2UFR5qlGxgZg6pDhNP9oY9SOsMQ_icon-164bbde0abd",
+		"visualUrl": "https://storage.googleapis.com/site-assets/lOWlm7UgkAhpjNcG2UFR5qlGxgZg6pDhNP9oY9SOsMQ_visual-164bbde0abd",
+		"description": "The latest news, videos, scores and more on the biggest sports, including NFL, NBA, MLB, NCAA, NASCAR and more with Sporting News"
+	},
+	{
+		"feedId": "feed/http://www.postingandtoasting.com/atom/",
+		"title": "Posting and Toasting -  All Posts",
+		"website": "https://www.postingandtoasting.com/",
+		"iconUrl": "https://storage.googleapis.com/site-assets/0ewTs-4JkosW0VqyGwIuerp3XJcx6tLafJMoaKwmqAo_icon-15cb0510537",
+		"visualUrl": "https://storage.googleapis.com/site-assets/0ewTs-4JkosW0VqyGwIuerp3XJcx6tLafJMoaKwmqAo_visual-15cb0510537",
+		"description": "Your best source for quality New York Knicks news, rumors, analysis, stats and scores from the fan perspective."
+	},
+	{
+		"feedId": "feed/http://www.patspulpit.com/atom/",
+		"title": "Pats Pulpit -  All Posts",
+		"website": "https://www.patspulpit.com/",
+		"iconUrl": "https://storage.googleapis.com/site-assets/O7nktZYgfgDIS0twdVGzkjOy4vghaVphnt3gUpYR71A_icon-16814ba7cc3",
+		"visualUrl": "https://storage.googleapis.com/site-assets/O7nktZYgfgDIS0twdVGzkjOy4vghaVphnt3gUpYR71A_visual-16814ba7cc3",
+		"description": "Pats Pulpit: A New England Patriots Community"
+	},
+	{
+		"feedId": "feed/https://theundefeated.com/sports/feed/",
+		"title": "Sports: News and Commentary — The Undefeated",
+		"website": "https://theundefeated.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/fO8YJGjhDdDLuReMfhOa25IsxoyLcqo09KXWT1MquFE_icon-1694cfd4521",
+		"visualUrl": "https://storage.googleapis.com/site-assets/fO8YJGjhDdDLuReMfhOa25IsxoyLcqo09KXWT1MquFE_visual-1694cfd4521",
+		"description": "Visit The Undefeated to get news and commentary that explores the intersections of race, sports, culture and more."
+	},
+	{
+		"feedId": "feed/http://www.libertyballers.com/atom/",
+		"title": "Liberty Ballers -  All Posts",
+		"website": "https://www.libertyballers.com/",
+		"iconUrl": "https://storage.googleapis.com/site-assets/ni0p53FOMjll10Tf1-FAaQWS9D6xKR0l_eGUrbedjZk_icon-15cb51489e5",
+		"visualUrl": "https://storage.googleapis.com/site-assets/ni0p53FOMjll10Tf1-FAaQWS9D6xKR0l_eGUrbedjZk_visual-15cb51489e5",
+		"description": "Honestly have no idea what we’re arguing about anymore."
+	},
+	{
+		"feedId": "feed/http://feeds.feedburner.com/CrossingBroad",
+		"title": "Crossing Broad",
+		"website": "https://www.crossingbroad.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/2UZv8WqggtI_6vwTyz6f9OXg2WSpolWlaNHl6bmaWlM_icon-165d1f0f615",
+		"visualUrl": "https://storage.googleapis.com/site-assets/2UZv8WqggtI_6vwTyz6f9OXg2WSpolWlaNHl6bmaWlM_visual-165d1f0f615",
+		"description": "Philly's most irreverent sports blog, covering the Phillies, Eagles, Flyers and Sixers, as well as updates on sports betting sites, odds, line movement and more."
+	},
+	{
+		"feedId": "feed/http://www.behindthesteelcurtain.com/atom/",
+		"title": "Behind the Steel Curtain -  All Posts",
+		"website": "https://www.behindthesteelcurtain.com/",
+		"iconUrl": "https://storage.googleapis.com/site-assets/zk9bg6IPDbaWdEMDu2mBzs1j_bx-fpqorizUMNFl5QM_icon-15cba25f552",
+		"visualUrl": "https://storage.googleapis.com/site-assets/zk9bg6IPDbaWdEMDu2mBzs1j_bx-fpqorizUMNFl5QM_visual-15cba25f552",
+		"description": "A level-headed news-discussion site with a sense of history and community"
+	},
+	{
+		"feedId": "feed/http://www.silverscreenandroll.com/atom/",
+		"title": "Silver Screen and Roll -  All Posts",
+		"website": "https://www.silverscreenandroll.com/",
+		"iconUrl": "https://storage.googleapis.com/site-assets/EyZjv5dqXTdjmknKp35mux7QmQPUYo-IAJs5SDFI-K8_icon-16bc44a9968",
+		"visualUrl": "https://storage.googleapis.com/site-assets/EyZjv5dqXTdjmknKp35mux7QmQPUYo-IAJs5SDFI-K8_visual-16bc44a9968",
+		"description": "A Blog devoted to Lakers News, Commentary, and Analysis"
+	},
+	{
+		"feedId": "feed/http://www.lakersnation.com/feed/",
+		"title": "Lakers Nation",
+		"website": "https://www.lakersnation.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/5B6rjyzRMlLSjMy6OMrt7Is4rUXpxZgHzNxysBriJhQ_icon-1693921d6a6",
+		"visualUrl": "https://storage.googleapis.com/site-assets/5B6rjyzRMlLSjMy6OMrt7Is4rUXpxZgHzNxysBriJhQ_visual-1693921d6a6",
+		"description": "Lakers News, Rumors, Videos, Schedule, Roster, Salaries And More."
+	},
+	{
+		"feedId": "feed/http://larrybrownsports.com/feed",
+		"title": "Larry Brown Sports",
+		"website": "https://larrybrownsports.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/GF8yjZac6lr-JxZkl1opmmO4eglaGZ9Dz2EbeNxuPfw_icon-1686c486e42",
+		"visualUrl": "https://storage.googleapis.com/site-assets/GF8yjZac6lr-JxZkl1opmmO4eglaGZ9Dz2EbeNxuPfw_visual-1686c486e42",
+		"description": "Brown Bag it, Baby"
+	},
+	{
+		"feedId": "feed/http://ussmariner.com/feed/",
+		"title": "U.S.S. Mariner",
+		"website": "http://www.ussmariner.com",
+		"iconUrl": "http://storage.googleapis.com/site-assets/oDBoo_NBES4o1gzdv2hO_ZCBsZQ-KFGWhNpfNhz_MJY_sicon-15413965e2c",
+		"visualUrl": "http://storage.googleapis.com/site-assets/oDBoo_NBES4o1gzdv2hO_ZCBsZQ-KFGWhNpfNhz_MJY_svisual-15413965e2c",
+		"description": "Seattle Mariners blog and general baseball discussion"
+	},
+	{
+		"feedId": "feed/http://www.dailynorseman.com/atom/",
+		"title": "Daily Norseman -  All Posts",
+		"website": "https://www.dailynorseman.com/",
+		"iconUrl": "https://storage.googleapis.com/site-assets/-AX9BSINfdvALgM0ue5MSYSPtXnRznkj0lgOO8ZiIMg_icon-15cba273431",
+		"visualUrl": "https://storage.googleapis.com/site-assets/-AX9BSINfdvALgM0ue5MSYSPtXnRznkj0lgOO8ZiIMg_visual-15cba273431",
+		"description": "Your best source for quality Minnesota Vikings news, rumors, analysis, stats and scores from the fan perspective."
+	},
+	{
+		"feedId": "feed/http://www.athleticsnation.com/atom/",
+		"title": "Athletics Nation -  All Posts",
+		"website": "https://www.athleticsnation.com/",
+		"iconUrl": "https://storage.googleapis.com/site-assets/5WBSz_FZqYY5-77_UsQSXgUf8Y64d87pYdHWbhnyvu8_icon-15cb04fc12f",
+		"visualUrl": "https://storage.googleapis.com/site-assets/5WBSz_FZqYY5-77_UsQSXgUf8Y64d87pYdHWbhnyvu8_visual-15cb04fc12f",
+		"description": "An SB Nation blog for Oakland Athletics fans"
+	},
+	{
+		"feedId": "feed/https://www.youtube.com/feeds/videos.xml?channel_id=UCA1LlVRSsTp8jflTNL8pO9A",
+		"title": "The Players' Tribune",
+		"website": "https://www.youtube.com/channel/UCA1LlVRSsTp8jflTNL8pO9A",
+		"iconUrl": "https://storage.googleapis.com/site-assets/z0vidpMYlXcxkHqsSNxiAjof_d_3e_VPPnKlzieafFA_sicon-168994bfc8c",
+		"visualUrl": "https://storage.googleapis.com/site-assets/z0vidpMYlXcxkHqsSNxiAjof_d_3e_VPPnKlzieafFA_svisual-168994bfc8c",
+		"description": "The Players’ Tribune (TPT) is a first-of-its-kind content platform that connects athletes with fans through the power of storytelling. By giving athletes the..."
+	},
+	{
+		"feedId": "feed/http://www.sounderatheart.com/atom/",
+		"title": "Sounder At Heart -  All Posts",
+		"website": "https://www.sounderatheart.com/",
+		"iconUrl": "https://storage.googleapis.com/site-assets/K2bd3cOu04TD8C5bdt9QCkXkifWAZjICFepVi83ENF0_icon-16a5a800f5e",
+		"visualUrl": "https://storage.googleapis.com/site-assets/K2bd3cOu04TD8C5bdt9QCkXkifWAZjICFepVi83ENF0_visual-16a5a800f5e",
+		"description": "Your best source for quality Seattle Sounders news, rumors, analysis, stats and scores from the fan perspective."
+	},
+	{
+		"feedId": "feed/http://www.bruinsnation.com/atom/",
+		"title": "Bruins Nation -  All Posts",
+		"website": "https://www.bruinsnation.com/",
+		"iconUrl": "https://storage.googleapis.com/site-assets/mJUoKp7VKuhQt64COFXVpttmC9wh29uwXA_1Kapo8V0_icon-15cc97e5932",
+		"visualUrl": "https://storage.googleapis.com/site-assets/mJUoKp7VKuhQt64COFXVpttmC9wh29uwXA_1Kapo8V0_visual-15cc97e5932",
+		"description": "Blog Of The Bruins, By The Bruins, For The Bruins"
+	},
+	{
+		"feedId": "feed/http://sports.espn.go.com/espn/rss/nfl/news",
+		"title": "www.espn.com - NFL",
+		"website": "http://www.espn.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/6yAn0dF9x-9NuCCTbrWcELeEq0N7aX7ExzysoxCAAMg_sicon-167045e867a",
+		"visualUrl": "https://storage.googleapis.com/site-assets/6yAn0dF9x-9NuCCTbrWcELeEq0N7aX7ExzysoxCAAMg_svisual-167045e867a",
+		"description": "Visit ESPN to get up-to-the-minute sports news coverage, scores, highlights and commentary for NFL, MLB, NBA, College Football, NCAA Basketball and more."
+	},
+	{
+		"feedId": "feed/http://sports.espn.go.com/espn/rss/nba/news",
+		"title": "www.espn.com - NBA",
+		"website": "http://www.espn.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/y5Cu4nAI-ILrtArdtzEj0vYCnDLd6ZHoZaWifIVVeUo_sicon-167045f0ceb",
+		"visualUrl": "https://storage.googleapis.com/site-assets/y5Cu4nAI-ILrtArdtzEj0vYCnDLd6ZHoZaWifIVVeUo_svisual-167045f0ceb",
+		"description": "Visit ESPN to get up-to-the-minute sports news coverage, scores, highlights and commentary for NFL, MLB, NBA, College Football, NCAA Basketball and more."
+	},
+	{
+		"feedId": "feed/http://newsrss.bbc.co.uk/rss/sportonline_uk_edition/football/rss.xml",
+		"title": "BBC Sport - Football",
+		"website": "http://www.bbc.co.uk/sport/",
+		"iconUrl": "https://storage.googleapis.com/site-assets/Za12MmiX8crNTNr0mSFagmJ-aoLgoVUO2bBdedIHAUM_icon-166ccd7644e",
+		"visualUrl": "https://storage.googleapis.com/site-assets/Za12MmiX8crNTNr0mSFagmJ-aoLgoVUO2bBdedIHAUM_visual-166ccd7644e",
+		"description": "Breaking news & live sports coverage including results, video, audio and analysis on Football, F1, Cricket, Rugby Union, Rugby League, Golf, Tennis and all the main world sports, plus major events such as the Olympic Games."
+	},
+	{
+		"feedId": "feed/http://sports.espn.go.com/espn/rss/ncf/news",
+		"title": "www.espn.com - NCF",
+		"website": "http://www.espn.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/n6pfQZ3QkBMdZNL7hx5Kc-nmJFHqvACqfUE_pcuulVM_sicon-163204f1efd",
+		"visualUrl": "https://storage.googleapis.com/site-assets/n6pfQZ3QkBMdZNL7hx5Kc-nmJFHqvACqfUE_pcuulVM_svisual-163204f1efd",
+		"description": "Visit ESPN to get up-to-the-minute sports news coverage, scores, highlights and commentary for NFL, MLB, NBA, College Football, NCAA Basketball and more."
+	},
+	{
+		"feedId": "feed/http://sports.espn.go.com/espn/rss/mlb/news",
+		"title": "www.espn.com - MLB",
+		"website": "http://www.espn.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/huKRkP12s5RBTYeZidXv4Ujc7vo4FfFZVzyX_BAy3ws_sicon-163204f0414",
+		"visualUrl": "https://storage.googleapis.com/site-assets/huKRkP12s5RBTYeZidXv4Ujc7vo4FfFZVzyX_BAy3ws_svisual-163204f0414",
+		"description": "Visit ESPN to get up-to-the-minute sports news coverage, scores, highlights and commentary for NFL, MLB, NBA, College Football, NCAA Basketball and more."
+	},
+	{
+		"feedId": "feed/http://bleacherreport.com/articles/feed?tag_id=19",
+		"title": "Bleacher Report - NBA",
+		"website": "https://bleacherreport.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/iQbLVwlS3NeR7EXSKmt6EDnpwn-r2Lb_xC_yqKrBKos_sicon-163ba41945a",
+		"visualUrl": "https://storage.googleapis.com/site-assets/iQbLVwlS3NeR7EXSKmt6EDnpwn-r2Lb_xC_yqKrBKos_svisual-163ba41945a",
+		"description": "Bleacher Report - The latest articles about sports news, rumors, teams, events, and more."
+	},
+	{
+		"feedId": "feed/http://sports.espn.go.com/espn/rss/nhl/news",
+		"title": "www.espn.com - NHL",
+		"website": "http://www.espn.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/7cBnRJmj2gGD66oMywKWAYUDx9RBvCl-k9U8f89fFY0_sicon-163204f2694",
+		"visualUrl": "https://storage.googleapis.com/site-assets/7cBnRJmj2gGD66oMywKWAYUDx9RBvCl-k9U8f89fFY0_svisual-163204f2694",
+		"description": "Visit ESPN to get up-to-the-minute sports news coverage, scores, highlights and commentary for NFL, MLB, NBA, College Football, NCAA Basketball and more."
+	},
+	{
+		"feedId": "feed/http://sports.espn.go.com/espn/rss/ncb/news",
+		"title": "www.espn.com - NCB",
+		"website": "http://www.espn.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/SGEglHNQvOF6IoPKLv9Qm5fMMKs0QpiMHVs_Y-5GF_U_sicon-163204f2e63",
+		"visualUrl": "https://storage.googleapis.com/site-assets/SGEglHNQvOF6IoPKLv9Qm5fMMKs0QpiMHVs_Y-5GF_U_svisual-163204f2e63",
+		"description": "Visit ESPN to get up-to-the-minute sports news coverage, scores, highlights and commentary for NFL, MLB, NBA, College Football, NCAA Basketball and more."
+	},
+	{
+		"feedId": "feed/http://bleacherreport.com/articles/feed?tag_id=16",
+		"title": "Bleacher Report - NFL",
+		"website": "https://bleacherreport.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/cyUvL2-AnHDNU1_4ZOmOcZt9LC2aOJK6md62yMvkR0U_sicon-163ba4295fa",
+		"visualUrl": "https://storage.googleapis.com/site-assets/cyUvL2-AnHDNU1_4ZOmOcZt9LC2aOJK6md62yMvkR0U_svisual-163ba4295fa",
+		"description": "Bleacher Report - The latest articles about sports news, rumors, teams, events, and more."
+	},
+	{
+		"feedId": "feed/http://sports.yahoo.com/nfl/rss.xml",
+		"title": "NFL on Yahoo! Sports - News, Scores, Standings, Rumors, Fantasy Games",
+		"website": "https://sports.yahoo.com/nfl/",
+		"iconUrl": "https://storage.googleapis.com/site-assets/9Xon35arehSIghYScMjsHoLgoK1GVdxN_2vnRs7YOFg_sicon-16d65f14df0",
+		"visualUrl": "https://storage.googleapis.com/site-assets/9Xon35arehSIghYScMjsHoLgoK1GVdxN_2vnRs7YOFg_svisual-16d65f14df0",
+		"description": "Comprehensive National Football League news, scores, standings, fantasy games, rumors, and more"
+	},
+	{
+		"feedId": "feed/http://newsrss.bbc.co.uk/rss/sportonline_world_edition/motorsport/formula_one/rss.xml",
+		"title": "BBC Sport - Formula 1",
+		"website": "http://www.bbc.co.uk/sport/",
+		"iconUrl": "https://storage.googleapis.com/site-assets/q8qkYzKzDw2LkQlPloZD06eLnFf4MqMKHvuOBgVy28Y_icon-166ccd76a72",
+		"visualUrl": "https://storage.googleapis.com/site-assets/q8qkYzKzDw2LkQlPloZD06eLnFf4MqMKHvuOBgVy28Y_visual-166ccd76a72",
+		"description": "Breaking news & live sports coverage including results, video, audio and analysis on Football, F1, Cricket, Rugby Union, Rugby League, Golf, Tennis and all the main world sports, plus major events such as the Olympic Games."
+	},
+	{
+		"feedId": "feed/http://sports.yahoo.com/nfl/blog/shutdown_corner/rss.xml",
+		"title": "Yahoo Sports NFL",
+		"website": "https://sports.yahoo.com/nfl/experts/",
+		"iconUrl": "https://storage.googleapis.com/site-assets/Paj_iy9SWMEj3wC4ahw_gmOzPSaX9honzN0Ykdnu5v4_sicon-16d66960bb2",
+		"visualUrl": "https://storage.googleapis.com/site-assets/Paj_iy9SWMEj3wC4ahw_gmOzPSaX9honzN0Ykdnu5v4_svisual-16d66960bb2",
+		"description": "NFL Blog: Shutdown Corner"
+	},
+	{
+		"feedId": "feed/http://sports.yahoo.com/nba/rss.xml",
+		"title": "NBA Basketball News, Scores, Standings, Rumors, Fantasy Games",
+		"website": "https://sports.yahoo.com/nba/",
+		"iconUrl": "https://storage.googleapis.com/site-assets/yHw75jYiQ1QRYp6epIhZAc1qmaXcd1DOJ-NDpYg-zyI_sicon-16d673b6782",
+		"visualUrl": "https://storage.googleapis.com/site-assets/yHw75jYiQ1QRYp6epIhZAc1qmaXcd1DOJ-NDpYg-zyI_svisual-16d673b6782",
+		"description": "Comprehensive National Basketball Association news, scores, standings, fantasy games, rumors..."
+	},
+	{
+		"feedId": "feed/http://espn.go.com/blog/feed?blog=bostonnew-england-patriots",
+		"title": "www.espn.com - New England Patriots",
+		"website": "http://www.espn.com/blog/boston/new-england-patriots",
+		"iconUrl": "https://storage.googleapis.com/site-assets/qhohUHVGmxPo555bS6MQln_foGtJRlF6c0iOfCVKjZk_sicon-163204f6133",
+		"visualUrl": "https://storage.googleapis.com/site-assets/qhohUHVGmxPo555bS6MQln_foGtJRlF6c0iOfCVKjZk_svisual-163204f6133",
+		"description": "www.espn.com presents www.espn.com - New England Patriots"
+	},
+	{
+		"feedId": "feed/http://news.bbc.co.uk/rss/sportonline_world_edition/tennis/rss091.xml",
+		"title": "BBC Sport - Tennis",
+		"website": "http://www.bbc.co.uk/sport/",
+		"iconUrl": "https://storage.googleapis.com/site-assets/tYlbo5NhP3NiPAumYNm0e5YVS1EDsRyTHPvKH_2gkiA_icon-166ccd7707f",
+		"visualUrl": "https://storage.googleapis.com/site-assets/tYlbo5NhP3NiPAumYNm0e5YVS1EDsRyTHPvKH_2gkiA_visual-166ccd7707f",
+		"description": "Breaking news & live sports coverage including results, video, audio and analysis on Football, F1, Cricket, Rugby Union, Rugby League, Golf, Tennis and all the main world sports, plus major events such as the Olympic Games."
+	},
+	{
+		"feedId": "feed/http://feeds.guardian.co.uk/theguardian/sport/rss",
+		"title": "Sport | The Guardian",
+		"website": "https://www.theguardian.com/us/sport",
+		"iconUrl": "https://storage.googleapis.com/site-assets/4L6r6zQW2NAwpzMtW3Wf8_J3d9L5n1oVRnIhSS6yaps_icon-16d535a8e7e",
+		"visualUrl": "https://storage.googleapis.com/site-assets/4L6r6zQW2NAwpzMtW3Wf8_J3d9L5n1oVRnIhSS6yaps_visual-16d535a8e7e",
+		"description": "Sports news, scores, blogs and opinion on US and world sports from the Guardian, the world's leading liberal voice"
+	},
+	{
+		"feedId": "feed/https://www.theringer.com/rss/nfl/index.xml",
+		"title": "The Ringer -  NFL",
+		"website": "https://www.theringer.com/nfl",
+		"iconUrl": "https://storage.googleapis.com/site-assets/5oCnk5FwCnSfxhClV1T2ZJz-dvbR8DWHzbGcoVgpGEg_icon-16d27d338cf",
+		"visualUrl": "https://storage.googleapis.com/site-assets/5oCnk5FwCnSfxhClV1T2ZJz-dvbR8DWHzbGcoVgpGEg_visual-16d27d338cf",
+		"description": "NFL on The Ringer"
+	},
+	{
+		"feedId": "feed/http://newsrss.bbc.co.uk/rss/sportonline_uk_edition/rugby_union/rss.xml",
+		"title": "BBC Sport - Rugby Union",
+		"website": "http://www.bbc.co.uk/sport/",
+		"iconUrl": "https://storage.googleapis.com/site-assets/BSCKQ6muMPn5_Phna6fwqhJQ084ZyQdM-yO1G2TmswE_icon-166ccd77675",
+		"visualUrl": "https://storage.googleapis.com/site-assets/BSCKQ6muMPn5_Phna6fwqhJQ084ZyQdM-yO1G2TmswE_visual-166ccd77675",
+		"description": "Breaking news & live sports coverage including results, video, audio and analysis on Football, F1, Cricket, Rugby Union, Rugby League, Golf, Tennis and all the main world sports, plus major events such as the Olympic Games."
+	}
+]

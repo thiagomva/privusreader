@@ -1,0 +1,666 @@
+[
+	{
+		"feedId": "feed/http://pitchfork.com/rss/news/",
+		"title": "Pitchfork",
+		"website": "https://pitchfork.com/",
+		"iconUrl": "https://storage.googleapis.com/site-assets/54Rfx1U7N7Tf4rAoTdPNlzk27qEqAQNv-kYTXRzKvuw_icon-16b3a895857",
+		"visualUrl": "https://storage.googleapis.com/site-assets/54Rfx1U7N7Tf4rAoTdPNlzk27qEqAQNv-kYTXRzKvuw_visual-16b3a895857",
+		"description": "The most trusted voice in music."
+	},
+	{
+		"feedId": "feed/http://feeds.feedburner.com/stereogum/cBYa",
+		"title": "Stereogum",
+		"website": "https://www.stereogum.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/SDTAZhjMxzmttTVLJ0kGKYgyxTCKGf0ugpL9h6gJiQ0_icon-15e7a10e8b0",
+		"visualUrl": "https://storage.googleapis.com/site-assets/SDTAZhjMxzmttTVLJ0kGKYgyxTCKGf0ugpL9h6gJiQ0_visual-15e7a10e8b0",
+		"description": "The original new music blog."
+	},
+	{
+		"feedId": "feed/http://consequenceofsound.net/feed/",
+		"title": "Consequence of Sound",
+		"website": "https://consequenceofsound.net",
+		"iconUrl": "https://storage.googleapis.com/site-assets/3kHdKdvRjDwYaDkZKPi_PQfZudlsDqSKhZORynk8eQs_icon-16ae8d037df",
+		"visualUrl": "https://storage.googleapis.com/site-assets/3kHdKdvRjDwYaDkZKPi_PQfZudlsDqSKhZORynk8eQs_visual-16ae8d037df",
+		"description": "Consequence of Sound is your source for breaking news about music, film, and TV, plus daily reviews, exclusive interviews, original videos, and more."
+	},
+	{
+		"feedId": "feed/http://www.npr.org/rss/rss.php?id=1039",
+		"title": "NPR - Music",
+		"website": "https://www.npr.org/templates/story/story.php?storyId=1039",
+		"iconUrl": "https://storage.googleapis.com/site-assets/xIufq2kFWs6qy_SsbJf_NIwr_pU6NaHIwkFes2-kHUw_icon-16cd525787a",
+		"visualUrl": "https://storage.googleapis.com/site-assets/xIufq2kFWs6qy_SsbJf_NIwr_pU6NaHIwkFes2-kHUw_visual-16cd525787a",
+		"description": "NPR Music features, streams, live concerts and music news."
+	},
+	{
+		"feedId": "feed/http://newalbumreleases.net/feed/",
+		"title": "New Album Releases",
+		"website": "http://newalbumreleases.net",
+		"iconUrl": "https://storage.googleapis.com/site-assets/xODXKy7lVP4zZAJdq4C_nrB0PqxLhouJ5kxDBFzGi_I_sicon-16da5068216",
+		"visualUrl": "https://storage.googleapis.com/site-assets/xODXKy7lVP4zZAJdq4C_nrB0PqxLhouJ5kxDBFzGi_I_svisual-16da5068216",
+		"description": "New Album Releases - download full albums, daily updates!"
+	},
+	{
+		"feedId": "feed/http://www.brooklynvegan.com/atom.xml",
+		"title": "BrooklynVegan",
+		"website": "http://www.brooklynvegan.com",
+		"iconUrl": "http://storage.googleapis.com/site-assets/SJyLibhuU1xZJAL6mvwrh6VjpnXfbuSKnG8_fQPtkU4_icon-15415bf52dd",
+		"visualUrl": "http://storage.googleapis.com/site-assets/SJyLibhuU1xZJAL6mvwrh6VjpnXfbuSKnG8_fQPtkU4_visual-15415bf52dd",
+		"description": "A music blog."
+	},
+	{
+		"feedId": "feed/http://www.factmag.com/feed/",
+		"title": "FACT Magazine",
+		"website": "https://www.factmag.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/Gv4ia0MGTIaAncAJALLdbYGIU-EoijQswY27jktmRXo_icon-16d67ea0305",
+		"visualUrl": "https://storage.googleapis.com/site-assets/Gv4ia0MGTIaAncAJALLdbYGIU-EoijQswY27jktmRXo_visual-16d67ea0305",
+		"description": "The world's most on-it music blog and magazine, home of the weekly FACT mix series and FACT TV."
+	},
+	{
+		"feedId": "feed/http://feeds.feedburner.com/TheFaderMagazine",
+		"title": "The FADER",
+		"website": "https://www.thefader.com/",
+		"iconUrl": "https://storage.googleapis.com/site-assets/Ufqsh3I-5UCWAH0CSB7LEO5auCkcdUEu1TLOmRWX3V0_icon-1651da8028a",
+		"visualUrl": "https://storage.googleapis.com/site-assets/Ufqsh3I-5UCWAH0CSB7LEO5auCkcdUEu1TLOmRWX3V0_visual-1651da8028a",
+		"description": "The definitive voice of music and the lifestyle that surrounds it. "
+	},
+	{
+		"feedId": "feed/http://www.billboard.com/rss/the-feed",
+		"title": "Billboard",
+		"website": "https://www.billboard.com/",
+		"iconUrl": "https://storage.googleapis.com/site-assets/aOshqP593LqnipCzK7HiL33mAAejwxE5_itW3GYk_2A_icon-16bd6427541",
+		"visualUrl": "https://storage.googleapis.com/site-assets/aOshqP593LqnipCzK7HiL33mAAejwxE5_itW3GYk_2A_visual-16bd6427541",
+		"description": "Billboard - Music Charts, Music News, Artist Photo Gallery & Free Video."
+	},
+	{
+		"feedId": "feed/http://www.spin.com/rss.xml",
+		"title": "SPIN",
+		"website": "https://www.spin.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/D3wUBlxObz6hGBIwB9JSVGF49v1qk4lDqB8n__iPTRo_icon-169743a9b1c",
+		"visualUrl": "https://storage.googleapis.com/site-assets/D3wUBlxObz6hGBIwB9JSVGF49v1qk4lDqB8n__iPTRo_visual-169743a9b1c",
+		"description": "Music news, interviews, reviews and more."
+	},
+	{
+		"feedId": "feed/http://www.aquariumdrunkard.com/feed/",
+		"title": "Aquarium Drunkard",
+		"website": "https://aquariumdrunkard.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/7o65-oeCoVfKsXCT4kjAUK4IPl5EWfemDTY0rCHBLY8_icon-16752676302",
+		"visualUrl": "https://storage.googleapis.com/site-assets/7o65-oeCoVfKsXCT4kjAUK4IPl5EWfemDTY0rCHBLY8_visual-16752676302",
+		"description": "Los Angeles Based MP3 & Music Blog."
+	},
+	{
+		"feedId": "feed/http://noisey.vice.com/rss",
+		"title": "VICE US - Music US",
+		"website": "https://www.vice.com/en_us/topic/music",
+		"iconUrl": "https://storage.googleapis.com/site-assets/l7nNq-hH4bKxLwoQjtBdQo1sHB5tjL-nNrDtcx1Ro9E_icon-16a86e37885",
+		"visualUrl": "https://storage.googleapis.com/site-assets/l7nNq-hH4bKxLwoQjtBdQo1sHB5tjL-nNrDtcx1Ro9E_visual-16a86e37885",
+		"description": "Original reporting on everything that matters. \n\nSign up for the VICE Newsletter: https://t.co/b2hRKokAFi"
+	},
+	{
+		"feedId": "feed/http://www.metalsucks.net/feed/rss/",
+		"title": "MetalSucks",
+		"website": "https://www.metalsucks.net",
+		"iconUrl": "https://storage.googleapis.com/site-assets/2HeVmQIgik_jHUg_UGOTiiI_jFT2WXToRO5wa6BxbpU_icon-16bea8093d3",
+		"visualUrl": "https://storage.googleapis.com/site-assets/2HeVmQIgik_jHUg_UGOTiiI_jFT2WXToRO5wa6BxbpU_visual-16bea8093d3",
+		"description": "Heavy Metal News, Gossip, Videos and Track Streams"
+	},
+	{
+		"feedId": "feed/http://feeds.guardian.co.uk/theguardian/music/rss",
+		"title": "Music | The Guardian",
+		"website": "https://www.theguardian.com/music",
+		"iconUrl": "https://storage.googleapis.com/site-assets/2jTT6Js2W2uUTYYNQ4-qCDUGNMiGCGIJq9ouaoXkjDE_icon-16d5358e109",
+		"visualUrl": "https://storage.googleapis.com/site-assets/2jTT6Js2W2uUTYYNQ4-qCDUGNMiGCGIJq9ouaoXkjDE_visual-16d5358e109",
+		"description": "Latest music news, comment, reviews and analysis from the Guardian"
+	},
+	{
+		"feedId": "feed/http://feeds.feedburner.com/createdigitalmusic",
+		"title": "CDM Create Digital Music",
+		"website": "https://cdm.link",
+		"iconUrl": "https://storage.googleapis.com/site-assets/ondIFlUFb0H6h-SHJqP32GeQf5xd4-XMc4vyvZkDsP0_sicon-15c15377f65",
+		"visualUrl": "https://storage.googleapis.com/site-assets/ondIFlUFb0H6h-SHJqP32GeQf5xd4-XMc4vyvZkDsP0_svisual-15c15377f65",
+		"description": "Create digital music, motion, and more."
+	},
+	{
+		"feedId": "feed/http://loudwire.com/feed/",
+		"title": "Loudwire",
+		"website": "http://loudwire.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/DmM8Q9_1yN1r4Qzqm7EuHiVQL6RsZxz7_hFkmN6SVD4_icon-16c7f878527",
+		"visualUrl": "https://storage.googleapis.com/site-assets/DmM8Q9_1yN1r4Qzqm7EuHiVQL6RsZxz7_hFkmN6SVD4_visual-16c7f878527",
+		"description": "Everything hard rock + metal"
+	},
+	{
+		"feedId": "feed/http://blog.bandcamp.com/feed/",
+		"title": "Bandcamp Daily",
+		"website": "https://daily.bandcamp.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/er8HmNrM5HhC2veQ8UTzMIQ2_6lG2MR5RRqJ3Exjdi8_icon-1699ca43b81",
+		"visualUrl": "https://storage.googleapis.com/site-assets/er8HmNrM5HhC2veQ8UTzMIQ2_6lG2MR5RRqJ3Exjdi8_visual-1699ca43b81",
+		"description": "Bandcamp Daily is your guide to the artists, fans and labels on Bandcamp."
+	},
+	{
+		"feedId": "feed/http://www.punknews.org/feeds/punknews.rdf",
+		"title": "Punknews.org",
+		"website": "https://www.punknews.org",
+		"iconUrl": "https://storage.googleapis.com/site-assets/PushqI7Bn3GpMACrkeXbJ9HoBDBkRJRoeyef-o7sF5Q_icon-163413c00d5",
+		"visualUrl": "https://storage.googleapis.com/site-assets/PushqI7Bn3GpMACrkeXbJ9HoBDBkRJRoeyef-o7sF5Q_visual-163413c00d5",
+		"description": "Tours, News, Zines and Stuff about Punk, Emo and Hardcore."
+	},
+	{
+		"feedId": "feed/http://cdnl.complex.com/feeds/channels/music.xml",
+		"title": "Complex Music",
+		"website": "https://www.complex.com/",
+		"iconUrl": "https://storage.googleapis.com/site-assets/ztQQT0Ldjcg72eySViz7tMbYHislYGDCPyaCFffEFfs_sicon-16a58777345",
+		"visualUrl": "https://storage.googleapis.com/site-assets/ztQQT0Ldjcg72eySViz7tMbYHislYGDCPyaCFffEFfs_svisual-16a58777345",
+		"description": "Making Culture Pop. Find the latest entertainment news and the best in music, pop culture, sneakers, style and original shows."
+	},
+	{
+		"feedId": "feed/http://feeds2.feedburner.com/metalinjection",
+		"title": "Metal Injection",
+		"website": "https://metalinjection.net",
+		"iconUrl": "https://storage.googleapis.com/site-assets/Ov-DTLk6E4qzfMKvEjLRDZEP4nS_ccvl3Nt_uJ30T_I_icon-169ec6f6216",
+		"visualUrl": "https://storage.googleapis.com/site-assets/Ov-DTLk6E4qzfMKvEjLRDZEP4nS_ccvl3Nt_uJ30T_I_visual-169ec6f6216",
+		"description": "Heavy metal news, metal music videos, tour dates, live footage, exclusive documentaries, funny clips and more."
+	},
+	{
+		"feedId": "feed/http://rapradar.com/feed/",
+		"title": "Rap Radar",
+		"website": "http://rapradar.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/TT2sDI3ah6WdzRs1jC3XJqWGBX7PqlCREm8000cbXgk_icon-169c871327a",
+		"visualUrl": "https://storage.googleapis.com/site-assets/TT2sDI3ah6WdzRs1jC3XJqWGBX7PqlCREm8000cbXgk_visual-169c871327a",
+		"description": "Where YN Lives. Rap Radar is the Premiere Rap Blog for the latest news, music and video in Hip Hop Culture."
+	},
+	{
+		"feedId": "feed/http://www.tinymixtapes.com/feed.xml",
+		"title": "Tiny Mix Tapes",
+		"website": "https://www.tinymixtapes.com/",
+		"iconUrl": "https://storage.googleapis.com/site-assets/uS9CE-rlbZ8EwPdKO_ZXJpHNj-zxAtSThsHY42tbve4_icon-1610d7c6086",
+		"visualUrl": "https://storage.googleapis.com/site-assets/uS9CE-rlbZ8EwPdKO_ZXJpHNj-zxAtSThsHY42tbve4_visual-1610d7c6086",
+		"description": "Tiny Mix Tapes is a music and film webzine featuring news, reviews, features, and hot replica watches."
+	},
+	{
+		"feedId": "feed/http://www.blabbermouth.net/feed.rss",
+		"title": "BLABBERMOUTH.NET",
+		"website": "https://www.blabbermouth.net",
+		"iconUrl": "http://storage.googleapis.com/site-assets/kBsRN2AZkKXmlcBM6vtJ7AUIKcUFq4POicRNXJ_MWus_icon-15412647dbc",
+		"visualUrl": "http://storage.googleapis.com/site-assets/kBsRN2AZkKXmlcBM6vtJ7AUIKcUFq4POicRNXJ_MWus_visual-15412647dbc",
+		"description": "Blabbermouth.net is the CNN of heavy metal and hard rock news, reviews and music featuring the latest news, reviews, tour dates, release dates and rss heavy metal and hard rock feeds"
+	},
+	{
+		"feedId": "feed/http://feeds.feedburner.com/prettymuchamazing",
+		"title": "Pretty Much Amazing",
+		"website": "https://prettymuchamazing.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/5q-0-Y7UFrag8E_TYYXrlTz90GI_rGhi9yLwhB1I8jQ_icon-15c48d61f56",
+		"visualUrl": "https://storage.googleapis.com/site-assets/5q-0-Y7UFrag8E_TYYXrlTz90GI_rGhi9yLwhB1I8jQ_visual-15c48d61f56",
+		"description": "Free MP3 downloads, music reviews, music videos and news. PMA is updated daily."
+	},
+	{
+		"feedId": "feed/http://feeds.feedburner.com/2dopeboyz",
+		"title": "2DOPEBOYZ",
+		"website": "https://2dopeboyz.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/WuxIBQn1-0X6cZ1EqCW-CuOPN3uWHzUq8FK9RvXp93Q_icon-16b5656708f",
+		"visualUrl": "https://storage.googleapis.com/site-assets/WuxIBQn1-0X6cZ1EqCW-CuOPN3uWHzUq8FK9RvXp93Q_visual-16b5656708f",
+		"description": "In the middle we stay calm, we just drop bombs. @dopeboySHAKE & @MekDot. @free2dbz (backup account)."
+	},
+	{
+		"feedId": "feed/http://www.therestisnoise.com/atom.xml",
+		"title": "Alex Ross: The Rest Is Noise",
+		"website": "https://www.therestisnoise.com/",
+		"iconUrl": "https://storage.googleapis.com/site-assets/JJZcnBMge8sJ_TPWNaUagcghrl41hVxHAy2lxHdWTNU_sicon-16b6f582189",
+		"visualUrl": "https://storage.googleapis.com/site-assets/JJZcnBMge8sJ_TPWNaUagcghrl41hVxHAy2lxHdWTNU_svisual-16b6f582189",
+		"description": "Books, articles, and a blog by the music critic of The New Yorker"
+	},
+	{
+		"feedId": "feed/http://www.thevinylfactory.com/feed/",
+		"title": "The Vinyl Factory",
+		"website": "https://thevinylfactory.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/1aLHSdtgaYdEE0pZ4SJpdKXBfgrEAhv02Rl9uBRSM7k_icon-15f148eec54",
+		"visualUrl": "https://storage.googleapis.com/site-assets/1aLHSdtgaYdEE0pZ4SJpdKXBfgrEAhv02Rl9uBRSM7k_visual-15f148eec54",
+		"description": "The world's foremost vinyl enterprise. Record label, pressing plant, magazine, limited editions and audio-visual shows."
+	},
+	{
+		"feedId": "feed/http://www.synthtopia.com/feed/",
+		"title": "Synthtopia",
+		"website": "http://www.synthtopia.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/CKOxxuhAbQSFbUQQS-uf1lE6K4Zf1F2cLb755O--8H4_icon-16661f33e9d",
+		"visualUrl": "https://storage.googleapis.com/site-assets/CKOxxuhAbQSFbUQQS-uf1lE6K4Zf1F2cLb755O--8H4_visual-16661f33e9d",
+		"description": "Synthesizer and electronic music news, synth and music software reviews and more!"
+	},
+	{
+		"feedId": "feed/http://www.mixmag.net/rss.xml",
+		"title": "Mixmag",
+		"website": "https://mixmag.net/",
+		"iconUrl": "https://storage.googleapis.com/site-assets/UxOIDpsa2ZxpteDkSJRcKqinEqKs7Zkf2ADu8jYENes_icon-16d3c33154d",
+		"visualUrl": "https://storage.googleapis.com/site-assets/UxOIDpsa2ZxpteDkSJRcKqinEqKs7Zkf2ADu8jYENes_visual-16d3c33154d",
+		"description": "Get the latest dance news and videos from Mixmag - the world's biggest dance music and clubbing destination"
+	},
+	{
+		"feedId": "feed/http://drownedinsound.com/feed",
+		"title": "Drowned In Sound // Feed",
+		"website": "http://dis11.herokuapp.com/",
+		"iconUrl": "https://storage.googleapis.com/site-assets/P6bGYvBqxx81LptHIQU8J4VBAkOovF8LKaDZJ_5VDs4_sicon-15b649a9f7f",
+		"visualUrl": "https://storage.googleapis.com/site-assets/P6bGYvBqxx81LptHIQU8J4VBAkOovF8LKaDZJ_5VDs4_svisual-15b649a9f7f",
+		"description": "Music news, Listings, Reviews, Reaction, Interviews and Community"
+	},
+	{
+		"feedId": "feed/http://feeds2.feedburner.com/earmilk",
+		"title": "EARMILK",
+		"website": "https://earmilk.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/2XvRxKpl8--pN1P8_gzzrKby3WcZ5lVWwDuh6Dq4OYA_icon-16b563d2fab",
+		"visualUrl": "https://storage.googleapis.com/site-assets/2XvRxKpl8--pN1P8_gzzrKby3WcZ5lVWwDuh6Dq4OYA_visual-16b563d2fab",
+		"description": "EARMILK is an online music publication that straddles the line between underground and mainstream. Covering Hip-Hop, Electronic, Indie and the in between."
+	},
+	{
+		"feedId": "feed/http://www.okayplayer.com/feed",
+		"title": "Okayplayer",
+		"website": "https://www.okayplayer.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/SQlc8xMjp76M8bpIYlyMuIpmozvCTQZqVzJq_8LMpsE_icon-166b98f572f",
+		"visualUrl": "https://storage.googleapis.com/site-assets/SQlc8xMjp76M8bpIYlyMuIpmozvCTQZqVzJq_8LMpsE_visual-166b98f572f",
+		"description": "Hip Hop Music, Audio, Video, Reviews, News, Interviews, Blogs and Discussion Board"
+	},
+	{
+		"feedId": "feed/http://feeds.indieshuffle.com/indieshuffle",
+		"title": "Indie Shuffle Music Blog",
+		"website": "http://wwws.indieshuffle.com",
+		"iconUrl": "https://www.indieshuffle.com/bundles/webbundle/images/icons/highres-favicon.png",
+		"visualUrl": "https://www.indieshuffle.com/bundles/webbundle/images/icons/highres-favicon.png",
+		"description": "Discover new songs on Indie Shuffle music blog, including indie rock, hip-hop, electronic and more."
+	},
+	{
+		"feedId": "feed/http://ultimateclassicrock.com/feed/",
+		"title": "Ultimate Classic Rock",
+		"website": "http://ultimateclassicrock.com",
+		"iconUrl": "http://storage.googleapis.com/site-assets/io_KRT4tkTtCQuxyhPSdExQbSRLphNAWqBLGvy3FC3I_icon-154142b5437",
+		"visualUrl": "http://storage.googleapis.com/site-assets/io_KRT4tkTtCQuxyhPSdExQbSRLphNAWqBLGvy3FC3I_visual-154142b5437",
+		"description": "Classic rock music news, interviews, pictures, songs and lists from classic rock artists."
+	},
+	{
+		"feedId": "feed/http://feeds.feedburner.com/TheLineOfBestFit",
+		"title": "The Line Of Best Fit",
+		"website": "https://www.thelineofbestfit.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/kxCSeh20poF3OnJyb9ws2qMrzf1rykVCUHi023EWhWU_icon-16b563cf0e4",
+		"visualUrl": "https://storage.googleapis.com/site-assets/kxCSeh20poF3OnJyb9ws2qMrzf1rykVCUHi023EWhWU_visual-16b563cf0e4",
+		"description": "New Music Discovery: the best tracks by the hottest emerging bands from the UK, US and beyond."
+	},
+	{
+		"feedId": "feed/http://feeds2.feedburner.com/SlicingUpEyeballs",
+		"title": "slicing up eyeballs // 80s alternative music, college rock, indie",
+		"website": "http://www.slicingupeyeballs.com",
+		"iconUrl": "http://storage.googleapis.com/site-assets/gsUzckjJ3aCPBGzbEf30ytyomXGBUmv81aZunYUJPIE_icon-15411a9faca",
+		"visualUrl": "http://storage.googleapis.com/site-assets/gsUzckjJ3aCPBGzbEf30ytyomXGBUmv81aZunYUJPIE_visual-15411a9faca",
+		"description": "Legacy of '80s college rock, alternative, indie | Back from the dead | Host of @SiriusXM's 'Dark Wave' — 10 p.m.-1 a.m. EST Sundays on @1stWave (Channel 33)"
+	},
+	{
+		"feedId": "feed/http://exystence.net/feed/",
+		"title": "exystence",
+		"website": "http://exystence.net",
+		"iconUrl": "https://storage.googleapis.com/site-assets/_CLOTs9cOO_h5IzqVijVzME9DjSZEP8nPIgGWVzEIO8_sicon-161b23cc4ae",
+		"visualUrl": "https://storage.googleapis.com/site-assets/_CLOTs9cOO_h5IzqVijVzME9DjSZEP8nPIgGWVzEIO8_svisual-161b23cc4ae",
+		"description": "music blog"
+	},
+	{
+		"feedId": "feed/http://www.invisibleoranges.com/feed/",
+		"title": "Invisible Oranges - The Metal Blog",
+		"website": "http://www.invisibleoranges.com",
+		"iconUrl": "http://storage.googleapis.com/site-assets/1nWmzsPg3NjlsdC5QWaGbBOuHij9h-UB0GPCxti1VAc_icon-15413f3c920",
+		"visualUrl": "http://storage.googleapis.com/site-assets/1nWmzsPg3NjlsdC5QWaGbBOuHij9h-UB0GPCxti1VAc_visual-15413f3c920",
+		"description": "Invisible Oranges is a blog devoted to heavy metal. The term invisible oranges describes the clutching gesture you make when the mighty force of metal flows through you."
+	},
+	{
+		"feedId": "feed/http://feeds.feedburner.com/hiphopdx/news",
+		"title": "HipHopDX News",
+		"website": "https://hiphopdx.com/news",
+		"iconUrl": "https://storage.googleapis.com/site-assets/mj_dn3wwqhl7XP6ZOwheC5inxac0KTFJQgsQVjFBHAY_icon-166d35cfcf4",
+		"visualUrl": "https://storage.googleapis.com/site-assets/mj_dn3wwqhl7XP6ZOwheC5inxac0KTFJQgsQVjFBHAY_visual-166d35cfcf4",
+		"description": "HipHopDX has the latest Hip Hop news, Rap news, Hip Hop gossip, Hip Hop rumors, album sales and more. Stay up to date with your favorite artists."
+	},
+	{
+		"feedId": "feed/http://www.angrymetalguy.com/feed/",
+		"title": "Angry Metal Guy",
+		"website": "https://www.angrymetalguy.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/ufVNuZGHAYeRZLWVzr2vETRE24oXidThN5uvK4CHrEA_icon-16bdad3e702",
+		"visualUrl": "https://storage.googleapis.com/site-assets/ufVNuZGHAYeRZLWVzr2vETRE24oXidThN5uvK4CHrEA_visual-16bdad3e702",
+		"description": "Metal Reviews, Interviews and General Angryness"
+	},
+	{
+		"feedId": "feed/http://www.dancingastronaut.com/feed/",
+		"title": "Dancing Astronaut",
+		"website": "https://dancingastronaut.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/Owj5eaU8aVc_quWaTCwVQRbQpUooenru6pfhift8Wn8_icon-165464c315c",
+		"visualUrl": "https://storage.googleapis.com/site-assets/Owj5eaU8aVc_quWaTCwVQRbQpUooenru6pfhift8Wn8_visual-165464c315c",
+		"description": "EDM, trap, techno, deep house, dubstep"
+	},
+	{
+		"feedId": "feed/http://www.allmusic.com/rss",
+		"title": "AllMusic Blog",
+		"website": "https://www.allmusic.com/blog",
+		"iconUrl": "https://storage.googleapis.com/site-assets/TTovQENYgyk1YjkfUGeSznRRP_wjZyTZ6iC7OnxH0eA_icon-15f390d6a8c",
+		"visualUrl": "https://storage.googleapis.com/site-assets/TTovQENYgyk1YjkfUGeSznRRP_wjZyTZ6iC7OnxH0eA_visual-15f390d6a8c",
+		"description": "AllMusic is a comprehensive and in-depth resource for finding out more about the albums, bands, musicians and songs you love. Subscribe to the AllMusic Blog's RSS feed to get the latest info about new releases, read interviews and other special features, enter to win music-related prizes, and hear exclusive streams of albums before they're released."
+	},
+	{
+		"feedId": "feed/http://www.djtechtools.com/feed/",
+		"title": "DJ TechTools",
+		"website": "https://djtechtools.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/_Qkrps-Ahr1mb_sX3iJYqPX1z_93GQ4gkW1prKyMKqw_icon-16b57c34d64",
+		"visualUrl": "https://storage.googleapis.com/site-assets/_Qkrps-Ahr1mb_sX3iJYqPX1z_93GQ4gkW1prKyMKqw_visual-16b57c34d64",
+		"description": "The largest community for DJ and producer techniques, tutorials, and tips. Traktor secrets, controller reviews, a massive MIDI mapping library, and more."
+	},
+	{
+		"feedId": "feed/http://feeds.feedburner.com/realhotnewhiphop",
+		"title": "HotNewHipHop.com",
+		"website": "https://www.hotnewhiphop.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/COAA5sn1vNhwAD7hB7Qz9cCxge7E1Vepf-BvaWOg3Pc_sicon-15e130d12fa",
+		"visualUrl": "https://storage.googleapis.com/site-assets/COAA5sn1vNhwAD7hB7Qz9cCxge7E1Vepf-BvaWOg3Pc_svisual-15e130d12fa",
+		"description": "Daily Hip Hop Music, Videos, Mixtapes and News. Check Out Our Twitter (@HotNewHipHop), Facebook Page (RealHotNewHipHop), Youtube Channel (HotNewHipHop)"
+	},
+	{
+		"feedId": "feed/http://thewire.co.uk/news/rss",
+		"title": "The Wire: News",
+		"website": "https://www.thewire.co.uk/news/",
+		"iconUrl": "https://storage.googleapis.com/site-assets/x3FxJUaEHprV6cqIu-XP2XvCe0SIcMCc3xvs1oNH7qg_icon-16c666bac09",
+		"visualUrl": "https://storage.googleapis.com/site-assets/x3FxJUaEHprV6cqIu-XP2XvCe0SIcMCc3xvs1oNH7qg_visual-16c666bac09",
+		"description": "The world's greatest print and online music magazine. Independent since 1982. News, features, audio, video, shop and subscribe."
+	},
+	{
+		"feedId": "feed/http://feeds.feedburner.com/jambase",
+		"title": "JamBase",
+		"website": "https://www.jambase.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/b5rkGT__Gvbboe0CGyi04Cm0ez3fycseXR-w8WRQGnw_icon-16a159e3200",
+		"visualUrl": "https://storage.googleapis.com/site-assets/b5rkGT__Gvbboe0CGyi04Cm0ez3fycseXR-w8WRQGnw_visual-16a159e3200",
+		"description": "Find concerts near you, buy concert tickets, and get news & updates about the bands you love at JamBase."
+	},
+	{
+		"feedId": "feed/http://feeds.feedburner.com/superdeluxeedition",
+		"title": "superdeluxeedition",
+		"website": "https://www.superdeluxeedition.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/0ZspCruFKTbgx7c-HPIRuLsyq8B7ceAsPlMYGQzcLpI_icon-16c9e934e26",
+		"visualUrl": "https://storage.googleapis.com/site-assets/0ZspCruFKTbgx7c-HPIRuLsyq8B7ceAsPlMYGQzcLpI_visual-16c9e934e26",
+		"description": "the box set and reissue music site for fans who love holding the music in their hands"
+	},
+	{
+		"feedId": "feed/http://www.absolutepunk.net/rss",
+		"title": "chorus.fm",
+		"website": "https://chorus.fm",
+		"iconUrl": "https://storage.googleapis.com/site-assets/drQZLxEv5A-XBsHwIORWjo6eKhoRgYWbth0an2Z0qq0_icon-16bb2d37f14",
+		"visualUrl": "https://storage.googleapis.com/site-assets/drQZLxEv5A-XBsHwIORWjo6eKhoRgYWbth0an2Z0qq0_visual-16bb2d37f14",
+		"description": "Chorus.fm is a curated music destination for those looking for something outside of the mainstream. News, reviews, forums, articles, and commentary. Founded by Jason Tate."
+	},
+	{
+		"feedId": "feed/http://www.undertheradarmag.com/site/rss",
+		"title": "Under the Radar",
+		"website": "http://www.undertheradarmag.com/",
+		"iconUrl": "https://storage.googleapis.com/site-assets/iEJvASJz3zCzgnxsWjyGlBNVmHNXHtBX8Kup2ovHC1U_icon-16d79eb674f",
+		"visualUrl": "https://storage.googleapis.com/site-assets/iEJvASJz3zCzgnxsWjyGlBNVmHNXHtBX8Kup2ovHC1U_visual-16d79eb674f",
+		"description": "The solution to music pollution. Official website for the indie music magazine with web-exclusive interviews, photos, reviews, mp3s, videos, music news and more."
+	},
+	{
+		"feedId": "feed/http://feeds.feedburner.com/typepad/DqMf",
+		"title": "hypebot",
+		"website": "https://www.hypebot.com/hypebot/",
+		"iconUrl": "https://storage.googleapis.com/site-assets/nBjDnHTsnyoPCgIXs8o3wj-4tOgWkdyP88zjtVWGk5g_icon-16b5832b573",
+		"visualUrl": "https://storage.googleapis.com/site-assets/nBjDnHTsnyoPCgIXs8o3wj-4tOgWkdyP88zjtVWGk5g_visual-16b5832b573",
+		"description": "digital music and the music business"
+	},
+	{
+		"feedId": "feed/http://www.clashmusic.com/rss.xml",
+		"title": "Clash Magazine",
+		"website": "https://www.clashmusic.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/KtNbJVUsiYNomKNAc4RMLj-MXfH1HdbDfjXle-1_5_I_sicon-16da12ad877",
+		"visualUrl": "https://storage.googleapis.com/site-assets/KtNbJVUsiYNomKNAc4RMLj-MXfH1HdbDfjXle-1_5_I_svisual-16da12ad877",
+		"description": null
+	},
+	{
+		"feedId": "feed/http://www.metacritic.com/rss/music/album.xml",
+		"title": "Latest Music Metascores on Metacritic",
+		"website": "https://www.metacritic.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/tH-zC05nRtFoSm_GH39e965b2Dvub0uUFU6vjo-zU5A_icon-165b2fc95e2",
+		"visualUrl": "https://storage.googleapis.com/site-assets/tH-zC05nRtFoSm_GH39e965b2Dvub0uUFU6vjo-zU5A_visual-165b2fc95e2",
+		"description": "Metacritic aggregates music, game, tv, and movie reviews from the leading critics. Only Metacritic.com uses METASCORES, which let you know at a glance how each item was reviewed."
+	},
+	{
+		"feedId": "feed/http://www.soundonsound.com/news/sosrssfeed.php",
+		"title": "Sound On Sound Latest news",
+		"website": "https://www.soundonsound.com/",
+		"iconUrl": "https://storage.googleapis.com/site-assets/5UoVZGv-rbA1cVKGIdLXqwkmF8CpfZnNKtZJeAHFuJ4_icon-1634e2299d6",
+		"visualUrl": "https://storage.googleapis.com/site-assets/5UoVZGv-rbA1cVKGIdLXqwkmF8CpfZnNKtZJeAHFuJ4_visual-1634e2299d6",
+		"description": "Sound On Sound Latest News"
+	},
+	{
+		"feedId": "feed/http://www.discobelle.net/feed/",
+		"title": "Discobelle.net",
+		"website": "http://www.discobelle.net",
+		"iconUrl": "http://storage.googleapis.com/site-assets/9JN0SuM1Eo8tibde5Muoq1WLczpYQlxjH6Azlkq4EGE_icon-154128d4fb2",
+		"visualUrl": "http://storage.googleapis.com/site-assets/9JN0SuM1Eo8tibde5Muoq1WLczpYQlxjH6Azlkq4EGE_visual-154128d4fb2",
+		"description": "Home of the dance and electronic music website and record label. Vibing since 2004."
+	},
+	{
+		"feedId": "feed/http://www.theprp.com/feed/",
+		"title": "Theprp.com",
+		"website": "https://www.theprp.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/UFRYr68ZmgX4YLNTwOtHgjff2DsRsQSbgvMcPsYcCz4_icon-16b6e9b18bc",
+		"visualUrl": "https://storage.googleapis.com/site-assets/UFRYr68ZmgX4YLNTwOtHgjff2DsRsQSbgvMcPsYcCz4_visual-16b6e9b18bc",
+		"description": "Metal And Hardcore News Plus Reviews And More"
+	},
+	{
+		"feedId": "feed/http://www.fluxblog.org/feed",
+		"title": "Fluxblog",
+		"website": "http://www.fluxblog.org",
+		"iconUrl": "https://storage.googleapis.com/site-assets/MnfMYgu1bdVa3jRVOKYBurTBU06Q-kfFreqgVKCjXVA_sicon-15b635b9b8e",
+		"visualUrl": "https://storage.googleapis.com/site-assets/MnfMYgu1bdVa3jRVOKYBurTBU06Q-kfFreqgVKCjXVA_svisual-15b635b9b8e",
+		"description": "10 Years of Perfect Tunes"
+	},
+	{
+		"feedId": "feed/http://www.metalunderground.com/tools/newsfeeds/news.cfm",
+		"title": "MetalUnderground.com",
+		"website": "http://www.metalunderground.com/",
+		"iconUrl": "https://storage.googleapis.com/site-assets/1aOu8FqBlhJiNTESWOC4vTe0SK5IPabcHUyM7eFxkuE_sicon-16d1430305a",
+		"visualUrl": "https://storage.googleapis.com/site-assets/1aOu8FqBlhJiNTESWOC4vTe0SK5IPabcHUyM7eFxkuE_svisual-16d1430305a",
+		"description": "All updates on MetalUnderground.com including heavy metal news, interviews, concert and CD/DVD reviews."
+	},
+	{
+		"feedId": "feed/http://www.saidthegramophone.com/atom.xml",
+		"title": "Said the Gramophone",
+		"website": "http://www.saidthegramophone.com/",
+		"iconUrl": "",
+		"visualUrl": "",
+		"description": "a music weblog"
+	},
+	{
+		"feedId": "feed/http://www.cvltnation.com/feed/",
+		"title": "CVLT Nation",
+		"website": "https://cvltnation.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/mooJZbv0dNk0Sg74WyHyh3L39WNiclVwPn3p4sG8BAU_icon-16cb85511b3",
+		"visualUrl": "https://storage.googleapis.com/site-assets/mooJZbv0dNk0Sg74WyHyh3L39WNiclVwPn3p4sG8BAU_visual-16cb85511b3",
+		"description": "The Home of Heavy Metal Culture"
+	},
+	{
+		"feedId": "feed/http://www.nytimes.com/services/xml/rss/nyt/Music.xml",
+		"title": "NYT > Arts > Music",
+		"website": "https://www.nytimes.com/section/arts/music?emc=rss&partner=rss",
+		"iconUrl": "https://storage.googleapis.com/site-assets/0sLwknxjQeJEwrDZ4RK16ElIDt2RKa_ereb-zlxuGns_icon-16aedf1ac32",
+		"visualUrl": "https://storage.googleapis.com/site-assets/0sLwknxjQeJEwrDZ4RK16ElIDt2RKa_ereb-zlxuGns_visual-16aedf1ac32",
+		"description": "Reviews, interviews, features and playlists from our critics and reporters covering classical, pop, rock, jazz, hip-hop, dance, country and avant music."
+	},
+	{
+		"feedId": "feed/http://feeds.feedburner.com/largeheartedboy",
+		"title": "Largehearted Boy",
+		"website": "http://blog.largeheartedboy.com/",
+		"iconUrl": "http://storage.googleapis.com/site-assets/Rca7V-hRVox2RqstKx-UuuNXkqZI-SIVD1HePggk2ZQ_icon-1541278b39c",
+		"visualUrl": "http://storage.googleapis.com/site-assets/Rca7V-hRVox2RqstKx-UuuNXkqZI-SIVD1HePggk2ZQ_visual-1541278b39c",
+		"description": "Largehearted Boy is my website. I read and write and listen to music. A lot.\n\nSupport LHB: https://t.co/bMiirCwDN4"
+	},
+	{
+		"feedId": "feed/http://feeds.feedburner.com/DyingScene",
+		"title": "Dying Scene",
+		"website": "https://dyingscene.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/EDLBduccZOGBK_r4pWtt-agr5KcNZ1QuDH57BT61Sz8_icon-165dc21bad1",
+		"visualUrl": "https://storage.googleapis.com/site-assets/EDLBduccZOGBK_r4pWtt-agr5KcNZ1QuDH57BT61Sz8_visual-165dc21bad1",
+		"description": "Reviving Punk Rock One Story At A Time"
+	},
+	{
+		"feedId": "feed/http://www.musicbusinessworldwide.com/feed/",
+		"title": "Music Business Worldwide",
+		"website": "https://www.musicbusinessworldwide.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/ka_0RvUyBKlY2z89yl32mn8wbvEZ5x-FohDeUbQxCfM_sicon-15b6b455db3",
+		"visualUrl": "https://storage.googleapis.com/site-assets/ka_0RvUyBKlY2z89yl32mn8wbvEZ5x-FohDeUbQxCfM_svisual-15b6b455db3",
+		"description": "News, jobs and analysis for the global music industry"
+	},
+	{
+		"feedId": "feed/http://www.covermesongs.com/feed",
+		"title": "Cover Me",
+		"website": "http://www.covermesongs.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/13Yv8-ZppI7Z9egO-M0VimT-7-fpk_83lV9EZPK8jQs_icon-1634e1b603c",
+		"visualUrl": "https://storage.googleapis.com/site-assets/13Yv8-ZppI7Z9egO-M0VimT-7-fpk_83lV9EZPK8jQs_visual-1634e1b603c",
+		"description": "A blog for cover song lovers everywhere. Support us on Patreon: https://t.co/ed8FGLKmxd"
+	},
+	{
+		"feedId": "feed/http://www.popjustice.com/feed/",
+		"title": "Popjustice",
+		"website": "https://www.popjustice.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/X45dPhTjGoxSLSILkWEb4qKvLmSqQ2aSzE12gKuY6lE_icon-168cc3fca4d",
+		"visualUrl": "https://storage.googleapis.com/site-assets/X45dPhTjGoxSLSILkWEb4qKvLmSqQ2aSzE12gKuY6lE_visual-168cc3fca4d",
+		"description": "Pop music, the people who make it, and the people who make the people who make it."
+	},
+	{
+		"feedId": "feed/http://bedroomproducersblog.com/feed/",
+		"title": "Bedroom Producers Blog",
+		"website": "https://bedroomproducersblog.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/sZSaIzbTSMp7WDousNay41VdYzZY8CKeL60YyNh0gIk_icon-16b563f5d24",
+		"visualUrl": "https://storage.googleapis.com/site-assets/sZSaIzbTSMp7WDousNay41VdYzZY8CKeL60YyNh0gIk_visual-16b563f5d24",
+		"description": "Bedroom Producers Blog is a daily updated blog for music producers, featuring news about free music making software, VST plugins, audio samples and loops."
+	},
+	{
+		"feedId": "feed/http://www.rap-up.com/feed/",
+		"title": "Rap-Up",
+		"website": "https://www.rap-up.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/uG0MA6WXPvZSOcJuEDRS5hSSNjmEpzptTJkB2LWQHak_icon-1651354ee45",
+		"visualUrl": "https://storage.googleapis.com/site-assets/uG0MA6WXPvZSOcJuEDRS5hSSNjmEpzptTJkB2LWQHak_visual-1651354ee45",
+		"description": "Hip-Hop and R&B Music, News, Photos, Interviews, & Videos"
+	},
+	{
+		"feedId": "feed/http://www.ableton.com/blog/feeds/latest/",
+		"title": "Latest entries for ableton.com",
+		"website": "https://www.ableton.com/en/blog/",
+		"iconUrl": "https://storage.googleapis.com/site-assets/5BfY1N8qu14vb0WRAFSf0HaKXusNO59kxbVkrbhIQCo_icon-15b927bdc0a",
+		"visualUrl": "https://storage.googleapis.com/site-assets/5BfY1N8qu14vb0WRAFSf0HaKXusNO59kxbVkrbhIQCo_visual-15b927bdc0a",
+		"description": "We make Live, Push & Link; software and hardware for music creation & performance. We're based in Berlin, Pasadena & Tokyo. Stay tuned: https://t.co/GXLn2LDmCs"
+	},
+	{
+		"feedId": "feed/http://youredm.com/?feed=rss",
+		"title": "Your EDM",
+		"website": "https://www.youredm.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/OD9o2K7_r5UyyE3-jMY2b5GLLybRDHSOaBs0U2hsPL0_icon-169caf7adfb",
+		"visualUrl": "https://storage.googleapis.com/site-assets/OD9o2K7_r5UyyE3-jMY2b5GLLybRDHSOaBs0U2hsPL0_visual-169caf7adfb",
+		"description": "The world's best source for Electronic Dance Music, Interviews, Music Reviews & EDM news. Your EDM is your one stop-shop for all things EDM."
+	},
+	{
+		"feedId": "feed/http://feeds.feedburner.com/20JazzFunkGreats",
+		"title": "20jazzfunkgreats",
+		"website": "http://www.20jazzfunkgreats.co.uk/wordpress",
+		"iconUrl": "https://storage.googleapis.com/site-assets/AFJq7bzQ2W8TLoyX2LKKK-ES4KUwY5w9cQwrJTZFGvw_sicon-161a6a6c923",
+		"visualUrl": "https://storage.googleapis.com/site-assets/AFJq7bzQ2W8TLoyX2LKKK-ES4KUwY5w9cQwrJTZFGvw_svisual-161a6a6c923",
+		"description": "mp3 blog fanzine from brighton uk"
+	},
+	{
+		"feedId": "feed/http://reviews.headphonecommute.com/feed/",
+		"title": "Headphone Commute",
+		"website": "https://headphonecommute.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/NubscRq-imPIlALvs8GEgt7UejjaOLMBsPxna63IDEc_icon-16b1208b719",
+		"visualUrl": "https://storage.googleapis.com/site-assets/NubscRq-imPIlALvs8GEgt7UejjaOLMBsPxna63IDEc_visual-16b1208b719",
+		"description": "honest words on honest music"
+	},
+	{
+		"feedId": "feed/http://passionweiss.com/feed/",
+		"title": "Passion of the Weiss",
+		"website": "https://www.passionweiss.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/squ9T9LY90JmlWxaKBCNLcfOaq9pX0AqVp_qTNxAfVU_icon-16b5973beb5",
+		"visualUrl": "https://storage.googleapis.com/site-assets/squ9T9LY90JmlWxaKBCNLcfOaq9pX0AqVp_qTNxAfVU_visual-16b5973beb5",
+		"description": "Even when I was wrong, I got my point across."
+	},
+	{
+		"feedId": "feed/http://obscuresound.com/?feed=rss2",
+		"title": "Obscure Sound - Indie Music Blog",
+		"website": "https://www.obscuresound.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/VEJ6VLJZq04m4xpUUtpV7k63cHmyHLGcpJWGc-OopUA_icon-16b57c12d56",
+		"visualUrl": "https://storage.googleapis.com/site-assets/VEJ6VLJZq04m4xpUUtpV7k63cHmyHLGcpJWGc-OopUA_visual-16b57c12d56",
+		"description": "Obscure Sound features independent musicians through streaming audio and write-ups."
+	},
+	{
+		"feedId": "feed/http://wilfullyobscure.blogspot.com/feeds/posts/default",
+		"title": "Wilfully Obscure",
+		"website": "http://wilfullyobscure.blogspot.com/",
+		"iconUrl": "https://storage.googleapis.com/site-assets/TY1YukJUVAI2gdom7dKjVHDddgPEiOmQheCtAXtDKdY_sicon-16abd8532f8",
+		"visualUrl": "https://storage.googleapis.com/site-assets/TY1YukJUVAI2gdom7dKjVHDddgPEiOmQheCtAXtDKdY_svisual-16abd8532f8",
+		"description": "power pop * punk * emo * indie rock * shoegazer"
+	},
+	{
+		"feedId": "feed/http://www.musicthinktank.com/blog/rss.xml",
+		"title": "Music Think Tank (primary) RSS",
+		"website": "http://www.musicthinktank.com/blog/",
+		"iconUrl": "http://storage.googleapis.com/site-assets/eomnVeMR-cUl9mpZkTiuxk-PrtwewEjjK3zLWqXbang_icon-1541278e7a1",
+		"visualUrl": "http://storage.googleapis.com/site-assets/eomnVeMR-cUl9mpZkTiuxk-PrtwewEjjK3zLWqXbang_visual-1541278e7a1",
+		"description": "A group blog bringing together key thinkers in the realm of online music business."
+	},
+	{
+		"feedId": "feed/http://acloserlisten.com/feed/",
+		"title": "a closer listen",
+		"website": "https://acloserlisten.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/rPQOPnwGVBnAh94l_gZOFoqtK4B9ouPgWch__6rTn54_icon-16d580af48b",
+		"visualUrl": "https://storage.googleapis.com/site-assets/rPQOPnwGVBnAh94l_gZOFoqtK4B9ouPgWch__6rTn54_visual-16d580af48b",
+		"description": "a home for instrumental and experimental music"
+	},
+	{
+		"feedId": "feed/http://pitchfork.com/rss/reviews/albums/",
+		"title": "RSS: Album Reviews",
+		"website": "https://pitchfork.com/feed-album-reviews",
+		"iconUrl": "https://storage.googleapis.com/site-assets/MnK_qb3QdktOfpissys4HN1FDuCSDNzoBDY67xnxMec_icon-16b39d64629",
+		"visualUrl": "https://storage.googleapis.com/site-assets/MnK_qb3QdktOfpissys4HN1FDuCSDNzoBDY67xnxMec_visual-16b39d64629",
+		"description": "Album Reviews content RSS feed"
+	},
+	{
+		"feedId": "feed/http://pitchfork.com/rss/reviews/best/albums/",
+		"title": "Best New Albums - Pitchfork",
+		"website": "https://pitchfork.com/reviews/best/albums/",
+		"iconUrl": "https://storage.googleapis.com/site-assets/CHb6bfDmPLiCKjqGAl28leYcmQeqcgv_sIvUKPmSje0_sicon-1644d92de2e",
+		"visualUrl": "https://storage.googleapis.com/site-assets/CHb6bfDmPLiCKjqGAl28leYcmQeqcgv_sIvUKPmSje0_svisual-1644d92de2e",
+		"description": "The best new releases from Pitchfork, the most trusted voice in music."
+	},
+	{
+		"feedId": "feed/http://pitchfork.com/rss/reviews/best/tracks/",
+		"title": "Best New Tracks - Pitchfork",
+		"website": "https://pitchfork.com/reviews/best/tracks/",
+		"iconUrl": "https://storage.googleapis.com/site-assets/XvV2vF7M7-qep_gf3Ztk9b9gWaPpLfScYBbEhiAFWSM_sicon-16b5764d936",
+		"visualUrl": "https://storage.googleapis.com/site-assets/XvV2vF7M7-qep_gf3Ztk9b9gWaPpLfScYBbEhiAFWSM_svisual-16b5764d936",
+		"description": "The best new tracks from Pitchfork, the most trusted voice in music."
+	},
+	{
+		"feedId": "feed/http://pitchfork.com/rss/features/",
+		"title": "RSS: Features",
+		"website": "https://pitchfork.com/feed-features",
+		"iconUrl": "https://storage.googleapis.com/site-assets/Jyjl9FwMdxfLm1WbXuZJdgqpRIjgbbxrkdsoA8qUhmY_icon-16b39d64900",
+		"visualUrl": "https://storage.googleapis.com/site-assets/Jyjl9FwMdxfLm1WbXuZJdgqpRIjgbbxrkdsoA8qUhmY_visual-16b39d64900",
+		"description": "Features content RSS feed"
+	},
+	{
+		"feedId": "feed/http://pitchfork.com/rss/reviews/tracks/",
+		"title": "RSS: Track Reviews",
+		"website": "https://pitchfork.com/feed-track-reviews",
+		"iconUrl": "https://storage.googleapis.com/site-assets/Q9YC4ykdXE13dgWaIx4onZLfteHvtImFyPvGWzdDTNc_icon-16b39d64bbf",
+		"visualUrl": "https://storage.googleapis.com/site-assets/Q9YC4ykdXE13dgWaIx4onZLfteHvtImFyPvGWzdDTNc_visual-16b39d64bbf",
+		"description": "Track review content for RSS feeds"
+	},
+	{
+		"feedId": "feed/http://www.npr.org/rss/rss.php?id=98679384",
+		"title": "First Listen : NPR",
+		"website": "https://www.npr.org/templates/story/story.php?storyId=98679384",
+		"iconUrl": "https://storage.googleapis.com/site-assets/qd1IoUlUCZ_Mms3D65Iwk6qR2O7nX3EsLdzf-dM9nHU_icon-16cd525ac55",
+		"visualUrl": "https://storage.googleapis.com/site-assets/qd1IoUlUCZ_Mms3D65Iwk6qR2O7nX3EsLdzf-dM9nHU_visual-16cd525ac55",
+		"description": "Enjoy select, upcoming albums, in their entirety."
+	},
+	{
+		"feedId": "feed/http://pitchfork.com/rss/thepitch/",
+		"title": "RSS: The Pitch",
+		"website": "https://pitchfork.com/feed-the-pitch",
+		"iconUrl": "https://storage.googleapis.com/site-assets/oebIbw0WyNIKfdEQBg0SNXaEf0dFV2BtdWBSoHiqoVM_icon-16b39d688ce",
+		"visualUrl": "https://storage.googleapis.com/site-assets/oebIbw0WyNIKfdEQBg0SNXaEf0dFV2BtdWBSoHiqoVM_visual-16b39d688ce",
+		"description": "Pitch content RSS feed"
+	}
+]

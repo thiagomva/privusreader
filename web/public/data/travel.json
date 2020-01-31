@@ -1,0 +1,794 @@
+[
+	{
+		"feedId": "feed/http://feeds.feedburner.com/thepointsguy",
+		"title": "The Points Guy",
+		"website": "https://thepointsguy.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/6TtXlkor7t57v67QBpIXsTqiWAv1qvolJOoLdRoOx3s_icon-16bba48510f",
+		"visualUrl": "https://storage.googleapis.com/site-assets/6TtXlkor7t57v67QBpIXsTqiWAv1qvolJOoLdRoOx3s_visual-16bba48510f",
+		"description": "Maximize your travel."
+	},
+	{
+		"feedId": "feed/http://www.nytimes.com/services/xml/rss/nyt/Travel.xml",
+		"title": "New York Times - Travel",
+		"website": "https://www.nytimes.com/section/travel?emc=rss&partner=rss",
+		"iconUrl": "https://storage.googleapis.com/site-assets/Qb7B7fdgsqdmWkOYh9Jnx1cQcX1GoXcZo2MwkgWQTEM_icon-16aedf11943",
+		"visualUrl": "https://storage.googleapis.com/site-assets/Qb7B7fdgsqdmWkOYh9Jnx1cQcX1GoXcZo2MwkgWQTEM_visual-16aedf11943",
+		"description": "Travel news, tips and photography about the best places to visit, all over the world. Regular features include 36 Hours, The Frugal Traveler, 52 Places Traveler and more."
+	},
+	{
+		"feedId": "feed/http://boardingarea.com/blogs/onemileatatime/feed/",
+		"title": "One Mile at a Time",
+		"website": "https://onemileatatime.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/HLrhzudsFlEUysT40R2wIzxAV94ZfRq6-rA84UH2Z_8_icon-165ee4d2737",
+		"visualUrl": "https://storage.googleapis.com/site-assets/HLrhzudsFlEUysT40R2wIzxAV94ZfRq6-rA84UH2Z_8_visual-165ee4d2737",
+		"description": "Tips, Tricks and Travel."
+	},
+	{
+		"feedId": "feed/http://feeds.feedburner.com/MattsTravelSite",
+		"title": "Nomadic Matt's Travel Site",
+		"website": "https://www.nomadicmatt.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/4ut17jkjIT5Q50SNS5GDd3NfJh3C5grdo4FaWR1Fvl4_icon-15ebb7e0b54",
+		"visualUrl": "https://storage.googleapis.com/site-assets/4ut17jkjIT5Q50SNS5GDd3NfJh3C5grdo4FaWR1Fvl4_visual-15ebb7e0b54",
+		"description": "Get the budget travel tips you need to travel cheaper, better, and smarter today from the world's #1 budget travel writer!"
+	},
+	{
+		"feedId": "feed/http://feeds.feedburner.com/frugaltravelguycom",
+		"title": "Frugal Travel Guy",
+		"website": "https://www.frugaltravelguy.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/LZPgdJd8EmXnZ4MkatjplunM803xx8RJuLZ_RmIsEjg_icon-15e8489ac55",
+		"visualUrl": "https://storage.googleapis.com/site-assets/LZPgdJd8EmXnZ4MkatjplunM803xx8RJuLZ_RmIsEjg_visual-15e8489ac55",
+		"description": "The award-winning online home of free travel expert Rick Ingersoll, the author of The Frugal Travel Guy Handbook. Rick's mission is to teach others how to enjoy traveling the country or the world for free or nearly free -- especially those who don't think they can afford to travel."
+	},
+	{
+		"feedId": "feed/http://feeds.feedburner.com/MillionMileSecrets",
+		"title": "Million Mile Secrets",
+		"website": "https://millionmilesecrets.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/41GeOTVlDzuoCy9XBUNn57PuzMzrzS3fPA3ElSmTijA_icon-16a0b4d875c",
+		"visualUrl": "https://storage.googleapis.com/site-assets/41GeOTVlDzuoCy9XBUNn57PuzMzrzS3fPA3ElSmTijA_visual-16a0b4d875c",
+		"description": "Big Travel.  Small Money."
+	},
+	{
+		"feedId": "feed/http://boardingarea.com/blogs/viewfromthewing/feed/",
+		"title": "View from the Wing",
+		"website": "https://viewfromthewing.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/0t7dgZjNDlyV20rvsMThvKwraG0cBEf8LLLRCLQQCoc_icon-16cb85377d9",
+		"visualUrl": "https://storage.googleapis.com/site-assets/0t7dgZjNDlyV20rvsMThvKwraG0cBEf8LLLRCLQQCoc_visual-16cb85377d9",
+		"description": "Thought Leader in Travel."
+	},
+	{
+		"feedId": "feed/http://rss.cnn.com/rss/cnn_travel.rss",
+		"title": "CNN - Travel",
+		"website": "https://www.cnn.com/app-travel-section/index.html",
+		"iconUrl": "https://storage.googleapis.com/site-assets/GaKDv-D969NGXI8QHhIkgJ0GzjmTA7qTiFmG03aiyo4_icon-16198a09ca3",
+		"visualUrl": "https://storage.googleapis.com/site-assets/GaKDv-D969NGXI8QHhIkgJ0GzjmTA7qTiFmG03aiyo4_visual-16198a09ca3",
+		"description": "CNN.com delivers up-to-the-minute news and information on the latest top stories, weather, entertainment, politics and more."
+	},
+	{
+		"feedId": "feed/http://www.lonelyplanet.com/blog/feed/atom/",
+		"title": "Lonely Planet",
+		"website": "https://lonelyplanet.com/blog/feed/atom",
+		"iconUrl": "https://storage.googleapis.com/test-site-assets/ElJTKxKBWDkd39o1GuGLPrENcCzONQJF_4FlOh9BWx0_oicon-165c580165b",
+		"visualUrl": "https://storage.googleapis.com/test-site-assets/ElJTKxKBWDkd39o1GuGLPrENcCzONQJF_4FlOh9BWx0_ovisual-165c580165b",
+		"description": "Get a behind-the-scenes look at all things Lonely Planet on the Unpacked blog, where you'll find the stories behind the passport stamps."
+	},
+	{
+		"feedId": "feed/http://adventure.com/feed/",
+		"title": "Adventure",
+		"website": "https://adventure.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/u0RJU_TaaJbQuLfq3PZ6VZ447CImZeXLraBV_alwuzk_sicon-164c69a6083",
+		"visualUrl": "https://storage.googleapis.com/site-assets/u0RJU_TaaJbQuLfq3PZ6VZ447CImZeXLraBV_alwuzk_svisual-164c69a6083",
+		"description": "Adventure.com is a home for stories that aren't being told—stories that connect, bridge, and go deeper into worlds beyond our own."
+	},
+	{
+		"feedId": "feed/http://boardingarea.com/blogs/frequentmiler/feed/",
+		"title": "Frequent Miler",
+		"website": "https://frequentmiler.boardingarea.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/5D6k3ZiqCgYhm60MTmqAlBTnLFXm1NohAK6o661jvnw_sicon-168e49ad41f",
+		"visualUrl": "https://storage.googleapis.com/site-assets/5D6k3ZiqCgYhm60MTmqAlBTnLFXm1NohAK6o661jvnw_svisual-168e49ad41f",
+		"description": "Earn Miles Without Flying."
+	},
+	{
+		"feedId": "feed/http://skift.com/feed/",
+		"title": "Skift",
+		"website": "https://skift.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/-4JDtAQ7hojfdm-ohGBSrybLA1sSLori3dZL5soxkJY_icon-15b9211887f",
+		"visualUrl": "https://storage.googleapis.com/site-assets/-4JDtAQ7hojfdm-ohGBSrybLA1sSLori3dZL5soxkJY_visual-15b9211887f",
+		"description": "Travel News, Airline News, Hotel News & Tourism News"
+	},
+	{
+		"feedId": "feed/http://feeds.feedburner.com/TheFlightDeal",
+		"title": "The Flight Deal",
+		"website": "https://www.theflightdeal.com",
+		"iconUrl": "https://storage.googleapis.com/test-site-assets/iHffkFDsiwB_nuCogogMxCT32gzluEmQoVG70pThM4M_oicon-165c5819180",
+		"visualUrl": "https://storage.googleapis.com/test-site-assets/iHffkFDsiwB_nuCogogMxCT32gzluEmQoVG70pThM4M_ovisual-165c5819180",
+		"description": "\"Just because it's a great fare doesn't mean it's a great deal\"."
+	},
+	{
+		"feedId": "feed/http://www.secretflying.com/feed/",
+		"title": "Secret Flying",
+		"website": "https://www.secretflying.com",
+		"iconUrl": "https://storage.googleapis.com/test-site-assets/53wBvx_GaYZYRwzI2pkyyM3isHBryGBXepvtulM433c_oicon-165c581bf3c",
+		"visualUrl": "https://storage.googleapis.com/test-site-assets/53wBvx_GaYZYRwzI2pkyyM3isHBryGBXepvtulM433c_ovisual-165c581bf3c",
+		"description": "Find cheap flight deals and mistake fares at Secret Flying. We provide info on airfares with huge savings to your favourite destinations around the world."
+	},
+	{
+		"feedId": "feed/http://atlasobscura.com/rss.xml",
+		"title": "Atlas Obscura",
+		"website": "https://www.atlasobscura.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/yWQdzz6_vg_9NzvpU4FvlGZnxHKVOi-N_ya819Fjlcg_icon-168cd8b8cda",
+		"visualUrl": "https://storage.googleapis.com/site-assets/yWQdzz6_vg_9NzvpU4FvlGZnxHKVOi-N_ya819Fjlcg_visual-168cd8b8cda",
+		"description": "New wonders and curiosities added to the Atlas."
+	},
+	{
+		"feedId": "feed/http://www.johnnyjet.com/feed/",
+		"title": "Johnny Jet",
+		"website": "https://www.johnnyjet.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/GPxEu4QN7i4fB3gEE0NuZRIQ3FX0J3i2pbTzvKWAWKI_icon-169950e5d2c",
+		"visualUrl": "https://storage.googleapis.com/site-assets/GPxEu4QN7i4fB3gEE0NuZRIQ3FX0J3i2pbTzvKWAWKI_visual-169950e5d2c",
+		"description": "Johnny Jet travels around 150,000 miles and visits 20 countries each year. "
+	},
+	{
+		"feedId": "feed/http://loyaltylobby.com/feed/",
+		"title": "LoyaltyLobby",
+		"website": "https://loyaltylobby.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/1uv0p3LrXSUVBsD4_qPaawfUPy4fOLYMeNZIUB_kRUA_icon-15fafb485c2",
+		"visualUrl": "https://storage.googleapis.com/site-assets/1uv0p3LrXSUVBsD4_qPaawfUPy4fOLYMeNZIUB_kRUA_visual-15fafb485c2",
+		"description": "Get the most out of your travel experience by using miles and points. How to travel in style by utilizing airline and hotel loyalty programs."
+	},
+	{
+		"feedId": "feed/http://feeds2.feedburner.com/EverythingEverywhere/",
+		"title": "Everything Everywhere Travel Blog",
+		"website": "https://everything-everywhere.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/xU6fOKN_cgAMw4X8cvp7wxaTwnceg96X-LzsYWBIk1k_sicon-16b5617f866",
+		"visualUrl": "https://storage.googleapis.com/site-assets/xU6fOKN_cgAMw4X8cvp7wxaTwnceg96X-LzsYWBIk1k_svisual-16b5617f866",
+		"description": "Gary Arndt's journey to travel and blog around the world"
+	},
+	{
+		"feedId": "feed/http://www.doctorofcredit.com/feed/",
+		"title": "Doctor Of Credit",
+		"website": "https://www.doctorofcredit.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/XB6HF5zN5cVQhYACDpNcir8O1zWTLJ_zHXpfKwFBeOY_icon-16cb79efd45",
+		"visualUrl": "https://storage.googleapis.com/site-assets/XB6HF5zN5cVQhYACDpNcir8O1zWTLJ_zHXpfKwFBeOY_visual-16cb79efd45",
+		"description": "Bank Account & Credit Card Bonuses"
+	},
+	{
+		"feedId": "feed/http://travelisfree.com/feed/",
+		"title": "Travel is Free",
+		"website": "https://travelisfree.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/NAIicyWQO4J0XOvVTzrj6h0jhDm-PsY85YLOVKwr2TE_icon-16a998d24fc",
+		"visualUrl": "https://storage.googleapis.com/site-assets/NAIicyWQO4J0XOvVTzrj6h0jhDm-PsY85YLOVKwr2TE_visual-16a998d24fc",
+		"description": "Travel Is Free: Learn how to travel for free with travel rewards programs."
+	},
+	{
+		"feedId": "feed/http://feeds.feedburner.com/MatadorNetwork",
+		"title": "Matador Network",
+		"website": "https://matadornetwork.com",
+		"iconUrl": "https://matadornetwork.com/wp-content/uploads/2018/05/Matador-Logo.svg",
+		"visualUrl": "https://matadornetwork.com/wp-content/uploads/2018/05/Matador-Logo.svg",
+		"description": "Matador Network is a tribe of millions of travelers across the globe with an unquenchable thirst for adventure and exploration."
+	},
+	{
+		"feedId": "feed/http://boardingarea.com/full-rss.php",
+		"title": "BoardingArea",
+		"website": "https://boardingarea.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/F4aFIT_iP3nE1lJ_pLccDvSA_GpsPeX33EOKrby0VJ8_icon-165f3fbe6e0",
+		"visualUrl": "https://storage.googleapis.com/site-assets/F4aFIT_iP3nE1lJ_pLccDvSA_GpsPeX33EOKrby0VJ8_visual-165f3fbe6e0",
+		"description": "required reading for frequent flyers"
+	},
+	{
+		"feedId": "feed/http://milevalue.com/feed/",
+		"title": "MileValue",
+		"website": "https://milevalue.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/ToKfrTfPRQjZaIUrcPPGKyZCUx3zjGgLfxE26BIou5A_icon-16c7fba410b",
+		"visualUrl": "https://storage.googleapis.com/site-assets/ToKfrTfPRQjZaIUrcPPGKyZCUx3zjGgLfxE26BIou5A_visual-16c7fba410b",
+		"description": "Maximize Frequent Flyer Miles and Credit Card Points"
+	},
+	{
+		"feedId": "feed/http://hackmytrip.com/feed/",
+		"title": "Travel Codex",
+		"website": "https://www.travelcodex.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/RoZC6J22phbM_-CrJKt3SvEnvVr5btLu20dofXBQsas_icon-1684cc1999a",
+		"visualUrl": "https://storage.googleapis.com/site-assets/RoZC6J22phbM_-CrJKt3SvEnvVr5btLu20dofXBQsas_visual-1684cc1999a",
+		"description": "Learn the latest information about travel hacking, including finding deals, using rewards credit cards, and maximizing loyalty benefits."
+	},
+	{
+		"feedId": "feed/http://www.adventurouskate.com/feed/",
+		"title": "Adventurous Kate",
+		"website": "https://www.adventurouskate.com",
+		"iconUrl": "https://storage.googleapis.com/test-site-assets/vgr5vo2ds2b20xc5eOT9zW8exxKmnua9yX3XL1-wkik_oicon-165c5aead08",
+		"visualUrl": "https://storage.googleapis.com/test-site-assets/vgr5vo2ds2b20xc5eOT9zW8exxKmnua9yX3XL1-wkik_ovisual-165c5aead08",
+		"description": "The Solo Female Travel Blog"
+	},
+	{
+		"feedId": "feed/http://boardingarea.com/blogs/loyaltytraveler/feed/",
+		"title": "Loyalty Traveler",
+		"website": "https://loyaltytraveler.boardingarea.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/wwwZ5UtJWqTgHhushlAePq-siCk3cS6G1Sncbo350xA_icon-162c31ccf6c",
+		"visualUrl": "https://storage.googleapis.com/site-assets/wwwZ5UtJWqTgHhushlAePq-siCk3cS6G1Sncbo350xA_visual-162c31ccf6c",
+		"description": "Hotel Value for Frequent Guests"
+	},
+	{
+		"feedId": "feed/http://rssfeeds.usatoday.com/UsatodaycomTravel-TopStories",
+		"title": "USATODAY - Travel Top Stories",
+		"website": "https://www.usatoday.com/travel/",
+		"iconUrl": "https://storage.googleapis.com/test-site-assets/BTec8q6SDSJvcoFuspN_aSh2tilyWmKqgTe_vY8zXB0_oicon-165c5b6790b",
+		"visualUrl": "https://storage.googleapis.com/test-site-assets/BTec8q6SDSJvcoFuspN_aSh2tilyWmKqgTe_vY8zXB0_ovisual-165c5b6790b",
+		"description": "Travel News, Tips, and Guides"
+	},
+	{
+		"feedId": "feed/http://www.economist.com/blogs/gulliver/atom.xml",
+		"title": "Gulliver",
+		"website": "https://www.economist.com/blogs/gulliver",
+		"iconUrl": "https://storage.googleapis.com/site-assets/wgaZSlVzQmOqShxY2XEu4HQUYthkGEZTXq--duMdd_U_icon-1658c53a97f",
+		"visualUrl": "https://storage.googleapis.com/site-assets/wgaZSlVzQmOqShxY2XEu4HQUYthkGEZTXq--duMdd_U_visual-1658c53a97f",
+		"description": "News and views to entertain and inform business travellers, and help them make the most of life on the road"
+	},
+	{
+		"feedId": "feed/http://feeds.feedburner.com/AfarMagazine",
+		"title": "AFAR Magazine Posts",
+		"website": "https://www.afar.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/Yyy2_HAFHianZmBmV6d81oEY_GUB3Fnrk3oQRY9JPrc_icon-15b92a1d0b4",
+		"visualUrl": "https://storage.googleapis.com/site-assets/Yyy2_HAFHianZmBmV6d81oEY_GUB3Fnrk3oQRY9JPrc_visual-15b92a1d0b4",
+		"description": "Inspiring, guiding, and enabling travelers to have deeper, richer, more fulfilling experiences. Share your travels with us using #traveldeeper."
+	},
+	{
+		"feedId": "feed/http://feeds.feedburner.com/LegalNomads",
+		"title": "Legal Nomads",
+		"website": "https://www.legalnomads.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/DfKUJJyVNSMQMAWPl1LOXK49-xxh-4fj14Kh39MQmdw_icon-15de4b974c3",
+		"visualUrl": "https://storage.googleapis.com/site-assets/DfKUJJyVNSMQMAWPl1LOXK49-xxh-4fj14Kh39MQmdw_visual-15de4b974c3",
+		"description": "Telling stories through food."
+	},
+	{
+		"feedId": "feed/http://theblondeabroad.com/feed/",
+		"title": "The Blonde Abroad",
+		"website": "https://theblondeabroad.com",
+		"iconUrl": "https://storage.googleapis.com/test-site-assets/vyedEcJT1Of897Km-w898mLihSFlykn9H-vE7b6X-TY_oicon-165c5d6b875",
+		"visualUrl": "https://storage.googleapis.com/test-site-assets/vyedEcJT1Of897Km-w898mLihSFlykn9H-vE7b6X-TY_ovisual-165c5d6b875",
+		"description": "Popular travel and lifestyle blog featuring travel tips, fashion, food and photography from around the world. Follow Kiersten on her adventures!"
+	},
+	{
+		"feedId": "feed/http://milestomemories.com/feed/",
+		"title": "Miles to Memories",
+		"website": "https://milestomemories.boardingarea.com",
+		"iconUrl": "https://storage.googleapis.com/test-site-assets/BVFATp6siQ_sUeYm4IfaDeDh1n3bZ-LDz1bgHfv-iKw_oicon-165c5d823ab",
+		"visualUrl": "https://storage.googleapis.com/test-site-assets/BVFATp6siQ_sUeYm4IfaDeDh1n3bZ-LDz1bgHfv-iKw_ovisual-165c5d823ab",
+		"description": "The expert team of miles/points fanatics at Miles to Memories helps readers learn how travel more for less. Through utilizing credit card sign-ups, loyalty promotions and stacking deals we cut through the nonsense to help people turn their loyalty points into memories that last a lifetime."
+	},
+	{
+		"feedId": "feed/http://blog.ricksteves.com/?feed=rss2",
+		"title": "Rick Steves' Travel Blog",
+		"website": "https://blog.ricksteves.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/x5tXpk8NNOKGwhZTegIZRaO03jrCEuHBReDM6aAkOkM_icon-16d4f86e4c6",
+		"visualUrl": "https://storage.googleapis.com/site-assets/x5tXpk8NNOKGwhZTegIZRaO03jrCEuHBReDM6aAkOkM_visual-16d4f86e4c6",
+		"description": "I'm sharing my travel experiences, candid opinions and what's on my mind. If you think it's inappropriate for a travel writer to stir up discussion on his blog with political observations and insights gained from traveling abroad, you may not want to read any further. — Rick"
+	},
+	{
+		"feedId": "feed/http://headforpoints.com/feed/",
+		"title": "Head for Points",
+		"website": "https://www.headforpoints.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/HkkjGSQXTWvC6RO5lTDK3Dx-pJ2RR6q0oAe3M-ZGSFQ_icon-1604f6dbadc",
+		"visualUrl": "https://storage.googleapis.com/site-assets/HkkjGSQXTWvC6RO5lTDK3Dx-pJ2RR6q0oAe3M-ZGSFQ_visual-1604f6dbadc",
+		"description": "Maximise your Avios and frequent flyer miles"
+	},
+	{
+		"feedId": "feed/http://www.worldofwanderlust.com/feed/",
+		"title": "WORLD OF WANDERLUST",
+		"website": "http://www.worldofwanderlust.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/-pUPHoyPA24miFHv2FThciW4r31qMTYEHf7HicpkXBc_icon-16a433cf9b0",
+		"visualUrl": "https://storage.googleapis.com/site-assets/-pUPHoyPA24miFHv2FThciW4r31qMTYEHf7HicpkXBc_visual-16a433cf9b0",
+		"description": "World of Wanderlust is the world’s leading solo female travel blog following Brooke Saward around the world. Your online destination for travel packing guides, travel tips and endless travel inspiration."
+	},
+	{
+		"feedId": "feed/http://boardingarea.com/blogs/dealswelike/feed/",
+		"title": "Deals We Like",
+		"website": "https://dealswelike.boardingarea.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/_JNY3_LP_6mIzfh4uFg6KmX_wJbeM0MioR8OZ-7uCxE_sicon-162da27a837",
+		"visualUrl": "https://storage.googleapis.com/site-assets/_JNY3_LP_6mIzfh4uFg6KmX_wJbeM0MioR8OZ-7uCxE_svisual-162da27a837",
+		"description": "The Latest Travel Deals for the Savvy Traveler"
+	},
+	{
+		"feedId": "feed/http://feeds.crankyflier.com/CrankyFlier",
+		"title": "The Cranky Flier",
+		"website": "https://crankyflier.com",
+		"iconUrl": "https://storage.googleapis.com/test-site-assets/krQo3dfHIizA-A6TdvZtEsmM5ArTfvMYzBs3hbIyROw_oicon-165a65b00a0",
+		"visualUrl": "https://storage.googleapis.com/test-site-assets/krQo3dfHIizA-A6TdvZtEsmM5ArTfvMYzBs3hbIyROw_ovisual-165a65b00a0",
+		"description": "An airline industry blog "
+	},
+	{
+		"feedId": "feed/http://www.pointchaser.com/feed/",
+		"title": "PointChaser",
+		"website": "https://www.pointchaser.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/H8KDioo0fp2Gqank7XqpGYJZ7Cb6QYAyQwVJd3WLQhM_icon-16a58a9e594",
+		"visualUrl": "https://storage.googleapis.com/site-assets/H8KDioo0fp2Gqank7XqpGYJZ7Cb6QYAyQwVJd3WLQhM_visual-16a58a9e594",
+		"description": "A Guide to Points, Miles and Free Travel"
+	},
+	{
+		"feedId": "feed/http://www.everywhereist.com/feed/",
+		"title": "The Everywhereist",
+		"website": "http://www.everywhereist.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/recj4oMi3mcdxK843lqKxWNmjIPCXnqxt_BFLCybdAc_icon-160fea9e720",
+		"visualUrl": "https://storage.googleapis.com/site-assets/recj4oMi3mcdxK843lqKxWNmjIPCXnqxt_BFLCybdAc_visual-160fea9e720",
+		"description": "Writer. Feminist. Snack-enthusiast. I got hacked for writing about cinnamon rolls. Then I got a James Beard Award. She/Her."
+	},
+	{
+		"feedId": "feed/http://upgrd.com/matthew/feed/",
+		"title": "Live and Let's Fly",
+		"website": "https://liveandletsfly.boardingarea.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/Bf7eZnrTw-fR8oP31UwTlyEZqH5YoSc_M69z11Z9rKU_sicon-16d3e0964d7",
+		"visualUrl": "https://storage.googleapis.com/site-assets/Bf7eZnrTw-fR8oP31UwTlyEZqH5YoSc_M69z11Z9rKU_svisual-16d3e0964d7",
+		"description": "Fly Another Day with Matthew"
+	},
+	{
+		"feedId": "feed/http://www.bemytravelmuse.com/feed/",
+		"title": "Be My Travel Muse",
+		"website": "https://www.bemytravelmuse.com",
+		"iconUrl": "",
+		"visualUrl": "",
+		"description": "Travel blog by Kristin Addis, a solo female traveler who has been traveling for over five years. Includes packing tips, adventures and comprehensive guides."
+	},
+	{
+		"feedId": "feed/http://www.wanderingearl.com/feed/",
+		"title": "Wandering Earl",
+		"website": "https://www.wanderingearl.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/ZRuRVZR11PStkx-lkvz26bRCiC_oOLFFN4xjtaurFsY_icon-16b5b651ae8",
+		"visualUrl": "https://storage.googleapis.com/site-assets/ZRuRVZR11PStkx-lkvz26bRCiC_oOLFFN4xjtaurFsY_visual-16b5b651ae8",
+		"description": "Useful, honest travel advice and insight from my 19 years of nonstop travel around the world (*104 countries)."
+	},
+	{
+		"feedId": "feed/http://boardingarea.com/blogs/thewanderingaramean/feed/",
+		"title": "Wandering Aramean",
+		"website": "http://blog.wandr.me",
+		"iconUrl": "https://storage.googleapis.com/test-site-assets/Lqvdy3y8bDUcyYtSDnqDR3ocFPn7m5xcP0P-O_vesAs_oicon-165c5d97608",
+		"visualUrl": "https://storage.googleapis.com/test-site-assets/Lqvdy3y8bDUcyYtSDnqDR3ocFPn7m5xcP0P-O_vesAs_ovisual-165c5d97608",
+		"description": "Travel. More. Better."
+	},
+	{
+		"feedId": "feed/http://www.travelandleisure.com/rss.xml",
+		"title": "Travel + Leisure",
+		"website": "https://www.travelandleisure.com/rss.xml",
+		"iconUrl": "https://storage.googleapis.com/site-assets/edArkQjOmgoU0wKAjFLVRBzLbP3Psh9fdPCyCdCyUrs_icon-16b57c20e29",
+		"visualUrl": "https://storage.googleapis.com/site-assets/edArkQjOmgoU0wKAjFLVRBzLbP3Psh9fdPCyCdCyUrs_visual-16b57c20e29",
+		"description": "Explore Travel + Leisure’s travel guides for the best hotels, restaurants, and things to do around the world from expert editors for your next destination. "
+	},
+	{
+		"feedId": "feed/http://www.godsavethepoints.com/feed/",
+		"title": "God Save The Points",
+		"website": "https://www.godsavethepoints.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/nxOp1D0PS5ddVcedI3c8At8K3Of45jpfyYohAPY8YvU_icon-16d8d4d0426",
+		"visualUrl": "https://storage.googleapis.com/site-assets/nxOp1D0PS5ddVcedI3c8At8K3Of45jpfyYohAPY8YvU_visual-16d8d4d0426",
+		"description": "I dunno, man. I just talk about travel🤷‍♂️.\n\n#luxurytravel #avgeek #winesnob"
+	},
+	{
+		"feedId": "feed/http://roadsandkingdoms.com/feed/",
+		"title": "Roads & Kingdoms",
+		"website": "http://roadsandkingdoms.com",
+		"iconUrl": "http://storage.googleapis.com/site-assets/903HRP0nMzRObzYTdP_Ob9GsJgorfPju-6RBhGPVEng_icon-15413e5c186",
+		"visualUrl": "http://storage.googleapis.com/site-assets/903HRP0nMzRObzYTdP_Ob9GsJgorfPju-6RBhGPVEng_visual-15413e5c186",
+		"description": "Journalism and travel, together at last"
+	},
+	{
+		"feedId": "feed/http://feeds.feedburner.com/MileNerd",
+		"title": "Mile Nerd",
+		"website": "http://www.milenerd.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/pzA8LPxJfKicyWtMkjpbKJS69mBEfqP3UBQmBYR4bd0_sicon-164f9736045",
+		"visualUrl": "https://storage.googleapis.com/site-assets/pzA8LPxJfKicyWtMkjpbKJS69mBEfqP3UBQmBYR4bd0_svisual-164f9736045",
+		"description": "Just the most miles in the fewest words possible."
+	},
+	{
+		"feedId": "feed/http://feeds.feedburner.com/FreequentFlyer",
+		"title": "The Free-quent Flyer",
+		"website": "https://freequentflyerbook.com/",
+		"iconUrl": "https://storage.googleapis.com/site-assets/HbN2MGgjrCbFKFIC11GwrvASTBLrkje8hxpnrsUUc7c_icon-16d0ff06a01",
+		"visualUrl": "https://storage.googleapis.com/site-assets/HbN2MGgjrCbFKFIC11GwrvASTBLrkje8hxpnrsUUc7c_visual-16d0ff06a01",
+		"description": "The Free-quent Flyer blog, where you find all the tips and tricks you need \nto see the world like I do, for next to nothing!"
+	},
+	{
+		"feedId": "feed/http://feeds.feedburner.com/memoirsofayoungadventuress",
+		"title": "Young Adventuress",
+		"website": "https://s20843.pcdn.co",
+		"iconUrl": "https://storage.googleapis.com/site-assets/-TW5dobVKF3aL9yF17aZBJ_R53j8_VJJ30MmlP1eFJk_sicon-16c187f3ba2",
+		"visualUrl": "https://storage.googleapis.com/site-assets/-TW5dobVKF3aL9yF17aZBJ_R53j8_VJJ30MmlP1eFJk_svisual-16c187f3ba2",
+		"description": "Young Adventuress is the world's leading solo female travel blog, chronicling Liz Carlson's adventures worldwide from the mountains of Wanaka, New Zealand."
+	},
+	{
+		"feedId": "feed/http://feeds.guardian.co.uk/theguardian/travel/rss",
+		"title": "Travel | The Guardian",
+		"website": "https://www.theguardian.com/us/travel",
+		"iconUrl": "https://storage.googleapis.com/site-assets/ClTlhPsrMGQVfUp1M_oyJOxcZwIg85ibsrf8Qqm4Wd0_icon-16d53596656",
+		"visualUrl": "https://storage.googleapis.com/site-assets/ClTlhPsrMGQVfUp1M_oyJOxcZwIg85ibsrf8Qqm4Wd0_visual-16d53596656",
+		"description": "Latest travel news and reviews on US and world holidays, travel guides to global destinations, city breaks, hotels and restaurant information from the Guardian, the world's leading liberal voice"
+	},
+	{
+		"feedId": "feed/http://milesperday.com/feed/",
+		"title": "Miles per Day",
+		"website": "http://milesperday.com",
+		"iconUrl": "http://storage.googleapis.com/site-assets/Giu_MPHezFEmyqw8ElN9HOdfOdbxFvl7VlweW3iQ60U_sicon-15428563eac",
+		"visualUrl": "http://storage.googleapis.com/site-assets/Giu_MPHezFEmyqw8ElN9HOdfOdbxFvl7VlweW3iQ60U_svisual-15428563eac",
+		"description": "Travel, Finance, Food, Technology, Cars, Gardening"
+	},
+	{
+		"feedId": "feed/http://chrisguillebeau.com/3x5/feed/",
+		"title": "The Art of Non-Conformity",
+		"website": "https://chrisguillebeau.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/ac3jqf95X94fyEmpPOf4kyUwy7Dy-yFcVGMWg4SKPXg_icon-15b926e96a1",
+		"visualUrl": "https://storage.googleapis.com/site-assets/ac3jqf95X94fyEmpPOf4kyUwy7Dy-yFcVGMWg4SKPXg_visual-15b926e96a1",
+		"description": "Unconventional Strategies for Life, Work, and Travel"
+	},
+	{
+		"feedId": "feed/http://www.bbc.com/travel/feed.rss",
+		"title": "BBC Travel",
+		"website": "https://www.bbc.com/travel",
+		"iconUrl": "https://storage.googleapis.com/site-assets/yGK-yi_vFkuje2AzNsr9S8gtmvziglcDATnoR8QMO10_icon-16c22e7dd46",
+		"visualUrl": "https://storage.googleapis.com/site-assets/yGK-yi_vFkuje2AzNsr9S8gtmvziglcDATnoR8QMO10_visual-16c22e7dd46",
+		"description": "BBC Travel - travel guides, tips and articles from experts at the BBC."
+	},
+	{
+		"feedId": "feed/http://feeds.feedburner.com/stuckincustoms/EmRA",
+		"title": "Stuck in Customs",
+		"website": "https://stuckincustoms.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/egCX5RtvaLZdSqJsQYMy7qfp052c0kQMXol1UgqOw2g_icon-169ec6f3c37",
+		"visualUrl": "https://storage.googleapis.com/site-assets/egCX5RtvaLZdSqJsQYMy7qfp052c0kQMXol1UgqOw2g_visual-169ec6f3c37",
+		"description": "Trey Ratcliff's fine art photography and travel photography, free HDR Tutorial, photography tips, camera reviews and photo editing software reviews."
+	},
+	{
+		"feedId": "feed/http://www.alexinwanderland.com/feed/",
+		"title": "Alex In Wanderland",
+		"website": "https://www.alexinwanderland.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/Ruu_Ob8UpWLfc-dhLvFCwOSh_rLqfD_33ECiHXm7Zkg_icon-15e2cd73d7f",
+		"visualUrl": "https://storage.googleapis.com/site-assets/Ruu_Ob8UpWLfc-dhLvFCwOSh_rLqfD_33ECiHXm7Zkg_visual-15e2cd73d7f",
+		"description": "Working and playing around the world"
+	},
+	{
+		"feedId": "feed/http://boardingarea.com/blogs/pointsmilesandmartinis/feed/",
+		"title": "Points Miles & Martinis",
+		"website": "https://pointsmilesandmartinis.boardingarea.com",
+		"iconUrl": "",
+		"visualUrl": "",
+		"description": "Latest on Airlines, Hotels, and Best Credit Card Deals"
+	},
+	{
+		"feedId": "feed/http://www.fly4free.com/feed/",
+		"title": "Flight deals from Europe, USA, Asia and Australia | Fly4free",
+		"website": "https://www.fly4free.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/i-842Il5IbXIYuQi7OrR43oTepolULyE2lGaCjOGVPs_icon-15df9c30c07",
+		"visualUrl": "https://storage.googleapis.com/site-assets/i-842Il5IbXIYuQi7OrR43oTepolULyE2lGaCjOGVPs_visual-15df9c30c07",
+		"description": "Latest flight deals at Fly4free. We are bringing daily tips for cheap flights from Europe, US, Asia and Australia to help you save money on your next holidays"
+	},
+	{
+		"feedId": "feed/http://feeds.feedburner.com/TravelWeeklysTopStories",
+		"title": "Travel Weekly",
+		"website": "https://www.travelweekly.com/",
+		"iconUrl": "https://storage.googleapis.com/test-site-assets/6fEM45F_pmQoFEvgJlZ0Dfd5iVkZQVDILv7pp7bt-zs_oicon-165a64dca77",
+		"visualUrl": "https://storage.googleapis.com/test-site-assets/6fEM45F_pmQoFEvgJlZ0Dfd5iVkZQVDILv7pp7bt-zs_ovisual-165a64dca77",
+		"description": "Today's Top Stories from Travel Weekly."
+	},
+	{
+		"feedId": "feed/http://feeds.feedburner.com/Neverendingfootsteps",
+		"title": "Never Ending Footsteps",
+		"website": "https://www.neverendingfootsteps.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/twztAv0XJqSlKBIeS20Ppu4-XcNZQ-E8Trw1BY8NxRI_icon-16718744c2a",
+		"visualUrl": "https://storage.googleapis.com/site-assets/twztAv0XJqSlKBIeS20Ppu4-XcNZQ-E8Trw1BY8NxRI_visual-16718744c2a",
+		"description": "Never Ending Footsteps is the travel blog by Lauren Juliff, author of How Not to Travel the World. It chronicles her life as a traveler, writer, and walking disaster."
+	},
+	{
+		"feedId": "feed/http://www.dangerous-business.com/feed/",
+		"title": "A Dangerous Business Travel Blog",
+		"website": "http://s21103.pcdn.co",
+		"iconUrl": "https://storage.googleapis.com/site-assets/lmSDjPY8k5YkJHj7v-TUMsPBbNLfN0b6O9RIIRLPuXs_sicon-16d673d2093",
+		"visualUrl": "https://storage.googleapis.com/site-assets/lmSDjPY8k5YkJHj7v-TUMsPBbNLfN0b6O9RIIRLPuXs_svisual-16d673d2093",
+		"description": "Showing you how to fit more travel into your limited vacation time."
+	},
+	{
+		"feedId": "feed/http://blog.frequentflyerbonuses.com/feeds/posts/default",
+		"title": "Frequent Flyer Bonuses",
+		"website": "http://blog.frequentflyerbonuses.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/CuG0I_5jtYv8MWXti5MBDox4b54f9VnFFolqtt7qndU_sicon-16d906db3c4",
+		"visualUrl": "https://storage.googleapis.com/site-assets/CuG0I_5jtYv8MWXti5MBDox4b54f9VnFFolqtt7qndU_svisual-16d906db3c4",
+		"description": "Welcome!"
+	},
+	{
+		"feedId": "feed/http://boardingarea.com/blogs/deltapoints/feed/",
+		"title": "Renés Points",
+		"website": "https://renespoints.boardingarea.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/mFhEO42ZMSapfIwG_dSMdvybThlTUOLUazUvAvo47r8_sicon-16a5730357b",
+		"visualUrl": "https://storage.googleapis.com/site-assets/mFhEO42ZMSapfIwG_dSMdvybThlTUOLUazUvAvo47r8_svisual-16a5730357b",
+		"description": "A travel blog from a Delta Air Lines elite flyer at Boardingarea.com"
+	},
+	{
+		"feedId": "feed/http://www.flyertalk.com/forum/external.php?type=RSS2&forumids=372",
+		"title": "FlyerTalk Forums - Mileage Run Deals",
+		"website": "https://www.flyertalk.com/forum/",
+		"iconUrl": "https://storage.googleapis.com/site-assets/I_fjQsU4-_eRybGwIt2rMNmO_oWeVvMptpW3C6aXYdM_sicon-15ee631e583",
+		"visualUrl": "https://storage.googleapis.com/site-assets/I_fjQsU4-_eRybGwIt2rMNmO_oWeVvMptpW3C6aXYdM_svisual-15ee631e583",
+		"description": "The place to post airfare deals conducive to mileage running, including possible pricing errors and unusually low fares. Note: Weekly or other regularly posted fare sales are generally not considered unusually good deals."
+	},
+	{
+		"feedId": "feed/http://feeds.feedburner.com/ExpertVagabond",
+		"title": "Expert Vagabond",
+		"website": "https://expertvagabond.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/50Qjcq_xrunP4wFl85_nvoLQblw_euGzyJDmUCcfPik_icon-16961a3d346",
+		"visualUrl": "https://storage.googleapis.com/site-assets/50Qjcq_xrunP4wFl85_nvoLQblw_euGzyJDmUCcfPik_visual-16961a3d346",
+		"description": "Popular adventure travel blog featuring inspirational stories, photography, and budget travel tips from around the world. Follow Matthew Karsten on his nomadic adventures!"
+	},
+	{
+		"feedId": "feed/http://handluggageonly.co.uk/feed/",
+		"title": "Hand Luggage Only",
+		"website": "https://handluggageonly.co.uk",
+		"iconUrl": "https://storage.googleapis.com/site-assets/upec-L7s72SY3yu6gTMlij_ftQuH83yNdmpcicwabgw_icon-15e372d2b33",
+		"visualUrl": "https://storage.googleapis.com/site-assets/upec-L7s72SY3yu6gTMlij_ftQuH83yNdmpcicwabgw_visual-15e372d2b33",
+		"description": "Travel Blog with a side of Food and Photography Inspiration!"
+	},
+	{
+		"feedId": "feed/http://boardingarea.com/blogs/pointmetotheplane/feed/",
+		"title": "Point Me to the Plane",
+		"website": "https://pointmetotheplane.boardingarea.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/oTrVGfO1bPGzRKXi1bfIKizwoSjcYUYWUtEKzbtO4p0_sicon-16969a5f0b5",
+		"visualUrl": "https://storage.googleapis.com/site-assets/oTrVGfO1bPGzRKXi1bfIKizwoSjcYUYWUtEKzbtO4p0_svisual-16969a5f0b5",
+		"description": "Your Guide To Points, Planes, Hotels, and Deals"
+	},
+	{
+		"feedId": "feed/http://www.camelsandchocolate.com/feed/",
+		"title": "Camels & Chocolate: Travel & Lifestyles Blog",
+		"website": "https://www.camelsandchocolate.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/qgSCKdd_NnvCGk75FhgvMhA5O0mS1ctLG7-Up7KYi8Y_icon-1675eaff07e",
+		"visualUrl": "https://storage.googleapis.com/site-assets/qgSCKdd_NnvCGk75FhgvMhA5O0mS1ctLG7-Up7KYi8Y_visual-1675eaff07e",
+		"description": "Tackling the Globe, One Country at a Time"
+	},
+	{
+		"feedId": "feed/http://boardingarea.com/blogs/rapidtravelchai/feed/",
+		"title": "Rapid Travel Chai",
+		"website": "https://rapidtravelchai.boardingarea.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/f7l2lNV-231mr3L4x70P6BkGiw8bCDpnW2KQiOS0zew_sicon-1664dfa8476",
+		"visualUrl": "https://storage.googleapis.com/site-assets/f7l2lNV-231mr3L4x70P6BkGiw8bCDpnW2KQiOS0zew_svisual-1664dfa8476",
+		"description": "Travel fast and smart...linger only in memories"
+	},
+	{
+		"feedId": "feed/http://travelbloggerbuzz.com/feed/",
+		"title": "TravelBloggerBuzz",
+		"website": "https://travelbloggerbuzz.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/tVPO3JeB7vUhGvy_LQiEAO75be50yRPQ13z0xGVFz9g_icon-1651da80c62",
+		"visualUrl": "https://storage.googleapis.com/site-assets/tVPO3JeB7vUhGvy_LQiEAO75be50yRPQ13z0xGVFz9g_visual-1651da80c62",
+		"description": "An eclectic journey through the Travel Miles/Points blogosphere"
+	},
+	{
+		"feedId": "feed/http://travelwithgrant.com/feed/",
+		"title": "Travel with Grant",
+		"website": "https://travelwithgrant.boardingarea.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/BaH0jPI6bST81sIRtPsCz4YCV_RUR2J_VU5lxLubVsY_sicon-16abe29f8dd",
+		"visualUrl": "https://storage.googleapis.com/site-assets/BaH0jPI6bST81sIRtPsCz4YCV_RUR2J_VU5lxLubVsY_svisual-16abe29f8dd",
+		"description": "Transforming your Frequent Flyer Miles into Free Trips around the World"
+	},
+	{
+		"feedId": "feed/http://feeds.feedburner.com/TheTravelHack",
+		"title": "The Travel Hack Travel Blog",
+		"website": "https://thetravelhack.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/C_2ZlCcmkZz_D7Nsa8Ov6cjxpACzkscDiEwlkjjferg_icon-16b5972d3c4",
+		"visualUrl": "https://storage.googleapis.com/site-assets/C_2ZlCcmkZz_D7Nsa8Ov6cjxpACzkscDiEwlkjjferg_visual-16b5972d3c4",
+		"description": "The Travel Hack is one of the UK's leading travel blogs with a focus on weekend breaks, European trips and family holidays."
+	},
+	{
+		"feedId": "feed/http://travel.booklocker.com/feed/",
+		"title": "Cheapest Destinations Blog Feed",
+		"website": "https://www.cheapestdestinationsblog.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/aEVGYkRwC5cy2pBOZJ1DfWJz_dVFBDVvdztiCxGJHjA_sicon-16b576093bf",
+		"visualUrl": "https://storage.googleapis.com/site-assets/aEVGYkRwC5cy2pBOZJ1DfWJz_dVFBDVvdztiCxGJHjA_svisual-16b576093bf",
+		"description": "Tim Leffel's guide to traveling well for less around the world"
+	},
+	{
+		"feedId": "feed/http://milenomics.com/feed/",
+		"title": "milenomics",
+		"website": "https://milenomics.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/pTEtM5t2P16SQHopZMY5u-Dmte61jep6IUHyVqFm4JE_icon-168b87afda9",
+		"visualUrl": "https://storage.googleapis.com/site-assets/pTEtM5t2P16SQHopZMY5u-Dmte61jep6IUHyVqFm4JE_visual-168b87afda9",
+		"description": "Learn, Use, Repeat. A detailed trip into the world of Points, Miles, and Travel. How to earn more Miles and how to use those miles more effectively"
+	},
+	{
+		"feedId": "feed/http://feeds.feedburner.com/NeverEndingVoyage",
+		"title": "Never Ending Voyage",
+		"website": "https://www.neverendingvoyage.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/CQIGCTRWT7fYvPfnacDkLgCFHkVA0K8R-Mh7iitAknw_icon-15ebb7ee8b5",
+		"visualUrl": "https://storage.googleapis.com/site-assets/CQIGCTRWT7fYvPfnacDkLgCFHkVA0K8R-Mh7iitAknw_visual-15ebb7ee8b5",
+		"description": "Expert travel tips from a digital nomad couple"
+	},
+	{
+		"feedId": "feed/http://www.extrapackofpeanuts.com/feed/",
+		"title": "Extra Pack of Peanuts",
+		"website": "http://extrapackofpeanuts.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/EkgBaMGpn0Mou3Q7dBbS7Im6QLXPQ3zApLasjuwTr1o_sicon-16b730f78d7",
+		"visualUrl": "https://storage.googleapis.com/site-assets/EkgBaMGpn0Mou3Q7dBbS7Im6QLXPQ3zApLasjuwTr1o_svisual-16b730f78d7",
+		"description": "Travel Frequent, Travel Far, Travel Free"
+	},
+	{
+		"feedId": "feed/http://www.aluxurytravelblog.com/feed/",
+		"title": "A Luxury Travel Blog",
+		"website": "https://www.aluxurytravelblog.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/NqoUaG3QQSdgCZi4Q549k4-OtQy6UqcmFfApupdsRFw_icon-160541ebb38",
+		"visualUrl": "https://storage.googleapis.com/site-assets/NqoUaG3QQSdgCZi4Q549k4-OtQy6UqcmFfApupdsRFw_visual-160541ebb38",
+		"description": "For those who enjoy the finer things in life..."
+	},
+	{
+		"feedId": "feed/http://feeds.latimes.com/latimes/travel",
+		"title": "L.A. Times - Travel",
+		"website": "https://www.latimes.com/travel/rss2.0.xml",
+		"iconUrl": "https://storage.googleapis.com/site-assets/NbjO7kXdX0sa0G-a-qXpCfS1iHnAYHkwehkOW03e9Wo_icon-16d21cf768c",
+		"visualUrl": "https://storage.googleapis.com/site-assets/NbjO7kXdX0sa0G-a-qXpCfS1iHnAYHkwehkOW03e9Wo_visual-16d21cf768c",
+		"description": "Our travel writers bring you the most fascinating destinations on the planet. Scour travel deals, find vacations, get travel tips and more."
+	},
+	{
+		"feedId": "feed/http://www.thisbatteredsuitcase.com/feed/",
+		"title": "This Battered Suitcase",
+		"website": "https://www.thisbatteredsuitcase.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/Nv8icMqzcqlNiDNqmgtSYzZgXgfX8UgsuGbGxdS1gpQ_icon-162e8ffbd6c",
+		"visualUrl": "https://storage.googleapis.com/site-assets/Nv8icMqzcqlNiDNqmgtSYzZgXgfX8UgsuGbGxdS1gpQ_visual-162e8ffbd6c",
+		"description": "Travel, Love, Life, and Whisky"
+	},
+	{
+		"feedId": "feed/http://feeds.feedburner.com/Vagabondish",
+		"title": "Vagabondish",
+		"website": "https://vagabondish.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/tG_rbBo3wmKI5WmHz2zBIC7GHgR9Udksj1xJOb1_UXE_icon-16b57cc533d",
+		"visualUrl": "https://storage.googleapis.com/site-assets/tG_rbBo3wmKI5WmHz2zBIC7GHgR9Udksj1xJOb1_UXE_visual-16b57cc533d",
+		"description": "Adventurous travel for semi-reponsible adults."
+	},
+	{
+		"feedId": "feed/http://faredealalert.com/feed/",
+		"title": "Fare Deal Alert",
+		"website": "http://faredealalert.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/4dQpNARlavfhbJ1V9zQ7S45-AQEQTLahui1hT1eZ3mU_icon-15b66417c02",
+		"visualUrl": "https://storage.googleapis.com/site-assets/4dQpNARlavfhbJ1V9zQ7S45-AQEQTLahui1hT1eZ3mU_visual-15b66417c02",
+		"description": "Curated travel deals from Atlanta, Charlotte, Denver, Detroit, Houston, Kansas City, Las Vegas, Minneapolis, Orlando, and San Diego"
+	},
+	{
+		"feedId": "feed/http://www.pointswithacrew.com/feed/",
+		"title": "Points with a Crew",
+		"website": "https://www.pointswithacrew.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/lyIv_1eOqQLVts7P3Ute40_t4XsgLxqtxyXtioZ1lVI_icon-162ae77f3c9",
+		"visualUrl": "https://storage.googleapis.com/site-assets/lyIv_1eOqQLVts7P3Ute40_t4XsgLxqtxyXtioZ1lVI_visual-162ae77f3c9",
+		"description": "Helping families (especially large families) travel for free / cheap using miles and points"
+	},
+	{
+		"feedId": "feed/http://feeds.feedburner.com/HerPackingList",
+		"title": "Her Packing List",
+		"website": "https://herpackinglist.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/rWqMfnySwA2Be0m7idYW_utzWrwnBpqpx1PelhNgxZo_sicon-16ce720b95d",
+		"visualUrl": "https://storage.googleapis.com/site-assets/rWqMfnySwA2Be0m7idYW_utzWrwnBpqpx1PelhNgxZo_svisual-16ce720b95d",
+		"description": "Female travel, gear, and packing tips. Targeted to low-key travelers, we help you pack what you need and leave what you don't! {backpacking * study abroad * teaching abroad * weekends away}"
+	},
+	{
+		"feedId": "feed/http://feeds2.feedburner.com/theplanetd/HwKP",
+		"title": "The Planet D: Canada's Adventure Couple",
+		"website": "https://theplanetd.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/vBo8jDn3JaovNtImdloF1O9L-kMyUJLg9EYjo2FifAA_sicon-16cfd064ddb",
+		"visualUrl": "https://storage.googleapis.com/site-assets/vBo8jDn3JaovNtImdloF1O9L-kMyUJLg9EYjo2FifAA_svisual-16cfd064ddb",
+		"description": "Adventure Travel blog for couples featuring advice, tips, inspiration and photos for couples seeking vacation destinations around the world."
+	},
+	{
+		"feedId": "feed/http://www.uncorneredmarket.com/feed/",
+		"title": "Uncornered Market",
+		"website": "https://uncorneredmarket.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/ePzXXusMDN_ClLbonXnmARK6ncwHwNlKnqqV1Ea9CCA_sicon-16b5617856e",
+		"visualUrl": "https://storage.googleapis.com/site-assets/ePzXXusMDN_ClLbonXnmARK6ncwHwNlKnqqV1Ea9CCA_svisual-16b5617856e",
+		"description": "Adventure travel that cares for our planet and its people; travel blog and insight from tourism development consultants Daniel Noll and Audrey Scott."
+	},
+	{
+		"feedId": "feed/http://feeds.feedburner.com/landlopers",
+		"title": "LandLopers",
+		"website": "https://landlopers.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/_weMwpsghkZE8qvJRKPPsBM5q2ySNVtrS67qcZLwics_sicon-15c10112a76",
+		"visualUrl": "https://storage.googleapis.com/site-assets/_weMwpsghkZE8qvJRKPPsBM5q2ySNVtrS67qcZLwics_svisual-15c10112a76",
+		"description": "Travel site with reviews and tips for the average person-from the novice to pro traveler. Learn how to see the world comfortably and affordably."
+	},
+	{
+		"feedId": "feed/http://feeds.feedburner.com/pointhacks",
+		"title": "Point Hacks",
+		"website": "https://www.pointhacks.com.au",
+		"iconUrl": "https://storage.googleapis.com/site-assets/67X60oF81XrwSQDfiklNlQP268T_h61d974iCKo9Fd0_icon-15e08e4963d",
+		"visualUrl": "https://storage.googleapis.com/site-assets/67X60oF81XrwSQDfiklNlQP268T_h61d974iCKo9Fd0_visual-15e08e4963d",
+		"description": "The best frequent flyer deals & offers in Australia."
+	},
+	{
+		"feedId": "feed/http://www.yyzdeals.com/atom/1",
+		"title": "YYZ Deals :: Toronto Flight Deals and All Inclusive Specials",
+		"website": "https://yyzdeals.com/",
+		"iconUrl": "https://storage.googleapis.com/site-assets/-b5Yt5D0-Q98DsIx4jE6HqV8HfUzdIbNPwZd8U0S22E_icon-16b597c8d46",
+		"visualUrl": "https://storage.googleapis.com/site-assets/-b5Yt5D0-Q98DsIx4jE6HqV8HfUzdIbNPwZd8U0S22E_visual-16b597c8d46",
+		"description": "Toronto's travel deal community.  Find cheap flights, holiday packages, and all inclusive vacations from YYZ.  Featuring articles, guides, alerts, forums, discount promo codes, sales and more."
+	},
+	{
+		"feedId": "feed/http://travelfashiongirl.com/feed/",
+		"title": "Travel Fashion Girl",
+		"website": "https://www.travelfashiongirl.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/ApA6OACZMTu67_roqloph46wxKxDahTk8z3xJVBVKKw_icon-16534d594ca",
+		"visualUrl": "https://storage.googleapis.com/site-assets/ApA6OACZMTu67_roqloph46wxKxDahTk8z3xJVBVKKw_visual-16534d594ca",
+		"description": "Find out what to wear in your destination with our travel packing lists. Minimize your luggage and maximize your style with the number one blog for female travelers!"
+	},
+	{
+		"feedId": "feed/http://www.holidaypirates.com/feed",
+		"title": "HolidayPirates",
+		"website": "https://www.holidaypirates.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/P5wiOsuWVevG01zywkZbiHy_X9A9qCDIVVIz2M3PGB8_icon-162b5817001",
+		"visualUrl": "https://storage.googleapis.com/site-assets/P5wiOsuWVevG01zywkZbiHy_X9A9qCDIVVIz2M3PGB8_visual-162b5817001",
+		"description": "New cheap holiday deals posted every day:  ++ Spain Holidays ++ cheap Turkey deals ++ You want Cheap Holidays 2019 / 2020? HolidayPirates is famous for Cheap Holiday Deals! 20+ new Deals everyday ✅ Human curated Holiday Deals ✅ Perfect Price Value not only cheap ✅all curated by our team of travel experts."
+	},
+	{
+		"feedId": "feed/http://www.flynous.com/feed/",
+		"title": "Tips for cheap flights and promo deals",
+		"website": "https://www.flynous.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/KeQdKqCUPjlr0quUtsO01hoLmUpdcfxdzm3J6rgdvLE_icon-16797e8885d",
+		"visualUrl": "https://storage.googleapis.com/site-assets/KeQdKqCUPjlr0quUtsO01hoLmUpdcfxdzm3J6rgdvLE_visual-16797e8885d",
+		"description": "tips for cheap flights and air tickets, travel deals and other holiday tips to help you to save your money!"
+	},
+	{
+		"feedId": "feed/http://feeds.feedburner.com/elliottorg",
+		"title": "Elliott Advocacy",
+		"website": "https://www.elliott.org",
+		"iconUrl": "https://storage.googleapis.com/site-assets/BJxGxX-pObJBvzKX59rs6qGBW6rlU3fSHaOD9JzIDuo_icon-16b57c1c7e9",
+		"visualUrl": "https://storage.googleapis.com/site-assets/BJxGxX-pObJBvzKX59rs6qGBW6rlU3fSHaOD9JzIDuo_visual-16b57c1c7e9",
+		"description": "Here to help"
+	},
+	{
+		"feedId": "feed/http://www.thriftytraveler.com/feed/",
+		"title": "Thrifty Traveler",
+		"website": "https://thriftytraveler.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/2G7RwDQQ3u6rYusU6gkbah0MjGyqphJ5zQV2x5MCfGo_icon-16b663faaa8",
+		"visualUrl": "https://storage.googleapis.com/site-assets/2G7RwDQQ3u6rYusU6gkbah0MjGyqphJ5zQV2x5MCfGo_visual-16b663faaa8",
+		"description": "Spend Less. Do More."
+	},
+	{
+		"feedId": "feed/http://www.cntraveller.com/rss/article",
+		"title": "CN Traveller",
+		"website": "https://www.cntraveller.com/",
+		"iconUrl": "https://storage.googleapis.com/site-assets/rBxla-ktLHLLs4M8AKxm4f-5xvT9Nr8bTx9KwJ-3Kpw_icon-16b697a88c7",
+		"visualUrl": "https://storage.googleapis.com/site-assets/rBxla-ktLHLLs4M8AKxm4f-5xvT9Nr8bTx9KwJ-3Kpw_visual-16b697a88c7",
+		"description": "The website of Condé Nast Traveller magazine. Award-winning features, destination guides, and the most beautiful travel photography, for people who love travel"
+	},
+	{
+		"feedId": "feed/http://boardingarea.com/blogs/justanotherpointstraveler/feed/",
+		"title": "Angelina Travels",
+		"website": "https://angelinatravels.boardingarea.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/-fOusITHHg2SJO11Hbxho9xvLeQHLjGXRchHqNhAR4c_sicon-16d876abb29",
+		"visualUrl": "https://storage.googleapis.com/site-assets/-fOusITHHg2SJO11Hbxho9xvLeQHLjGXRchHqNhAR4c_svisual-16d876abb29",
+		"description": "miles of inspiration, with all points in between"
+	},
+	{
+		"feedId": "feed/http://feeds.feedburner.com/breakingtravelnews",
+		"title": "Breaking Travel News",
+		"website": "https://www.breakingtravelnews.com/",
+		"iconUrl": "https://storage.googleapis.com/site-assets/HbG4I2a3u7Owf_iSn3W5x3-Dr3_NZlu70lMtmOA7nms_icon-16acef5b48c",
+		"visualUrl": "https://storage.googleapis.com/site-assets/HbG4I2a3u7Owf_iSn3W5x3-Dr3_NZlu70lMtmOA7nms_visual-16acef5b48c",
+		"description": "The latest travel news on the most significant developments in the travel industry including news affecting travel agents, tour operators, industry executives and senior thought leaders."
+	},
+	{
+		"feedId": "feed/http://www.lonelyplanet.com/news/feed/atom/",
+		"title": "Lonely Planet Travel News",
+		"website": "https://www.lonelyplanet.com/news",
+		"iconUrl": "https://storage.googleapis.com/site-assets/_GoEU5mvv9LshyeI8Xc6rCZoheNtB64WH_Vp0NcxFoM_icon-16d3a3cfa02",
+		"visualUrl": "https://storage.googleapis.com/site-assets/_GoEU5mvv9LshyeI8Xc6rCZoheNtB64WH_Vp0NcxFoM_visual-16d3a3cfa02",
+		"description": "Travel news and more from Lonely Planet"
+	},
+	{
+		"feedId": "feed/http://www.flyertalk.com/forum/external.php?type=RSS2&forumids=740",
+		"title": "FlyerTalk Forums - Premium Fare Deals",
+		"website": "https://www.flyertalk.com/forum/",
+		"iconUrl": "https://storage.googleapis.com/site-assets/Tz7rB1EWLKuDPFQ0q3FKKY_5b61LyhsF6YpqJWx9TZ8_sicon-15ee632a253",
+		"visualUrl": "https://storage.googleapis.com/site-assets/Tz7rB1EWLKuDPFQ0q3FKKY_5b61LyhsF6YpqJWx9TZ8_svisual-15ee632a253",
+		"description": "Discuss specific premium fare code 'good deals' including fare deals that book into premium economy, business and first class cabins."
+	},
+	{
+		"feedId": "feed/http://www.frequentflier.com/feed/",
+		"title": "FlyerTalk – The world's most popular frequent flyer community",
+		"website": "https://www.flyertalk.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/6LEuKGNxl6LDM58U-7O5E01ZPIggxSjipJW7V6blJss_icon-15ee63f6872",
+		"visualUrl": "https://storage.googleapis.com/site-assets/6LEuKGNxl6LDM58U-7O5E01ZPIggxSjipJW7V6blJss_visual-15ee63f6872",
+		"description": "FlyerTalk is a living, growing community where frequent travelers around the world come to exchange knowledge and experiences about everything miles and points related."
+	},
+	{
+		"feedId": "feed/http://www.theflightdeal.com/category/flight-deals/nyc/feed/",
+		"title": "New York City – The Flight Deal",
+		"website": "https://www.theflightdeal.com",
+		"iconUrl": "https://storage.googleapis.com/site-assets/fNaVhDURV1pG-mNfAI-ICzvXkXdc14REOZa6IzSGlHQ_icon-16b57068244",
+		"visualUrl": "https://storage.googleapis.com/site-assets/fNaVhDURV1pG-mNfAI-ICzvXkXdc14REOZa6IzSGlHQ_visual-16b57068244",
+		"description": "\"Just because it's a great fare doesn't mean it's a great deal\""
+	}
+]
